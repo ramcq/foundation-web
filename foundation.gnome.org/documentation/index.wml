@@ -1,66 +1,69 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 
-<head>
-  <title>GNOME Foundation Documentation Archive</title>
-  <meta name="cvsdate" content="$Date$">
-</head>
+  <head>
+    <title>GNOME Foundation Documentation Archive</title>
+    <meta name="cvsdate" content="$Date$">
+  </head>
 
- <body>
-   <h1>GNOME Foundation Documentation Archive</h1>
+  <body>
+    <h1>GNOME Foundation Documentation Archive</h1>
 
-   <h2>Charter</h2>
-   <p>
-     The <a href="charter.html">GNOME Foundation Charter</a> outlines the
-     overall purpose, structure, and process for the GNOME Foundation.
-   </p>
+    <h2>Charter</h2>
+    <p>
+      The <a href="charter.html">GNOME Foundation Charter</a> outlines the
+      overall purpose, structure, and process for the GNOME Foundation.
+    </p>
 
-   <h2>By-laws</h2>
-   <p>
-     The <a href="bylaws.pdf">GNOME Foundation By-laws</a> (PDF) document
-     the policies and procedures of the Foundation as a non-profit group.
-   </p>
+    <h2>By-laws</h2>
+    <p>
+      The <a href="bylaws.pdf">GNOME Foundation By-laws</a> (PDF) document
+      the policies and procedures of the Foundation as a non-profit group.
+    </p>
 
-   <h2>Board of Directors Meeting Minutes</h2>
-   <p>
-     The GNOME Foundation Board of Directors meets every other week to
-     discuss various topics pertaining to the regular activities of the
-     GNOME Foundation and GNOME.  The minutes to these meetings are posted
-     publicly on the <a href="http://mail.gnome.org/archives/foundation-list">foundation-list archives</a>.
-   </p>
+    <h2>Board of Directors Meeting Minutes</h2>
+    <p>
+      The GNOME Foundation Board of Directors meets every other week to
+      discuss various topics pertaining to the regular activities of the
+      GNOME Foundation and GNOME. The minutes to these meetings are posted
+      publicly on the <a
+      href="http://mail.gnome.org/archives/foundation-list">foundation-list
+      archives</a>.
+    </p>
 
-   <h2>Press Releases</h2>
-   <p>
-     The GNOME Foundation makes most press releases relating to GNOME and
-     the GNOME Foundation.  The press releases are
-     <a href="http://www.gnome.org/press/releases/">archived</a> for your
-     convenience.
-   </p>
-   <p>
-     You can also read the 
-     <a href="http://www.gnome.org/press/releases/foundation.html">press release announcing the 
-     creation of the GNOME Foundation</a>.
-   </p>
+    <h2>Press Releases</h2>
+    <p>
+      The GNOME Foundation makes most press releases relating to GNOME and
+      the GNOME Foundation. The press releases are
+      <a href="http://www.gnome.org/press/releases/">archived</a> for your
+      convenience.
+    </p>
+    <p>
+      You can also read the <a
+      href="http://www.gnome.org/press/releases/foundation.html">press release
+      announcing the creation of the GNOME Foundation</a>.
+    </p>
 
-   <h2>Mailing Lists</h2>
-   <p>
-     Join the following mailing lists to hear GNOME Foundation announcements
-     and to discuss GNOME Foundation issues:
-   </p>
-   <ul>
-     <li>
-       <a href="mailto:foundation-announce@gnome.org">foundation-announce@gnome.org</a> 
-       (<a href="http://mail.gnome.org/archives/foundation-announce">archives</a>, 
-       <a href="http://mail.gnome.org/mailman/listinfo/foundation-announce">subscription page</a>) 
-       is for foundation-related announcements.
-     </li>
-     <li>
-       <a href="mailto:foundation-list@gnome.org">foundation-list@gnome.org</a> 
-       (<a href="http://mail.gnome.org/archives/foundation-list">archives</a>, 
-       <a href="http://mail.gnome.org/mailman/listinfo/foundation-list">subscription page</a>) is 
-       for all foundation-related discussions, including discussions about candidacy statements.
-     </li>
-   </ul>
+    <h2>Mailing Lists</h2>
+    <p>
+      Join the following mailing lists to hear GNOME Foundation announcements
+      and to discuss GNOME Foundation issues:
+    </p>
+    <ul>
+      <li>
+        <a href="mailto:foundation-announce@gnome.org">foundation-announce@gnome.org</a> 
+        (<a href="http://mail.gnome.org/archives/foundation-announce">archives</a>, 
+        <a href="http://mail.gnome.org/mailman/listinfo/foundation-announce">subscription page</a>) 
+        is for foundation-related announcements.
+      </li>
+      <li>
+        <a href="mailto:foundation-list@gnome.org">foundation-list@gnome.org</a> 
+        (<a href="http://mail.gnome.org/archives/foundation-list">archives</a>, 
+        <a href="http://mail.gnome.org/mailman/listinfo/foundation-list">subscription page</a>)
+        is for all foundation-related discussions, including discussions about
+        candidacy statements.
+      </li>
+    </ul>
 
- </body>
+  </body>
 </html>

@@ -1,33 +1,48 @@
 <!DOCTYPE HTML PUBliC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
-                                                                                                                                                            
-<head>
-        <title>GNOME Foundation 2002 Election</title>
-        <meta name="cvsdate" content="$Date$">
-</head>
-                                                                                                                                                            
-<body>
  
-<h1>2002 GNOME Foundation Election</h1>
+  <head>
+    <title>GNOME Foundation 2002 Election</title>
+    <meta name="cvsdate" content="$Date$">
+  </head>
 
-<p>
-The election results from the 2002 Board of Directors election are archived
-here for public access.
-</p>
+  <body>
+ 
+    <h1>2002 GNOME Foundation Election</h1>
 
-<h2>2001 Election Materials</h2>
-<p>
-<ul>
-  <li> <a href="http://mail.gnome.org/archives/foundation-announce/2002-December/msg00005.html">Election results announcement.</a> </li>
-  <li> <a href="results.txt">Detailed election results.</a> </li>
-  <li> <a href="verify.html">Instructions</a> for running the <a href="vote-counter.py">vote counting script</a>.  </li> 
-  <li> <a href="candidates.html">List of candidates for Board of Directors</a> </li>
-  <li> <a href="voters.html">List of registered voters.</a> </li>
-  <li> <a href="rules.html">Election rules and procedures</a> </li>
-  <li> <a href="../overview.html">Overview of the Board of Directors role</a> </li>
-</ul>
-</p>
+    <p>
+      The election results from the 2002 Board of Directors election are
+      archived here for public access.
+    </p>
 
- </body>
+    <h2>2001 Election Materials</h2>
+    <ul>
+      <li>
+        <a
+        href="http://mail.gnome.org/archives/foundation-announce/2002-December/msg00005.html">Election
+        results announcement.</a>
+      </li>
+      <li>
+        <a href="results.txt">Detailed election results.</a>
+      </li>
+      <li>
+        <a href="verify.html">Instructions</a> for running the <a
+        href="vote-counter.py">vote counting script</a>.
+      </li> 
+      <li>
+        <a href="candidates.html">List of candidates for Board of Directors</a>
+      </li>
+      <li>
+        <a href="voters.html">List of registered voters.</a>
+      </li>
+      <li>
+        <a href="rules.html">Election rules and procedures</a>
+      </li>
+      <li>
+        <a href="../overview.html">Overview of the Board of Directors role</a>
+      </li>
+    </ul>
+
+  </body>
 </html>
 

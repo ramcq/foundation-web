@@ -1,29 +1,29 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 
- <head>
-  <title>GNOME Foundation Membership</title>
-  <meta name="cvsdate" content="$Date$">
- </head>
+  <head>
+    <title>GNOME Foundation Membership</title>
+    <meta name="cvsdate" content="$Date$">
+  </head>
 
- <body>
-   <h1>GNOME Foundation Membership</h1>
-   <p>
-     The Membership consists of all GNOME contributors who wish to become part
-     of the Membership and go through the application process.  Members can
-     run for election to the Board of Directors, vote in the elections for
-     the Board of Directors, and suggest referenda. The membership process is 
-     overseen by the Membership and Elections Committee, which can be reached at 
-     <a href="mailto:membership-commitee@gnome.org">membership-committee@gnome.org</a>.
-   </p>
-   <p>
-     If you are a GNOME contributor and would like to become a member of the
-     Foundation, fill in the <a href="application.php">membership application
-     form</a>.
-     If you aren't sure if you qualify, read the <a href="policy.html">
-     Membership Policy</a>.  
-     You can also browse the <a href="members.html">current membership list</a>.
-   </p> 
- </body>
+  <body>
+    <h1>GNOME Foundation Membership</h1>
+    <p>
+      The Membership consists of all GNOME contributors who wish to become part
+      of the Membership and go through the application process. Members can
+      run for election to the Board of Directors, vote in the elections for
+      the Board of Directors, and suggest referenda. The membership process is
+      overseen by the Membership and Elections Committee, which can be reached
+      at <a href="mailto:membership-commitee@gnome.org">membership-committee@gnome.org</a>.
+    </p>
+    <p>
+      If you are a GNOME contributor and would like to become a member of the
+      Foundation, fill in the <a href="application.php">membership application
+      form</a>.
+      If you aren't sure if you qualify, read the <a href="policy.html">
+      Membership Policy</a>.
+      You can also browse the <a href="members.html">current membership
+      list</a>.
+    </p>
+  </body>
 </html>
-

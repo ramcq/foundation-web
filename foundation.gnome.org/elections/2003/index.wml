@@ -1,29 +1,35 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
-                                                                                                                                                            
-<head>
-        <title>GNOME Foundation 2003 Election</title>
-        <meta name="cvsdate" content="$Date$">
-</head>
-                                                                                                                                                            
-<body>
-                                                                                                                                                            
-<h1>2003 GNOME Foundation Election</h1>
 
-      <p>
-       The GNOME Foundation Membership elects the Board of Directors each
-       November.  Any member can nominate themself to run in the election.
-       The overall election process is overseen by the Membership and Elections
-       Committee, which can be reached at membership-committee@gnome.org. 
-      </p>
+  <head>
+    <title>GNOME Foundation 2003 Election</title>
+    <meta name="cvsdate" content="$Date$">
+  </head>
 
-      <h2>2003 Election Materials:</h2>
-      <p>
-       <ul>
-        <li> <a href="voters.html">List of registered voters</a> (this list is not definitive) </li>
-        <li> <a href="rules.html">Election Rules and Timeline</a> </li>
-        <li> <a href="../overview.html">Overview of the Board of Directors role</a> </li>
-       </ul>
-      </p>
-</body>
+  <body>
+
+    <h1>2003 GNOME Foundation Election</h1>
+
+    <p>
+      The GNOME Foundation Membership elects the Board of Directors each
+      November. Any member can nominate themself to run in the election. The
+      overall election process is overseen by the Membership and Elections
+      Committee, which can be reached at membership-committee@gnome.org. 
+    </p>
+
+    <h2>2003 Election Materials:</h2>
+    <ul>
+      <li>
+        <a href="voters.html">List of registered voters</a> (this list is not
+        definitive)
+      </li>
+      <li>
+        <a href="rules.html">Election Rules and Timeline</a>
+      </li>
+      <li>
+        <a href="../overview.html">Overview of the Board of Directors role</a>
+      </li>
+    </ul>
+
+  </body>
 </html>

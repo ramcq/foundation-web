@@ -1,5 +1,17 @@
 2003-10-27  Vincent Untz  <vincent@vuntz.net>
 
+	* configure.in: add organization/advisory/, organization/directors/ and
+	organization/executive/
+	* foundation.gnome.org/organization/*: moved advisory_board.wml,
+	board_of_directors*.wml and executive_director.wml to subdirectories
+	* foundation.gnome.org/elections/2002/*: move preliminary_results.wml to
+	preliminary-results.wml
+	* foundation.gnome.org/htaccess: redirect above moved pages
+	* foundation.gnome.org/*: lots of small fixes (mainly
+	indentation/wording)
+
+2003-10-27  Vincent Untz  <vincent@vuntz.net>
+
 	* foundation.gnome.org/index.wml: don't use <center>
 	* foundation.gnome.org/elections/2003/voters.wml: updated e-mail
 	address for Thomas Vander Stichele
