@@ -1,3 +1,9 @@
+2003-10-24  Glynn Foster  <glynn.foster@sun.com>
+
+	* Makefile.am, autogen.sh, configure.in: Start to 
+	add the basics of a build system.
+	* *.html/pdf: Moved around. Will slowly add back incrementally.
+
 2003-10-24  Vincent Untz  <vincent@vuntz.net>
 
 	* elections/2003/voters.html: updated e-mail address for Richard Hult
