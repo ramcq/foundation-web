@@ -1,5 +1,9 @@
 2004-11-10  Gregory Leblanc  <gleblanc@gnome.org>
 
+	* foundation.gnome.org/elections/2004/candidates.wml: Finish adding this year's candidates.
+
+2004-11-10  Gregory Leblanc  <gleblanc@gnome.org>
+
 	* foundation.gnome.org/elections/2004/Makefile.am: Fix the bloody Makefile.
 
 2004-11-10  Gregory Leblanc  <gleblanc@gnome.org>
