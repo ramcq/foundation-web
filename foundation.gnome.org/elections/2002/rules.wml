@@ -12,104 +12,114 @@
 
        <h2>Election Rules</h2> 
 
-       <OL>
-	<LI><P STYLE="margin-bottom: 0in">See the <A HREF="/charter.html">GNOME
-	Foundation charter</A> for general rules.</P>
+       <ol>
+	<li>
+	  See the <A HREF="charter.html">GNOME Foundation charter</a> for general rules.
+	</li>
 
-	<LI><P STYLE="margin-bottom: 0in">There are 11 board slots that are
-	to be filled during this election.</P>
+	<li>
+	  There are 11 board slots that are to be filled during this election.</li>
 
-	<LI><P STYLE="margin-bottom: 0in">Members of the GNOME
-	Foundation as of November 1, 2002 are eligible to vote in the
-	election.  Anyone who has made a contribution to GNOME can
-	apply for membership by completing the <a href="/membership-form.php">application</a>.
-	</P>
+	<li>
+	  Members of the GNOME Foundation as of November 1, 2002 are eligible to 
+	  vote in the election.  Anyone who has made a contribution to GNOME can 
+	  apply for membership by completing the <a href="membership-form.php">application</a>.
+	</li>
 
-	<LI><P STYLE="margin-bottom: 0in">Any eligible voter is
-	eligible to be elected to the Board of Directors.  To announce
-	your candidacy, send a message to
-	foundation-announce@gnome.org with your full name, e-mail,
-	corporate affiliation (if any), and a description of your
-	reasons for wanting to serve as a director.  Candidacies must
-	be announced prior to November 4, 2002, 23:59 UTC.</P>
+	<li>
+	  Any eligible voter is eligible to be elected to the Board of Directors.  
+	  To announce your candidacy, send a message to foundation-announce@gnome.org 
+	  with your full name, e-mail, corporate affiliation (if any), and a description 
+	  of your reasons for wanting to serve as a director.  Candidacies must be 
+	  announced prior to November 4, 2002, 23:59 UTC.
+	</li>
 
-	<LI><P STYLE="margin-bottom: 0in">All candidates should mail a
-	summary of their candicacy announcement (see previous rule) to
-	elections@gnome.org.  Summaries should be no more than 75
-	words of continuous text (i.e. no bullet lists or multiple
-	paragraphs) and must be received by the nomination deadline
-	given above.  A compilation of the summaries will be mailed to
-	all registered voters several days prior to the election.</LI>
+	<li>
+	  All candidates should mail a summary of their candicacy announcement (see 
+	  previous rule) to elections@gnome.org.  Summaries should be no more than 75 
+	  words of continuous text (i.e. no bullet lists or multiple paragraphs) and 
+	  must be received by the nomination deadline given above.  A compilation of the 
+	  summaries will be mailed to all registered voters several days prior to the 
+	  election.
+	</li>
 
-	<LI><P STYLE="margin-bottom: 0in">All discussion related to
-	the election should be held on foundation-list@gnome.org.
-	Members are invited to ask questions to one or all candidates
-	on that list.</P>
+	<li>
+	  All discussion related to the election should be held on foundation-list@gnome.org.  Members 
+	  are invited to ask questions to one or all candidates on that list.
+	</li>
 
-	<LI><P STYLE="margin-bottom: 0in">Ballots will be sent via
-	e-mail to all eligible voters on November 25, 2002, and must
-	be returned by December 2, 2002, 23:59 UTC (18:59 EST).  Full
-	instructions will be included in the ballot.</P>
+	<li>
+	  Ballots will be sent via e-mail to all eligible voters on November 25, 2002, and must 
+	  be returned by December 2, 2002, 23:59 UTC (18:59 EST).  Full instructions will be 
+	  included in the ballot.
+	</li>
 
-	<LI><P STYLE="margin-bottom: 0in">Ballots will be held
-	confidential during the election, but an archive of all
-	submitted ballots will be made publicly accessible at its
-	conclusion.</P>
+	<li>
+	  Ballots will be held confidential during the election, but an archive of all submitted 
+	  ballots will be made publicly accessible at its conclusion.
+	</li>
 
-	<LI><P STYLE="margin-bottom: 0in">The Elections Committee is
-	responsible for counting the ballots, after taking appropriate
-	action to fix misformatted ballots.</P>
+	<li>
+	  The Elections Committee is responsible for counting the ballots, after taking appropriate
+	  action to fix misformatted ballots.
+	</li> 
+	
+	<li>
+	  The 11 candidates who receive the most votes will be elected, except that no more than 
+	  four individuals affiliated with any one corporation may be elected.  Should more than 
+	  four of the top eleven vote-getters be affiliated with the same company, only the four 
+	  with the most votes will be considered elected.  For a full definition of corporate 
+	  affiliation, see the GNOME Foundation Charter.
+	</li>
 
-	<LI><P STYLE="margin-bottom: 0in">The 11 candidates who
-	receive the most votes will be elected, except that no more
-	than four individuals affiliated with any one corporation may
-	be elected.  Should more than four of the top eleven
-	vote-getters be affiliated with the same company, only the
-	four with the most votes will be considered elected.  For a
-	full definition of corporate affiliation, see the GNOME
-	Foundation Charter.</P>
+	<li>
+	  In the event of a tie for the final slot on the board, the Elections Committee will schedule a 
+	  run-off election as soon as possible.
+	</li> 
 
-	<LI><P STYLE="margin-bottom: 0in">In the event of a tie for
-	the final slot on the board, the Elections Committee will
-	schedule a run-off election as soon as possible.</P>
+	<li>
+	  The Elections Committee will announce preliminary results as soon as possible after the election 
+	  closes, along with instructions on how to access the ballot archive and how to independently 
+	  verify the vote count.
+	</li>
 
-	<LI><P STYLE="margin-bottom: 0in">The Elections Committee will
-	announce preliminary results as soon as possible after the
-	election closes, along with instructions on how to access the
-	ballot archive and how to independently verify the vote
-	count.</P>
+	<li>
+	  Any eligible voter may challenge the preliminary results by e-mailing elections@gnome.org prior 
+	  to December 20, 2002.  The decision of the Elections Committee as to any challenge shall be 
+	  final.  Once any challenges have been resolved, the Elections Committee shall announce the final 
+	  results.
+	</li>
 
-	<LI><P STYLE="margin-bottom: 0in">Any eligible voter may challenge the preliminary
-	results by e-mailing elections@gnome.org prior to December 20,
-	2002.  The decision of the Elections Committee as to any
-	challenge shall be final.  Once any challenges have been
-	resolved, the Elections Committee shall announce the final
-	results.</P>
+	<li>
+	  Any questions regarding these procedures should be directed to the Elections Committee by e-mail 
+	  to elections@gnome.org.  The committee shall have the power to make any necessary changes or 
+	  clarifications to these rules at any point during the election.
+	</li>
+      </ol>
 
-	<LI><P STYLE="margin-bottom: 0in">Any questions regarding
-	these procedures should be directed to the Elections Committee
-	by e-mail to elections@gnome.org.  The committee shall have
-	the power to make any necessary changes or clarifications to
-	these rules at any point during the election.</P>
-      </OL>
        <h2>Timeline (all deadlines are 23:59 UTC/18:59 EST)</h2> 
-       <UL>
-	<LI><P STYLE="margin-bottom: 0in">November 4 (Monday): Last
-	day to announce candidacies, submit summary statements, and
-	apply for membership (to be eligible for this election).</p>
-	<LI><P STYLE="margin-bottom: 0in">November 6 (Wednesday):
-	Final list of candidates, platform summaries mailed to
- foundation-announce@gnome.org</P></LI>
-	<LI><P STYLE="margin-bottom: 0in">November 25 (Monday):
-	Ballots mailed to eligible voters, voting begins.</P></LI>
-	<LI><P STYLE="margin-bottom: 0in">December 2 (Monday):
-	Voting closes.</P></LI>
-	<LI><P STYLE="margin-bottom: 0in">December 3 (Tuesday):
-	Preliminary results mailed to foundation-announce@gnome.org
- </P></LI>
-	<LI><P STYLE="margin-bottom: 0in">December 20 (Friday): Last
-	day to challenge preliminary results.</P>
-</UL>
+       <ul>
+	<li>
+	  November 4 (Monday): Last day to announce candidacies, submit summary statements, and
+	  apply for membership (to be eligible for this election).
+	</li>
+	<li>
+	  November 6 (Wednesday): Final list of candidates, platform summaries mailed to 
+	  foundation-announce@gnome.org
+	</li>
+	<li>
+	  November 25 (Monday): Ballots mailed to eligible voters, voting begins.
+	</li>
+	<li>
+	  December 2 (Monday): Voting closes.
+	</li>
+	<li>
+	  December 3 (Tuesday): Preliminary results mailed to foundation-announce@gnome.org
+	</li>
+	<li>
+	  December 20 (Friday): Last day to challenge preliminary results.</li>
+      </ul>
+
  </body>
 </html>
 

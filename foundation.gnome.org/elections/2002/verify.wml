@@ -10,13 +10,26 @@
 
       <p>
        To run the vote counting scripts, you need several files:
+      </p>
        <ul>
-        <li>the votes archives for <a href="http://mail.gnome.org/archives/vote/2002-November.txt.gz">November</a> and <a href="http://mail.gnome.org/archives/vote/2002-December.txt.gz">December</a></li>
-        <li>the list of <a href="registered-voters.txt">registered voters</a></li>
-        <li>the script to <a href="list-addresses.py">generate the addresses of the voters</a></li>
-        <li>the script to <a href="vote-counter.py">count the votes</a></li>
-        <li>the <a href="vote-archives.diff">diff file</a> that we applied to the vote archives</li>
+        <li>
+          The votes archives for <a href="http://mail.gnome.org/archives/vote/2002-November.txt.gz">
+	  November</a> and <a href="http://mail.gnome.org/archives/vote/2002-December.txt.gz">December</a>
+	</li>
+        <li>
+	  The list of <a href="registered-voters.txt">registered voters</a>
+	</li>
+        <li>
+	  The script to <a href="list-addresses.py">generate the addresses of the voters</a>
+	</li>
+        <li>
+	  The script to <a href="vote-counter.py">count the votes</a>
+	</li>
+        <li>
+	  The <a href="vote-archives.diff">diff file</a> that we applied to the vote archives
+	</li>
        </ul>
+      <p>
        Please note that you need python to run the scripts.
       </p>
 
@@ -46,4 +59,3 @@
 
  </body>
 </html>
-
