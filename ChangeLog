@@ -1,3 +1,12 @@
+2003-10-22  Vincent Untz  <vincent@vuntz.net>
+
+	* index.html
+	* elections/index.html: announce the new elections
+	* elections/2003/index.html
+	* elections/2003/overview.html
+	* elections/2003/rules.html
+	* elections/2003/voters.html: stuff for the new elections
+
 2003-10-16  Vincent Untz  <vincent@vuntz.net>
 
 	* membership-form.php: tell the applicant he will receive his
