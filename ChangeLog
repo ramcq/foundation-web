@@ -1,5 +1,19 @@
 2002-11-24  Vincent Untz  <vincent@vuntz.net>
 
+	* voters-2001.html: fixed the list (some people were missing)
+	* ballot-summary-2001.html
+	* ballot-summary.html
+	* election-2000.html
+	* election-2001.html
+	* electionrules-2001.html
+	* electionrules.html
+	* elections.html
+	* overview.html
+	* voters-2001.html
+	* voters.html: better navigation for archives of elections
+
+2002-11-24  Vincent Untz  <vincent@vuntz.net>
+
 	* election-2001.html
 	* voters-2001.html (new): added back list of voters for 2001 elections
 
