@@ -149,6 +149,14 @@
           }
       ?>
 
+    <h3>Note about privacy</h3>
+    <p>
+      Please note that all the informations you will submit through this form
+      will be publically available: the form will send an e-mail to a mailing
+      list whose archives are publically available on Internet and your
+      application will probably be accessible through CVS.
+    </p>
+
     <form action="<?php echo $PHP_SELF; ?>" method="POST">
       <h3>Contact Information</h3>
 
