@@ -1,0 +1,32 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+  <head>
+    <title>GNOME Foundation Legal Information</title>
+  </head>
+ 
+  <body>
+    <h1>GNOME Foundation Legal Information</h1>
+
+    <h2>Board Confidentiality Policy</h2>
+
+	<p>Part of the Foundation's purpose is to be a neutral, independent body
+	which organizations can use as an initial touchpoint before becoming
+	more deeply involved with The GNOME Project. Through this and other
+	activities, the members of the Board and employees and agents of the
+	Foundation shall, from time to time and in the regular course of
+	business, be made aware of confidential and sensitive information.</p>
+	
+	<p>Members of the board pledge upon their election and upon the
+	publication of this addendum to keep this information confidential.
+	Employees and agents pledge upon hiring or publication of this addendum
+	to keep this information confidential, at risk of termination.
+	Information that is public knowledge or that individuals came to know
+	through other means is not covered by this provision. Confidential
+	information must be marked confidential.</p>
+
+	<!-- FIXME: need to put fonts/ up here, plus the licensing and copyright
+	info once it's ready -->
+
+  </body>
+</html>

@@ -1,4 +1,4 @@
-SUBDIRS = about contact elections membership img news
+SUBDIRS = about contact elections img legal membership news
 
 urlpath = 
 
