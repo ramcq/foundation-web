@@ -3,10 +3,11 @@ SUBDIRS = documentation elections organization membership img
 urlpath = 
 
 page_SCRIPTS = \
-	index.html	\
+	index.html \
 	.htaccess
 
 page_DATA = \
-	robots.txt
+	robots.txt \
+	foundation.css
 
 include $(top_srcdir)/rules.common

@@ -1,0 +1,13 @@
+#hdr {
+	background: url("http://www.gnome.org/~jdub/img/hdr-planet.jpg") no-repeat;
+	background-color: #9db8d2;
+	background-position: right;
+}
+
+#sidebar {
+	border-left: 1px dashed #9db8d2;
+}
+
+#sidebar p.section {
+	background-color: #9db8d2;
+}
