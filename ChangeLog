@@ -1,3 +1,14 @@
+2003-12-20  Vincent Untz  <vincent@vuntz.net>
+
+	* foundation.gnome.org/index.wml: add the news for the official
+	results of the elections
+	* foundation.gnome.org/news/index.wml: ditto
+	* foundation.gnome.org/about/index.wml: update the list of directors
+	* foundation.gnome.org/about/history/index.wml: add the directors for
+	last year's term
+	* foundation.gnome.org/elections/2003/index.wml: add a link to the
+	official results announcement
+
 2003-12-14  Vincent Untz  <vincent@vuntz.net>
 
 	* foundation.gnome.org/about/charter/index.wml: the charter is now

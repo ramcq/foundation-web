@@ -39,6 +39,20 @@
     <h2>News</h2>
     <ul>
       <li>
+        <strong>Results of 2003 elections official</strong>
+        <small>(20/12/2003)</small>
+        <blockquote>
+          The GNOME Foundation Membership &amp; Elections Committee is pleased
+          to announce that the results for the 2003 GNOME Foundation elections
+          are now official. The Foundation board directors for the 2003/2004
+          term of office are:
+          <br /><br />
+	  Jonathan Blandford, Dave Camp, Glynn Foster, Nat Friedman, Jody
+	  Goldberg, Bill Haneman, Leslie Proctor, Owen Taylor, Malcolm
+	  Tredinnick, Luis Villa, Jeff Waugh.
+        </blockquote>
+      </li>
+      <li>
         <strong>Preliminary results of 2003 elections announced</strong>
         <small>(11/12/2003)</small>
         <blockquote>
@@ -58,25 +72,6 @@
 	  Kristiansand, Norway June 28-30, 2004. See <a
 	  href="http://www.gnome.org/press/releases/guadec5.html">press
 	  release</a>.
-        </blockquote>
-      </li>
-      <li>
-        <strong>2003 GNOME Foundation Elections</strong>
-        <small>(22/10/2003)</small>
-        <blockquote>
-          The GNOME Foundation <a href="elections/2003/">elections</a> will
-          begin in November. If you want to run for these elections, you have to
-          nominate yourself before November 7th. Take a look at the <a
-          href="elections/2003/rules.html">rules and the timeline</a>.
-        </blockquote>
-      </li>
-      <li>
-        <strong>GUADEC 2003 to attract global audience of GNOME developers and enthusiasts</strong>
-        <small>(18/02/2003)</small>
-        <blockquote>
-          Free software luminaries, open source developers gather to advance the
-          next generation of the multi-platform desktop environment in June,
-          Dublin Ireland.
         </blockquote>
       </li>
     </ul>
