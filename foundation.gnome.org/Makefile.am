@@ -1,14 +1,12 @@
 SUBDIRS= documentation elections organization membership img
 
-urlpath =
-                                                                                                                                                            
+urlpath = 
+
 page_SCRIPTS = \
         index.html	\
 	default.css
-                                                                                                                                                            
-page_DATA = \
-        index.html \
-        robots.txt
-                                                                                                                                                            
-include $(top_srcdir)/rules.common
 
+page_DATA = \
+        robots.txt 
+
+include $(top_srcdir)/rules.common
