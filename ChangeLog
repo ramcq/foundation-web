@@ -1,3 +1,21 @@
+2003-07-23  Kenny Graunke  <kenny@whitecape.org>
+
+	* directory.html:
+	* documentation.html:
+	* elections.html:
+	* index.html:
+	* membership.html:
+	* organization.html:
+
+	Much HTML cleanup. No more table stuff, much closer to being valid.
+        Also made trivial changes to the text - linking email addresses, and
+	whatnot.
+
+	* evilsedhack:
+	
+	Include the maintainer email address which used to be in the old pages.
+	This way it goes in all the pages, and looks nice too!
+
 2003-07-23  Gregory Leblanc <gleblanc@linuxweasel.com>
 
 	* README: some info on how to build a test-site from this branch
