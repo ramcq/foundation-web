@@ -1,3 +1,19 @@
+2001-12-07  Glynn Foster  <glynn.foster@sun.com>
+
+	* press/pr-accessible.html:
+	* press/pr-borlandjoins.html:
+	* press/pr-foundation.html:
+	* press/pr-gnome14.html:
+	* press/pr-mandrakesoftjoins.html:
+	* press/pr-newcommitments.html:
+	* press/pr-ney_execdir.html:
+	* press/pr-redflagjoins.html:
+	* press/pr-redhat.html:
+	* press/pr-sunjoins.html:
+	
+	Fix links. Thanks to Andreas J. Guelzow for 
+	pointing this out.
+
 2001-12-02  Glynn Foster <glynn.foster@sun.com>
 
 	* advisory_board.html: s/TurboLinu/TurboLinux
