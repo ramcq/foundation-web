@@ -1,3 +1,7 @@
+2002-09-19  Glynn Foster  <glynn.foster@sun.com>
+
+	* membership-form.php: Update mail address for new committee.
+
 2002-09-01  Vincent Untz  <vincent@vuntz.net>
 
 	* membership-form.php: made it strip the slashes before the quotes.
