@@ -9,4 +9,7 @@ page_SCRIPTS = \
 	preliminary-results.html \
 	verify.html
 
+page_DATA = \
+	2004-10-verif.tar.gz
+
 include $(top_srcdir)/rules.common
