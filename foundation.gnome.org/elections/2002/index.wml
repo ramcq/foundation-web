@@ -20,20 +20,25 @@
       <li>
         <a
         href="http://mail.gnome.org/archives/foundation-announce/2002-December/msg00005.html">Election
-        results announcement.</a>
+        results announcement</a>
       </li>
       <li>
-        <a href="results.txt">Detailed election results.</a>
+        <a href="results.txt">Detailed election results</a>
+      </li>
+      <li>
+        Archive of all votes:
+	<a href="http://mail.gnome.org/archives/vote/2002-November/thread.html">November</a>&nbsp;
+	<a href="http://mail.gnome.org/archives/vote/2002-December/thread.html">December</a>
       </li>
       <li>
         <a href="verify.html">Instructions</a> for running the <a
-        href="vote-counter.py">vote counting script</a>.
+        href="vote-counter.py">vote counting script</a>
       </li> 
       <li>
         <a href="candidates.html">List of candidates for Board of Directors</a>
       </li>
       <li>
-        <a href="voters.html">List of registered voters.</a>
+        <a href="voters.html">List of registered voters</a>
       </li>
       <li>
         <a href="rules.html">Election rules and procedures</a>

@@ -1,3 +1,20 @@
+2003-11-09  Vincent Untz  <vincent@vuntz.net>
+
+	* foundation.gnome.org/index.wml
+	* foundation.gnome.org/news/index.wml: fix the date for the GUADEC
+	2003 news.
+	* foundation.gnome.org/index.wml
+	* foundation.gnome.org/news/index.wml: sync the news for GUADEC 5.
+	* foundation.gnome.org/elections/2000/index.wml
+	* foundation.gnome.org/elections/2001/index.wml
+	* foundation.gnome.org/elections/2002/index.wml: remove some dots.
+	* foundation.gnome.org/elections/2002/index.wml: add a link to the
+	vote archives.
+	* foundation.gnome.org/elections/2003/Makefile.am
+	* foundation.gnome.org/elections/2003/index.wml
+	* foundation.gnome.org/elections/2003/candidates.wml: add the list of
+	candidates.
+
 2003-11-07  Vincent Untz  <vincent@vuntz.net>
 
 	* foundation.gnome.org/elections/2002/index.wml: s/2001/2002/. Thanks
