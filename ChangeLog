@@ -1,3 +1,8 @@
+2003-10-08  Vincent Untz  <vincent@vuntz.net>
+
+	* .htaccess: ok, I was really tired. Completed the Redirect foo so that
+	it really works.
+
 2003-10-07  Vincent Untz  <vincent@vuntz.net>
 
 	* index.html: put the dates in dd/mm/yyyy format instead of two or three
