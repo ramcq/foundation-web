@@ -1,5 +1,10 @@
 2004-10-12  Vincent Untz  <vincent@vuntz.net>
 
+	* foundation.gnome.org/referenda/2004-10/2004-10-verif.tar.gz: fix
+	stupid bug...
+
+2004-10-12  Vincent Untz  <vincent@vuntz.net>
+
 	* foundation.gnome.org/referenda/2004-10/Makefile.am:
 	install the verification tarball on the website
 
