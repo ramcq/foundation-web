@@ -1,3 +1,23 @@
+2003-08-17  Gregory Leblanc <gleblanc@linuxweasel.com>
+
+	* ballot-summary-2000.html:
+	* ballot-summary-2001.html:
+	* board_of_directors-2000.html:
+	* board_of_directors-2001.html:
+	* election-2000.html:
+	* election-2001.html:
+	* electionresults.html:
+	* electionrules-2000.html:
+	* electionrules-2001.html:
+	* electionrules.html:
+	* membership-list.html:
+	* membership-policy.html:
+	* overview.html:
+	* overview_2000.html:
+	* voters-2000.html:
+	* voters-2001.html:
+	* voters.html:  Loads of cleanups, and conversion to xhtml
+
 2003-07-24  Kenny Graunke  <kenny@whitecape.org>
 
 	* press.html:
