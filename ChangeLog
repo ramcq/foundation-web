@@ -1,3 +1,79 @@
+2003-10-07  Vincent Untz  <vincent@vuntz.net>
+
+	* index.html: put the dates in dd/mm/yyyy format instead of two or three
+	different formats.
+
+	* .htaccess: added so we can redirect people from the old pages to the
+	new ones. I'd like to have a htaccess file which is moved to .htaccess
+	when copying the website (so it is not hidden in CVS), but that'll be
+	for later
+
+	* membership-form.html: removed (we now use membership-form.php)
+
+	* press.html
+	* press/*: removed these because we now point to press releases on
+	gnome.org.
+
+	* advisory_board.html
+	* board_of_directors-2000.html
+	* board_of_directors-2001.html
+	* board_of_directors.html
+	* charter.html
+	* directory.html
+	* documentation.html
+	* executive_director.html
+	* faq-ln7.html
+	* faq.html
+	* index.html
+	* membership-list.html
+	* membership-policy.html
+	* membership.html
+	* organization.html
+	* template.html: updated the links to the elections pages, and added
+	the Fundraising links when it was missing.
+
+	* announcement.html
+	* ballot-summary-2000.html
+	* election-2000.html
+	* electionresults.html
+	* electionrules-2000.html
+	* final-vote-archive.diff
+	* final_membership_list.txt
+	* list-addresses.py
+	* overview_2000.html
+	* vote-counter.py
+	* voters-2000.html: removed. Those files are now in elections/2000/
+	(some have been renamed)
+
+	* ballot-summary-2001.html
+	* election-2001.html
+	* electionrules-2001.html
+	* voters-2001.html
+	* elections/2001-eligible-members.txt
+	* elections/2001-prelim-results.txt
+	* elections/2001-vote-archive.diff
+	* elections/list-addresses.py
+	* elections/verify.html
+	* elections/vote-counter.py: removed. Those files are now in
+	elections/2001/ (some have been renamed)
+
+	* ballot-summary.html
+	* electionrules.html
+	* elections.html
+	* overview.html
+	* voters.html: removed. Those files are now in elections/2002/ (some
+	have been renamed)
+
+	* elections/index.html
+	* elections/2000/*
+	* elections/2001/*
+	* elections/2002/candidates.html
+	* elections/2002/overview.html
+	* elections/2002/rules.html
+	* elections/2002/voters.html: new files. Most of them are copies of old
+	files with some modifications (because of the change of directory and
+	updated title).
+
 2003-06-27  Eric Baudais  <drake@gnome.org>
 
 	* advisory_board.html
