@@ -1,5 +1,12 @@
 2003-11-21  Vincent Untz  <vincent@vuntz.net>
 
+	* foundation.gnome.org/elections/2003/candidates.wml: removed
+	paragraphs and bullets from statements: they are not allowed.
+	* foundation.gnome.org/elections/2003/index.wml: I forgot to remove
+	one line. What a fool.
+	
+2003-11-21  Vincent Untz  <vincent@vuntz.net>
+
 	* foundation.gnome.org/elections/2000/verify.wml: hey, I've found the
 	cookie to verify the results for those elections :-)
 
