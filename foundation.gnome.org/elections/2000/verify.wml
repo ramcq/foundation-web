@@ -35,9 +35,7 @@
       to a file (they are long):
     </p>
 
-      <pre>$ python vote-counter.py 2000-November.txt &lt;cookie&gt; addresses.txt &gt; results.txt</pre>
-
-    <p>(The cookie has been lost.)</p>
+      <pre>$ python vote-counter.py 2000-November.txt 4-0395-90374589374224098-gnome-foundation-secret-cookie addresses.txt &gt; results.txt</pre>
 
     <p>
       The results should be in results.txt. A list of errors will be

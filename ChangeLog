@@ -1,5 +1,10 @@
 2003-11-21  Vincent Untz  <vincent@vuntz.net>
 
+	* foundation.gnome.org/elections/2000/verify.wml: hey, I've found the
+	cookie to verify the results for those elections :-)
+
+2003-11-21  Vincent Untz  <vincent@vuntz.net>
+
 	* foundation.gnome.org/elections/2003/voters.wml: updated from
 	gnome-foundation module. The list should be the definitive one.
 	* foundation.gnome.org/elections/2003/index.wml: don't tell the list
