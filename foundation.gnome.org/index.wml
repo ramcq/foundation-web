@@ -38,7 +38,7 @@
        <strong>2003 GNOME Foundation Elections</strong>
        <small>(22/10/2003)</small>
        <blockquote>
-	The GNOME Foundation <a href="elections/2003">elections</a> will begin in November. If you 
+	The GNOME Foundation <a href="elections/2003/">elections</a> will begin in November. If you 
 	want to run for these elections, you have to nominate yourself before November 7th. Take a 
 	look at the <a href="elections/2003/rules.html">rules and the timeline</a>.
        </blockquote>
@@ -183,16 +183,16 @@
 
    <h2>Sponsors</h2>
    <center>
-     <a href="http://www.debian.org"><img src="img/logos/debian.gif" alt="Debian" border="0" hspace="8" vspace="5" align="middle" /></a>
-     <a href="http://www.fsf.org"><img src="img/logos/fsf.gif" alt="Free Software Foundation" border="0" hspace="8" vspace="5" align="middle" /></a>
-     <a href="http://www.hp.com"><img src="img/logos/hp.gif" alt="Hewlett Packard" border="0" hspace="8" vspace="5" align="middle" /></a>
-      <a href="http://www.ibm.com"><img src="img/logos/ibm.gif" alt="IBM" border="0" hspace="8" vspace="5" align="middle" /></a>
-     <a href="http://www.mandrakesoft.com"><img src="img/logos/mandrakesoft.gif" alt="MandrakeSoft" border="0" hspace="8" vspace="5" align="middle" /></a>
-     <a href="http://www.redflag-linux.com"><img src="img/logos/redflag.gif" alt="Redflag Software Co., Ltd." border="0" hspace="8" vspace="5" align="middle" /></a>
-     <a href="http://www.redhat.com"><img src="img/logos/redhat.gif" alt="Red Hat" border="0" hspace="8" vspace="5" align="middle" /></a>
-     <a href="http://www.sun.com"><img src="img/logos/sun.gif" alt="Sun Microsystems" border="0" hspace="8" vspace="5" align="middle" /></a>
-     <a href="http://www.osdn.com"><img src="img/logos/osdn.gif" alt="OSDN" border="0" hspace="8" vspace="5" align="middle" /></a>
-     <a href="http://www.ximian.com"><img src="img/logos/ximian.jpg" alt="Ximian Inc."  border="0" hspace="8" vspace="5" align="middle" /></a>
+     <a href="http://www.debian.org/"><img src="img/logos/debian.gif" alt="Debian" border="0" hspace="8" vspace="5" align="middle" /></a>
+     <a href="http://www.fsf.org/"><img src="img/logos/fsf.gif" alt="Free Software Foundation" border="0" hspace="8" vspace="5" align="middle" /></a>
+     <a href="http://www.hp.com/"><img src="img/logos/hp.gif" alt="Hewlett Packard" border="0" hspace="8" vspace="5" align="middle" /></a>
+      <a href="http://www.ibm.com/"><img src="img/logos/ibm.gif" alt="IBM" border="0" hspace="8" vspace="5" align="middle" /></a>
+     <a href="http://www.mandrakesoft.com/"><img src="img/logos/mandrakesoft.gif" alt="MandrakeSoft" border="0" hspace="8" vspace="5" align="middle" /></a>
+     <a href="http://www.redflag-linux.com/"><img src="img/logos/redflag.gif" alt="Redflag Software Co., Ltd." border="0" hspace="8" vspace="5" align="middle" /></a>
+     <a href="http://www.redhat.com/"><img src="img/logos/redhat.gif" alt="Red Hat" border="0" hspace="8" vspace="5" align="middle" /></a>
+     <a href="http://www.sun.com/"><img src="img/logos/sun.gif" alt="Sun Microsystems" border="0" hspace="8" vspace="5" align="middle" /></a>
+     <a href="http://www.osdn.com/"><img src="img/logos/osdn.gif" alt="OSDN" border="0" hspace="8" vspace="5" align="middle" /></a>
+     <a href="http://www.ximian.com/"><img src="img/logos/ximian.jpg" alt="Ximian Inc."  border="0" hspace="8" vspace="5" align="middle" /></a>
    </center>
  </body>
 </html>
