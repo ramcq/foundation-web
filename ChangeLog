@@ -1,3 +1,9 @@
+2001-10-18  Glynn Foster <glynn.foster@sun.com>
+
+	* membership-form.html: s/Name/Full Name in 
+	attempt to get people to put their full names down
+	when applying for membership
+
 2001-07-16  Dan Mueth  <d-mueth@uchicago.edu>
 
 	Every module deserves HACKING and README files :)
