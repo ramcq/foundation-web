@@ -1,3 +1,24 @@
+2001-11-04  Dan Mueth  <d-mueth@uchicago.edu>
+
+	Adding organization section for the web page.
+
+	* advisory_board.html:
+	* board_of_directors.html:
+	* charter.html:
+	* directory.html:
+	* documentation.html:
+	* election-2000.html:
+	* electionrules.html:
+	* elections.html:
+	* executive_director.html:
+	* faq.html:
+	* index.html:
+	* membership-form.html:
+	* membership-policy.html:
+	* membership.html:
+	* organization.html:
+	* template.html:
+
 2001-11-03  Dan Mueth  <d-mueth@uchicago.edu>
 
 	Created documentation section for the web page.
