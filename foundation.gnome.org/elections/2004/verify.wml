@@ -36,10 +36,6 @@
     <pre>$ make</pre>
 
     <p>
-      You may be unable to get the vote archives from <a href="http://mail.gnome.org/archives/vote/">http://mail.gnome.org/archives/vote/</a>. Until this is sorted out, you can get both files <a href="http://www.gnome.org/~rossg/vote/2004-November.txt.gz">here</a> and <a href="http://www.gnome.org/~rossg/vote/2004-December.txt.gz">here</a>.
-    </p>
-
-    <p>
       The results should be in results.txt. A list of errors will be generated
       at the top of the output. The final tallies will be at the bottom.
     </p>

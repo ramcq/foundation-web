@@ -1,3 +1,8 @@
+2004-12-09  Vincent Untz  <vincent@vuntz.net>
+
+	* foundation.gnome.org/elections/2004/verify.wml: the archives are not
+	returning a 404 error anymore
+
 2004-12-08  Vincent Untz  <vincent@vuntz.net>
 
 	* foundation.gnome.org/elections/2004/Makefile.am:
