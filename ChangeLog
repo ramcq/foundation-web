@@ -1,3 +1,9 @@
+2002-08-31  Mike Newman  <mike@gtnorthern.demon.co.uk>
+
+	* membership-policy.html: Fixed to reflect current renewal process.
+	* membership-form.html: Made the URL in the mailout work :)
+	* index.html: Update the news.
+
 2002-08-19  Mike Newman  <mike@gtnorthern.demon.co.uk>
 
 	* cgi-bin/membership-form-handler.cgi:
