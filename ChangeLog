@@ -1,3 +1,18 @@
+2002-06-25 Steve Fox <drfickle@uberh4x0r.org>
+
+	* press/pr-accessible.html
+	* press/pr-borlandjoins.html
+	* press/pr-foundation.html
+	* press/pr-gnome14.html
+	* press/pr-mandrakesoftjoins.html
+	* press/pr-newcommitments.html
+	* press/pr-redflagjoins.html
+	* press/pr-redhat.html
+	* press/pr-sunjoins.html : Fix bad HTML
+	* press/pr-gnomeenelsur.html : Add Latin American tour
+	* press.html
+
+
 2002-03-05  Glynn Foster  <glynn.foster@sun.com>
 
 	* index.html: Remove Borland, Gnumatic, OMG, TurboLinux.
