@@ -1,0 +1,45 @@
+2001-07-12  Dan Mueth  <d-mueth@uchicago.edu>
+
+	Small improvements to appearance of page which pops up
+	to confirm application is received.
+	* cgi-bin/membership-form-handler.cgi:
+
+	Fixed path for script which I forgot to do last time.
+	* membership-form.html:
+
+2001-07-12  Dan Mueth  <d-mueth@uchicago.edu>
+
+	Updating main page in various places.  Fixed formatting 
+        and HTML.  Added membership information and application links.
+	* index.html:
+
+	Changed background color to white.
+	* membership-form.html:
+
+	Adding this file by Russell.
+	* membership-policy.html:
+
+	Removing old versions of the script
+	* membership-form-handler.pl:
+	* cgi-bin/membership-form-handler.pl:
+
+2001-07-12  Dan Mueth  <d-mueth@uchicago.edu>
+
+	Pointing to correct path for script.
+
+	* membership-form.html:
+
+2001-07-12  Dan Mueth  <d-mueth@uchicago.edu>
+
+	Putting the script into a cgi-bin directory
+
+	* cgi-bin/membership-form-handler.pl:
+
+2001-07-12  Dan Mueth  <d-mueth@uchicago.edu>
+
+	Adding the membership application form a script which processes
+	it, both created by: Russell Steinthal <rms39@columbia.edu>
+
+	* membership-form-handler.pl:
+	* membership-form.html:
+
