@@ -1,5 +1,10 @@
 2002-11-24  Vincent Untz  <vincent@vuntz.net>
 
+	* election-2000.html
+	* voters-2000.html (new): added a list of voters for 2000 elections
+
+2002-11-24  Vincent Untz  <vincent@vuntz.net>
+
 	* voters-2001.html: fixed the list (some people were missing)
 	* ballot-summary-2001.html
 	* ballot-summary.html
