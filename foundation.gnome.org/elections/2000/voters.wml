@@ -1,12 +1,11 @@
-CTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
-                                                                                                                                                            
-<head><link rel="stylesheet" type="text/css" href="http://www.gnome.org/default.css" /><link rel="icon" type="image/png" href="http://www.gnome.org/img/logo/foot-16.png" />
-        <title>GNOME Foundation 2000 Voters</title>
-        <meta name="cvsdate" content="$Date$">
-</head>
-                                                                                                                                                            
-<body><div id="body">
+ 
+ <head>
+  <title>GNOME Foundation 2000 Election Voters</title>
+  <meta name="cvsdate" content="$Date$">
+ </head>
+<body>
 
 <h1>Voters for the 2000 GNOME Foundation Elections</h1>
  <p>
@@ -1881,45 +1880,6 @@ CTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR
  <p>
  372 voters
  </p>
- 
-</div>
-
-<div id="sidebar">
-<p class="section">Foundation</p>
-<ul>
-<li><b><a href="http://www.gnome.org/pressreleases.html">Press</a></b></li>
-<li><a href="http://foundation.gnome.org/organization/">Organization</a></li>
-<li><a href="http://foundation.gnome.org/documentation/">Documentation</a></li>
-<li><a href="http://foundation.gnome.org/membership/">Membership</a></li>
-<li><a href="http://foundation.gnome.org/elections/">Elections</a></li>
-<li><a href="http://foundation.gnome.org/directory/">Directory</a></li>
-<li><a href="http://www.gnome.org/friends/">Fundraising</a></li>
-</ul>
-
-</div>
-
-<div id="hdr">
-<div id="logo"><a href="http://foundation.gnome.org/"><img src="http://www.gnome.org/img/spacer" alt="Home" /></a></div>
-<div id="banner"><img src="http://www.gnome.org/img/spacer" alt="" /></div>
-<p class="none"></p>
-<div id="hdrNav">
-<a href="http://www.gnome.org/about/">About GNOME</a> &middot;
-<a href="http://www.gnome.org/start/2.2/">Download</a> &middot;
-<!--<a href="http://www.gnome.org/contribute/"><i>Get Involved!</i></a> &middot;-->
-<a href="http://www.gnome.org/"><b>Users</b></a> &middot;
-<a href="http://developer.gnome.org/">Developers</a> &middot;
-<a href="http://foundation.gnome.org/">Foundation</a> &middot;
-<a href="mailto:webmaster@gnome.org">Contact</a>
-</div>
-</div>
-
-<div id="copyright">
-Copyright &copy; 2003, <a href="http://www.gnome.org/">The GNOME Project</a>.<br />
-Maintained by <a href="mailto:membership-committee@gnome.org">the GNOME Foundation Membership and Elections Committee</a>.<br />
-<a href="http://validator.w3.org/check/referer">Optimised</a> for
-<a href="http://www.w3.org/">standards</a>.
-Hosted by <a href="http://www.redhat.com/">Red Hat</a>.
-</div>
 
 </body>
 
