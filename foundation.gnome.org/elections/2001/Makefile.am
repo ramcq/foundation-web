@@ -13,6 +13,7 @@ page_DATA = \
 	list-addresses.py	\
 	registered-voters.txt	\
 	vote-counter.py		\
-	results.txt
+	results.txt		\
+	vote-archives.diff
 
 include $(top_srcdir)/rules.common

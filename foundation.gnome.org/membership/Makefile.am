@@ -3,9 +3,9 @@ SUBDIRS=
 urlpath = /membership
  
 page_SCRIPTS = \
-        index.html		\
-	membership-policy.html	\
-	membership-list.html	\
-	membership-form.php
+        index.html	\
+        policy.html	\
+        members.html	\
+        application.php
 
 include $(top_srcdir)/rules.common

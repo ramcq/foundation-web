@@ -13,6 +13,7 @@ page_SCRIPTS = \
 page_DATA = \
 	list-addresses.py	\
 	registered-voters.txt	\
-	vote-counter.py
+	vote-counter.py		\
+	vote-archives.diff
 
 include $(top_srcdir)/rules.common

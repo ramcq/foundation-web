@@ -1,3 +1,24 @@
+2003-10-25  Vincent Untz  <vincent@vuntz.net>
+
+	* .cvsignore
+	* foundation.gnome.org/elections/.cvsignore
+	* foundation.gnome.org/elections/2000/Makefile.am
+	* foundation.gnome.org/elections/2001/Makefile.am
+	* foundation.gnome.org/elections/2002/Makefile.am
+	* foundation.gnome.org/membership/Makefile.am: added missing files
+	* autogen.sh: changed references to other modules :-)
+	* foundation.gnome.org/htaccess: added a lot of redirections
+	* foundation.gnome.org/elections/overview.wml: removed the date which
+	was specific to one election
+	* foundation.gnome.org/elections/2001/voters.wml
+	* foundation.gnome.org/elections/2003/voters.wml: added encoding meta
+	* foundation.gnome.org/elections/2002/preliminary_results.html
+	* foundation.gnome.org/elections/2002/preliminary_results.wml: this
+	file was not generated, so added a .wml and removed the .html
+	* foundation.gnome.org/elections/2002/voters.wml: removed a 'u'
+	* foundation.gnome.org/elections/2003/voters.wml: updated
+	* foundation.gnome.org/membership/membership-*: renamed files
+
 2003-10-24  Glynn Foster  <glynn.foster@sun.com>
 
 	* foundation.gnome.org/*: Rest of the content.

@@ -1,6 +1,6 @@
-membership-policy.html
-membership-list.html
-membership-form.php
+policy.html
+members.html
+application.php
 index.html
 Makefile.in
 Makefile

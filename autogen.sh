@@ -23,8 +23,8 @@ DIE=0
 (automake --version) < /dev/null > /dev/null 2>&1 ||{
 	echo
 	echo "You must have at minimum automake version 1.4 installed"
-	echo "to compile ORBit. Download the appropriate package for"
-	echo "your distribution, or get the source tarball at"
+	echo "to compile foundation-web. Download the appropriate package"
+	echo "for your distribution, or get the source tarball at"
 	echo "ftp://ftp.cygnus.com/pub/home/tromey/automake-1.4.tar.gz"
 	DIE=1
 }
@@ -35,7 +35,7 @@ if test "$DIE" -eq 1; then
 fi
 
 (test -d foundation.gnome.org) || {
-	echo "You must run this script in the top-level gnomeweb-wml  directory"
+	echo "You must run this script in the top-level foundation-web directory"
 	exit 1
 }
 
