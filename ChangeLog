@@ -1,5 +1,10 @@
 2003-11-11  Vincent Untz  <vincent@vuntz.net>
 
+	* foundation.gnome.org/membership/application.wml: don't initialize
+	the textarea with useless spaces, and get the POST variables ASAP.
+
+2003-11-11  Vincent Untz  <vincent@vuntz.net>
+
 	* foundation.gnome.org/membership/application.wml: obfuscate a bit the
 	e-mail address of the applicant.
 

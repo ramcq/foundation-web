@@ -13,37 +13,44 @@
   $bad_elements = array();
   $errors = array();
 
-  if ($_POST['submit']) {
+  $submit = $_POST['submit'];
+  $name = $_POST['name'];
+  $email = $_POST['email'];
+  $summary = $_POST['summary'];
+  $details = $_POST['details'];
+  $contacts = $_POST['contacts'];
+  $comments = $_POST['comments'];
+  $ircnick = $_POST['ircnick'];
+  $cvsuser = $_POST['cvsuser'];
+  $previousmember = $_POST['previousmember'];
+
+  if ($submit) {
       /* remove the slashes */
-      $name = stripslashes($_POST['name']);
-      $email = stripslashes($_POST['email']);
-      $summary = stripslashes($_POST['summary']);
-      $details = stripslashes($_POST['details']);
-      $contacts = stripslashes($_POST['contacts']);
-      $comments = stripslashes($_POST['comments']);
+      $name = trim(stripslashes($name));
+      $email = trim(stripslashes($email));
+      $summary = trim(stripslashes($summary));
+      $details = trim(stripslashes($details));
+      $contacts = trim(stripslashes($contacts));
+      $comments = trim(stripslashes($comments));
 
-      $ircnick = $_POST['ircnick'];
-      $cvsuser = $_POST['cvsuser'];
-      $previousmember = $_POST['previousmember'];
-
-      if (!$name || trim($name) == "") {
+      if (!$name || $name == "") {
         $bad_elements[] = "name";
         $errors[] = "Please enter your name.";
       }
-      if (!$email || !ereg("^[a-zA-Z0-9_.-]+@[a-zA-Z0-9_.-]+\.[a-zA-Z]+$", trim($email))) {
+      if (!$email || !ereg("^[a-zA-Z0-9_.-]+@[a-zA-Z0-9_.-]+\.[a-zA-Z]+$", $email)) {
         $bad_elements[] = "email";
         $errors[] = "Please enter an email address we can use to contact you.";
       }
       $obfuscated_email = preg_replace("/@/", " AT ", $email);
 
-      if (!$summary || trim($summary) == "") {
+      if (!$summary || $summary == "") {
         $bad_elements[] = "summary";
         $errors[] = "Please enter a list of areas of GNOME to which you have made a non-trivial contribution.";
-      } else if (!$details || trim($details) == "") {
+      } else if (!$details || $details == "") {
         $bad_elements[] = "details";
         $errors[] = "Please enter a more detailed description of your contributions.";
       }
-      if (!$contacts || trim($contacts) == "") {
+      if (!$contacts || $contacts == "") {
         $bad_elements[] = "contacts";
         $errors[] = "Please enter a list of individuals who can confirm your contributions or indicate us how the membership committee can verify your contributions.";
       }
@@ -111,7 +118,7 @@
       }
   }
 
-  if (! $_POST['submit'] || count($bad_elements) != 0) {  ?>
+  if (! $submit || count($bad_elements) != 0) {  ?>
 
     <p>
       To apply for membership in the GNOME Foundation, please complete the
@@ -204,9 +211,7 @@
         For example, "Documentation, gnomecal, Debian packaging.":
       </p>
 
-      <textarea name="summary" rows="3" cols="50">
-        <?php if (trim($summary)) { echo trim($summary); } ?>
-      </textarea>
+      <textarea name="summary" rows="3" cols="50"><?php if ($summary) { echo $summary; } ?></textarea>
 
       <p>
         Please provide a more detailed description of your contributions to
@@ -218,9 +223,7 @@
         for Debian.":
       </p>
 
-      <textarea name="details" rows="10" cols="50">
-        <?php if (trim($details)) { echo trim($details); } ?>
-      </textarea>
+      <textarea name="details" rows="10" cols="50"><?php if ($details) { echo $details; } ?></textarea>
 
       <p>
         Please list individuals (frequently, but not necessarily, project
@@ -234,9 +237,7 @@
         maintainer); packaging logs at http://www.debian.org/packages/gnome/":
       </p>
 
-      <textarea name="contacts" rows="5" cols="50">
-        <?php if (trim($contacts)) { echo trim($contacts); } ?>
-      </textarea>
+      <textarea name="contacts" rows="5" cols="50"><?php if ($contacts) { echo $contacts; } ?></textarea>
 
       <h3>Other Comments</h3>
 
@@ -245,9 +246,7 @@
         believe the committee should consider while reviewing your application:
       </p>
 
-      <textarea name="comments" rows="10" cols="50">
-        <?php if (trim($comments)) { echo trim($comments); } ?>
-      </textarea>
+      <textarea name="comments" rows="10" cols="50"><?php if ($comments) { echo $comments; } ?></textarea>
 
       <p>
         <div class="center">
