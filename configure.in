@@ -16,7 +16,6 @@ Makefile
 foundation.gnome.org/Makefile
 foundation.gnome.org/img/Makefile
 foundation.gnome.org/img/logos/Makefile
-foundation.gnome.org/include/Makefile
 foundation.gnome.org/organization/Makefile
 foundation.gnome.org/documentation/Makefile
 foundation.gnome.org/membership/Makefile
