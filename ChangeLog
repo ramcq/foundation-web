@@ -1,5 +1,11 @@
 2001-07-16  Dan Mueth  <d-mueth@uchicago.edu>
 
+	Added a little blurb and cleaned up links a bit.
+
+	* elections.html:
+
+2001-07-16  Dan Mueth  <d-mueth@uchicago.edu>
+
 	Copied the FAQ into these pages so we can have a nicer and
 	more uniform appearance.  In the future, make sure to run
 	tidy first, since this is pretty ugly.
