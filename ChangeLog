@@ -1,5 +1,12 @@
 2001-07-13  Dan Mueth  <d-mueth@uchicago.edu>
 
+	Removing underscores and replacing with <em> because some
+	people were complaining lots of things look like links but aren't.
+
+	* index.html:
+
+2001-07-13  Dan Mueth  <d-mueth@uchicago.edu>
+
 	I now have membership-list.html generated which is the current
 	membership list, while membership.html is the original list
 	at the time of the first elections.  I clarified this and
