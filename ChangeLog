@@ -1,3 +1,17 @@
+2001-07-16  Dan Mueth  <d-mueth@uchicago.edu>
+
+	Copied the FAQ into these pages so we can have a nicer and
+	more uniform appearance.  In the future, make sure to run
+	tidy first, since this is pretty ugly.
+
+	* charter.html:
+	* elections.html:
+	* faq-ln7.html:
+	* faq.html:
+	* index.html:
+	* membership-form.html:
+	* membership-policy.html:
+
 2001-07-13  Dan Mueth  <d-mueth@uchicago.edu>
 
 	Updating the various pages so they have a common style and
