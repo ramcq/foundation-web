@@ -1,14 +1,16 @@
-Please do not commit to this module without first approving changes
-with the GNOME Foundation Membership Committee
-<membership-committee@gnome.org>.
+Please do not commit to this module without first approving changes with the
+GNOME Foundation Board or the Membership Committee:
 
-Note that many of these files were originally created with various
-HTML authoring tools and have a lot of evil cruft in them.  It is very
-unlikely that any of these files are valid HTML.  Over time we should
-gradually clean them up whenever we edit them until some day all the
-old cruft is gone and we have valid HTML :)
+  board-list@gnome.org
+  membership-committee@gnome.org
 
-Please edit these files by hand and consider using indentation ;)
+Note that many of these files were originally created with various HTML
+authoring tools and have a lot of evil cruft in them. It is very unlikely
+that any of these files are valid HTML. Over time we should gradually clean
+them up whenever we edit them until some day all the old cruft is gone and
+we have valid HTML. :)
 
-[ see README in the gnomeweb-wml module for a primer about GNOME Web site
-development.]
+Please edit these files by hand and consider using indentation. ;)
+
+[ See README in the gnomeweb-wml module for a primer about GNOME website
+development. ]
