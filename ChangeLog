@@ -1,3 +1,10 @@
+2003-12-03  Vincent Untz  <vincent@vuntz.net>
+
+	* foundation.gnome.org/elections/2003/.cvsignore: add candidates.html
+	* foundation.gnome.org/elections/2003/voters.wml: add jpr to the list
+	of voters. See archives of the membership-committee for the
+	justification.
+
 2003-11-21  Vincent Untz  <vincent@vuntz.net>
 
 	* foundation.gnome.org/elections/2003/candidates.wml: removed
