@@ -1,3 +1,30 @@
+2003-07-23  Gregory Leblanc <gleblanc@linuxweasel.com>
+
+	* README: some info on how to build a test-site from this branch
+	* advisory_board.html:
+	* ballot-summary-2001.html:
+	* ballot-summary.html:
+	* board_of_directors.html:
+	* charter.html:
+	* directory.html:
+	* documentation.html:
+	* election-2000.html:
+	* election-2001.html:
+	* electionrules-2001.html:
+	* electionrules.html:
+	* elections.html:
+	* evilsedhack:
+	* executive_director.html:
+	* faq.html:
+	* membership-list.html:
+	* membership-policy.html:
+	* membership.html:
+	* organization.html:
+	* voters-2000.html:
+	* voters-2001.html:
+	* voters.html:  ripped out navigational headers from all of these,
+	so that they'll work better on the new site layout.
+
 2003-07-23  Kenny Graunke  <kenny@whitecape.org>
 
 	* index.html:

@@ -1,3 +1,17 @@
+This branch is some work that I (Greg Leblanc
+<gleblanc@linuxweasel.com>) am doing in order to get
+foundation.gnome.org converted to the new site look and feel.  
+
+If you want to take a look at where things are going, grab this from
+CVS, set up a documentroot and a virtualhost for this (so that
+relative links work), and do 'evilsedhack < somefile.html >
+/web/root/somefile.html'.  The list of files that I ran this on is in
+the ChangeLog.  You'll also need to copy over the logos directory,
+gnome.jpg, and text.png (at least for now, those may be gone
+tomorrow).  Enjoy,
+	Greg
+
+
 This modules holds the web pages at http://foundation.gnome.org.
 
 Please read the HACKING file before making any changes.
