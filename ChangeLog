@@ -1,3 +1,19 @@
+2002-12-21  Vincent Untz  <vincent@vuntz.net>
+
+	* index.html: added the news for the official results
+	* ballot-summary.html
+	* electionrules.html
+	* elections.html
+	* overview.html
+	* voters.html
+	* elections/2002/preliminary_results.html
+	* elections/2002/verify.html: added a link to the official results
+	announcement
+	* board_of_directors-2000.html
+	* board_of_directors-2001.html
+	* board_of_directors.html: changed the board of directors and added a
+	page for the 2001/2002 board
+
 2002-12-03  Vincent Untz  <vincent@vuntz.net>
 
 	* index.html: fix wrong date
