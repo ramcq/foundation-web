@@ -1,3 +1,8 @@
+2004-01-13  Curtis C. Hovey  <sinzui@cox.net>
+
+	* HACKING: Added a note about gnomeweb-wml's README for developer
+	looking for GNOME Web site development instructions.
+
 2003-12-20  Vincent Untz  <vincent@vuntz.net>
 
 	* foundation.gnome.org/index.wml: add the news for the official
