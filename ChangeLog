@@ -1,4 +1,8 @@
-2002-11-21  Vincent Untz  <vincent@vuntz.net>
+2002-11-23  Vincent Untz  <vincent@vuntz.net>
+
+	* voters.html: we talk about elections, not memberships
+
+2002-11-23  Vincent Untz  <vincent@vuntz.net>
 
 	* voters.html: sorted the list alphabetically and removed the
 	contribution (they are in membership-list.html)
