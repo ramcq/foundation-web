@@ -1,9 +1,10 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
  
    <head>
      <title>GNOME Foundation 2003 Election Verification</title>
-     <meta name="cvsdate" content="$Date$">
+     <meta name="cvsdate" content="$Date$" />
    </head>
 
   <body>
@@ -51,10 +52,12 @@
 
     <p>
       Here are the steps to obtain the results:
-      <pre>$ tar zxvf 2003-verif.tar.gz</pre>
-      <pre>$ cd 2003-verif</pre>
-      <pre>$ make</pre>
     </p>
+    
+    <pre>$ tar zxvf 2003-verif.tar.gz</pre>
+    <pre>$ cd 2003-verif</pre>
+    <pre>$ make</pre>
+
 
     <p>
       The results should be in results.txt. A list of errors will be generated

@@ -1,9 +1,10 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 
   <head>
     <title>GNOME Foundation Membership Application</title>
-    <meta name="cvsdate" content="$Date$">
+    <meta name="cvsdate" content="$Date$" />
   </head>
 
   <body>
@@ -189,7 +190,7 @@
         <tr>
           <td colspan="2">
           <input type="checkbox" name="previousmember"
-                 <?php if ($previousmember) { ?> checked <?php } ?> />
+                 <?php if ($previousmember) { ?> checked="checked" <?php } ?> />
             Previous GNOME Foundation member
           </td>
         </tr>
@@ -247,8 +248,10 @@
         believe the committee should consider while reviewing your application:
       </p>
 
+      <p>
       <textarea name="comments" rows="10" cols="50"><?php if ($comments) { echo $comments; } ?></textarea>
-
+      </p>
+      
       <p>
         <div class="center">
           <input type="submit" name="submit" value="Submit Application" />

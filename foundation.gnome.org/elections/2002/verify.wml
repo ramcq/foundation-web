@@ -1,9 +1,10 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
  
    <head>
      <title>GNOME Foundation 2002 Election Verification</title>
-     <meta name="cvsdate" content="$Date$">
+     <meta name="cvsdate" content="$Date$" />
    </head>
 
     <h1>Election Verification</h1>
@@ -43,11 +44,13 @@
 
     <p>
       Here are the steps to obtain the results:
-      <pre>$ gunzip 2002-November.txt.gz 2002-December.txt.gz</pre>
-      <pre>$ cat 2002-November.txt 2002-December.txt &gt; vote-archives.txt</pre>
-      <pre>$ python list-addresses.py registered-voters.txt &gt; addresses.txt</pre>
-      <pre>$ python vote-counter.py vote-archives.txt dontforgettovote addresses.txt &gt; results.txt</pre>
     </p>
+
+    <pre>$ gunzip 2002-November.txt.gz 2002-December.txt.gz</pre>
+    <pre>$ cat 2002-November.txt 2002-December.txt &gt; vote-archives.txt</pre>
+    <pre>$ python list-addresses.py registered-voters.txt &gt; addresses.txt</pre>
+    <pre>$ python vote-counter.py vote-archives.txt dontforgettovote addresses.txt &gt; results.txt</pre>
+
 
     <p>
       The results should be in results.txt. A list of errors will be generated
@@ -60,8 +63,9 @@
     <p>
       If you want to replicate the posted results, you have to apply the diff
       file before running the scripts:
-      <pre>$ diff -p0 &lt; vote-archives.diff</pre>
     </p>
+    
+    <pre>$ diff -p0 &lt; vote-archives.diff</pre>
 
   </body>
 </html>

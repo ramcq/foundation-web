@@ -1,3 +1,44 @@
+2004-04-18  Curtis Hovey  <sinzui@cox.net>
+
+	* foundation.gnome.org/about/charter/index.wml:
+	* foundation.gnome.org/about/history/index.wml:
+	* foundation.gnome.org/about/index.wml:
+	* foundation.gnome.org/contact/index.wml:
+	* foundation.gnome.org/elections/2000/candidates.wml:
+	* foundation.gnome.org/elections/2000/index.wml:
+	* foundation.gnome.org/elections/2000/results.wml:
+	* foundation.gnome.org/elections/2000/rules.wml:
+	* foundation.gnome.org/elections/2000/verify.wml:
+	* foundation.gnome.org/elections/2000/voters.wml:
+	* foundation.gnome.org/elections/2001/candidates.wml:
+	* foundation.gnome.org/elections/2001/index.wml:
+	* foundation.gnome.org/elections/2001/rules.wml:
+	* foundation.gnome.org/elections/2001/verify.wml:
+	* foundation.gnome.org/elections/2001/voters.wml:
+	* foundation.gnome.org/elections/2002/candidates.wml:
+	* foundation.gnome.org/elections/2002/index.wml:
+	* foundation.gnome.org/elections/2002/preliminary-results.wml:
+	* foundation.gnome.org/elections/2002/rules.wml:
+	* foundation.gnome.org/elections/2002/verify.wml:
+	* foundation.gnome.org/elections/2002/voters.wml:
+	* foundation.gnome.org/elections/2003/candidates.wml:
+	* foundation.gnome.org/elections/2003/index.wml:
+	* foundation.gnome.org/elections/2003/preliminary-results.wml:
+	* foundation.gnome.org/elections/2003/rules.wml:
+	* foundation.gnome.org/elections/2003/verify.wml:
+	* foundation.gnome.org/elections/2003/voters.wml:
+	* foundation.gnome.org/elections/index.wml:
+	* foundation.gnome.org/elections/overview.wml:
+	* foundation.gnome.org/index.wml:
+	* foundation.gnome.org/legal/index.wml:
+	* foundation.gnome.org/membership/application.wml:
+	* foundation.gnome.org/membership/index.wml:
+	* foundation.gnome.org/membership/members.wml:
+	* foundation.gnome.org/news/index.wml:
+	* include/evilsedhack:
+
+	Converted to UTF-8 and XHTML transitional.
+
 2004-02-12: Aaron Weber <aaron@ximian.com>
 	* foundation.gnome.org/index.wml: alphabetize the logos.
 
