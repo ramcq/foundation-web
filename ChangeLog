@@ -1,5 +1,11 @@
 2002-03-05  Glynn Foster  <glynn.foster@sun.com>
 
+	* index.html: Remove Borland, Gnumatic, OMG, TurboLinux.
+		      s/VA Linux/OSDN
+	 logos/*: Removed old and added new.
+
+2002-03-05  Glynn Foster  <glynn.foster@sun.com>
+
 	* index.html: Changed link to new Ximian logo [better quality].
 	* logos/ximian.jpg: Added.
 
