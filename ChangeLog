@@ -1,5 +1,14 @@
 2003-10-29  Glynn Foster  <glynn.foster@sun.com>
 
+	* configure.in: Update.
+	* foundation.gnome.org/about/Makefile.am: Update
+	* foundation.gnome.org/about/charter/Makefile.am: New
+	* foundation.gnome.org/about/charter/index.wml: Moved from ../charter.wml
+	* foundation.gnome.org/membership/Makefile.am: Update.
+	* foundation.gnome.org/membership/index.wml: Remove silly page.
+
+2003-10-29  Glynn Foster  <glynn.foster@sun.com>
+
 	* configure.in: Add about and contacts, remove organization and 
 	  documentation.
 	* foundation.gnome.org/about/*: New content.

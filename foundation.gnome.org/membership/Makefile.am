@@ -4,7 +4,6 @@ urlpath = /membership
  
 page_SCRIPTS = \
         index.html	\
-        policy.html	\
         members.html	\
         application.php
 
