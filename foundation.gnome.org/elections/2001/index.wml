@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBliC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
                                                                                                                                                             
 <head>
@@ -10,41 +10,23 @@
  
 <h1>2001 GNOME Foundation Election</h1>
 
-<p>
-The election results from the 2001 Board of Directors election are archived
-here for public access.
-</p>
+  <p>
+  The election results from the 2001 Board of Directors election are archived
+  here for public access.
+  </p>
 
 <h2>2001 Election Materials</h2>
-<p>
-<UL>
-  <LI>
-   <A href="http://mail.gnome.org/archives/foundation-announce/2000-December/msg00002.html">Election results announcement.</A>
-  </LI>
-  <LI>
-   <A href="results.txt">Detailed election results.</A>
-  </LI>
-  <LI>
-   <A href="http://mail.gnome.org/archives/vote/2001-November/thread.html">Archive of all votes.</A>
-  </LI>
-  <LI>
-   <A href="verify.html">Instructions</A> for running the <A href="vote-counter.py">vote counting script</A>.
-  </LI>
-  <LI>
-   <A href="candidates.html">List of candidates for Board of Directors</A>
-  </LI>
-  <LI>
-   <A href="voters.html">List of registered voters.</A>
-  </LI>
-  <LI>
-   <A href="rules.html">Election rules and procedures</A>
-  </LI>
-  <li>
-   <a href="../overview.html">Overview of the Board of Directors role</a>
-  </li>
-</UL>
-</p>
+  <ul>
+    <li><a href="http://mail.gnome.org/archives/foundation-announce/2000-December/msg00002.html">Election results announcement.</a></li>
+    <li><a href="results.txt">Detailed election results.</a></li>
+    <li><a href="http://mail.gnome.org/archives/vote/2001-November/thread.html">Archive of all votes.</a></li>
+    <li><a href="verify.html">Instructions</a> for running the <a href="vote-counter.py">vote counting script</a>.</li>
+    <li><a href="candidates.html">List of candidates for Board of Directors</a></li>
+    <li><a href="voters.html">List of registered voters.</a></li>
+    <li><a href="rules.html">Election rules and procedures</a></li>
+    <li><a href="../overview.html">Overview of the Board of Directors role</a></li>
+  </ul>
 
- </body>
+</body>
 </html>
 
