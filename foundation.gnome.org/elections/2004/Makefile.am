@@ -11,6 +11,7 @@ page_SCRIPTS = \
 	verify.html
 
 page_DATA = \
-	timeline.ics
+	timeline.ics \
+	2004-verif.tar.gz
 
 include $(top_srcdir)/rules.common

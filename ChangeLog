@@ -1,5 +1,11 @@
 2004-12-08  Vincent Untz  <vincent@vuntz.net>
 
+	* foundation.gnome.org/elections/2004/Makefile.am:
+	* foundation.gnome.org/elections/2004/2004-verif.tar.gz: might be
+	useful to have this online if people want to verify the results :-)
+
+2004-12-08  Vincent Untz  <vincent@vuntz.net>
+
 	* foundation.gnome.org/index.wml: add new about preliminary results
 	* foundation.gnome.org/news/index.wml: ditto
 	* foundation.gnome.org/elections/2004/Makefile.am:
