@@ -40,13 +40,12 @@
   <h2>How can I apply for membership in the GNOME Foundation?</h2>
 
   <p>
-    To apply for membership, please complete the form available at <a
-    href="http://foundation.gnome.org/membership/membership-form.php">
-    http://foundation.gnome.org/membership-form.php</a>. Please note that
-    applications for membership must include sufficient information to allow the
-    Membership Committee to verify the applicants' eligibility; applications
-    which include inaccurate or insufficient information may be rejected at the
-    committee's discretion.
+    To apply for membership, please complete the form available <a
+    href="application.php">on the web</a>. Please note that applications
+    for membership must include sufficient information to allow the
+    Membership Committee to verify the applicants' eligibility;
+    applications which include inaccurate or insufficient information
+    may be rejected at the committee's discretion.
   </p>
 
 
@@ -69,7 +68,7 @@
     Membership in the GNOME Foundation ordinarily lasts for two years. A
     reasonable period of time before your membership expires, you will be
     contacted by the Membership Committee with a request that you file a renewal
-    application, available <a href="membership-form.php">here</a>. Renewal
+    application, available <a href="application.php">here</a>. Renewal
     applications will be reviewed according to the same standards outlined above
     for an initial membership, and must generally be supported by recent or
     ongoing contributions to GNOME. If you do not file a valid renewal

@@ -1,3 +1,24 @@
+2003-10-27  Vincent Untz  <vincent@vuntz.net>
+
+	* foundation.gnome.org/.cvsignore: added news.html
+	* foundation.gnome.org/elections/2002/.cvsignore: added
+	preliminary_results.html
+	* foundation.gnome.org/index.wml: s/&/&amp;/
+	* foundation.gnome.org/news.wml
+	* foundation.gnome.org/documentation/index.wml
+	* foundation.gnome.org/elections/overview.wml
+	* foundation.gnome.org/elections/2000/candidates.wml
+	* foundation.gnome.org/elections/2000/rules.wml
+	* foundation.gnome.org/elections/2001/candidates.wml
+	* foundation.gnome.org/elections/2001/rules.wml
+	* foundation.gnome.org/elections/2002/candidates.wml
+	* foundation.gnome.org/elections/2002/rules.wml
+	* foundation.gnome.org/elections/2003/rules.wml
+	* foundation.gnome.org/membership/application.wml
+	* foundation.gnome.org/membership/index.wml
+	* foundation.gnome.org/membership/policy.wml:
+	Fix the links. Make all links relative.
+
 2003-10-25  Glynn Foster  <glynn.foster@sun.com>
 
 	* foundation.gnome.org/Makefile.am: Add new page

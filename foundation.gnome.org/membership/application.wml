@@ -93,7 +93,7 @@
 	  <p>If you have any questions, please e-mail
 	     <a href=\"mailto:membership-committee@gnome.org\">membership-committee@gnome.org.</p>
 	  <br> <br>
-	  <center><a href=\"http://foundation.gnome.org\">Return to the
+	  <center><a href=\"../\">Return to the
 	          GNOME Foundation home page</a></center>
           ");
       }
@@ -107,9 +107,8 @@ then be reviewed by the Foundation's Membership and Elections
 Committee, which will notify you when your application has been
 accepted or rejected; the committee may also ask you for additional
 information. For details on the standards used in evaluating
-applications, see the <a href="membership-policy.html">GNOME
-Foundation Membership Policy</a>, adopted by the Board of
-Directors.</p>
+applications, see the <a href="policy.html">GNOME Foundation
+Membership Policy</a>, adopted by the Board of Directors.</p>
 
 <p>If you have any questions regarding the application process,
 please feel free to e-mail the committee at <a
