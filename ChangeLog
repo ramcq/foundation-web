@@ -1,3 +1,42 @@
+2001-11-15  Dan Mueth  <d-mueth@uchicago.edu>
+
+	Updating navigation links for new press stuff.
+
+	* advisory_board.html:
+	* ballot-summary.html:
+	* ballot_summary.html:
+	* board_of_directors.html:
+	* charter.html:
+	* directory.html:
+	* documentation.html:
+	* election-2000.html:
+	* electionrules.html:
+	* elections.html:
+	* executive_director.html:
+	* faq-ln7.html:
+	* faq.html:
+	* index.html:
+	* membership-form.html:
+	* membership-policy.html:
+	* membership.html:
+	* organization.html:
+	* overview.html:
+	* template.html:
+
+	Adding press release info.
+
+	* press.html:
+	* press/pr-accessible.html:
+	* press/pr-borlandjoins.html:
+	* press/pr-foundation.html:
+	* press/pr-gnome14.html:
+	* press/pr-mandrakesoftjoins.html:
+	* press/pr-newcommitments.html:
+	* press/pr-ney_execdir.html:
+	* press/pr-redflagjoins.html:
+	* press/pr-redhat.html:
+	* press/pr-sunjoins.html:
+
 2001-11-10  Dan Mueth  <d-mueth@uchicago.edu>
 
 	Fixing the navigation links a bit - one was missing, and a couple
