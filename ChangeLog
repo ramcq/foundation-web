@@ -1,3 +1,11 @@
+2003-10-25  Glynn Foster  <glynn.foster@sun.com>
+
+	* foundation.gnome.org/Makefile.am: Add new page
+	* foundation.gnome.org/index.wml: Change title, remove news items, and
+	add Wilson Sonsini thank you.
+	* foundation.gnome.org/news.wml: Add new.
+	* include/evilsedhack: s/Fundraising/Donate to GNOME
+
 2003-10-25  Vincent Untz  <vincent@vuntz.net>
 
 	* .cvsignore

@@ -4,6 +4,7 @@ urlpath =
 
 page_SCRIPTS = \
 	index.html \
+	news.html \
 	.htaccess
 
 page_DATA = \
