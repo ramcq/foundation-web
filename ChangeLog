@@ -1,5 +1,10 @@
 2002-11-21  Vincent Untz  <vincent@vuntz.net>
 
+	* voters.html: sorted the list alphabetically and removed the
+	contribution (they are in membership-list.html)
+
+2002-11-21  Vincent Untz  <vincent@vuntz.net>
+
 	* voters.html: corrected Patrick Costello's e-mail address
 
 2002-11-20  Vincent Untz  <vincent@vuntz.net>
