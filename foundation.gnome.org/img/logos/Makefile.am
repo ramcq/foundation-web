@@ -1,5 +1,7 @@
 urlpath=/img
 
+page_SCRIPTS =
+
 page_DATA = \
 	debian.gif		\
 	fsf.gif			\
