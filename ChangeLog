@@ -1,3 +1,14 @@
+2003-11-11  Vincent Untz  <vincent@vuntz.net>
+
+	* foundation.gnome.org/elections/2003/candidates.wml: add Leslie's
+	affiliation.
+
+2003-11-11  Vincent Untz  <vincent@vuntz.net>
+
+	* foundation.gnome.org/elections/2003/Makefile.am
+	* foundation.gnome.org/elections/2003/candidates.wml: really add the
+	list of candidates.
+
 2003-11-09  Vincent Untz  <vincent@vuntz.net>
 
 	* foundation.gnome.org/index.wml
