@@ -1,3 +1,14 @@
+2002-08-18  Vincent Untz  <vincent@vuntz.net>
+
+	* cgi-bin/membership-form-handler.cgi
+	* membership-form.html : removed the old form
+	* membership-form.php: added the new form (it checks if fields
+	are correctly filled).
+	* electionrules.html
+	* index.html
+	* membership-policy.html
+	* membership.html : changed the links to the form.
+
 2002-08-06  Glynn Foster  <glynn.foster@sun.com>
 
 	* cgi-bin/membership-form-handler.cgi: Perl uses 'eq' not
