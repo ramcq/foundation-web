@@ -1,5 +1,18 @@
 2001-07-13  Dan Mueth  <d-mueth@uchicago.edu>
 
+	Updating the various pages so they have a common style and
+	set of links.  Before you couldn't navigate from any of them
+	to the main page or to www.gnome.org or to each other.  Now
+	you can :)
+
+	* charter.html:
+	* elections.html:
+	* index.html:
+	* membership-form.html:
+	* membership-policy.html:
+
+2001-07-13  Dan Mueth  <d-mueth@uchicago.edu>
+
 	Testing scripts...... 
 
 2001-07-13  Dan Mueth  <d-mueth@uchicago.edu>
