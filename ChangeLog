@@ -1,5 +1,29 @@
-2003-07-23  Gregory Leblanc <gleblanc@linuxweasel.com>
+2003-07-23  Kenny Graunke  <kenny@whitecape.org>
 
+	* advisory_board.html:
+	* announcement.html:
+	* ballot-summary.html:
+	* board_of_directors.html:
+	* charter.html:
+	* directory.html:
+	* documentation.html:
+	* elections.html:
+	* executive_director.html:
+	* index.html:
+	* membership.html:
+	* organization.html:
+	* template.html:
+
+	Now valid XHTML 1.0 Transitional, and using the UTF-8 character
+	encoding - none was previously specified. developer.gnome.org has
+	used this for a long time. Also, major code cleanup, and a large
+	amount of page formatting cleanup as well.
+
+	* evilsedhack:
+
+	Changed the heading to be valid XHTML 1.0 Transitional.
+
+2003-07-23  Gregory Leblanc <gleblanc@linuxweasel.com>
 
 	* advisory_board.html:
 	* board_of_directors.html:
