@@ -1,5 +1,10 @@
 2004-09-21  Vincent Untz  <vincent@vuntz.net>
 
+	* foundation.gnome.org/referenda/2004-10/voters.wml: some entries were not
+	complete...
+
+2004-09-21  Vincent Untz  <vincent@vuntz.net>
+
 	* foundation.gnome.org/referenda/2004-10/.cvsignore:
 	* foundation.gnome.org/referenda/2004-10/Makefile.am:
 	* foundation.gnome.org/referenda/2004-10/index.wml:
