@@ -1,5 +1,12 @@
 2001-07-16  Dan Mueth  <d-mueth@uchicago.edu>
 
+	Every module deserves HACKING and README files :)
+
+	* HACKING:
+	* README:
+
+2001-07-16  Dan Mueth  <d-mueth@uchicago.edu>
+
 	Added a little blurb and cleaned up links a bit.
 
 	* elections.html:
