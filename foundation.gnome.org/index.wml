@@ -40,6 +40,17 @@
     <h2>News</h2>
     <ul>
       <li>
+        <strong>Preliminary results of 2004 elections announced</strong>
+        <small>(08/12/2004)</small>
+        <blockquote>
+          The preliminary results of the elections have been <a
+          href="elections/2004/preliminary-results.html">posted</a>.
+	  You can <a href="elections/2004/verify.html">verify the results</a>
+	  yourself.
+          Any challenges to these results must be received by December 20th.
+        </blockquote>
+      </li>
+      <li>
         <strong>2004 GNOME Foundation Elections</strong>
         <small>(24/10/2004)</small>
         <blockquote>
@@ -68,30 +79,6 @@
           You can <a href="referenda/2004-10/verify.html">verify the results</a>
           yourself.
           Any challenges to these results must be received by October 22nd.
-        </blockquote>
-      </li>
-      <li>
-        <strong>Anonymous Voting Referendum</strong>
-        <small>(14/09/2004)</small>
-        <blockquote>
-          The GNOME Foundation will hold a <a
-          href="referenda/2004-10/">referendum</a> about anonymous voting in
-          a few weeks. Take a look at the <a
-          href="referenda/2004-10/rules.html">rules and the timeline</a>.
-        </blockquote>
-      </li>
-      <li>
-        <strong>Results of 2003 elections official</strong>
-        <small>(20/12/2003)</small>
-        <blockquote>
-          The GNOME Foundation Membership &amp; Elections Committee is pleased
-          to announce that the results for the 2003 GNOME Foundation elections
-          are now official. The Foundation board directors for the 2003/2004
-          term of office are:
-          <br /><br />
-	  Jonathan Blandford, Dave Camp, Glynn Foster, Nat Friedman, Jody
-	  Goldberg, Bill Haneman, Leslie Proctor, Owen Taylor, Malcolm
-	  Tredinnick, Luis Villa, Jeff Waugh.
         </blockquote>
       </li>
     </ul>

@@ -6,7 +6,9 @@ page_SCRIPTS = \
 	index.html \
 	voters.html \
 	candidates.html\
-	rules.html
+	rules.html \
+	preliminary-results.html \
+	verify.html
 
 page_DATA = \
 	timeline.ics

@@ -1,3 +1,13 @@
+2004-12-08  Vincent Untz  <vincent@vuntz.net>
+
+	* foundation.gnome.org/index.wml: add new about preliminary results
+	* foundation.gnome.org/news/index.wml: ditto
+	* foundation.gnome.org/elections/2004/Makefile.am:
+	* foundation.gnome.org/elections/2004/preliminary-results.wml:
+	* foundation.gnome.org/elections/2004/verify.wml: new files
+	* foundation.gnome.org/elections/2004/index.wml: add links to the
+	verify instructions and preliminary results
+
 2004-11-26  Glynn Foster  <glynn.foster@sun.com>
 
 	* foundation.gnome.org/Makefile.am, 
