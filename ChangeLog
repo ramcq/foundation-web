@@ -1,5 +1,13 @@
 2001-11-03  Dan Mueth  <d-mueth@uchicago.edu>
 
+	Created documentation section for the web page.
+
+	* charter.html:
+	* faq.html:
+	* index.html:
+
+2001-11-03  Dan Mueth  <d-mueth@uchicago.edu>
+
 	Cleaning up organization of election materials.
 
 	* election-2000.html:
