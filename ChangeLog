@@ -1,5 +1,11 @@
 2005-03-01  Vincent Untz  <vincent@vuntz.net>
 
+	* foundation.gnome.org/*wml: try to make the titles more consistent
+
+	* foundation.gnome.org/about/history/index.wml: add previous board
+
+2005-03-01  Vincent Untz  <vincent@vuntz.net>
+
 	* foundation.gnome.org/membership/application.wml: add a note about
 	the delay 
 

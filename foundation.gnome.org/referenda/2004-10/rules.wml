@@ -3,13 +3,13 @@
 <html>
 
   <head>
-    <title>GNOME Foundation Referendum Rules</title>
+    <title>GNOME Foundation Anonymous Voting Referendum Rules</title>
     <meta name="cvsdate" content="$Date$" />
   </head>
 
   <body>
 
-    <h1>GNOME Foundation Referendum Rules &amp; Timeline</h1>
+    <h1>Rules &amp; Timeline for the GNOME Foundation Anonymous Voting Referendum</h1>
 
     <h2>Referendum Rules</h2> 
 
@@ -25,7 +25,7 @@
         href="../../membership/application.php">application</a>.
       </li>
       <li>
-        All discussion related to the election should be held on
+        All discussion related to the referendum should be held on
         <a href="http://mail.gnome.org/archives/foundation-list/">foundation-list&#64;gnome&#46;org</a>.
       </li>
       <li>
@@ -34,7 +34,7 @@
         Full instructions will be included in the ballot.
       </li>
       <li>
-        Ballots will be held confidential during the election, but an archive
+        Ballots will be held confidential during the referendum, but an archive
         of all submitted ballots will be made publicly accessible at its
         conclusion.
       </li>
@@ -44,11 +44,11 @@
       </li>
       <li>
         In the event of a tie, the Elections Committee will schedule a run-off
-        election as soon as possible. 
+        referendum as soon as possible. 
       </li>
       <li>
         The Elections Committee will announce preliminary results as soon as
-        possible after the election closes, along with instructions on how to
+        possible after the referendum closes, along with instructions on how to
         access the ballot archive and how to independently verify the vote
         count.
       </li>

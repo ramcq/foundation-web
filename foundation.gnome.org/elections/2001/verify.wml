@@ -3,13 +3,13 @@
 <html>
 
   <head>
-    <title>GNOME Foundation 2001 Election Verification</title>
+    <title>GNOME Foundation 2001 Elections Verification</title>
     <meta name="cvsdate" content="$Date$" />
   </head>
 
   <body>
 
-    <h1>2001 Election Verification</h1>
+    <h1>Verification of the GNOME Foundation 2001 Elections Results</h1>
 
     <p>
       To run the vote counting scripts, you need to perform several
