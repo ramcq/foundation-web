@@ -3,18 +3,18 @@
 
   <head>
     <title>GNOME Foundation Voters</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="cvsdate" content="$Date$">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   </head>
 
   <body>
 
     <p>
-      Send comments, questions, and updates to <a
-      href="mailto:elections@gnome.org">elections@gnome.org</a>.
+      Send comments, questions, and updates to
+      <a href="mailto:elections@gnome.org">elections@gnome.org</a>.
     </p>
 
-    <ul> 
+    <ul>
       <li>JoaquÃ­n Cuenca Abela &lt;e98cuenc@no_spam.yahoo.com&gt;</li>
       <li>Alejandro SÃ¡nchez Acosta &lt;asanchez@no_spam.gnu.org&gt;</li>
       <li>Vincent van Adrighem &lt;V.vanAdrighem@no_spam.dirck.mine.nu&gt;</li>
@@ -49,30 +49,31 @@
       <li>Anders Carlsson &lt;andersca@no_spam.gnu.org&gt;</li>
       <li>Nate Case &lt;nd@no_spam.kracked.com&gt;</li>
       <li>Francisco Petrucio Cavalcante Junior &lt;fpcj@no_spam.impa.br&gt;</li>
-      <li>Görkem Çetin &lt;gorkem@no_spam.bahcesehir.edu.tr&gt;</li>
+      <li>GÃ¶rkem Ã‡etin &lt;gorkem@no_spam.bahcesehir.edu.tr&gt;</li>
       <li>Chema Celorio &lt;chema@no_spam.celorio.com&gt;</li>
       <li>Manuel M. T. Chakravarty &lt;chak@no_spam.cse.unsw.edu.au&gt;</li>
       <li>Young-Ho Cha &lt;ganadist@no_spam.mizi.com&gt;</li>
-      <li>Gaël Chamoulaud &lt;the_strider@no_spam.parinux.org&gt;</li>
-      <li>Damon Chaplin &lt;damon@no_spam.kendo.fsnet.co.uk&gt;</li>
+      <li>GaÃ«l Chamoulaud &lt;the_strider@no_spam.parinux.org&gt;</li>
+      <li>Damon Chaplin &lt;damon@no_spam.gnome.org&gt;</li>
       <li>Nikos Charonitakis &lt;charosn@no_spam.her.forthnet.gr&gt;</li>
-      <li>Erwann Chénedé &lt;erwann.chenede@no_spam.sun.com&gt;</li>
+      <li>Erwann ChÃ©nedÃ© &lt;erwann.chenede@no_spam.sun.com&gt;</li>
       <li>Frank Chiulli &lt;fc-linux@no_spam.cox.net&gt;</li>
       <li>Kenneth Rohde Christiansen &lt;kenneth@no_spam.gnu.org&gt;</li>
       <li>Greg Corrin &lt;gcorrin@no_spam.yahoo.com&gt;</li>
       <li>Patrick Costello &lt;patrick.costello@no_spam.sun.com&gt;</li>
       <li>Alan Cox &lt;number6@no_spam.the-village.bc.nu&gt;</li>
       <li>Dennis Michael Cranston &lt;dennis_cranston@no_spam.yahoo.com&gt;</li>
-      <li>Olivier Crête &lt;tester@no_spam.tester.ca&gt;</li>
+      <li>Olivier CrÃªte &lt;tester@no_spam.tester.ca&gt;</li>
       <li>Frederic Crozat &lt;fcrozat@no_spam.mandrakesoft.com&gt;</li>
       <li>Murray Cumming &lt;murrayc@no_spam.usa.net&gt;</li>
+      <li>Elros Cyriatan &lt;cyriatan@no_spam.fastmail.fm&gt;</li>
       <li>Adrian Vance Custer &lt;acuster@no_spam.nature.berkeley.edu&gt;</li>
       <li>Johan Dahlin &lt;johan@no_spam.gnome.org&gt;</li>
       <li>Nalin Dahyabhai &lt;nalin.dahyabhai@no_spam.pobox.com&gt;</li>
       <li>Sayamindu Dasgupta &lt;sayamindu@no_spam.clai.net&gt;</li>
       <li>Dan Damian &lt;dand@no_spam.softhome.net&gt;</li>
       <li>Adi Dascal &lt;ad@no_spam.baum.ro&gt;</li>
-      <li>J.H.M. Dassen (Ray) &lt;jdassen@no_spam.debian.org&gt;</li>
+      <li>J.H.M. Dassen</li>
       <li>Rodney Dawes &lt;dobey@no_spam.ximian.com&gt;</li>
       <li>Fatih Demir &lt;kabalak@no_spam.gtranslator.org&gt;</li>
       <li>Anna Marie Dirks &lt;anna@no_spam.ximian.com&gt;</li>
@@ -80,6 +81,7 @@
       <li>Simford Dong &lt;simford.dong@no_spam.sun.com&gt;</li>
       <li>Radek Doulik &lt;rodo@no_spam.matfyz.cz&gt;</li>
       <li>Radka Doulikova &lt;doulikova@no_spam.centrum.cz&gt;</li>
+      <li>Yuedong Du &lt;yuedong.du@no_spam.sun.com&gt;</li>
       <li>Paul Duffy &lt;dubhthach@no_spam.frink.nuigalway.ie&gt;</li>
       <li>Alex Duggan &lt;aldug@no_spam.astrolinux.com&gt;</li>
       <li>Nguyen Thai Ngoc Duy &lt;pclouds@no_spam.users.sourceforge.net&gt;</li>
@@ -101,16 +103,19 @@
       <li>Steve Fox &lt;drfickle@no_spam.k-lug.org&gt;</li>
       <li>David Abilleira Freijeiro &lt;david1@no_spam.abilleira.com&gt;</li>
       <li>Nat Friedman &lt;nat@no_spam.ximian.com&gt;</li>
+      <li>Alessio Frusciante &lt;algol@no_spam.firenze.linux.it&gt;</li>
       <li>Christopher R. Gabriel &lt;cgabriel@no_spam.gnu.org&gt;</li>
       <li>Karl Gaffney &lt;karl.gaffney@no_spam.sun.com&gt;</li>
       <li>Carlos Garnacho Parro &lt;garnacho@no_spam.tuxerver.net&gt;</li>
       <li>Jim Garrison &lt;garrison@no_spam.users.sourceforge.net&gt;</li>
       <li>StÃ©phane Genaud &lt;genaud@no_spam.icps.u-strasbg.fr&gt;</li>
       <li>Matthew A. Gerginski &lt;mattgerg@no_spam.users.sourceforge.net&gt;</li>
+      <li>Tim Gerla &lt;tim@no_spam.gerla.net&gt;</li>
       <li>Daniel German &lt;dmg@no_spam.csg.uwaterloo.ca&gt;</li>
       <li>Jim Gettys &lt;Jim.Gettys@no_spam.hp.com&gt;</li>
-      <li>Gustavo Giráldez &lt;gustavo.giraldez@no_spam.gmx.net&gt;</li>
+      <li>Gustavo GirÃ¡ldez &lt;gustavo.giraldez@no_spam.gmx.net&gt;</li>
       <li>Jody Goldberg &lt;jody@no_spam.gnome.org&gt;</li>
+      <li>Ross Golder &lt;ross@no_spam.golder.org&gt;</li>
       <li>Mark Gordon &lt;mtgordon@no_spam.ximian.com&gt;</li>
       <li>Allan Gottlieb &lt;gottlieb@no_spam.nyu.edu&gt;</li>
       <li>Ted Gould &lt;ted@no_spam.gould.cx&gt;</li>
@@ -122,6 +127,7 @@
       <li>Mikael Hallendal &lt;micke@no_spam.imendio.com&gt;</li>
       <li>Bill Haneman &lt;bill.haneman@no_spam.sun.com&gt;</li>
       <li>Dafydd Harries &lt;daf@no_spam.parnassus.ath.cx&gt;</li>
+      <li>Sean Harshbarger &lt;harshy@no_spam.dersoldat.org&gt;</li>
       <li>John Heard &lt;john.heard@no_spam.sun.com&gt;</li>
       <li>David Helder &lt;dhelder@no_spam.umich.edu&gt;</li>
       <li>Jon KÃ¥re Hellan &lt;hellan@no_spam.acm.org&gt;</li>
@@ -143,12 +149,14 @@
       <li>Amy Kahn &lt;amy@no_spam.zoned.net&gt;</li>
       <li>Benjamin Kahn &lt;xkahn@no_spam.ximian.com&gt;</li>
       <li>John Karcz &lt;jsk29@no_spam.cornell.edu&gt;</li>
+      <li>Matt Keenan &lt;matt.keenan@no_spam.sun.com&gt;</li>
       <li>David Kennedy &lt;dkennedy@no_spam.tinytoad.com&gt;</li>
       <li>Darren Kenny &lt;darren.kenny@no_spam.sun.com&gt;</li>
       <li>Charles Kerr &lt;charles@no_spam.rebelbase.com&gt;</li>
       <li>Mike Kestner &lt;mkestner@no_spam.ximian.com&gt;</li>
       <li>Richard Kinder &lt;r_kinder@no_spam.yahoo.com&gt;</li>
       <li>Alexander Kirillov &lt;kirillov@no_spam.math.sunysb.edu&gt;</li>
+      <li>Werner Koch &lt;wk@no_spam.gnupg.org&gt;</li>
       <li>Peter Korn &lt;korn@no_spam.sun.com&gt;</li>
       <li>Martin Kretzschmar &lt;m_kretzschmar@no_spam.gmx.net&gt;</li>
       <li>Todd Kulesza &lt;todd@no_spam.dropline.net&gt;</li>
@@ -157,6 +165,7 @@
       <li>Dom Lachowicz &lt;cinamod@no_spam.hotmail.com&gt;</li>
       <li>Chris Lahey &lt;clahey@no_spam.ximian.com&gt;</li>
       <li>Patrick Lam &lt;plam@no_spam.mit.edu&gt;</li>
+      <li>Tyler Lane &lt;tlane@no_spam.lyrical.net&gt;</li>
       <li>Andrew Lanoix &lt;alanoix@no_spam.umich.edu&gt;</li>
       <li>Will LaShell &lt;will@no_spam.lashell.net&gt;</li>
       <li>Alexander Larsson &lt;alexl@no_spam.redhat.com&gt;</li>
@@ -172,7 +181,7 @@
       <li>Jessie Li &lt;jessie.li@no_spam.sun.com&gt;</li>
       <li>Gary Little &lt;gary.little@no_spam.sun.com&gt;</li>
       <li>Dennis M.D. Ljungmark &lt;spider@no_spam.gentoo.org&gt;</li>
-      <li>Xan López Saborido &lt;xan@no_spam.masilla.org&gt;</li>
+      <li>Xan LÃ³pez Saborido &lt;xan@no_spam.masilla.org&gt;</li>
       <li>Yibin Robin Lu &lt;robin.lu@no_spam.no_spam.sun.com&gt;</li>
       <li>Chris Lyttle &lt;chris@no_spam.wilddev.net&gt;</li>
       <li>Paolo Maggi &lt;maggi@no_spam.athena.polito.it&gt;</li>
@@ -205,7 +214,7 @@
       <li>Paolo Molaro &lt;lupus@no_spam.debian.org&gt;</li>
       <li>RamsÃ©s Morales &lt;ramses@no_spam.computer.org&gt;</li>
       <li>Sameer Morar &lt;smorar@no_spam.smuts.uct.ac.za&gt;</li>
-      <li>Jan Morén &lt;jan.moren@no_spam.lucs.lu.se&gt;</li>
+      <li>Jan MorÃ©n &lt;jan.moren@no_spam.lucs.lu.se&gt;</li>
       <li>Carlos Morgado &lt;chbm@no_spam.primatas.org&gt;</li>
       <li>Jeffrey Morgan &lt;jeffrey.morgan@no_spam.bristolwest.com&gt;</li>
       <li>Rodrigo Moya &lt;rodrigo@no_spam.gnome-db.org&gt;</li>
@@ -224,7 +233,7 @@
       <li>Eugene O'Connor &lt;eugene.oconnor@no_spam.sun.com&gt;</li>
       <li>Shane O'Connor &lt;shane.oconnor@no_spam.sun.com&gt;</li>
       <li>Tomas Ogren &lt;stric@no_spam.ing.umu.se&gt;</li>
-      <li>Anne Østergaard &lt;anne@no_spam.oestergaard.nu&gt;</li>
+      <li>Anne Ã˜stergaard &lt;anne@no_spam.oestergaard.nu&gt;</li>
       <li>Jaime Anguiano Olarra &lt;jaime@no_spam.geneura.ugr.es&gt;</li>
       <li>Ismael Olea &lt;ismael@no_spam.olea.org&gt;</li>
       <li>Alvaro Lopez Ortega &lt;alvaro@no_spam.0x50.org&gt;</li>
@@ -248,7 +257,7 @@
       <li>Andy Piper &lt;andy.piper@no_spam.freeuk.com&gt;</li>
       <li>Hasbullah Bin Pit &lt;sebol@no_spam.ikhlas.com&gt;</li>
       <li>German Poo CaamaÃ±o &lt;gpoo@no_spam.ubiobio.cl&gt;</li>
-      <li>Søren Poulsen &lt;bitzer@no_spam.mail.dk&gt;</li>
+      <li>SÃ¸ren Poulsen &lt;bitzer@no_spam.mail.dk&gt;</li>
       <li>Roozbeh Pournader &lt;roozbeh@no_spam.sharif.edu&gt;</li>
       <li>Brittany Proctor &lt;proctors@no_spam.pacbell.net&gt;</li>
       <li>Leslie Proctor &lt;proctors@no_spam.pacbell.net&gt;</li>
@@ -282,6 +291,7 @@
       <li>Dodji Seketeli &lt;dodji@no_spam.seketeli.org&gt;</li>
       <li>Ramanan Selvaratnam &lt;rama@no_spam.uklinux.net&gt;</li>
       <li>Martin Sevior &lt;msevior@no_spam.physics.unimelb.edu.au&gt;</li>
+      <li>Kalpesh Shah &lt;kalpesh.shah@no_spam.wipro.com&gt;</li>
       <li>Joe Shaw &lt;joe@no_spam.ximian.com&gt;</li>
       <li>Dan Siemon &lt;dan@no_spam.coverfire.com&gt;</li>
       <li>Gustavo Noronha Silva &lt;kov@no_spam.debian.org&gt;</li>
@@ -297,7 +307,7 @@
       <li>Yuriy Syrota &lt;rasta@no_spam.renome.rovno.ua&gt;</li>
       <li>David Tabachnikov &lt;captain@no_spam.bezeqint.net&gt;</li>
       <li>Akira Tagoh &lt;tagoh@no_spam.gnome.gr.jp&gt;</li>
-      <li>Li-Cheng (Andy) Tai &lt;atai@no_spam.atai.org&gt;</li>
+      <li>Li-Cheng</li>
       <li>Owen Taylor &lt;otaylor@no_spam.redhat.com&gt;</li>
       <li>Marcel Telka &lt;marcel@no_spam.telka.sk&gt;</li>
       <li>Ghee Teo &lt;ghee.teo@no_spam.sun.com&gt;</li>
@@ -316,6 +326,7 @@
       <li>Daniel Veillard &lt;daniel@no_spam.veillard.com&gt;</li>
       <li>Gustavo Maciel Dias Vieira &lt;gdvieira@no_spam.zaz.com.br&gt;</li>
       <li>Luis Villa &lt;louie@no_spam.ximian.com&gt;</li>
+      <li>Balamurali Viswanathan &lt;balamurali.viswanathan@no_spam.wipro.com&gt;</li>
       <li>Colin Walters &lt;walters@no_spam.debian.org&gt;</li>
       <li>Erik Walthinsen &lt;omega@no_spam.temple-baptist.com&gt;</li>
       <li>Xing Wang &lt;wangxing@no_spam.tsinghua.org.cn&gt;</li>
@@ -326,9 +337,9 @@
       <li>Robert Wilhelm &lt;robert.wilhelm@no_spam.gmx.net&gt;</li>
       <li>Sebastian Wilhelmi &lt;seppi@no_spam.seppi.de&gt;</li>
       <li>James Willcox &lt;jwillcox@no_spam.cs.indiana.edu&gt;</li>
-      <li>Peter Williams &lt;peterw@no_spam.ximian.com&gt;</li>
+      <li>Peter Williams &lt;peter@no_spam.newton.cx&gt;</li>
       <li>Andy Wingo &lt;wingo@no_spam.pobox.com&gt;</li>
-      <li>Simos Xenitellis &lt;simos@no_spam.hellug.gr&gt;</li>
+      <li>Simos Xenitellis &lt;simos74@no_spam.gmx.net&gt;</li>
       <li>Antonio Xu &lt;antonio.xu@no_spam.sun.com&gt;</li>
       <li>Jay Yan &lt;jay.yan@no_spam.sun.com&gt;</li>
       <li>Bolian Yin &lt;bolian.yin@no_spam.sun.com&gt;</li>
@@ -338,9 +349,12 @@
       <li>Leon.Zhang &lt;leon.zhang@no_spam.sun.com&gt;</li>
       <li>Vincent Zhang &lt;vincent.zhang@no_spam.sun.com&gt;</li>
       <li>Silvia Zhao &lt;silvia.zhao@no_spam.sun.com&gt;</li>
-    </ul> 
- 
-    <p>323 voters</p>
- 
+    </ul>
+
+    <p>
+      334 voters
+    </p>
+
   </body>
+
 </html>
