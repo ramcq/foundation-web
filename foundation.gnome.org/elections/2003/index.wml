@@ -20,16 +20,9 @@
       <h2>2003 Election Materials:</h2>
       <p>
        <ul>
-        <li>
-         <a href="voters.html">List of registered voters</a> (this list is not
-         definitive)
-        </li>
-        <li>
-         <a href="rules.html">Election Rules and Timeline</a>
-        </li>
-        <li>
-         <a href="../overview.html">Overview of the Board of Directors role</a>
-        </li>
+        <li> <a href="voters.html">List of registered voters</a> (this list is not definitive) </li>
+        <li> <a href="rules.html">Election Rules and Timeline</a> </li>
+        <li> <a href="../overview.html">Overview of the Board of Directors role</a> </li>
        </ul>
       </p>
 </body>
