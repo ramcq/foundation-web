@@ -1,3 +1,15 @@
+2002-10-13  Vincent Untz  <vincent@vuntz.net>
+
+	* *: s/membership@gnome.org/membership-committee@gnome.org/g
+	* elections.html
+	* ballot-summary-2001.html
+	* board_of_directors-2001.html
+	* election-2001.html
+	* electionrules-2001.html: archives of 2001 elections
+	* ballot-summary.html
+	* electionrules.html
+	* overview.html: first update for the 2002 elections
+	
 2002-09-24  Steve Fox <drfickle@k-lug.org>
 
 	* index.html: Update the news
