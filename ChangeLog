@@ -1,3 +1,8 @@
+2004-09-15  Vincent Untz  <vincent@vuntz.net>
+
+	* foundation.gnome.org/membership/application.wml: there's no need
+	to enter all the informations for renewals
+
 2004-09-14  Vincent Untz  <vincent@vuntz.net>
 
 	* configure.in:

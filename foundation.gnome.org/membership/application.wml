@@ -44,16 +44,18 @@
       }
       $obfuscated_email = preg_replace("/@/", " AT ", $email);
 
-      if (!$summary || $summary == "") {
-        $bad_elements[] = "summary";
-        $errors[] = "Please enter a list of areas of GNOME to which you have made a non-trivial contribution.";
-      } else if (!$details || $details == "") {
-        $bad_elements[] = "details";
-        $errors[] = "Please enter a more detailed description of your contributions.";
-      }
-      if (!$contacts || $contacts == "") {
-        $bad_elements[] = "contacts";
-        $errors[] = "Please enter a list of individuals who can confirm your contributions or indicate us how the membership committee can verify your contributions.";
+      if (!$previousmember) {
+        if (!$summary || $summary == "") {
+          $bad_elements[] = "summary";
+          $errors[] = "Please enter a list of areas of GNOME to which you have made a non-trivial contribution.";
+        } else if (!$details || $details == "") {
+          $bad_elements[] = "details";
+          $errors[] = "Please enter a more detailed description of your contributions.";
+        }
+        if (!$contacts || $contacts == "") {
+          $bad_elements[] = "contacts";
+          $errors[] = "Please enter a list of individuals who can confirm your contributions or indicate us how the membership committee can verify your contributions.";
+        }
       }
 
       if (count($bad_elements) == 0) {
