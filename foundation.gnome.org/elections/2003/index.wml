@@ -20,6 +20,21 @@
     <h2>2003 Election Materials:</h2>
     <ul>
       <li>
+        <a href="preliminary-results.html">Election preliminary results</a>
+      </li>
+      <li>
+        <a href="results.txt">Detailed election results</a>
+      </li>
+      <li>
+        Archive of all votes:
+	<a href="http://mail.gnome.org/archives/vote/2003-November/thread.html">November</a>&nbsp;
+	<a href="http://mail.gnome.org/archives/vote/2003-December/thread.html">December</a>
+      </li>
+      <li>
+        <a href="verify.html">Instructions</a> for running the vote counting
+        script</a>
+      </li> 
+      <li>
         <a href="candidates.html">List of candidates for Board of Directors</a>
       </li>
       <li>

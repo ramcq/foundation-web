@@ -1,3 +1,25 @@
+2003-12-11  Vincent Untz  <vincent@vuntz.net>
+
+	Preliminary results are out!
+
+	* foundation.gnome.org/index.wml: add news about preliminary results
+	* foundation.gnome.org/news/index.wml: ditto
+	* foundation.gnome.org/elections/2003/2003-verif.tar.gz: add archive
+	containing everything that is needed to verify the results
+	* foundation.gnome.org/elections/2003/preliminary-results.wml: add the
+	preliminary results
+	* foundation.gnome.org/elections/2003/results.txt: add full
+	preliminary results
+	* foundation.gnome.org/elections/2003/verify.wml: add verify
+	instructions
+	* foundation.gnome.org/elections/2003/.cvsignore: add
+	preliminary-results.html and verify.html
+	* foundation.gnome.org/elections/2003/Makefile.am: add
+	2003-results.tar.gz, preliminary-results.html, results.txt and
+	verify.html
+	* foundation.gnome.org/elections/2003/index.wml: add links to the
+	results, the vote archives, the verify instructions
+
 2003-12-04  Vincent Untz  <vincent@vuntz.net>
 
 	* foundation.gnome.org/elections/2003/voters.wml: fix Tim's address
