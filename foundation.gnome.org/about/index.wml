@@ -1,0 +1,110 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+  <head>
+    <title>About the GNOME Foundation</title>
+    <meta name="cvsdate" content="$Date$">
+  </head>
+ 
+  <body>
+    <h1>About The GNOME Foundation</h1>
+
+    <p>
+      The GNOME Foundation is comprised of a number of bodies - the 
+      Board of Directors, the Executive Director, the Advisory Board 
+      and the GNOME Membership. The <a href="charter/">GNOME Foundation
+      Charter</a> outlines the overall purpose, structure, and process
+      for the GNOME Foundation. The <a href="bylaws.pdf">GNOME Foundation By-laws</a> 
+      (PDF) document the policies and procedures of the Foundation as a non-profit 
+      group.
+    </p>
+
+    <h2>Board of Directors</h2>
+
+    <p>
+      The GNOME Foundation is run by a Board of Directors, which is elected
+      annually by the GNOME community, as the GNOME Membership, to carry out
+      much of the GNOME Foundation's tasks. The Board of Directors meets every
+      other week with a phone conference to discuss various topics pertaining 
+      to the regular activities of the GNOME Foundation and GNOME. The minutes 
+      to these meetings are posted publicly on the <a href="http://mail.gnome.org/archives/foundation-list/">
+      foundation-list archives</a>.
+    </p>
+                                                                                                                                                             
+    <p>
+      The Board of Directors for Fall 2002 through Fall 2003 is:
+    </p>
+    <ul>
+      <li>Jonathan Blandford</li>
+      <li>Miguel de Icaza</li>
+      <li>Glynn Foster</li>
+      <li>Nat Friedman</li>
+      <li>Jim Gettys</li>
+      <li>Jody Goldberg</li>
+      <li>Bill Haneman</li>
+      <li>James Henstridge</li>
+      <li>Daniel Veillard</li>
+      <li>Luis Villa</li>
+      <li>Jeff Waugh</li>
+    </ul>
+
+    <h2>Executive Director</h2>
+
+    <p>
+      Tim Ney is the GNOME Foundation's executive director. Mr. Ney has
+      a wealth of experience working for non-profit organizations from the
+      fine arts to high tech. Previously at the Free Software Foundation,
+      Mr. Ney is very familiar with the Free Software idealogy and community
+      and has already integrated into the GNOME community seamlessly. Joining
+      the GNOME Foundation at less than one year from its inception, Mr. Ney
+      is playing a crucial role in growing and developing the Foundation in
+      its formative years.
+    </p>
+                                                                                                                                                             
+    <p>
+      The executive director is tasked with managing and growing the GNOME
+      Foundation as an organization. These tasks include working with the Board
+      of Directors, Advisory Board members, GNOME membership, and other GNOME
+      supporters to improve GNOME, support the GNOME community, and achieve
+      the goals of the GNOME Foundation. The executive director also oversee's
+      the GNOME Foundation's legal, administrative, and fundraising efforts.
+    </p>
+
+    <h2>Advisory Board</h2>
+
+    <p>
+      The Advisory Board is made up of organizations and companies that support
+      GNOME. The Advisory Board has no decision-making authority but provides a
+      vehicle for its members to communicate with the Board of Directors and
+      help the Directors guide the overall direction of GNOME and the GNOME
+      Foundation.
+    </p>
+                                                                                                                                                             
+    <p>
+      The Advisory Board consists of representatives from the following GNOME
+      Foundation member corporations:
+    </p>
+                                                                                                                                                             
+    <ul>
+      <li>Debian Project</li>
+      <li>Free Software Foundation</li>
+      <li>Hewlett-Packard</li>
+      <li>IBM</li>
+      <li>MandrakeSoft</li>
+      <li>Red Flag Linux</li>
+      <li>Red Hat</li>
+      <li>Sun Microsystems</li>
+      <li>Wipro</li>
+      <li>Ximian</li>
+    </ul>
+
+    <h2>GNOME Membership</h2>
+
+    <p>The <a href="../membership/">Membership</a> consists of all the 
+       contributors to the GNOME project. Members can run for election 
+       to the Board of Directors, vote in the elections for the Board 
+       of Directors, and suggest referenda.  
+    </p>
+
+  </body>
+</html>

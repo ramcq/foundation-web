@@ -1,6 +1,6 @@
-SUBDIRS =
+SUBDIRS = 
 
-urlpath = /organization/advisory
+urlpath = /contact
  
 page_SCRIPTS = \
 	index.html

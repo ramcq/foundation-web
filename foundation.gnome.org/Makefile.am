@@ -1,4 +1,4 @@
-SUBDIRS = documentation elections organization membership img news
+SUBDIRS = about contact elections membership img news
 
 urlpath = 
 

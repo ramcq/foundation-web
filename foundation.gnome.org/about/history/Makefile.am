@@ -1,6 +1,6 @@
-SUBDIRS = advisory directors executive
+SUBDIRS = 
 
-urlpath = /organization
+urlpath = /about/history
  
 page_SCRIPTS = \
 	index.html

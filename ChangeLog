@@ -1,3 +1,13 @@
+2003-10-29  Glynn Foster  <glynn.foster@sun.com>
+
+	* configure.in: Add about and contacts, remove organization and 
+	  documentation.
+	* foundation.gnome.org/about/*: New content.
+	* foundation.gnome.org/contact/*: New content.
+	* foundation.gnome.org/documentation/*: Remove.
+	* foundation.gnome.org/organization/*: Remove.
+	* include/evilsedhack: Update with new sections.
+
 2003-10-27  Vincent Untz  <vincent@vuntz.net>
 
 	* foundation.gnome.org/organization/advisory_board.wml
