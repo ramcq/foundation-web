@@ -4,7 +4,6 @@ urlpath =
 
 page_SCRIPTS = \
 	index.html	\
-	default.css \
 	.htaccess
 
 page_DATA = \

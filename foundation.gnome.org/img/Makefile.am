@@ -1,1 +1,3 @@
-SUBDIRS=logos
+SUBDIRS = logos
+
+urlpath = /img
