@@ -1,3 +1,6 @@
+2004-02-12: Aaron Weber <aaron@ximian.com>
+	* foundation.gnome.org/index.wml: alphabetize the logos.
+
 2004-01-13  Curtis C. Hovey  <sinzui@cox.net>
 
 	* HACKING: Added a note about gnomeweb-wml's README for developer
