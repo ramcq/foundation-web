@@ -1,5 +1,11 @@
 2004-11-21  Vincent Untz  <vincent@vuntz.net>
 
+	* foundation.gnome.org/elections/2004/index.wml: the list of voters is
+	final
+	* foundation.gnome.org/elections/2004/voters.wml: updated
+
+2004-11-21  Vincent Untz  <vincent@vuntz.net>
+
 	* foundation.gnome.org/elections/2004/candidates.wml: add Owen's
 	summary
 
