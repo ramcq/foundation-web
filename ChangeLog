@@ -1,5 +1,11 @@
 2003-10-22  Vincent Untz  <vincent@vuntz.net>
 
+	* elections/2003/voters.html: the file is encoded in UTF-8, so add a
+	meta telling so.
+	* elections/2003/voters.html: updated the e-mail address for teuf.
+
+2003-10-22  Vincent Untz  <vincent@vuntz.net>
+
 	* elections/2003/voters.html: fix the link to the images.
 
 2003-10-22  Vincent Untz  <vincent@vuntz.net>
