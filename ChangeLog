@@ -1,5 +1,9 @@
 2003-10-08  Vincent Untz  <vincent@vuntz.net>
 
+	* .htaccess: really fixed it. Well, I hope :-)
+
+2003-10-08  Vincent Untz  <vincent@vuntz.net>
+
 	* .htaccess: ok, I was really tired. Completed the Redirect foo so that
 	it really works.
 
