@@ -1,5 +1,10 @@
 2003-11-11  Vincent Untz  <vincent@vuntz.net>
 
+	* foundation.gnome.org/membership/application.wml: fix the From:
+	e-mail address.
+
+2003-11-11  Vincent Untz  <vincent@vuntz.net>
+
 	* foundation.gnome.org/membership/application.wml: don't initialize
 	the textarea with useless spaces, and get the POST variables ASAP.
 

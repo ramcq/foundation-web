@@ -84,7 +84,7 @@
         $formmail .= "\n";
         $formmail .= "[Application received at " . date("D M j G:i:s Y") . " (Eastern time)]";
 
-        $headers = "From: GNOME Foundation Membership Committee Script <gnome-membership@gnome.org>\nCc: $email\n";
+        $headers = "From: GNOME Foundation Membership Committee Script <membership-committee@gnome.org>\nCc: $email\n";
 
         if ($previousmember) {
           $subject = "[RENEWAL] Application received from $name ($obfuscated_email)";
