@@ -1,5 +1,18 @@
 2001-11-03  Dan Mueth  <d-mueth@uchicago.edu>
 
+	Added a directory and template file.
+
+	* charter.html:
+	* directory.html:
+	* elections.html:
+	* faq.html:
+	* index.html:
+	* membership-form.html:
+	* membership-policy.html:
+	* template.html:
+
+2001-11-03  Dan Mueth  <d-mueth@uchicago.edu>
+
 	Updating news items.
 
 	* index.html:
