@@ -1,3 +1,18 @@
+2004-10-11  Vincent Untz  <vincent@vuntz.net>
+
+	* foundation.gnome.org/index.wml:
+	* foundation.gnome.org/news/index.wml:
+	add the news about the preliminary results
+	* foundation.gnome.org/referenda/2004-10/.cvsignore:
+	* foundation.gnome.org/referenda/2004-10/Makefile.am
+	* foundation.gnome.org/referenda/2004-10/index.wml:
+	updated for the new pages
+	* foundation.gnome.org/referenda/2004-10/2004-10-verif.tar.gz
+	* foundation.gnome.org/referenda/2004-10/preliminary-results.wml
+	* foundation.gnome.org/referenda/2004-10/verify.wml:
+	new files for the preliminary results of the referendum and the
+	software for the verification of the results
+
 2004-10-03  Vincent Untz  <vincent@vuntz.net>
 
 	* foundation.gnome.org/referenda/2004-10/voters.wml: update Stephane

@@ -32,6 +32,14 @@
     <h2>Anonymous Voting Referendum Materials:</h2>
     <ul>
       <li>
+        Archive of all votes:
+	<a href="http://mail.gnome.org/archives/vote/2004-September/thread.html">September</a>&nbsp;
+	<a href="http://mail.gnome.org/archives/vote/2004-October/thread.html">October</a>
+      </li>
+      <li>
+        <a href="verify.html">Instructions</a> for running the vote counting script
+      </li> 
+      <li>
         <a href="voters.html">List of registered voters</a>
       </li>
       <li>
