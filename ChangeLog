@@ -1,3 +1,8 @@
+2003-10-16  Vincent Untz  <vincent@vuntz.net>
+
+	* membership-form.php: Cc the application to the applicant so he have
+	a confirmation of his application
+
 2003-10-08  Vincent Untz  <vincent@vuntz.net>
 
 	* .htaccess: really fixed it. Well, I hope :-)
