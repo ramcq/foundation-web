@@ -1,3 +1,14 @@
+2003-07-23  Kenny Graunke  <kenny@whitecape.org>
+
+	* index.html:
+
+	Remove table code. With the new template, it's not necessary.
+	Also cleaned up the HTML code, both indentation-wise and validity-wise.
+
+	We may want to add the GNOME Foundation logo back again at some point.
+	In that case it should be automatically included along with the header,
+	rather than put in each page, so I've omitted it for now.
+
 2003-07-23  Gregory Leblanc <gleblanc@linuxweasel.com>
 
 	* index.html: Work in progress, converting to the new template.
