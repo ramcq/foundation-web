@@ -151,10 +151,13 @@
 
     <h3>Note about privacy</h3>
     <p>
-      Please note that all the informations you will submit through this form
-      will be publically available: the form will send an e-mail to a mailing
-      list whose archives are publically available on Internet and your
-      application will probably be accessible through CVS.
+      The GNOME Foundation tries to be as transparent as possible. This
+      includes making it easy to find out who is a member of the Foundation
+      and why an application is accepted or denied.
+      Thus, all the information you will submit through this form will be
+      publically available: the form will send an e-mail to a mailing list
+      whose archives are publically available on the Internet and your
+      application will be accessible through CVS.
     </p>
 
     <form action="<?php echo $PHP_SELF; ?>" method="POST">
