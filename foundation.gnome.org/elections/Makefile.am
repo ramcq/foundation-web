@@ -1,4 +1,4 @@
-SUBDIRS = 2000 2001 2002 2003
+SUBDIRS = 2000 2001 2002 2003 2004
 
 urlpath = /elections
 

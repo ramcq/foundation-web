@@ -1,3 +1,19 @@
+2004-10-25  Vincent Untz  <vincent@vuntz.net>
+
+	Announce the 2004 elections
+
+	* foundation.gnome.org/index.wml:
+	* foundation.gnome.org/news/index.wml: add the news
+	* foundation.gnome.org/elections/Makefile.am: build 2004 subdir
+	* foundation.gnome.org/elections/index.wml: add link to the material
+	for the 2004 elections
+	* foundation.gnome.org/elections/2004/.cvsignore:
+	* foundation.gnome.org/elections/2004/Makefile.am:
+	* foundation.gnome.org/elections/2004/index.wml:
+	* foundation.gnome.org/elections/2004/rules.wml:
+	* foundation.gnome.org/elections/2004/timeline.ics:
+	* foundation.gnome.org/elections/2004/voters.wml: new
+
 2004-10-24  Vincent Untz  <vincent@vuntz.net>
 
 	Anonymous Voting Referendum results are now official.

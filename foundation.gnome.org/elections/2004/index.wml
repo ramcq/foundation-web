@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
- 
+
   <head>
-    <title>GNOME Foundation Elections</title>
+    <title>GNOME Foundation 2004 Election</title>
     <meta name="cvsdate" content="$Date$" />
   </head>
 
   <body>
 
-    <h1>GNOME Foundation Elections</h1>
+    <h1>2004 GNOME Foundation Election</h1>
 
     <p>
       The GNOME Foundation Membership elects the Board of Directors each
@@ -19,14 +19,15 @@
       href="mailto:elections&#64;gnome&#46;org">elections&#64;gnome&#46;org</a>.
     </p>
 
-    <h2>Election Materials</h2>
-
+    <h2>2004 Election Materials:</h2>
     <ul>
-      <li><a href="2004/">Material from the Fall 2004 Elections</a></li>
-      <li><a href="2003/">Material from the Fall 2003 Elections</a></li>
-      <li><a href="2002/">Material from the Fall 2002 Elections</a></li>
-      <li><a href="2001/">Material from the Fall 2001 Elections</a></li>
-      <li><a href="2000/">Material from the Fall 2000 Elections</a></li>
+      <li>
+        <a href="rules.html">Election Rules and Timeline (webcal <a
+        href="webcal://foundation.gnome.org/elections/2004/timeline.ics">timeline</a>)</a>
+      </li>
+      <li>
+        <a href="../overview.html">Overview of the Board of Directors role</a>
+      </li>
     </ul>
 
   </body>
