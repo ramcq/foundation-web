@@ -1,6 +1,7 @@
 RewriteEngine On
 
 Redirect /directory.html		http://www.gnome.org/contact/
+Redirect /news.html				http://foundation.gnome.org/news/
 
 # Move of the documentation stuff
 Redirect /documentation.html		http://foundation.gnome.org/documentation/

@@ -1,10 +1,9 @@
-SUBDIRS = documentation elections organization membership img
+SUBDIRS = documentation elections organization membership img news
 
 urlpath = 
 
 page_SCRIPTS = \
 	index.html \
-	news.html \
 	.htaccess
 
 page_DATA = \

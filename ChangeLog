@@ -1,3 +1,15 @@
+2003-10-27  Jeff Waugh  <jdub@perkypants.org>
+
+	* configure.in: Add news/
+	* foundation.gnome.org/.cvsignore: Remove news.html
+	* foundation.gnome.org/Makefile.am: Add news/
+	* foundation.gnome.org/htaccess: Redirect for news.html
+	* foundation.gnome.org/index.wml: Relink news.html
+	* foundation.gnome.org/news.wml: Removed.
+	* foundation.gnome.org/news/.cvsignore: New.
+	* foundation.gnome.org/news/Makefile.am: New.
+	* foundation.gnome.org/news/index.wml: From ../news.html
+
 2003-10-27  Vincent Untz  <vincent@vuntz.net>
 
 	* foundation.gnome.org/.cvsignore: added news.html
