@@ -16,9 +16,7 @@
       Foundation Board of Directors. A short summary statement from each
       candidate and a link to their full candidacy announcement is provided to
       help you learn more about them. We encourage all voters to read the full
-      candidacy statements and related discussions on foundation-list@gnome.org
-      (<a href="http://mail.gnome.org/archives/foundation-list/">
-      http://mail.gnome.org/archives/foundation-list/</a>).
+      candidacy statements and related discussions on <a href="http://mail.gnome.org/archives/foundation-list/">foundation-list&#64;gnome&#46;org</a>.
     </p>
 
     <p>
@@ -41,7 +39,9 @@
 
     <p>
       If you have any questions, please send them to either
-      foundation-list@gnome.org or to us at elections@gnome.org.
+      <a href="http://mail.gnome.org/archives/foundation-list/">foundation-list&#64;gnome&#46;org</a>
+      or to us at <a
+      href="mailto:elections&#64;gnome&#46;org">elections&#64;gnome&#46;org</a>.
     </p>
 
     <h2>Candidates for the GNOME Foundation Board of Directors</h2>
@@ -188,13 +188,13 @@
     </p>
 
     <p>
-      12. JOHN HEARD. &quot;jheard@eng.sun.com. * Initiated and manage
-      the Sun GNOME Project. * Initiated and manage the OpenOffice.org
+      12. JOHN HEARD. &quot;jheard&#64;eng&#46;sun&#46;com. Initiated and manage
+      the Sun GNOME Project; initiated and manage the OpenOffice.org
       initiative and making it a fully integrated part of the GNOME Office
-      suite. * Working to establish the GNOME Accessibility project. *
-      Participant in the establishment of the GNOME Foundation on behalf of
-      the Sun GNOME team, working closely with quite a few GNOME members. *
-      A 14+ year open systems &quot;bigot&quot; in Sun (with T-shirts to
+      suite; working to establish the GNOME Accessibility project;
+      participant in the establishment of the GNOME Foundation on behalf of
+      the Sun GNOME team, working closely with quite a few GNOME members;
+      a 14+ year open systems &quot;bigot&quot; in Sun (with T-shirts to
       prove it :-)).&quot; Affiliated with Sun Microsystems. Full statement
       at
       <a href="http://mail.gnome.org/archives/foundation-list/2000-October/msg00221.html">
@@ -484,19 +484,22 @@
     <p>
       Anyone who's contributed to GNOME (beyond just being a user or occasional
       bug-filer) may participate in the elections. To register this vote, send
-      e-mail to membership-committee@gnome.org. with your name, email address,
-      and a short list of how you contributed to GNOME. [eg: Havoc Pennington
-      (GConf, GTK+, gnome-libs, odd jobs)]. The deadline to register to vote is
-      Monday, October 30.
+      e-mail to <a
+      href="mailto:elections&#64;gnome&#46;org">elections&#64;gnome&#46;org</a>
+      with your name, email address, and a short list of how you contributed to
+      GNOME. [eg: Havoc Pennington (GConf, GTK+, gnome-libs, odd jobs)]. The
+      deadline to register to vote is Monday, October 30.
     </p>
 
     <p>
       Ballots will be sent out via e-mail to everyone who's registered to vote
-      on Wednesday, November 1, to the address provided with registration. If
+      on Wednesday, November 1st, to the address provided with registration. If
       you need to change the address to which you want your ballot sent, please
-      contact elections@gnome.org ASAP. People will vote by returning the
-      ballot via e-mail. A public archive of the ballot returns will be
-      available after the elections end on November 8.
+      contact <a
+      href="mailto:elections&#64;gnome&#46;org">elections&#64;gnome&#46;org</a>
+      as soon as possible. People will vote by returning the ballot via e-mail.
+      A public archive of the ballot returns will be available after the
+      elections end on November 8th.
     </p>
 
     <p>

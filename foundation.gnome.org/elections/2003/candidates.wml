@@ -15,7 +15,7 @@
       each candidate and a link to their full candidacy announcement is
       provided to help you learn more about them. We encourage all voters
       to read the full candidacy statements and related discussions on
-      <a href="http://mail.gnome.org/archives/foundation-list/">foundation-list@gnome.org</a>.
+      <a href="http://mail.gnome.org/archives/foundation-list/">foundation-list&#64;gnome&#46;org</a>.
     </p>
 
     <p>
@@ -38,7 +38,9 @@
 
     <p>
       If you have any questions, please send them to either
-      foundation-list@gnome.org or to us at elections@gnome.org.
+      <a href="http://mail.gnome.org/archives/foundation-list/">foundation-list&#64;gnome&#46;org</a>
+      or to us at <a
+      href="mailto:elections&#64;gnome&#46;org">elections&#64;gnome&#46;org</a>.
     </p>
 
     <h2>Candidates for the GNOME Foundation Board of Directors</h2>
@@ -220,11 +222,13 @@
 
     <p>
       Ballots will be sent out via e-mail to everyone who's registered to vote
-      on Friday, November 21, to the address provided with registration. If you
-      need to change the address to which you want your ballot sent, please
-      contact elections@gnome.org ASAP. People will vote by returning the
-      ballot via e-mail. A public archive of the ballot returns will be
-      available after the elections end on December 8.
+      on Friday, November 21th, to the address provided with registration. If
+      you need to change the address to which you want your ballot sent, please
+      contact <a
+      href="mailto:elections&#64;gnome&#46;org">elections&#64;gnome&#46;org</a>
+      as soon as possible. People will vote by returning the ballot via e-mail.
+      A public archive of the ballot returns will be available after the
+      elections end on December 8th.
     </p>
 
     <p>

@@ -1,3 +1,8 @@
+2003-12-13  Vincent Untz  <vincent@vuntz.net>
+
+	* foundation.gnome.org/*:
+	* include/evilsedhack: obfuscate e-mail addresses.
+
 2003-12-12  Vincent Untz  <vincent@vuntz.net>
 
 	* foundation.gnome.org/index.wml: add missing </a>

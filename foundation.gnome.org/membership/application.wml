@@ -107,8 +107,8 @@
             As a confirmation, you should receive your application by mail too.
           </p>
           <p>
-            If you have any questions, please e-mail <a
-            href=\"mailto:membership-committee@gnome.org\">membership-committee@gnome.org.
+            If you have any questions, please e-mail the <a
+            href=\"mailto:membership-committee&#64;gnome&#46;org\">Membership Committee</a>.
           </p>
           <br /><br />
           <class div=\"center\">
@@ -134,7 +134,7 @@
     <p>
       If you have any questions regarding the application process, please feel
       free to e-mail the committee at <a
-      href="mailto:membership@gnome.org">membership@gnome.org</a>.
+      href="mailto:membership-committee&#64;gnome&#46;org">membership-committee&#64;gnome&#46;org</a>.
     </p>
 
       <?php  if (count($bad_elements) != 0) {
@@ -232,9 +232,10 @@
         description of their role as a reference. If there is nobody you can
         think to list, feel free to suggest another way for the committee to
         verify your contributions, such as a pointer to a project ChangeLog,
-        etc. To continue the earlier example: "Dan Mueth (d-mueth@uchicago.edu)
-        (GDP coordinator); Russell Steinthal (rms39@columbia.edu) (gnome-pim
-        maintainer); packaging logs at http://www.debian.org/packages/gnome/":
+	etc. To continue the earlier example: "Dan Mueth
+	(d-mueth&#64;uchicago&#46;edu) (GDP coordinator); Russell Steinthal
+	(rms39&#64;columbia&#46;edu) (gnome-pim maintainer); packaging logs at
+	http://www.debian.org/packages/gnome/":
       </p>
 
       <textarea name="contacts" rows="5" cols="50"><?php if ($contacts) { echo $contacts; } ?></textarea>

@@ -18,7 +18,7 @@
       each candidate and a link to their full candidacy announcement is
       provided to help you learn more about them. We encourage all voters
       to read the full candidacy statements and related discussions on
-      <a href="http://mail.gnome.org/archives/foundation-list/">foundation-list@gnome.org</a>.
+      <a href="http://mail.gnome.org/archives/foundation-list/">foundation-list&#64;gnome&#46;org</a>.
     </p>
 
     <p>
@@ -41,23 +41,26 @@
 
     <p>
       If you have any questions, please send them to either
-      foundation-list@gnome.org or to us at elections@gnome.org.
+      <a href="http://mail.gnome.org/archives/foundation-list/">foundation-list&#64;gnome&#46;org</a>
+      or to us at <a
+      href="mailto:elections&#64;gnome&#46;org">elections&#64;gnome&#46;org</a>.
     </p>
 
     <h2>Candidates for the GNOME Foundation Board of Directors</h2>
 
-    <p>1. JONATHAN BLANDFORD
+    <p>1. JONATHAN BLANDFORD<br />
       &quot;
       I have been involved with GNOME since 1997. I have spent a lot of time
       working on many core parts of GNOME, and feel like I have a very good
       idea of how the project works. I very interested in helping to improve
       the desktop experience, I would like to see GNOME spend more time on the
       small, incremental improvements that make a desktop usable.
-      &quot;
-      Affiliation Red Hat. Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00020.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00020.html</a>
+      &quot;<br />
+      Affiliation: Red Hat<br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00020.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00020.html</a>
     </p>
 
-    <p>2. CHEMA CELORIO
+    <p>2. CHEMA CELORIO<br />
       &quot;
       I have been contributing to GNOME over the past few years, I want to be
       on the board because I want to help GNOME even further. I have a very
@@ -65,31 +68,34 @@
       good understanding of the GNOME community and what drives GNOME forward.
       I am confident that we can make GNOME the best desktop available and I
       work hard everyday to make it happen.
-      &quot;
-      Affiliation Ximian. Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00021.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00021.html</a>
+      &quot;<br />
+      Affiliation: Ximian<br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00021.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00021.html</a>
     </p>
 
-    <p>3. RHETT CREIGHTON
+    <p>3. RHETT CREIGHTON<br />
       &quot;
       The future is now, and that future is: Bowling Balls. Do you realize
       that if GNOME starts making bowling balls, we stand to net profit
       $11,000?!  That's right, eleven big ones. Net profit, mind you.
-      &quot;
-      No affiliation. Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00007.html">
-      http://mail.gnome.org/archives/foundation-announce/2001-November/msg00007.html</a>
+      &quot;<br />
+      No affiliation<br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00007.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00007.html</a>
     </p>
 
-    <p>4. MIGUEL DE ICAZA
+    <p>4. MIGUEL DE ICAZA<br />
       &quot;
       Have been an active contributor to the free software movement since 1992.
       Started the GNOME project when various freedom issues arose that would
       threaten the future of a fully free system. I am one of the founders of
       Ximian, one of the GNOME companies, where we employ around 40 GNOME
-      hackers that develop free software. &quot;
-      Affiliation Ximian. Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00018.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00018.html</a>
+      hackers that develop free software.
+      &quot;<br />
+      Affiliation: Ximian<br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00018.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00018.html</a>
     </p>
 
-    <p>5. GLYNN FOSTER
+    <p>5. GLYNN FOSTER<br />
       &quot;
       Easy going 23 year old from Dublin, Ireland seeks position on
       GNOME Foundation Board ono. Will trade communication, energy
@@ -98,12 +104,14 @@
       people are excited to work on. Previous experience includes
       gnome-session hacks and being on GNOME Foundation Membership &amp;
       Elections Committee. Loves Guinness &amp; climbing. Hates celery.
-      Answers to the name of Gman. Email glynn.foster@sun.com after 8pm.
-      &quot;
-      Affiliated with Sun Microsystems. Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00010.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00010.html</a>
+      Answers to the name of Gman. Email glynn.foster&#64;sun&#46;com after
+      8pm.
+      &quot;<br />
+      Affiliation: Sun Microsystems<br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00010.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00010.html</a>
     </p>
 
-    <p>6. NAT FRIEDMAN
+    <p>6. NAT FRIEDMAN<br />
       &quot;
       The foundation could be doing more to help GNOME be more unified,
       move faster, and have more visibility. Things I would like to see
@@ -112,11 +120,13 @@
       I've been contributing to GNOME since 1998 and co-maintained
       Bonobo for a while. I wrote the first draft of the foundation's
       charter. I co-founded Ximian, and these days, I'm in charge of our
-      product development. &quot;
-      Affiliation Ximian. Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00022.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00022.html</a>
+      product development.
+      &quot;<br />
+      Affiliation: Ximian<br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00022.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00022.html</a>
     </p>
 
-    <p>7. JIM GETTYS
+    <p>7. JIM GETTYS<br />
       &quot;
       I'd like to continue to be on the board to help Gnome reach its
       potential. I feel that we are about a year from having the ingredients to
@@ -124,11 +134,12 @@
       what I can to help make this happen. As part of this, I believe
       interoperability is a key ingredient, and will work to encourage Gnome to
       invest in this area.
-      &quot;
-      Affiliation Compaq. Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00024.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00024.html</a>
+      &quot;<br />
+      Affiliation: Compaq<br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00024.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00024.html</a>
     </p>
 
-    <p>8. JODY GOLDBERG
+    <p>8. JODY GOLDBERG<br />
       &quot;
       I have been a free software advocate since the early 90s, and have
       contributed to several projects, from G++ and Wine, to Nethack and a
@@ -137,19 +148,21 @@
       technologies are good. Our integration could use some work. I'd
       like to work towards improving communication between the far flung
       elements of GNOME to improve that.
-      &quot;
-      Affiliation Ximian. Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00025.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00025.html</a>
+      &quot;<br />
+      Affiliation: Ximian<br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00025.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00025.html</a>
     </p>
 
-    <p>9. TELSA GWYNNE
+    <p>9. TELSA GWYNNE<br />
       &quot;
       I do docs, bugs, and hassling developers. I don't code. I also make last
       minute decisions.
-      &quot;
-      No affiliation. Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00030.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00030.html</a>
+      &quot;<br />
+      No affiliation<br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00030.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00030.html</a>
     </p>
 
-    <p>10. BILL HANEMAN
+    <p>10. BILL HANEMAN<br />
       &quot;
       Bill Haneman AKA 'that Accessibility guy'. "I've been programming over
       20 years, an active Gnome hacker since Dec. 2000. I maintain the Gnome
@@ -160,11 +173,12 @@
       best for Gnome. My hopes for Gnome's future include platform
       development/maturation, universal accessibility, interoperability, and
       extensibility.
-      &quot;
-      Affiliated with Sun Microsystems. Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00011.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00011.html</a>
+      &quot;<br />
+      Affiliation: Sun Microsystems<br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00011.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00011.html</a>
     </p>
 
-    <p>11. JAMES HENSTRIDGE
+    <p>11. JAMES HENSTRIDGE<br />
       &quot;
       I have been hacking on gnome for over 3 years, and have been involved in
       language binding development, gtk/gnome platform library development and
@@ -173,40 +187,43 @@
       interests on the board. I served on the GNOME Steering committee from its
       creation until the Foundation elections last year, where I was one of the
       unsuccessful candidates.
-      &quot;
-      No affiliation. Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00019.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00019.html</a>
+      &quot;<br />
+      No affiliation<br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00019.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00019.html</a>
     </p>
 
-    <p>12. GEORGE LEBL
-    &quot;
+    <p>12. GEORGE LEBL<br />
+      &quot;
       I have been with the GNOME project since '97, maintain several packages,
       and have been 'half-part' of the steering committee. I also pretended to
       work for Eazel for over a year. I want the GNOME community to stay as
       chaotic and open as it has always been. So elect me or I'll smack you with
       a GEGL.
-      &quot;
-      No affiliation. Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00005.html">
-      http://mail.gnome.org/archives/foundation-announce/2001-November/msg00005.html</a>
+      &quot;<br />
+      No affiliation<br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00005.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00005.html</a>
     </p>
 
-    <p>13. CHRIS LYTTLE
+    <p>13. CHRIS LYTTLE<br />
       &quot;
       Expatriate Kiwi living in the USA. Been involved with running non-profit
       businesses. Contributor to the Gnome Documentation Project and GnuCash.
-      &quot;
-      No affiliation. Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00015.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00015.html</a>
+      &quot;<br />
+      No affiliation<br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00015.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00015.html</a>
     </p>
 
-    <p>14. IAN MCKELLAR
+    <p>14. IAN MCKELLAR<br />
       &quot;
       I'm an ex-Eazel hacker from Australia who is living in California. I
       have some experience running anarchic organizations like GNOME (on a
       smaller scale) and a strong belief in Free Software.
-      &quot;
-      No affiliation. Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00026.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00026.html</a>
+      &quot;<br />
+      No affiliation<br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00026.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00026.html</a>
     </p>
 
-    <p>15. MICHAEL MEEKS
+    <p>15. MICHAEL MEEKS<br />
       &quot;
       Lots of experience of Gnome both technically and relationally, I
       continue to promote Gnome widely at conferences and to companies.
@@ -216,11 +233,12 @@
       the applications built on top of it, so we can release core
       improvements more quickly, with a stable API, yet rapidly innovate in
       the applications.
-      &quot;
-      Affiliation Ximian. Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00014.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00014.html</a>
+      &quot;<br />
+      Affiliation: Ximian<br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00014.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00014.html</a>
     </p>
 
-    <p>16. FEDERICO MENA-QUINTERO
+    <p>16. FEDERICO MENA-QUINTERO<br />
       &quot;
       I'd like to see the GNOME hackers focus more on the desktop and,
       in particular, the user experience now that the GNOME 2.0 platform is
@@ -229,11 +247,12 @@
       maintainer of the GIMP. I worked at Red Hat Advanced Development Labs
       (RHAD Labs) for a year and a half, and have been working for Ximian
       since January 2000 on the Evolution Calendar.
-      &quot;
-      Affiliation Ximian. Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00029.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00029.html</a>
+      &quot;<br />
+      Affiliation: Ximian<br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00029.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00029.html</a>
     </p>
 
-    <p>17. TIM NEY
+    <p>17. TIM NEY<br />
       &quot;
       I've presented GNOME to government officials on several continents;
       built public awareness of GNOME around the world through the media,
@@ -243,11 +262,12 @@
       My contribution is to build bridges, develop strategy, policy and
       projects that are inclusive and appeal to a wider geography of
       developers and users.
-      &quot;
-      Affiliation GNOME Foundation. Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00027.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00027.html</a>
+      &quot;<br />
+      Affiliation: GNOME Foundation<br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00027.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00027.html</a>
     </p>
 
-    <p>18. BASTIEN NOCERA
+    <p>18. BASTIEN NOCERA<br />
       &quot;
       I'm a relative newcomer to the Gnome world as a programmer, with my main
       interests in multimedia, all ease-of-use concerns (accessibility
@@ -255,12 +275,12 @@
       Board, but I have some experience in strongly opinionated discussions
       (with politics, and not hackers ;), and being French, I have a big mouth
       as well. Hmm, couple of words to go... I like bitter ale.
-      &quot;
-      No affiliations Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00002.html">
-      http://mail.gnome.org/archives/foundation-announce/2001-November/msg00002.html</a>
+      &quot;<br />
+      No affiliation<br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00002.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00002.html</a>
     </p>
 
-    <p>19. HAVOC PENNINGTON
+    <p>19. HAVOC PENNINGTON<br />
       &quot;
       I have several years of experience with GNOME, and want to help ensure
       continuity between the current board and the new one. My main goal on
@@ -268,23 +288,24 @@
       organization with solid infrastructure for keeping things running
       smoothly. I work on GTK+, GConf, packaging GNOME for Red Hat, and
       various less important projects.
-      &quot;
-      Affiliated with Red Hat. Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00008.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00008.html</a>
+      &quot;<br />
+      Affiliation: Red Hat<br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00008.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00008.html</a>
     </p>
 
-    <p>20. CHRIS PHELPS
+    <p>20. CHRIS PHELPS<br />
       &quot;
       GNOME is the smoothest desktop I've ever used, and I intend to do
       anything and everything I can to keep our development rolling. My
       personal peeve is that GNOME is an awesome development environment
       without a respectable IDE. I intend to work on this to make GNOME more
       attractive to all kinds of developers. Yeah, that's about it...
-      &quot;
-      No affiliation. Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00004.html">
-      http://mail.gnome.org/archives/foundation-announce/2001-November/msg00004.html</a>
+      &quot;<br />
+      No affiliation<br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00004.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00004.html</a>
     </p>
 
-    <p>21. ARIEL RIOS
+    <p>21. ARIEL RIOS<br />
       &quot;
       My experience ranges from developing on Guile to numerous other
       contributions including technical reviews for Gtk+ and GNOME related
@@ -293,11 +314,12 @@
       and GNOME. My main goal is to seek that GNOME will turn into a feasible
       solution against proprietary software turning into a powerful stable API
       that will be available for everyone.
-      &quot;
-      No affiliation. Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00017.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00017.html</a>
+      &quot;<br />
+      No affiliation<br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00017.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00017.html</a>
     </p>
 
-    <p>22. RICHARD STALLMAN
+    <p>22. RICHARD STALLMAN<br />
       &quot;
       I've been working for GNOME since years before there was a GNOME. In
       1983, while formulating plans for the GNU operating system, I decided
@@ -306,11 +328,12 @@
       project--GNOME. As president of the Free Software Foundation and Chief
       GNUisance of the GNU Project, I have had years of experience working with
       contributors both individual and corporate.
-      &quot;
-      Affiliation. Free Software Foundation. Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00028.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00028.html</a>
+      &quot;<br />
+      Affiliation: Free Software Foundation<br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00028.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00028.html</a>
     </p>
 
-    <p>23. ANDY TAI
+    <p>23. ANDY TAI<br />
       &quot;
       I have been a strong supporter for the GNU Project and
       a long time observer of the GNOME Project. I maintains
@@ -321,11 +344,12 @@
       I am elected, the first thing I will push is to merge
       gnome-specific widgets into gtk+, so there are less
       number of libraries to link against :-)
-      &quot;
-      No affiliation. Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00013.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00013.html</a>
+      &quot;<br />
+      No affiliation<br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00013.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00013.html</a>
     </p>
 
-    <p>24. DANIEL VEILLARD
+    <p>24. DANIEL VEILLARD<br />
       &quot;
       I am French, long time Gnomer and Linux addict, maintainer of
       libxml, libxslt and rpmfind. I served on the Gnome Board for last
@@ -334,12 +358,13 @@
       of standards, internationalization and keeping trust relationship at an
       individual level. I think those are needed to keep hacking on Gnome fun
       and getting acceptance in new communities. Affiliation Red Hat.
-      &quot;
-      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00001.html">
-      http://mail.gnome.org/archives/foundation-announce/2001-November/msg00001.html</a>
+      &quot;<br />
+      Affiliation: Red Hat<br />
+      Full statement at <a
+      href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00001.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00001.html</a>
     </p>
 
-    <p>25. JEFF WAUGH
+    <p>25. JEFF WAUGH<br />
       &quot;
       We need to improve the project's outreach, both within the Free Software
       community and outside it, through documentation, publicity, and making
@@ -348,19 +373,22 @@
       more GNOME love and better cooperation. All of this, openly and
       transparently, without interrupting our awesome hacker's hacking time! I'm
       wacky enough to believe we can do it, too. :)
-      &quot;
-      No affiliation. Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00016.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00016.html</a>
+      &quot;<br />
+      No affiliation<br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-announce/2001-November/msg00016.html">http://mail.gnome.org/archives/foundation-announce/2001-November/msg00016.html</a>
     </p>
 
     <h2>Additional Election-related Information</h2>
 
     <p>
-      Ballots will be sent out via e-mail to everyone who's registered
-      to vote on Tuesday, November 13, to the address provided with
-      registration. If you need to change the address to which you want
-      your ballot sent, please contact elections@gnome.org ASAP. People
-      will vote by returning the ballot via e-mail. A public archive of the
-      ballot returns will be available after the elections end on November 20.
+      Ballots will be sent out via e-mail to everyone who's registered to vote
+      on Tuesday, November 13th, to the address provided with registration. If
+      you need to change the address to which you want your ballot sent, please
+      contact <a
+      href="mailto:elections&#64;gnome&#46;org">elections&#64;gnome&#46;org</a>
+      as soon as possible. People will vote by returning the ballot via e-mail.
+      A public archive of the ballot returns will be available after the
+      elections end on November 20th.
     </p>
 
     <p>

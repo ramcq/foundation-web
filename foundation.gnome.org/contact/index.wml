@@ -11,10 +11,10 @@
 
     <dl>
       <dt><b>Email</b></dt>
-      <dd><a href="mailto:board@gnome.org">Board of Directors</a></dd>
-      <dd><a href="mailto:director@gnome.org">Executive Director</a></dd>
-      <dd><a href="mailto:membership-committee@gnome.org">Foundation Membership Committee</a></dd>
-      <dd><a href="mailto:elections@gnome.org">Foundation Elections Committee</a></dd>
+      <dd><a href="mailto:board&#64;gnome&#46;org">Board of Directors</a></dd>
+      <dd><a href="mailto:director&#64;gnome&#46;org">Executive Director</a></dd>
+      <dd><a href="mailto:membership-committee&#64;gnome&#46;org">Foundation Membership Committee</a></dd>
+      <dd><a href="mailto:elections&#64;gnome&#46;org">Foundation Elections Committee</a></dd>
  
       <dt><b>Email lists</b></dt>
       <dd><a href="http://mail.gnome.org/mailman/listinfo/foundation-list">Foundation mailing list</a></dd>

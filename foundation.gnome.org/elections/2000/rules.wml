@@ -23,12 +23,12 @@
         Elections are for registered voters (future members of the GNOME
         Foundation) only. Anyone who has made a contribution to GNOME can
         register. You may do so by sending email to <a
-        href="mailto:membership-committee@gnome.org">
-        membership-committee@gnome.org</a>. People with CVS accounts can add
-        themselves to membership.txt in the gnome-foundation module. People who
-        register to vote will automatically become members of the
-        yet-to-be-incorporated GNOME Foundation, although anyone can withdraw
-        their membership at any time. 
+        href="mailto:membership-committee&#64;gnome&#46;org">
+	membership-committee&#64;gnome&#46;org</a>. People with CVS accounts
+	can add themselves to membership.txt in the gnome-foundation module.
+	People who register to vote will automatically become members of the
+	yet-to-be-incorporated GNOME Foundation, although anyone can withdraw
+	their membership at any time. 
       </li>
       <li> 
         An election committee consisting of Dan Mueth, Martin Baulig, Russell
@@ -39,11 +39,11 @@
       <li>
         To be on the ballot, anyone who is a member can announce their
         candidacy, in accordance with the timeline below, by sending mail to <a
-        href="mailto:foundation-announce@gnome.org">foundation-announce@gnome.org</a>,
+	href="http://mail.gnome.org/archives/foundation-announce/">foundation-announce&#64;gnome&#46;org</a>,
         including their name, e-mail address, contributions to GNOME, and why
         they want to be on the board of directors. Candidacies will be
-        cross-posted on <a
-        href="mailto:foundation-list@gnome.org">foundation-list@gnome.org</a>,
+	cross-posted on <a
+	href="http://mail.gnome.org/archives/foundation-list/">foundation-list&#64;gnome&#46;org</a>,
         where they can be discussed.
       </li>
       <li>
@@ -76,9 +76,11 @@
         stepping in to decide on misformatted returns.
       </li>
       <li>
-        foundation-list@gnome.org is the mailing list to discuss
-        election-related issues. The election committee will resolve
-        election-related disputes that are not readily resolved on the list.
+	<a
+	href="http://mail.gnome.org/archives/foundation-list/">foundation-list&#64;gnome&#46;org</a>
+	is the mailing list to discuss election-related issues. The election
+	committee will resolve election-related disputes that are not readily
+	resolved on the list.
       </li>
       <li>
         The election committee will announce the results of the elections.
