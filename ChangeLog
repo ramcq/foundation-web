@@ -1,3 +1,10 @@
+2004-11-13  Vincent Untz  <vincent@vuntz.net>
+
+	* foundation.gnome.org/elections/2004/index.wml: add links to the list
+	of candidates and temporary list of voters
+	* foundation.gnome.org/elections/2004/rules.wml: the vote will not be
+	anonymous this year.
+
 2004-11-12  Vincent Untz  <vincent@vuntz.net>
 
 	* foundation.gnome.org/elections/2004/candidates.wml: add Dom's
