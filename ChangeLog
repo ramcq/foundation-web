@@ -1,3 +1,14 @@
+2001-11-10  Dan Mueth  <d-mueth@uchicago.edu>
+
+	Fixing the navigation links a bit - one was missing, and a couple
+	were linking when they shouldn't.  Also made a couple small
+	changes to HTML to increase consistancy of appearance with other
+	pages.
+
+	* ballot-summary.html:
+	* electionrules.html:
+	* overview.html:
+
 2001-11-11  Glynn Foster  <glynn.foster@sun.com>
 
 	Add Daniel's affiliation. Slipped through the gap.
