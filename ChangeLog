@@ -1,3 +1,11 @@
+2004-12-21  Vincent Untz  <vincent@vuntz.net>
+
+	* foundation.gnome.org/index.wml:
+	* foundation.gnome.org/news/index.wml: add news about elections
+	results being now official
+	* foundation.gnome.org/elections/2004/index.wml: add link to the
+	announcement
+
 2004-12-09  Vincent Untz  <vincent@vuntz.net>
 
 	* foundation.gnome.org/elections/2004/verify.wml: the archives are not
