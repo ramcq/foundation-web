@@ -61,7 +61,7 @@
      <p>More news is available <a href="news/">here</a>.</p>
 
    <h2>Sponsors</h2>
-   <center>
+   <div class="center">
      <a href="http://www.debian.org/"><img src="img/logos/debian.gif" alt="Debian" border="0" hspace="8" vspace="5" align="middle" /></a>
      <a href="http://www.fsf.org/"><img src="img/logos/fsf.gif" alt="Free Software Foundation" border="0" hspace="8" vspace="5" align="middle" /></a>
      <a href="http://www.hp.com/"><img src="img/logos/hp.gif" alt="Hewlett Packard" border="0" hspace="8" vspace="5" align="middle" /></a>
@@ -75,7 +75,7 @@
      <p>
        Legal services provided by Wilson Sonsini Goodrich &amp; Rosati.
      </p>
-   </center>
+   </div>
 
  </body>
 </html>

@@ -1,3 +1,9 @@
+2003-10-27  Vincent Untz  <vincent@vuntz.net>
+
+	* foundation.gnome.org/index.wml: don't use <center>
+	* foundation.gnome.org/elections/2003/voters.wml: updated e-mail
+	address for Thomas Vander Stichele
+
 2003-10-27  Jeff Waugh  <jdub@perkypants.org>
 
 	* configure.in: Add news/
