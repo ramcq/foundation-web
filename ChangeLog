@@ -1,3 +1,15 @@
+2001-11-11  Glynn Foster  <glynn.foster@sun.com>
+
+	Adding list of candidates for the Foundation Board 
+	elections 2001.
+
+	* ballot-summary-2000.html:
+	* ballot-summary.html:
+	* election-2000.html:
+	* electionrules.html:
+	* elections.html:
+	* overview.html:
+
 2001-11-08  Dan Mueth  <d-mueth@uchicago.edu>
 
 	Integrating overview.html into the the web site, since it was
