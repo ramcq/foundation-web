@@ -1,5 +1,14 @@
 2001-11-11  Glynn Foster  <glynn.foster@sun.com>
 
+	Add news item to main page and fix links.
+
+	* electionrules.html:
+	* elections.html:
+	* index.html:
+	* overview.html:
+
+2001-11-11  Glynn Foster  <glynn.foster@sun.com>
+
 	Adding list of candidates for the Foundation Board 
 	elections 2001.
 
