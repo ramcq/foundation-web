@@ -85,7 +85,9 @@
         $formmail .= "Other comments:\n---------------\n";
         $formmail .= $comments . "\n";
         $formmail .= "\n";
-        $formmail .= "[Application received at " . date("D M j G:i:s Y") . " (Eastern time)]";
+        $formmail .= "[Application received at " . date("D M j G:i:s Y") . " (Eastern time)]\n";
+        $formmail .= "\n";
+        $formmail .= "If you have any questions, you can contact the membership committee by\nreplying to this mail. Please note that the delay for your application\nto be processed can be up to one month.";
 
         $headers = "From: GNOME Foundation Membership Committee Script <membership-committee@gnome.org>\nCc: $email\n";
 
@@ -104,7 +106,8 @@
           <p>
             Thank you for your submission. It has been forwarded to the
             membership committee, which will inform you when it has been
-            processed.
+            processed. The membership committee tries to process applications
+	    within a month after their reception.
           </p>
           <p>
             As a confirmation, you should receive your application by mail too.
