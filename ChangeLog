@@ -1,3 +1,7 @@
+2003-12-12  Vincent Untz  <vincent@vuntz.net>
+
+	* foundation.gnome.org/elections/2003/verify.wml: add missing <body>
+
 2003-12-11  Vincent Untz  <vincent@vuntz.net>
 
 	Preliminary results are out!
