@@ -4,19 +4,21 @@
  <head>
   <title>GNOME Foundation Board of Directors</title>
  </head>
+
  <body>
 
       <h1>Board of Directors</h1>
 
       <p>
-       The GNOME Foundation is run by a Board of Directors, which is elected
-       annually by the entire GNOME community, as the GNOME Membership.  If you would like 
-       to contact the Board of Directors, you can email them at <a
-       href="mailto:board@gnome.org">board@gnome.org</a>.
+        The GNOME Foundation is run by a Board of Directors, which is elected
+        annually by the entire GNOME community, as the GNOME Membership.  If you would like 
+        to contact the Board of Directors, you can email them at <a
+        href="mailto:board@gnome.org">board@gnome.org</a>.
       </p>
 
       <p>
-       The Board of Directors for Fall 2000 through Fall 2001 is:</p>
+        The Board of Directors for Fall 2000 through Fall 2001 is:
+      </p>
        <ul>
         <li>Bart Decrem</li>
         <li>Jim Gettys</li>
