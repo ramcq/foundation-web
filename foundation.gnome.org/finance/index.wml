@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+  <head>
+    <title>GNOME Foundation Financial Information</title>
+  </head>
+ 
+  <body>
+    <h1>GNOME Foundation Financial Information</h1>
+
+    <h3>2002-2003 Financial Statement</h3>
+
+    <p>
+      <ul>
+        <li><a href="gnome-foundation-fiscal-year-03-and-02.pdf">
+	    GNOME Foundation Financial Statement for 2002 and 2003</a>.
+        </li>
+        <li><a href="gnome-foundation-statement-03.pdf">
+            Accountant's letter accompanying Financial Statement</a>.
+        </li>
+    </p>
+
+    <p>Copies of GNOME Foundation's Federal Tax Return (the 990 form) 
+       can be downloaded at 
+       <a href="http://www.guidestar.org">Guidestar.org</a>. 
+       You will have to register with GuideStar to access the IRS form, 
+       but the registration is free and takes only a minute. 
+    </p>
+
+  </body>
+</html>

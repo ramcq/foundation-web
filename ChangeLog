@@ -1,3 +1,14 @@
+2004-11-26  Glynn Foster  <glynn.foster@sun.com>
+
+	* foundation.gnome.org/Makefile.am, 
+	foundation.gnome.org/finance/Makefile.am,
+	foundation.gnome.org/finance/gnome-foundation-accountant-03.pdf,
+	foundation.gnome.org/finance/gnome-foundation-fiscal-year-03-and-
+	02.pdf,
+	foundation.gnome.org/finance/index.wml, 
+	foundation.gnome.org/configure.in,
+	include/evilsedhack: Add new 'Finance' section as per Tim's request.
+
 2004-11-25  Vincent Untz  <vincent@vuntz.net>
 
 	* foundation.gnome.org/elections/2004/voters.wml: updated one e-mail
