@@ -1,5 +1,10 @@
 2003-11-11  Vincent Untz  <vincent@vuntz.net>
 
+	* foundation.gnome.org/membership/application.wml: obfuscate a bit the
+	e-mail address of the applicant.
+
+2003-11-11  Vincent Untz  <vincent@vuntz.net>
+
 	* foundation.gnome.org/elections/2003/candidates.wml: add Leslie's
 	affiliation.
 

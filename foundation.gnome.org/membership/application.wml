@@ -9,18 +9,22 @@
   <body>
     <h1>GNOME Foundation Membership Application</h1>
 
-<?
+<?php
   $bad_elements = array();
   $errors = array();
 
-  if ($submit) {
+  if ($_POST['submit']) {
       /* remove the slashes */
-      $name = stripslashes($name);
-      $email = stripslashes($email);
-      $summary = stripslashes($summary);
-      $details = stripslashes($details);
-      $contacts = stripslashes($contacts);
-      $comments = stripslashes($comments);
+      $name = stripslashes($_POST['name']);
+      $email = stripslashes($_POST['email']);
+      $summary = stripslashes($_POST['summary']);
+      $details = stripslashes($_POST['details']);
+      $contacts = stripslashes($_POST['contacts']);
+      $comments = stripslashes($_POST['comments']);
+
+      $ircnick = $_POST['ircnick'];
+      $cvsuser = $_POST['cvsuser'];
+      $previousmember = $_POST['previousmember'];
 
       if (!$name || trim($name) == "") {
         $bad_elements[] = "name";
@@ -30,6 +34,8 @@
         $bad_elements[] = "email";
         $errors[] = "Please enter an email address we can use to contact you.";
       }
+      $obfuscated_email = preg_replace("/@/", " AT ", $email);
+
       if (!$summary || trim($summary) == "") {
         $bad_elements[] = "summary";
         $errors[] = "Please enter a list of areas of GNOME to which you have made a non-trivial contribution.";
@@ -47,7 +53,7 @@
 
         $formmail = "Contact Information:\n--------------------\n";
         $formmail .= "Name: " . $name . "\n";
-        $formmail .= "E-mail: " . $email . "\n";
+        $formmail .= "E-mail: " . $obfuscated_email . "\n";
         $formmail .= "irc.gnome.org nickname (if any): " . $ircnick . "\n";
         $formmail .= "cvs.gnome.org username (if any): " . $cvsuser . "\n";
         $formmail .= "\n";
@@ -74,9 +80,9 @@
         $headers = "From: GNOME Foundation Membership Committee Script <gnome-membership@gnome.org>\nCc: $email\n";
 
         if ($previousmember) {
-          $subject = "[RENEWAL] Application received from $name ($email)";
+          $subject = "[RENEWAL] Application received from $name ($obfuscated_email)";
         } else {
-          $subject = "Application received from $name ($email)";
+          $subject = "Application received from $name ($obfuscated_email)";
         }
         // send the mail
 
@@ -105,7 +111,7 @@
       }
   }
 
-  if (! $submit || count($bad_elements) != 0) {  ?>
+  if (! $_POST['submit'] || count($bad_elements) != 0) {  ?>
 
     <p>
       To apply for membership in the GNOME Foundation, please complete the
@@ -124,7 +130,7 @@
       href="mailto:membership@gnome.org">membership@gnome.org</a>.
     </p>
 
-      <?  if (count($bad_elements) != 0) {
+      <?php  if (count($bad_elements) != 0) {
              print("<font color=\"red\">");
              foreach ($errors as $error) {
                print("<li>$error</li>");
@@ -133,7 +139,7 @@
           }
       ?>
 
-    <form action="<? echo $PHP_SELF; ?>" method="POST">
+    <form action="<?php echo $PHP_SELF; ?>" method="POST">
       <h3>Contact Information</h3>
 
       <table summary="Membership form">
@@ -141,7 +147,7 @@
           <td>Full Name:</td>
           <td>
             <input type="text" name="name" size="40"
-                   value="<? if ($name) { echo $name; } ?>" />
+                   value="<?php if ($name) { echo $name; } ?>" />
           </td>
         </tr>
 
@@ -149,7 +155,7 @@
           <td>E-mail address:</td>
           <td>
             <input type="text" name="email" size="40"
-                   value="<? if ($email) { echo $email; } ?>" />
+                   value="<?php if ($email) { echo $email; } ?>" />
           </td>
         </tr>
 
@@ -157,7 +163,7 @@
           <td>irc.gnome.org nickname (if any):</td>
           <td>
             <input type="text" name="ircnick" size="20"
-                   value="<? if ($ircnick) { echo $ircnick; } ?>" />
+                   value="<?php if ($ircnick) { echo $ircnick; } ?>" />
           </td>
         </tr>
 
@@ -165,7 +171,7 @@
           <td>cvs.gnome.org username (if any):</td>
           <td>
             <input type="text" name="cvsuser" size="20"
-                   value="<? if ($cvsuser) { echo $cvsuser; } ?>" />
+                   value="<?php if ($cvsuser) { echo $cvsuser; } ?>" />
           </td>
         </tr>
 
@@ -176,7 +182,7 @@
         <tr>
           <td colspan="2">
           <input type="checkbox" name="previousmember"
-                 <? if ($previousmember) { ?> checked <? } ?> />
+                 <?php if ($previousmember) { ?> checked <?php } ?> />
             Previous GNOME Foundation member
           </td>
         </tr>
@@ -199,7 +205,7 @@
       </p>
 
       <textarea name="summary" rows="3" cols="50">
-        <? if (trim($summary)) { echo trim($summary); } ?>
+        <?php if (trim($summary)) { echo trim($summary); } ?>
       </textarea>
 
       <p>
@@ -213,7 +219,7 @@
       </p>
 
       <textarea name="details" rows="10" cols="50">
-        <? if (trim($details)) { echo trim($details); } ?>
+        <?php if (trim($details)) { echo trim($details); } ?>
       </textarea>
 
       <p>
@@ -229,7 +235,7 @@
       </p>
 
       <textarea name="contacts" rows="5" cols="50">
-        <? if (trim($contacts)) { echo trim($contacts); } ?>
+        <?php if (trim($contacts)) { echo trim($contacts); } ?>
       </textarea>
 
       <h3>Other Comments</h3>
@@ -240,7 +246,7 @@
       </p>
 
       <textarea name="comments" rows="10" cols="50">
-        <? if (trim($comments)) { echo trim($comments); } ?>
+        <?php if (trim($comments)) { echo trim($comments); } ?>
       </textarea>
 
       <p>
@@ -252,7 +258,7 @@
 
     </form>
 
-<? } ?>
+<?php } ?>
 
   </body>
 </html>
