@@ -8,6 +8,6 @@ page_SCRIPTS = \
 	.htaccess
 
 page_DATA = \
-	robots.txt \
+	robots.txt
 
 include $(top_srcdir)/rules.common
