@@ -1,3 +1,36 @@
+2003-06-27  Eric Baudais  <drake@gnome.org>
+
+	* advisory_board.html
+	* ballot-summary-2001.html
+	* ballot-summary.html
+	* board_of_directors-2000.html
+	* board_of_directors-2001.html
+	* board_of_directors.html
+	* charter.html
+	* directory.html
+	* documentation.html
+	* election-2000.html
+	* election-2001.html
+	* electionrules-2001.html
+	* electionrules.html
+	* elections.html
+	* executive_director.html
+	* faq-ln7.html
+	* faq.html
+	* index.html
+	* membership-list.html
+	* membership-policy.html
+	* membership.html
+	* organization.html
+	* overview.html
+	* template.html
+	* voters-2000.html
+	* voters-2001.html
+	* voters.html
+
+	Changed the press link in the header to point to the press release
+	page on gnome.org
+
 2003-04-03  Steve Fox  <drfickle@k-lug.org>
 
   * advisory_board.html
