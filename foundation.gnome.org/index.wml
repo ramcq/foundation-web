@@ -40,13 +40,23 @@
     <h2>News</h2>
     <ul>
       <li>
+        <strong>Results of the Anonymous Voting Referendum official</strong>
+        <small>(24/10/2004)</small>
+        <blockquote>
+          The GNOME Foundation Membership &amp; Elections Committee is pleased
+          to announce that the results for the anonymous voting referendum
+          are now official. All future GNOME Foundation elections and referenda
+          will use an anonymous voting process.
+        </blockquote>
+      </li>
+      <li>
         <strong>Preliminary results of the Anonymous Voting Referendum</strong>
         <small>(11/10/2004)</small>
         <blockquote>
-	  The preliminary results of the anonymous voting referendum have been
-	  <a href="referenda/2004-10/preliminary-results.html">posted</a>.
-	  You can <a href="referenda/2004-10/verify.html">verify the results</a>
-	  yourself.
+          The preliminary results of the anonymous voting referendum have been
+          <a href="referenda/2004-10/preliminary-results.html">posted</a>.
+          You can <a href="referenda/2004-10/verify.html">verify the results</a>
+          yourself.
           Any challenges to these results must be received by October 22nd.
         </blockquote>
       </li>

@@ -1,3 +1,13 @@
+2004-10-24  Vincent Untz  <vincent@vuntz.net>
+
+	Anonymous Voting Referendum results are now official.
+
+	* foundation.gnome.org/index.wml:
+	* foundation.gnome.org/news/index.wml: add the news
+	* foundation.gnome.org/elections/2003/index.wml: fix tab use
+	* foundation.gnome.org/referenda/2004-10/index.wml: add link to the
+	announce
+
 2004-10-12  Vincent Untz  <vincent@vuntz.net>
 
 	* foundation.gnome.org/referenda/2004-10/2004-10-verif.tar.gz: fix
