@@ -9,8 +9,16 @@
   <body>
     <h1>Contact The GNOME Foundation</h1>
 
-    <p>
-    </p>
-
+    <dl>
+      <dt><b>Email</b></dt>
+      <dd><a href="mailto:board@gnome.org">Board of Directors</a></dd>
+      <dd><a href="mailto:director@gnome.org">Executive Director</a></dd>
+      <dd><a href="mailto:membership-committee@gnome.org">Foundation Membership Committee</a></dd>
+      <dd><a href="mailto:elections@gnome.org">Foundation Elections Committee</a></dd>
+ 
+      <dt><b>Email lists</b></dt>
+      <dd><a href="http://mail.gnome.org/mailman/listinfo/foundation-list">Foundation mailing list</a></dd>
+      <dd><a href="http://mail.gnome.org/mailman/listinfo/foundation-announce">Foundation Announce mailing list</a></dd>
+ 
   </body>
 </html>
