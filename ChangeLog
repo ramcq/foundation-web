@@ -1,3 +1,15 @@
+2004-09-14  Vincent Untz  <vincent@vuntz.net>
+
+	* configure.in:
+	* foundation.gnome.org/Makefile.am:
+	* foundation.gnome.org/referenda/*: add pages for the anonymous voting
+	referendum.
+	* foundation.gnome.org/index.wml:
+	* foundation.gnome.org/news/index.wml: add a new item about the
+	referendum
+	* foundation.gnome.org/legal/.cvsignore: added
+	* include/evilsedhack: include a referenda link
+
 2004-05-12  Vincent Untz  <vincent@vuntz.net>
 
 	* foundation.gnome.org/membership/index.wml: add some words so people
