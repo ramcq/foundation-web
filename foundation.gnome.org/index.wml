@@ -76,18 +76,11 @@
        </blockquote>
      </li>
      <li>
-       <strong>2002 GNOME Foundation Elections: Preliminary Results</strong>
-       <small>(12/03/2002)</small>
-       <blockquote>
-	 <a href="elections/2002/preliminary_results.html">Preliminary results</a> for the 2002 GNOME Foundation Elections are out!
-       </blockquote>
-     </li>
-     <li>
        <strong>2002 GNOME Foundation Elections</strong>
        <small>(11/20/2002)</small>
        <blockquote>
-	 The GNOME Foundation <a href="elections.html">elections</a> have
-	 begun. There are 23 <a href="ballot-summary.html">candidates</a>
+	 The GNOME Foundation <a href="elections/2002/">elections</a> have
+	 begun. There are 23 <a href="elections/2002/candidates.html">candidates</a>
 	 running for these elections.
        </blockquote>
      </li>
@@ -95,7 +88,7 @@
        <strong>Foundation By-laws Posted</strong>
        <small>(09/24/2002)</small>
        <blockquote>
-         The GNOME Foundation <a href="bylaws.pdf">by-laws</a> have now been
+         The GNOME Foundation <a href="documentation/bylaws.pdf">by-laws</a> have now been
          posted in PDF format.
        </blockquote>
      </li>
@@ -105,7 +98,7 @@
        <blockquote>
          We are currently working to renew all old-style GNOME
          Foundation memberships under the new rules, available
-	 <a href="membership.html">here</a>. Affected members will receive mail
+	 <a href="membership/">here</a>. Affected members will receive mail
          today explaining what they need to do.
        </blockquote>
      </li>
@@ -144,7 +137,7 @@
         <strong>2001 Final list of election Candidates Announced</strong> <small>(11/10/2001)</small>
         <blockquote>
           All 2001 election candidates have been compiled into a
-	  <a href="ballot-summary.html">Final List of Candidates</a>.
+	  <a href="elections/2001/candidates.html">Final List of Candidates</a>.
 	  Voting begins on the 20th November and finishes on the 27th November.
         </blockquote>
      </li>
@@ -169,7 +162,9 @@
      <li>
         <strong>New Membership Policy Adopted</strong> <small>(07/12/2001)</small> 
         <blockquote>
-          A new <a href="membership-policy.html">membership qualification policy</a> has been adopted and the GNOME Foundation Membership has been re-opened to new members.  If you would like to become a member, please <a href="membership-form.php">apply here</a>.  
+          A new <a href="membership/membership-policy.html">membership qualification policy</a> has 
+	  been adopted and the GNOME Foundation Membership has been re-opened to new members. If you 
+	  would like to become a member, please <a href="membership/membership-form.php">apply here</a>.  
         </blockquote>
      </li>
      <li>
