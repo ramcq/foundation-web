@@ -68,18 +68,18 @@
         <strong>Foundation By-laws Posted</strong>
         <small>(09/24/2002)</small>
         <blockquote>
-          The GNOME Foundation <a href="../documentation/bylaws.pdf">by-laws</a>
-          have now been posted in PDF format.
+          The GNOME Foundation <a href="../about/bylaws.pdf">by-laws</a> have
+          now been posted in PDF format.
         </blockquote>
       </li>
       <li>
         <strong>Foundation Membership Renewal Exercise</strong>
         <small>(08/31/2002)</small>
         <blockquote>
-           We are currently working to renew all old-style GNOME
-          Foundation memberships under the new rules, available
-          <a href="../membership/policy.html">here</a>. Affected members will
-          receive mail today explaining what they need to do.
+          We are currently working to renew all old-style GNOME Foundation
+          memberships under the new rules, available <a
+          href="../membership/">here</a>. Affected members will receive mail
+          today explaining what they need to do.
         </blockquote>
       </li>
       <li>
@@ -152,9 +152,9 @@
          <strong>New Membership Policy Adopted</strong>
          <small>(07/12/2001)</small>
          <blockquote>
-           A new <a href="../membership/policy.html">membership qualification
-           policy</a> has been adopted and the GNOME Foundation Membership has
-           been re-opened to new members. If you would like to become a member,
+           A new <a href="../membership/">membership qualification policy</a>
+           has been adopted and the GNOME Foundation Membership has been
+           re-opened to new members. If you would like to become a member,
            please <a href="../membership/application.php">apply here</a>.
          </blockquote>
       </li>

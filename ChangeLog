@@ -1,3 +1,33 @@
+2003-10-29  Vincent Untz  <vincent@vuntz.net>
+
+	* foundation.gnome.org/htaccess: changes some redirects to use the new
+	about/ and contact/ stuff. Add a redirect for the membership policy and
+	remove the news redirect because there was no news page on the old
+	site.
+	* foundation.gnome.org/elections/2000/rules.wml
+	* foundation.gnome.org/elections/2001/rules.wml
+	* foundation.gnome.org/elections/2002/rules.wml
+	* foundation.gnome.org/elections/2003/rules.wml
+	* foundation.gnome.org/elections/overview.wml: fixed links to the
+	charter and the bylaws.
+	* foundation.gnome.org/membership/.cvsignore: removed policy.html
+	* foundation.gnome.org/membership/application.wml: fixed link to the
+	policy
+	* foundation.gnome.org/news/index.wml: fixed links to the moved stuff.
+	* foundation.gnome.org/about/.cvsignore
+	* foundation.gnome.org/about/charter/.cvsignore
+	* foundation.gnome.org/about/history/.cvsignore
+	* foundation.gnome.org/contact/.cvsignore: added missing files
+	* foundation.gnome.org/documentation/.cvsignore
+	* foundation.gnome.org/documentation/Makefile.am
+	* foundation.gnome.org/documentation/index.wml
+	* foundation.gnome.org/membership/policy.wml
+	* foundation.gnome.org/organization/.cvsignore
+	* foundation.gnome.org/organization/advisory/.cvsignore
+	* foundation.gnome.org/organization/directors/.cvsignore
+	* foundation.gnome.org/organization/executive/.cvsignore: removed these
+	files
+
 2003-10-29  Glynn Foster  <glynn.foster@sun.com>
 
 	* configure.in: Update.
