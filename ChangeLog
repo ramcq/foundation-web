@@ -1,5 +1,15 @@
 2001-11-03  Dan Mueth  <d-mueth@uchicago.edu>
 
+	Cleaning up organization of election materials.
+
+	* election-2000.html:
+	* electionrules.html:
+	* elections.html:
+	* index.html:
+	* template.html:
+
+2001-11-03  Dan Mueth  <d-mueth@uchicago.edu>
+
 	Cleaning up organization of membership materials.  Moved 
  	membership.html to membership-list.html so we can use membership.html
 	for general membership info.
