@@ -3,7 +3,7 @@ SUBDIRS=
 urlpath = /elections/2003
  
 page_SCRIPTS = \
-        index.html		\
+	index.html		\
 	candidates.html		\
 	voters.html		\
 	rules.html
