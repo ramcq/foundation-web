@@ -10,26 +10,30 @@
    <h1>The GNOME Foundation</h1>
    <h2>Introduction</h2>
    <p>
-     The GNOME project has built a complete free and easy-to-use desktop
-     environment for the user, as well as a powerful application
-     framework for the software developer. GNOME is part of the
-     <a href="http://www.gnu.org/">GNU project</a>, and is free software
-     (sometimes referred to as open source software.)
+	 The GNOME Project is an effort to create a complete, free and easy-to-use
+	 desktop environment for users, as well as a powerful application
+	 development framework for software developers. GNOME is part of the <a
+	 href="http://www.gnu.org/">GNU Project</a>, and is <a
+	 href="http://www.gnu.org/philosophy/free-sw.html">Free Software</a>
+	 (sometimes referred to as <a href="http://www.opensource.org/">Open
+	 Source</a> software).
    </p>
    <p>
-     The GNOME Foundation will work to further the goals of the GNOME project.
+	 The GNOME Foundation will work to further the goal of the GNOME project:
+	 to create a computing platform for use by the general public that is
+	 completely free software.
    </p>
    <p>
-     To achieve these goals, the Foundation will coordinate releases of
-     GNOME and determine which projects are part of GNOME. The Foundation
-     will act as an official voice for the GNOME project, providing a means
-     of communication with the press and with commercial and noncommercial
-     organizations interested in GNOME software. The foundation may produce
-     educational materials and documentation to help the public learn about
-     GNOME software.  In addition, it may sponsor GNOME-related technical
-     conferences, represent GNOME at relevant conferences sponsored by
-     others, help create technical standards for the project and promote
-     the use and development of GNOME software.
+	 To achieve this goal, the Foundation will coordinate releases of GNOME and
+	 determine which projects are part of GNOME. The Foundation will act as an
+	 official voice for the GNOME project, providing a means of communication
+	 with the press and with commercial and noncommercial organizations
+	 interested in GNOME software. The foundation may produce educational
+	 materials and documentation to help the public learn about GNOME software.
+	 In addition, it may sponsor GNOME-related technical conferences, and
+	 represent GNOME at relevant conferences sponsored by others, help create
+	 technical standards for the project and promote the use and development of
+	 GNOME software.
    </p>
 
    <h2>News</h2>
@@ -54,7 +58,7 @@
      </li>
    </ul>
 
-     <p><small>More news is available <a href="news/">here</a></small></p>
+     <p>More news is available <a href="news/">here</a>.</p>
 
    <h2>Sponsors</h2>
    <center>
@@ -68,11 +72,10 @@
      <a href="http://www.sun.com/"><img src="img/logos/sun.gif" alt="Sun Microsystems" border="0" hspace="8" vspace="5" align="middle" /></a>
      <a href="http://www.osdn.com/"><img src="img/logos/osdn.gif" alt="OSDN" border="0" hspace="8" vspace="5" align="middle" /></a>
      <a href="http://www.ximian.com/"><img src="img/logos/ximian.jpg" alt="Ximian Inc."  border="0" hspace="8" vspace="5" align="middle" /></a>
+     <p>
+       Legal services provided by Wilson Sonsini Goodrich &amp; Rosati.
+     </p>
    </center>
-
-   <p>
-     Legal services provided by Wilson Sonsini Goodrich &amp; Rosati.
-   </p>
 
  </body>
 </html>
