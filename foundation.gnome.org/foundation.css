@@ -1,0 +1,13 @@
+#hdr {
+	background: none;
+	background-color: #565248;
+}
+
+#sidebar {
+	border-left: 1px dashed #565248;
+}
+
+#sidebar p.section {
+	background-color: #565248;
+	color: white;
+}

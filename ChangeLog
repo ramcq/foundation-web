@@ -1,11 +1,166 @@
+2003-11-01  Glynn Foster  <glynn.foster@sun.com>
+
+	* Merge the new-template branch in to HEAD. The branch is now defunct,
+	and we have a live updated foundation.gnome.org. Yay!
+
 2003-10-30  Vincent Untz  <vincent@vuntz.net>
 
-	* elections/2003/voters.html: updated with latest members
+	* foundation.gnome.org/elections/2003/voters.wml: updated with latest
+	members
+
+2003-10-29  Vincent Untz  <vincent@vuntz.net>
+
+	* foundation.gnome.org/htaccess: changes some redirects to use the new
+	about/ and contact/ stuff. Add a redirect for the membership policy and
+	remove the news redirect because there was no news page on the old
+	site.
+	* foundation.gnome.org/elections/2000/rules.wml
+	* foundation.gnome.org/elections/2001/rules.wml
+	* foundation.gnome.org/elections/2002/rules.wml
+	* foundation.gnome.org/elections/2003/rules.wml
+	* foundation.gnome.org/elections/overview.wml: fixed links to the
+	charter and the bylaws.
+	* foundation.gnome.org/membership/.cvsignore: removed policy.html
+	* foundation.gnome.org/membership/application.wml: fixed link to the
+	policy
+	* foundation.gnome.org/news/index.wml: fixed links to the moved stuff.
+	* foundation.gnome.org/about/.cvsignore
+	* foundation.gnome.org/about/charter/.cvsignore
+	* foundation.gnome.org/about/history/.cvsignore
+	* foundation.gnome.org/contact/.cvsignore: added missing files
+	* foundation.gnome.org/documentation/.cvsignore
+	* foundation.gnome.org/documentation/Makefile.am
+	* foundation.gnome.org/documentation/index.wml
+	* foundation.gnome.org/membership/policy.wml
+	* foundation.gnome.org/organization/.cvsignore
+	* foundation.gnome.org/organization/advisory/.cvsignore
+	* foundation.gnome.org/organization/directors/.cvsignore
+	* foundation.gnome.org/organization/executive/.cvsignore: removed these
+	files
+
+2003-10-29  Glynn Foster  <glynn.foster@sun.com>
+
+	* configure.in: Update.
+	* foundation.gnome.org/about/Makefile.am: Update
+	* foundation.gnome.org/about/charter/Makefile.am: New
+	* foundation.gnome.org/about/charter/index.wml: Moved from ../charter.wml
+	* foundation.gnome.org/membership/Makefile.am: Update.
+	* foundation.gnome.org/membership/index.wml: Remove silly page.
+
+2003-10-29  Glynn Foster  <glynn.foster@sun.com>
+
+	* configure.in: Add about and contacts, remove organization and 
+	  documentation.
+	* foundation.gnome.org/about/*: New content.
+	* foundation.gnome.org/contact/*: New content.
+	* foundation.gnome.org/documentation/*: Remove.
+	* foundation.gnome.org/organization/*: Remove.
+	* include/evilsedhack: Update with new sections.
 
 2003-10-27  Vincent Untz  <vincent@vuntz.net>
 
-	* elections/2003/voters.html: updated e-mail address for Thomas Vander
-	Stichele
+	* foundation.gnome.org/organization/advisory_board.wml
+	* foundation.gnome.org/organization/board_of_directors-2000.wml
+	* foundation.gnome.org/organization/board_of_directors-2001.wml
+	* foundation.gnome.org/organization/board_of_directors.wml
+	* foundation.gnome.org/organization/executive_director.wml: really
+	remove those.
+
+2003-10-27  Vincent Untz  <vincent@vuntz.net>
+
+	* configure.in: add organization/advisory/, organization/directors/ and
+	organization/executive/
+	* foundation.gnome.org/organization/*: moved advisory_board.wml,
+	board_of_directors*.wml and executive_director.wml to subdirectories
+	* foundation.gnome.org/elections/2002/*: move preliminary_results.wml to
+	preliminary-results.wml
+	* foundation.gnome.org/htaccess: redirect above moved pages
+	* foundation.gnome.org/*: lots of small fixes (mainly
+	indentation/wording)
+
+2003-10-27  Vincent Untz  <vincent@vuntz.net>
+
+	* foundation.gnome.org/index.wml: don't use <center>
+	* foundation.gnome.org/elections/2003/voters.wml: updated e-mail
+	address for Thomas Vander Stichele
+
+2003-10-27  Jeff Waugh  <jdub@perkypants.org>
+
+	* configure.in: Add news/
+	* foundation.gnome.org/.cvsignore: Remove news.html
+	* foundation.gnome.org/Makefile.am: Add news/
+	* foundation.gnome.org/htaccess: Redirect for news.html
+	* foundation.gnome.org/index.wml: Relink news.html
+	* foundation.gnome.org/news.wml: Removed.
+	* foundation.gnome.org/news/.cvsignore: New.
+	* foundation.gnome.org/news/Makefile.am: New.
+	* foundation.gnome.org/news/index.wml: From ../news.html
+
+2003-10-27  Vincent Untz  <vincent@vuntz.net>
+
+	* foundation.gnome.org/.cvsignore: added news.html
+	* foundation.gnome.org/elections/2002/.cvsignore: added
+	preliminary_results.html
+	* foundation.gnome.org/index.wml: s/&/&amp;/
+	* foundation.gnome.org/news.wml
+	* foundation.gnome.org/documentation/index.wml
+	* foundation.gnome.org/elections/overview.wml
+	* foundation.gnome.org/elections/2000/candidates.wml
+	* foundation.gnome.org/elections/2000/rules.wml
+	* foundation.gnome.org/elections/2001/candidates.wml
+	* foundation.gnome.org/elections/2001/rules.wml
+	* foundation.gnome.org/elections/2002/candidates.wml
+	* foundation.gnome.org/elections/2002/rules.wml
+	* foundation.gnome.org/elections/2003/rules.wml
+	* foundation.gnome.org/membership/application.wml
+	* foundation.gnome.org/membership/index.wml
+	* foundation.gnome.org/membership/policy.wml:
+	Fix the links. Make all links relative.
+
+2003-10-25  Glynn Foster  <glynn.foster@sun.com>
+
+	* foundation.gnome.org/Makefile.am: Add new page
+	* foundation.gnome.org/index.wml: Change title, remove news items, and
+	add Wilson Sonsini thank you.
+	* foundation.gnome.org/news.wml: Add new.
+	* include/evilsedhack: s/Fundraising/Donate to GNOME
+
+2003-10-25  Vincent Untz  <vincent@vuntz.net>
+
+	* .cvsignore
+	* foundation.gnome.org/elections/.cvsignore
+	* foundation.gnome.org/elections/2000/Makefile.am
+	* foundation.gnome.org/elections/2001/Makefile.am
+	* foundation.gnome.org/elections/2002/Makefile.am
+	* foundation.gnome.org/membership/Makefile.am: added missing files
+	* autogen.sh: changed references to other modules :-)
+	* foundation.gnome.org/htaccess: added a lot of redirections
+	* foundation.gnome.org/elections/overview.wml: removed the date which
+	was specific to one election
+	* foundation.gnome.org/elections/2001/voters.wml
+	* foundation.gnome.org/elections/2003/voters.wml: added encoding meta
+	* foundation.gnome.org/elections/2002/preliminary_results.html
+	* foundation.gnome.org/elections/2002/preliminary_results.wml: this
+	file was not generated, so added a .wml and removed the .html
+	* foundation.gnome.org/elections/2002/voters.wml: removed a 'u'
+	* foundation.gnome.org/elections/2003/voters.wml: updated
+	* foundation.gnome.org/membership/membership-*: renamed files
+
+2003-10-24  Glynn Foster  <glynn.foster@sun.com>
+
+	* foundation.gnome.org/*: Rest of the content.
+
+2003-10-24  Glynn Foster  <glynn.foster@sun.com>
+
+	* foundation.gnome.org/documentation/*: New directory.
+	* foundation.gnome.org/elections/*: New directory.
+	* foundation.gnome.org/membership/*: New directory.
+
+2003-10-24  Glynn Foster  <glynn.foster@sun.com>
+
+	* Makefile.am, autogen.sh, configure.in: Start to 
+	add the basics of a build system.
+	* *.html/pdf: Moved around. Will slowly add back incrementally.
 
 2003-10-24  Vincent Untz  <vincent@vuntz.net>
 
