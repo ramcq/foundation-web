@@ -1,5 +1,21 @@
 2001-11-03  Dan Mueth  <d-mueth@uchicago.edu>
 
+	Cleaning up organization of membership materials.  Moved 
+ 	membership.html to membership-list.html so we can use membership.html
+	for general membership info.
+
+	* charter.html:
+	* directory.html:
+	* elections.html:
+	* faq.html:
+	* index.html:
+	* membership-form.html:
+	* membership-policy.html:
+	* membership.html:
+	* template.html:
+
+2001-11-03  Dan Mueth  <d-mueth@uchicago.edu>
+
 	Added a directory and template file.
 
 	* charter.html:
