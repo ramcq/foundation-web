@@ -1,3 +1,25 @@
+2003-07-24  Kenny Graunke  <kenny@whitecape.org>
+
+	* press.html:
+	* press/pr-accessible.html:
+	* press/pr-assistivetech.html:
+	* press/pr-bitstreamfonts.html:
+	* press/pr-borlandjoins.html:
+	* press/pr-foundation.html:
+	* press/pr-gnome14.html:
+	* press/pr-gnome20.html:
+	* press/pr-gnomeenelsur.html:
+	* press/pr-guadec.html:
+	* press/pr-mandrakesoftjoins.html:
+	* press/pr-newcommitments.html:
+	* press/pr-ney_execdir.html:
+	* press/pr-redflagjoins.html:
+	* press/pr-redhat.html:
+	* press/pr-sunjoins.html:
+
+	No longer used - remove to avoid clutter. I believe these are now
+	on www.gnome.org...
+
 2003-07-23  Kenny Graunke  <kenny@whitecape.org>
 
 	* documentation.html: Oops. Really valid now.
