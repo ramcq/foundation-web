@@ -1,4 +1,8 @@
 2002-08-06  Glynn Foster  <glynn.foster@sun.com>
+	
+	* membership-form.html: Add some spacing.
+
+2002-08-06  Glynn Foster  <glynn.foster@sun.com>
 
 	* cgi-bin/membership-form-handler.cgi: Minor updates.
 
