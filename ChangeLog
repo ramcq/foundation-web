@@ -1,3 +1,13 @@
+2001-07-13  Dan Mueth  <d-mueth@uchicago.edu>
+
+	I now have membership-list.html generated which is the current
+	membership list, while membership.html is the original list
+	at the time of the first elections.  I clarified this and
+	updated the links.
+
+	* elections.html:
+	* index.html:
+
 2001-07-12  Dan Mueth  <d-mueth@uchicago.edu>
 
 	Small improvements to appearance of page which pops up
