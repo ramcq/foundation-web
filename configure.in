@@ -20,4 +20,8 @@ foundation.gnome.org/organization/Makefile
 foundation.gnome.org/documentation/Makefile
 foundation.gnome.org/membership/Makefile
 foundation.gnome.org/elections/Makefile
+foundation.gnome.org/elections/2000/Makefile
+foundation.gnome.org/elections/2001/Makefile
+foundation.gnome.org/elections/2002/Makefile
+foundation.gnome.org/elections/2003/Makefile
 ])

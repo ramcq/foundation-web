@@ -1,5 +1,15 @@
 2003-10-24  Glynn Foster  <glynn.foster@sun.com>
 
+	* foundation.gnome.org/*: Rest of the content.
+
+2003-10-24  Glynn Foster  <glynn.foster@sun.com>
+
+	* foundation.gnome.org/documentation/*: New directory
+	* foundation.gnome.org/elections/*: New directory
+	* foundation.gnome.org/membership/*: New directory
+
+2003-10-24  Glynn Foster  <glynn.foster@sun.com>
+
 	* Makefile.am, autogen.sh, configure.in: Start to 
 	add the basics of a build system.
 	* *.html/pdf: Moved around. Will slowly add back incrementally.

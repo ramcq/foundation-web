@@ -4,7 +4,6 @@ urlpath =
                                                                                                                                                             
 page_SCRIPTS = \
         index.html	\
-        overview.html	\
 	default.css
                                                                                                                                                             
 page_DATA = \
