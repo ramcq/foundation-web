@@ -38,7 +38,25 @@
    </p>
    <p>
      You can also read the 
-     <a href="http://www.gnome.org/press/releases/foundation.html">press release announcing the creation of the GNOME Foundation</a>.
+     <a href="http://www.gnome.org/press/releases/foundation.html">press release announcing the 
+     creation of the GNOME Foundation</a>.
    </p>
+
+   <h2>Mailing Lists</h2>
+   <p>
+     Join the following mailing lists to hear GNOME Foundation announcements
+     and to discuss GNOME Foundation issues:
+   </p>
+   <p>
+   <ul>
+     <li>
+       <a href="mailto:foundation-announce@gnome.org">foundation-announce@gnome.org</a> (<a href="http://mail.gnome.org/archives/foundation-announce">archives</a>, <a href="http://mail.gnome.org/mailman/listinfo/foundation-announce">subscription page</a>) is for foundation-related announcements.
+     </li>
+     <li>
+       <a href="mailto:foundation-list@gnome.org">foundation-list@gnome.org</a> (<a href="http://mail.gnome.org/archives/foundation-list">archives</a>, <a href="http://mail.gnome.org/mailman/listinfo/foundation-list">subscription page</a>) is for all foundation-related discussions, including discussions about candidacy statements. Minutes from board meetings are also posted here.
+     </li>
+   </ul>
+   </p>
+
  </body>
 </html>
