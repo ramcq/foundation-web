@@ -1,5 +1,10 @@
 2004-10-11  Vincent Untz  <vincent@vuntz.net>
 
+	* foundation.gnome.org/referenda/2004-10/preliminary-results.wml:
+	remove broken link
+
+2004-10-11  Vincent Untz  <vincent@vuntz.net>
+
 	* foundation.gnome.org/index.wml:
 	* foundation.gnome.org/news/index.wml:
 	add the news about the preliminary results
