@@ -46,226 +46,234 @@
 
     <h2>Candidates for the GNOME Foundation Board of Directors</h2>
 
-    <p>1. Jonathan Blandford<br />
-<p>
-  I am a long-time member of the GNOME community, and an employee of Red
-Hat, Inc.  I have been active on the Board for the past three years.  I
-also have previously been on the release team, and am currently on the
-sysadmin team.</p>
-<p>
-I am primarily interested in continuing to work with Tim and Jody to
-ensure that our finances remain in good shape.  We've had a better year
-financially, this past year, and I expect that we'll be able to continue
-this trend.  We have made great strides in our ability as a foundation
-to hold and fund conferences, and we should be able to do even more this
-year.  I'd also like to make our budgeting more transparent and public.</p>
-<br />
-      Affiliation: Red Hat<br />
-      Full statement at <a href="http://mail.gnome.joorg/archives/foundation-list/2004-November/msg00013.html">http://mail.gnome.org/archives/foundation-list/2004-November/msg00013.html</a>
+    <p>
+      <strong>1. Jonathan Blandford</strong><br />
+      Affiliation: <em>Red Hat</em><br />
+      Full statement at <a href="http://mail.gnome.org/archives/foundation-list/2004-November/msg00013.html">http://mail.gnome.org/archives/foundation-list/2004-November/msg00013.html</a>
     </p>
+    <blockquote>
+      I am a long-time member of the GNOME community, and an employee of Red
+      Hat, Inc.  I have been active on the Board for the past three years.  I
+      also have previously been on the release team, and am currently on the
+      sysadmin team. I am primarily interested in continuing to work with Tim
+      and Jody to ensure that our finances remain in good shape.  We've had a
+      better year financially, this past year, and I expect that we'll be able
+      to continue this trend.  We have made great strides in our ability as a
+      foundation to hold and fund conferences, and we should be able to do even
+      more this year.  I'd also like to make our budgeting more transparent and
+      public.
+    </blockquote>
 
-    <p>2. Bryan Clark<br />
-<p>
-SUMMARY NEEDED
-</p>
-      Affiliation: Red Hat<br />
+    <p>
+      <strong>2. Bryan Clark</strong><br />
+      Affiliation: <em>Red Hat</em><br />
       Full statement at <a href="http://mail.gnome.org/archives/foundation-list/2004-November/msg00011.html">http://mail.gnome.org/archives/foundation-list/2004-November/msg00011.html</a>
     </p>
+    <blockquote>
+       SUMMARY NEEDED
+    </blockquote>
 
-    <p>3. Murray Cumming<br />
-<p>SUMMARY NEEDED
-</p>
-<br />
-      Affiliation: None <br />
+    <p>
+      <strong>3. Murray Cumming</strong><br />
+      Affiliation: <em>None</em><br />
       Full statement at <a href="http://mail.gnome.org/archives/foundation-list/2004-November/msg00007.html">http://mail.gnome.org/archives/foundation-list/2004-November/msg00007.html</a>
     </p>
+    <blockquote>
+      I am a dedicated member of the release-team and maintainer of the C++
+      bindings. I believe in building and identifying consensus, in order to
+      create the environment in which GNOME's talent can thrive productively. I
+      would like the Board to continue its good work but be a little more
+      organised.
+    </blockquote>
 
-     <p>4. Rodney Dawes<br />
-<p>I agree with Tim. As far as contributions to GNOME go, I maintain
-intltool, gnome-icon-theme, evolution-webcal, and the background
-portion of control-center. I've also contributed code to most other
-GNOME modules as well.
-</p>
-<br />
-      Affiliation: Novell, Inc.<br />
-      Full statement at <a href="http://mail.gnome.org/archives/foundation-list/2004-November/msg00009.html">http://mail.gnome.org/archives/foundation-list/2004-November/msg00009.html</a>
+     <p>
+       <strong>4. Rodney Dawes</strong><br />
+       Affiliation: <em>Novell, Inc.</em><br />
+       Full statement at <a href="http://mail.gnome.org/archives/foundation-list/2004-November/msg00009.html">http://mail.gnome.org/archives/foundation-list/2004-November/msg00009.html</a>
     </p>
+    <blockquote>
+      I agree with Tim. As far as contributions to GNOME go, I maintain
+      intltool, gnome-icon-theme, evolution-webcal, and the background portion
+      of control-center. I've also contributed code to most other GNOME modules
+      as well.
+    </blockquote>
 
-    <p>5. Miguel de Icaza <br />
-<p>SUMMARY NEEDED
-</p>
-<br />
-      Affiliation: Novell, Inc.<br />
+    <p>
+      <strong>5. Miguel de Icaza</strong><br />
+      Affiliation: <em>Novell, Inc.</em><br />
       Full statement at <a href="http://mail.gnome.org/archives/foundation-list/2004-November/msg00005.html">http://mail.gnome.org/archives/foundation-list/2004-November/msg00005.html</a>
     </p>
+    <blockquote>
+       SUMMARY NEEDED
+    </blockquote>
 
-    <p>6. Christian Schaller <br />
-<p>SUMMARY NEEDED
-</p>
-<br />
-      Affiliation: Fluendo S.L.<br />
+    <p>
+      <strong>6. Christian Schaller</strong><br />
+      Affiliation: <em>Fluendo S.L.</em><br />
       Full statement at <a href="http://mail.gnome.org/archives/foundation-list/2004-November/msg00006.html">http://mail.gnome.org/archives/foundation-list/2004-November/msg00006.html</a>
     </p>
+    <blockquote>
+       SUMMARY NEEDED
+    </blockquote>
 
-
-    <p>7. Jody Goldberg<br />
-<p>Who am I
-    - Maintainer of Gnumeric, libgsf, gnome-control-center,
-      libgnomeprint{ui}* and long time contributor throughout the stack
-    - Advocate for developing software on the GNOME platform and
-      building bridges to expand the user base of that platform.
-    - Board Member for the last three years, sometimes as secretary,
-      and assistant treasurer.
-</p>
-<br />
-      Affiliation: Novell, Inc.<br />
+    <p>
+      <strong>7. Jody Goldberg</strong><br />
+      Affiliation: <em>Novell, Inc.</em><br />
       Full statement at <a href="http://mail.gnome.org/archives/membership-committee/2004-November/msg00020.html">http://mail.gnome.org/archives/membership-committee/2004-November/msg00020.html</a>
     </p>
+    <blockquote>
+       SUMMARY NEEDED
+    </blockquote>
 
-    <p>8. Bill Haneman<br />
-<p>IMO Board issues for the next year will include leveraging grassroots
-GNOME support around the world, and facilitating use of the GNOME
-"brand" while defending GNOME and Free Software.  Forging and
-strengthening relationships is important too.
-
-I work on GNOME software every day; as maintainer of multiple cvs
-modules, and as an architect of the GNOME Accessibility Project.
-
-"GNOME is for everybody!".
-</p>
-<br />
-      Affiliation: Sun Microsystems<br />
+    <p>
+      <strong>8. Bill Haneman</strong><br />
+      Affiliation: <em>Sun Microsystems</em><br />
       Full statement at <a href="http://mail.gnome.org/archives/membership-committee/2004-November/msg00019.html">http://mail.gnome.org/archives/membership-committee/2004-November/msg00019.html</a>
     </p>
+    <blockquote>
+      IMO Board issues for the next year will include leveraging grassroots
+      GNOME support around the world, and facilitating use of the GNOME "brand"
+      while defending GNOME and Free Software. Forging and strengthening
+      relationships is important too. I work on GNOME software every
+      day; as maintainer of multiple cvs modules, and as an architect
+      of the GNOME Accessibility Project. "GNOME is for everybody!".
+    </blockquote>
 
-    <p>9. Dom Lachowicz<br />
-<p>SUMMARY NEEDED
-</p>
-<br />
-      Affiliation: None<br />
+    <p>
+      <strong>9. Dom Lachowicz</strong><br />
+      Affiliation: <em>None</em><br />
       Full statement at <a href="http://mail.gnome.org/archives/membership-committee/2004-November/msg00024.html">http://mail.gnome.org/archives/membership-committee/2004-November/msg00024.html</a>
     </p>
+    <blockquote>
+       SUMMARY NEEDED
+    </blockquote>
 
-    <p>10. Michael Meeks<br />
-<p>At last count, Gnome was suffering from a lack of clear, well
-articulated, technical leadership, with no mechanism for generating
-technical consensus (particularly where this requires compromise).
-This in general leads to directional atrophy, wasted effort, and
-violence towards domestic pets.
-	The board shouldn't provide this leadership, but can encourage it.
-Furthermore it seems obvious that the Gnome environment should be
-further strengthened by compromise, alignment & code-sharing with other
-projects eg. Mozilla & OpenOffice.org.
-</p>
-<br />
-      Affiliation: Novell, Inc.<br />
+    <p>
+      <strong>10. Michael Meeks</strong><br />
+      Affiliation: <em>Novell, Inc.</em><br />
       Full statement at <a href="http://mail.gnome.org/archives/membership-committee/2004-November/msg00016.html">http://mail.gnome.org/archives/membership-committee/2004-November/msg00016.html</a>
     </p>
+    <blockquote>
+      At last count, Gnome was suffering from a lack of clear, well
+      articulated, technical leadership, with no mechanism for generating
+      technical consensus (particularly where this requires compromise). This
+      in general leads to directional atrophy, wasted effort, and violence
+      towards domestic pets. The board shouldn't provide this leadership, but
+      can encourage it. Furthermore it seems obvious that the Gnome environment
+      should be further strengthened by compromise, alignment &amp;
+      code-sharing with other projects eg. Mozilla &amp; OpenOffice.org.
+    </blockquote>
 
-    <p>11. Federico Mena-Quintero<br />
-<p>My interest is in propagating the use of Gnome in Latin America:  help
-local groups make the best use of Gnome and free software in general.
-I want to ensure that Gnome has a clear direction from the viewpoint
-of regional efforts:  that it can be integrated into local GNU/Linux
-distributions easily, that it provides a good technology base for
-custom setups, that it is easy for developers to learn, and that it is
-adequately localized.
-</p>
-<br />
-      Affiliation: Novell, Inc.<br />
+    <p>
+      <strong>11. Federico Mena-Quintero</strong><br />
+      Affiliation: <em>Novell, Inc.</em><br />
       Full statement at <a href="http://mail.gnome.org/archives/foundation-list/2004-November/msg00010.html">http://mail.gnome.org/archives/foundation-list/2004-November/msg00010.html</a>
     </p>
+    <blockquote>
+      My interest is in propagating the use of Gnome in Latin America: help
+      local groups make the best use of Gnome and free software in general. I
+      want to ensure that Gnome has a clear direction from the viewpoint of
+      regional efforts: that it can be integrated into local GNU/Linux
+      distributions easily, that it provides a good technology base for custom
+      setups, that it is easy for developers to learn, and that it is
+      adequately localized.
+    </blockquote>
 
-    <p>12. David Neary<br />
-<p>Even though I'm probably an unknown to most of the GNOME developers, I have been
-around for quite a while, primarily in the GIMP project. Last year, I was
-involved in organising GUADEC, and also brought the GIMP under the GNOME
-Foundation umbrella, with help from Tim Ney and the current board. I'm more an
-organiser than a coder, and I actually like doing board-type activities.
-
-The board has a lot to offer to the community, especially in the realm of
-communication and organisation - being on the board doesn't mean running
-things, so much as letting other people know what needs running, and harnessing
-that enthusiasm.
-</p>
-<br />
-      Affiliation: None<br />
+    <p>
+      <strong>12. David Neary</strong><br />
+      Affiliation: <em>None</em><br />
       Full statement at <a href="http://mail.gnome.org/archives/foundation-list/2004-November/msg00008.html">http://mail.gnome.org/archives/foundation-list/2004-November/msg00008.html</a>
     </p>
+    <blockquote>
+      Even though I'm probably an unknown to most of the GNOME developers, I
+      have been around for quite a while, primarily in the GIMP project. Last
+      year, I was involved in organising GUADEC, and also brought the GIMP
+      under the GNOME Foundation umbrella, with help from Tim Ney and the
+      current board. I'm more an organiser than a coder, and I actually like
+      doing board-type activities. The board has a lot to offer to the
+      community, especially in the realm of communication and organisation -
+      being on the board doesn't mean running things, so much as letting other
+      people know what needs running, and harnessing that enthusiasm.
+    </blockquote>
 
-    <p>13. Tim Ney<br />
-<p>I nominate myself for a seat on the 2005 GNOME Foundation Board of
-Directors: For the GNOME Foundation to fulfill its mission, it needs the
-combined efforts of hackers and non-hackers alike. One of my main
-contributions to GNOME has been to organize and raise funds for GUADEC,
-the Summit and now other regional events in Brazil and Spain.  For GNOME
-to scale to the widest geography of development, recognition and use, we
-need to assemble more resources to help provide training accessible to
-all.  
-</p>
-<br />
-      Affiliation: GNOME Foundation<br />
+    <p>
+      <strong>13. Tim Ney</strong><br />
+      Affiliation: <em>GNOME Foundation</em><br />
       Full statement at <a href="http://mail.gnome.org/archives/membership-committee/2004-November/msg00013.html">http://mail.gnome.org/archives/membership-committee/2004-November/msg00013.html</a>
     </p>
+    <blockquote>
+      I nominate myself for a seat on the 2005 GNOME Foundation Board of
+      Directors: For the GNOME Foundation to fulfill its mission, it needs the
+      combined efforts of hackers and non-hackers alike. One of my main
+      contributions to GNOME has been to organize and raise funds for GUADEC,
+      the Summit and now other regional events in Brazil and Spain. For GNOME
+      to scale to the widest geography of development, recognition and use, we
+      need to assemble more resources to help provide training accessible to
+      all.  
+    </blockquote>
 
-    <p>14. Anne Østergaard<br />
-<p>SUMMARY NEEDED
-</p>
-<br />
-      Affiliation: None<br />
+    <p>
+      <strong>14. Anne Østergaard</strong><br />
+      Affiliation: <em>None</em><br />
       Full statement at <a href="http://mail.gnome.org/archives/foundation-list/2004-November/msg00003.html">http://mail.gnome.org/archives/foundation-list/2004-November/msg00003.html</a>
     </p>
+    <blockquote>
+       SUMMARY NEEDED
+    </blockquote>
 
-    <p>15. Germán Poó-Caamaño<br />
-<p>SUMMARY NEEDED
-</p>
-<br />
-      Affiliation: None<br />
+    <p>
+      <strong>15. Germán Poó-Caamaño</strong><br />
+      Affiliation: <em>None</em><br />
       Full statement at <a href="http://mail.gnome.org/archives/foundation-list/2004-November/msg00015.html">http://mail.gnome.org/archives/foundation-list/2004-November/msg00015.html</a>
     </p>
+    <blockquote>
+       SUMMARY NEEDED
+    </blockquote>
 
-    <p>16. Leslie Proctor<br />
-<p>I've been involved with GNOME since the
-beginning, doing marketing, organizing trade show
-presence, helping to organize GUADEC and other stuff
-like that. I'm an incumbent member of the board.
-</p>
-<br />
-      Affiliation: None<br />
+    <p>
+      <strong>16. Leslie Proctor</strong><br />
+      Affiliation: <em>None</em><br />
       Full statement at <a href="http://mail.gnome.org/archives/membership-committee/2004-November/msg00001.html">http://mail.gnome.org/archives/membership-committee/2004-November/msg00001.html</a>
     </p>
+    <blockquote>
+      I've been involved with GNOME since the beginning, doing marketing,
+      organizing trade show presence, helping to organize GUADEC and other
+      stuff like that. I'm an incumbent member of the board.
+    </blockquote>
 
-    <p>17. Owen Taylor<br />
-<p>SUMMARY NEEDED
-</p>
-<br />
-      Affiliation: Red Hat<br />
+    <p>
+      <strong>17. Owen Taylor</strong><br />
+      Affiliation: <em>Red Hat</em><br />
       Full statement at <a href="http://mail.gnome.org/archives/foundation-list/2004-November/msg00004.html">http://mail.gnome.org/archives/foundation-list/2004-November/msg00004.html</a>
     </p>
+    <blockquote>
+       SUMMARY NEEDED
+    </blockquote>
 
-    <p>18. Daniel Veillard<br />
-<p>  I am French, long time Gnomer and Linux addict, maintainer of
-libxml, libxslt and rpmfind. I served on the Gnome Board for three
-years and I am used to non-profit organizations and the negociations
-needed to reach consensus in a group. I will focuse on the reuse
-of standards, internationalization and keeping trust relationship at an
-individual level. I think those are needed to keep hacking on Gnome fun
-and getting acceptance in new communities. Growing GNOME presence
-worldwide in mindshare, users and developpers is the next challenge
-of the Board.
-</p>
-<br />
-      Affiliation: Red Hat<br />
+    <p>
+      <strong>18. Daniel Veillard</strong><br />
+      Affiliation: <em>Red Hat</em><br />
       Full statement at <a href="http://mail.gnome.org/archives/membership-committee/2004-November/msg00011.html">http://mail.gnome.org/archives/membership-committee/2004-November/msg00011.html</a>
     </p>
+    <blockquote>
+      I am French, long time Gnomer and Linux addict, maintainer of libxml,
+      libxslt and rpmfind. I served on the Gnome Board for three years and I am
+      used to non-profit organizations and the negociations needed to reach
+      consensus in a group. I will focuse on the reuse of standards,
+      internationalization and keeping trust relationship at an individual
+      level. I think those are needed to keep hacking on Gnome fun and getting
+      acceptance in new communities. Growing GNOME presence worldwide in
+      mindshare, users and developpers is the next challenge of the Board.
+    </blockquote>
 
-    <p>19. Luis Villa<br />
-<p>SUMMARY NEEDED
-</p>
-<br />
-      Affiliation: Novell, Inc.<br />
+    <p>
+      <strong>19. Luis Villa</strong><br />
+      Affiliation: <em>Novell, Inc.</em><br />
       Full statement at <a href="http://mail.gnome.org/archives/foundation-list/2004-November/msg00012.html">http://mail.gnome.org/archives/foundation-list/2004-November/msg00012.html</a>
     </p>
+    <blockquote>
+       SUMMARY NEEDED
+    </blockquote>
 
     <h2>Additional Election-related Information</h2>
 
