@@ -12,6 +12,6 @@ page_DATA = \
 	redflag.gif \
 	redhat.gif \
 	sun.gif \
-	ximian.jpg
+	novell.gif
 
 include $(top_srcdir)/rules.common
