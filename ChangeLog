@@ -1,3 +1,22 @@
+2005-05-20  James Henstridge  <james@jamesh.id.au>
+
+	* autogen.sh: make this script pass on errors caused by
+	autoconf, automake, etc rather than continuing to run.
+	Also call automake with the --foreign argument so it doesn't
+	complain about missing AUTHORS and NEWS files.
+
+	* rules.common: use xsltproc to process the *.wml documents.
+
+	* include/add-header.xsl: new XSLT script that takes the place of
+	evilsedhack.
+
+	* foundation.gnome.org/elections/2004/preliminary-results.wml:
+	same here.
+
+	* foundation.gnome.org/elections/2004/candidates.wml: add a <meta>
+	tag to set the charset of the document to UTF-8, so it can be
+	parsed correctly as HTML.
+
 2005-03-24  Murray Cumming <murrayc@murrayc.com>
 
 	* foundation.gnome.org/about/index.wml:
