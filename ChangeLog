@@ -1,3 +1,9 @@
+2005-05-23  James Henstridge  <james@jamesh.id.au>
+
+	* rules.common (%.php): go back to evilsedhack for php files,
+	since PHP is evil.  Should fix this when we can get the XSLT
+	working for the PHP scripts we have.
+
 2005-05-20  James Henstridge  <james@jamesh.id.au>
 
 	* autogen.sh: make this script pass on errors caused by
