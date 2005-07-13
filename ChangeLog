@@ -1,5 +1,10 @@
 2005-07-13  Owen Taylor  <otaylor@redhat.com>
 
+	* foundation.gnome.org/finance/Makefile.am: Add 2004 summary
+	PDF file to Makefile.am
+
+2005-07-13  Owen Taylor  <otaylor@redhat.com>
+
 	* foundation.gnome.org/finance/index.wml: Add 2004 GUADEC summary.
 
 	* foundation.gnome.org/about/index.wml: Add information about
