@@ -1,3 +1,13 @@
+2005-07-13  Owen Taylor  <otaylor@redhat.com>
+
+	* foundation.gnome.org/finance/index.wml: Add 2004 GUADEC summary.
+
+	* foundation.gnome.org/about/index.wml: Add information about
+	advisory board fees, update advboard list.
+
+	* foundation.gnome.org/about/charter/index.wml: Note that the
+	advisory board information is out of date.
+
 2005-05-23  James Henstridge  <james@jamesh.id.au>
 
 	* rules.common (%.php): go back to evilsedhack for php files,
