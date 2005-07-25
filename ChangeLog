@@ -1,3 +1,10 @@
+2005-07-25  Glynn Foster  <glynn.foster@sun.com>
+
+	* foundation.gnome.org/finance/Makefile.am: Update.
+	* foundation.gnome.org/finance/gnome-foundation-fiscal-year-04-and-
+	03.pdf, foundation.gnome.org/finance/index.wml: Add new statement
+	from Tim, removing the link to the GUADEC one.
+
 2005-07-13  Owen Taylor  <otaylor@redhat.com>
 
 	* foundation.gnome.org/finance/Makefile.am: Add 2004 summary
