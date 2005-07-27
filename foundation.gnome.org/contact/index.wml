@@ -10,16 +10,30 @@
   <body>
     <h1>Contact the GNOME Foundation</h1>
 
-    <dl>
-      <dt><b>Email</b></dt>
+    <h2>Email</h2>
+      <dl>
       <dd><a href="mailto:board&#64;gnome&#46;org">Board of Directors</a></dd>
+      <!-- Commented this out, because I think the board prefers Tim not to use this email address,
+      though I can not find the exact email now.
       <dd><a href="mailto:director&#64;gnome&#46;org">Executive Director</a></dd>
+      -->
       <dd><a href="mailto:membership-committee&#64;gnome&#46;org">Foundation Membership Committee</a></dd>
       <dd><a href="mailto:elections&#64;gnome&#46;org">Foundation Elections Committee</a></dd>
+      </dl>
  
-      <dt><b>Email lists</b></dt>
+    <h2>Mailing lists</h2>
+      <dl>
       <dd><a href="http://mail.gnome.org/mailman/listinfo/foundation-list">Foundation mailing list</a></dd>
       <dd><a href="http://mail.gnome.org/mailman/listinfo/foundation-announce">Foundation Announce mailing list</a></dd>
-    </dl>
+      </dl>
+
+    <h2>Address</h2>
+    <p>
+GNOME Foundation<br />
+8 Cambridge Center<br />
+Floor 5<br />
+Cambridge, MA 02142<br />
+USA
+    </p>
   </body>
 </html>

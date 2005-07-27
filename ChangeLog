@@ -1,3 +1,10 @@
+2005-07-27  Murray Cumming  <murrayc@murrayc.com>
+
+	* foundation.gnome.org/contact/index.wml: Added the address, 
+	based on the one one the friends page. Commented-out the 
+	director@ email address because (I'm fairly sure) the board 
+	asked our director to stop using this.
+
 2005-07-25  Glynn Foster  <glynn.foster@sun.com>
 
 	* foundation.gnome.org/finance/Makefile.am: Update.
