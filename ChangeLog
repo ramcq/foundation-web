@@ -1,3 +1,9 @@
+2005-07-29  Murray Cumming  <murrayc@murrayc.com
+
+	* foundation.gnome.org/contact/index.wml: Uncommented-out the 
+	director@ address, because Owen says it just shouldn't be used 
+	as a from address.
+
 2005-07-27  Murray Cumming  <murrayc@murrayc.com>
 
 	* foundation.gnome.org/contact/index.wml: Added the address, 
