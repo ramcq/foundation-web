@@ -1,5 +1,10 @@
 2005-08-02  Owen Taylor  <otaylor@redhat.com>
 
+	* foundation.gnome.org/licensing/usergroup/index.wml: Replace UTF-8
+	with entities; WML seems to be bad with encodings.
+
+2005-08-02  Owen Taylor  <otaylor@redhat.com>
+
 	* foundation.gnome.org/Makefile.am (SUBDIRS): Add licensing to SUBDIRS
 
 2005-08-02  Owen Taylor  <otaylor@redhat.com>
