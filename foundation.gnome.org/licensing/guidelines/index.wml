@@ -12,7 +12,7 @@
 <h1 align='center'>TRADEMARK USAGE GUIDELINES FOR THIRD PARTIES</h1>
 <p>
 GNOME Foundation (&ldquo;GNOME&rdqou;) brands, trademarks, styles, logos and slogans (together,
-"GNOME Trademarks") are among GNOME&lsquo;s most valuable assets. Proper use of GNOME
+&ldquo;GNOME Trademarks&rdquo;) are among GNOME&lsquo;s most valuable assets. Proper use of GNOME
 trademarks by following these trademark usage guidelines protects the value of GNOME
 Trademarks. Following are the guidelines for the proper use of GNOME Trademarks by publishers
 and other third parties. Any use of or reference to GNOME Trademarks that is inconsistent with
@@ -40,8 +40,8 @@ products, or services unless you have explicit written permission to do so.
 </p>
 <p>
 When making fair use of a GNOME Trademark, you should acknowledge that
-owns the trademark. The following language is appropriate: "[Insert marks used] are registered
-trademarks or trademarks of GNOME Foundation in the United States or other countries."
+owns the trademark. The following language is appropriate: &ldquo;[Insert marks used] are registered
+trademarks or trademarks of GNOME Foundation in the United States or other countries.&rdquo;
 </p>
 </li>
 <li><u> Proper Use of GNOME Trademarks, Generally</u>
@@ -54,12 +54,12 @@ Correct: GNOME development tools help ...<br/>
 </blockquote>
 </li>
 <li><u> Do Not Use a GNOME Trademark in the Plural or Possessive Form, and Never
-Hyphenate or abbreviate.</u></li>
+Hyphenate or abbreviate.</u>
 <p>
 An exception to this can be when GNOME is used to refer to the Foundation&lsquo;s name.
 </p>
 <blockquote>
-Correct: Unique capability of the GNOME™ development tools ...<br/>
+Correct: Unique capability of the GNOME&#x2122; development tools ...<br/>
 <i>Incorrect</i>: GNOME&lsquo;s unique properties ...<br/>
 Correct: GNOME&lsquo;s technical conferences are held ...
 </blockquote>
@@ -91,7 +91,7 @@ mark in quotes, or use a different font for the mark.
 <p>
 You may reference GNOME on the cover and title of a publication provided you comply
 with the guidelines herein and the following specifications:
-<p/>
+</p>
 <ul>
 <li> Your name and/or logo should appear more prominently than the GNOME mark
 on all printed materials related to the publication.</li>
