@@ -12,8 +12,7 @@
     <p>
       One of the functions that the GNOME Foundation provides is to
       act as the legal owner for such GNOME project assets as the
-      GNOME name and the GNOME foot. These trademarks are some of
-      GNOME's most important assets. We must protect the trademarks in
+      GNOME name and the GNOME foot. We must protect these trademarks in
       order to keep them. Therefore, we have some guidelines for their
       use and a standard agreement for user groups. These cover many
       common situations; if you need permission to use the GNOME
@@ -25,8 +24,8 @@
     </p>
     <ul>
       <li>The word GNOME&#x2122;</li>
-      <li>The GNOME foot logo: <link rel="icon" type="image/png" href="http://www.gnome.org/img/logo/text-64.png"/></li>
-    <ul>
+      <li>The GNOME foot logo: <img src="http://www.gnome.org/img/logo/text-64" rel="GNOME Foot Logo/></li>
+    </ul>
     <h2>Third-party usage guidelines</h2>
     <p>
       Under the law, “fair use” of trademarks is allowed (for example,

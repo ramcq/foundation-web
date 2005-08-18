@@ -76,8 +76,8 @@ GNOME Trademarks at www.gnome.org to verify exactly how the marks should appear.
 <li><u>Use Proper Notice of Trademark.</u>
 <p>
 Identify GNOME Trademarks appropriately as a registered trademark (using the circled-R
-symbol – &#xae;), or as an unregistered trademark (using the &ldquo;TM&rdqou; symbol – &#x2122;) or an
-unregistered service mark (using the &ldquo;SM&rdqou; symbol – &#x2120;). Check the list of GNOME
+symbol – &reg;), or as an unregistered trademark (using the &ldquo;TM&rdqou; symbol - &trade;) or an
+unregistered service mark (using the &ldquo;SM&rdqou; symbol - &#x2120;). Check the list of GNOME
 Trademarks found at <a href="http://foundation.gnome.org/licensing/">http://foundation.gnome.org/licensing/</a> to verify the correct symbol to use for each name.
 </p>
 </li>
@@ -106,7 +106,9 @@ that suggests GNOME affiliation, sponsorship or certification of the publication
 </ul>
 </li>
 </ul>
-3. <u>Prohibited Use</u>:
+</li>
+<li><u>Prohibited Use</u>:
+<ul>
 <li> Do not make reference to GNOME or GNOME Trademarks in a manner that is false or
 misleading.</li>
 <li> Do not combine or use a GNOME Trademark with your company's product or service
@@ -126,7 +128,9 @@ service name.</li>
 <li> Do not use a GNOME logo on posters, brochures, signs, their websites, or other materials
 to promote a book about GNOME software, products or services.</li>
 <li> Do not alter a GNOME word mark or logo in any way.</li>
-<l><u>Revision of Guidelines</u>
+</ul>
+</li>
+<li><u>Revision of Guidelines</u>
 <p>
 When these trademark guidelines are revised, the updated version will be posted at
 <a href="http://foundation.gnome.org/licensing/">http://foundation.gnome.org/licensing/</a>.
@@ -135,6 +139,7 @@ When these trademark guidelines are revised, the updated version will be posted 
 To obtain permission for proposed use of the GNOME trademarks, contact:
 the GNOME Foundation at <a href="mailto:licensing@gnome.org>mailto:licensing@gnome.org.</a>
 </p>
+</li>
 </ol>
   </body>
 </html>
