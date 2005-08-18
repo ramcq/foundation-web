@@ -1,3 +1,11 @@
+2005-08-18  Owen Taylor  <otaylor@redhat.com>
+
+	* foundation.gnome.org/licensing/index.wml: Add intro text.
+
+	* foundation.gnome.org/licensing/guidelines/index.wml
+	* foundation.gnome.org/licensing/Makefile.am (SUBDIRS)
+	* configure.in: Add third-paty usage guidelines.
+
 2005-08-02  Owen Taylor  <otaylor@redhat.com>
 
 	* foundation.gnome.org/licensing/usergroup/index.wml: Replace UTF-8

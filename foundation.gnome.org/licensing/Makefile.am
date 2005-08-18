@@ -1,4 +1,4 @@
-SUBDIRS = usergroup
+SUBDIRS = guidelines usergroup 
 
 urlpath = /licensing
  
