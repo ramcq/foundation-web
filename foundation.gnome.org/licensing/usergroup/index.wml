@@ -208,6 +208,15 @@ time, are incorporated in and made part of this License.</li>
   <td align='right'><label for="subemail"><i>Email:</i></label></td>
   <td><input type="text" size="60" id="subemail" name="subemail"></br></td>
 </tr>
+<tr>
+  <td align='right'><label for="signature"><i>Signature:</i></label></td>
+  <td><input type="text" size="60" id="signature" name="signature"></br></td>
+</tr>
+<tr>
+  <td colspan="2"><i>Please retype your name above surrounded by slashes. For example</i>
+    /John Doe/. <i>This and clicking &ldquot;I agree&rdquot; below indicates agreement
+    to this document in the same way as signing a physical document</i></td>
+</tr>
 </table>
 <p>
   I have read and agree to the terms of the GNOME User Group License Agreement. I confirm that I have the
