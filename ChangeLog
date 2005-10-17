@@ -1,3 +1,11 @@
+2005-10-17  Murray Cumming <murrayc@murrayc.com
+
+	* foundation.gnome.org/licensing/guidelines/index.wml: Changed some 
+	[] bits to links to the logo page in the wiki, though we do not have 
+	a privacy policy to link to.
+	* foundation.gnome.org/licensing/usergroup/index.wml: Used regular 
+	capitalization for the title.
+
 2005-08-18  Owen Taylor  <otaylor@redhat.com>
 
 	* foundation.gnome.org/licensing/index.wml: Add intro text.
