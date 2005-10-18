@@ -149,7 +149,7 @@ LIMITATION, ANY IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, FITNESS OR
 ACCURACY. IN NO EVENT WILL GNOME BE LIABLE TO THE GROUP OR ANY MEMBER FOR
 ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING
 OUT OF THIS LICENSE, ON ANY LEGAL THEORY, EVEN IF GNOME HAS BEEN ADVISED OF
-THE POSSIBILITY OF SUCH DAMAGES.</u>
+THE POSSIBILITY OF SUCH DAMAGES.</li>
 <li><u>Permitted Access</u>. Upon acceptance of this License, the authorized representative of the Group may
 request a copy of the GNOME user group logo(s) and will be placed on any distribution list for any
 Licensed Works that may be made available by GNOME to the Group</li>
@@ -187,30 +187,30 @@ time, are incorporated in and made part of this License.</li>
 </tr>
 <tr>
   <td align='right'><label for="groupname"><i>Name:</i> </label></td> 
-  <td><input type="text" size="60" id="groupname" name="groupname"></br></td>
+  <td><input type="text" size="60" id="groupname" name="groupname"></td>
 </tr>
 <tr>
   <td align='right'><label for="name"><i>Address:</i> </label></td> 
-  <td><textarea id="groupaddress" name="groupaddress" rows="6" cols="60"></textarea></br></td>
+  <td><textarea id="groupaddress" name="groupaddress" rows="6" cols="60"></textarea></td>
 </tr>
 <tr>
   <td align='right'><label for="groupemail"><i>Contact email:</i></label></td>
-  <td><input type="text" size="60" id="groupemail" name="groupemail"></br></td>
+  <td><input type="text" size="60" id="groupemail" name="groupemail"></td>
 </tr>
 <tr>
   <td colspan=2><b>Submitter</b></td>
 </tr>
 <tr>
   <td align='right'><label for="subname"><i>Name:</i> </label></td>
-  <td><input type="text" size="60" id="subname" name="subname"></br></td>
+  <td><input type="text" size="60" id="subname" name="subname"></td>
 </tr>
 <tr>
   <td align='right'><label for="subemail"><i>Email:</i></label></td>
-  <td><input type="text" size="60" id="subemail" name="subemail"></br></td>
+  <td><input type="text" size="60" id="subemail" name="subemail"></td>
 </tr>
 <tr>
   <td align='right'><label for="signature"><i>Signature:</i></label></td>
-  <td><input type="text" size="60" id="signature" name="signature"></br></td>
+  <td><input type="text" size="60" id="signature" name="signature"></td>
 </tr>
 <tr>
   <td></td><td><i>Please retype your name above surrounded by slashes. For example</i>&nbsp;/John Doe/.<br/>

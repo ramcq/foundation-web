@@ -1,4 +1,31 @@
-2005-10-17  Murray Cumming <murrayc@murrayc.com
+2005-10-18  Vincent Untz  <vuntz@gnome.org>
+
+	* configure.in:
+	* foundation.gnome.org/elections/2005:
+	* foundation.gnome.org/elections/Makefile.am:
+	* foundation.gnome.org/elections/index.wml:
+	* foundation.gnome.org/referenda/2005-10:
+	* foundation.gnome.org/referenda/Makefile.am
+	* foundation.gnome.org/referenda/index.wml: add stuff for the next
+	referendum and the next elections
+
+	* foundation.gnome.org/elections/index.wml:
+	* foundation.gnome.org/finance/index.wml:
+	* foundation.gnome.org/licensing/guidelines/index.wml:
+	* foundation.gnome.org/licensing/usergroup/index.wml: fix HTML
+
+	* foundation.gnome.org/licensing/.cvsignore:
+	* foundation.gnome.org/licensing/guidelines/.cvsignore:
+	* foundation.gnome.org/licensing/usergroup/.cvsignore: new
+
+	* foundation.gnome.org/elections/2000/rules.wml:
+	* foundation.gnome.org/elections/2001/rules.wml:
+	* foundation.gnome.org/elections/2002/rules.wml:
+	* foundation.gnome.org/elections/2003/rules.wml:
+	* foundation.gnome.org/elections/2004/index.wml: add missing link to
+	the charter
+
+2005-10-17  Murray Cumming <murrayc@murrayc.com>
 
 	* foundation.gnome.org/licensing/guidelines/index.wml: Changed some 
 	[] bits to links to the logo page in the wiki, though we do not have 

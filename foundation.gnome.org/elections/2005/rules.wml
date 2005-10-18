@@ -3,13 +3,13 @@
 <html>
 
   <head>
-    <title>GNOME Foundation 2004 Elections Rules</title>
+    <title>GNOME Foundation 2005 Elections Rules</title>
     <meta name="cvsdate" content="$Date$" />
   </head>
 
   <body>
 
-    <h1>Rules &amp; Timeline for the GNOME Foundation 2004 Elections</h1>
+    <h1>Rules &amp; Timeline for the GNOME Foundation 2005 Elections</h1>
 
     <h2>Elections Rules</h2> 
 
@@ -19,10 +19,10 @@
         general rules.
       </li>
       <li>
-        There are 11 board slots that are to be filled during these elections.
+        There are 7 or 11 board slots that are to be filled during these elections.
       </li>
       <li>
-        Members of the GNOME Foundation as of November 6, 2004 are eligible to
+        Members of the GNOME Foundation as of November 4, 2005 are eligible to
         vote in the elections. Anyone who has made a contribution to GNOME can
         apply for membership by completing the <a
         href="../../membership/application.php">application</a>.
@@ -33,7 +33,7 @@
         <a href="http://mail.gnome.org/archives/foundation-announce/">foundation-announce&#64;gnome&#46;org</a>
         with your full name, e-mail, corporate affiliation (if any), and a
         description of your reasons for wanting to serve as a director.
-        Candidacies must be announced prior to November 8, 2004, 23:59 UTC.
+        Candidacies must be announced prior to November 14, 2005, 23:59 UTC.
       </li>
       <li>
         All candidates should mail a summary of their candicacy announcement
@@ -41,7 +41,7 @@
         href="mailto:elections&#64;gnome&#46;org">elections&#64;gnome&#46;org</a>.
         Summaries should be no more than 75 words of continuous text (i.e. no
         bullet lists or multiple paragraphs) and must be received by the
-        nomination deadline given above.  A compilation of the summaries will
+        nomination deadline given above. A compilation of the summaries will
         be mailed to all registered voters several days prior to the elections.
       </li>
       <li>
@@ -51,18 +51,17 @@
         list.
       </li>
       <li>
-        Ballots will be sent via e-mail to all eligible voters on November 19,
-        2004, and must be returned by December 6, 2004, 23:59 UTC (18:59 EST).
-        Full instructions will be included in the ballot.
+	Instructions explaining how to vote will be sent via e-mail to all
+	eligible voters on November 25, 2005, and votes must be returned by
+	December 9, 2005, 23:59 UTC (18:59 EST).
       </li>
       <li>
-        Ballots will be held confidential during the elections, but an archive
-        of all submitted ballots will be made publicly accessible at its
-        conclusion. <strong>The ballots will not be anonymized.</strong>
+        Votes will be held confidential during the elections, but an anonymized
+	archive of all submitted votes will be made publicly accessible at its
+        conclusion.
       </li>
       <li>
-        The Elections Committee is responsible for counting the ballots, after
-        taking appropriate action to fix misformatted ballots. 
+        The Elections Committee is responsible for counting the votes.
       </li>
       <li>
         The 11 candidates who receive the most votes will be elected, except
@@ -79,14 +78,14 @@
       <li>
         The Elections Committee will announce preliminary results as soon as
         possible after the elections close, along with instructions on how to
-        access the ballot archive and how to independently verify the vote
+        access the votes archive and how to independently verify the vote
         count.
       </li>
       <li>
         Any eligible voter may challenge the preliminary results by e-mailing
         <a
         href="mailto:elections&#64;gnome&#46;org">elections&#64;gnome&#46;org</a>
-        prior to December 20, 2004. The decision of the Elections Committee as
+        prior to December 23, 2005. The decision of the Elections Committee as
         to any challenge shall be final. Once any challenges have been
         resolved, the Elections Committee shall announce the final results.
       </li>
@@ -101,37 +100,31 @@
 
     <h2>Timeline</h2>
     <p><small>(all deadlines are 23:59 UTC/18:59 EST)</small></p> 
-    <p>
-      If you use evolution and evolution-webcal, you can subscribe to the
-      webcal <a
-      href="webcal://foundation.gnome.org/elections/2004/timeline.ics">timeline</a>.
-      (Also available via <a href="timeline.ics">http</a>).</p>
     <ul>
       <li>
-        November 5 (Friday): Last day to apply for membership (to be eligible
+        November 4 (Friday): Last day to apply for membership (to be eligible
         for these elections).
       </li>
       <li>
-        November 8 (Monday): Last day to announce candidacies, submit summary
+        November 14 (Monday): Last day to announce candidacies, submit summary
         statements.
       </li>
       <li>
-        November 10 (Wednesday): Final list of candidates, platform summaries
+        November 16 (Wednesday): Final list of candidates, platform summaries
         mailed to <a
         href="http://mail.gnome.org/archives/foundation-list/">foundation-list&#64;gnome&#46;org</a>.
       </li>
       <li>
-        November 19 (Friday): Ballots mailed to eligible voters, voting begins.
+        November 25 (Friday): Instructions mailed to eligible voters, voting begins.
       </li>
       <li>
-        December 6 (Monday): Voting closes.
+        December 9 (Monday): Voting closes.
       </li>
       <li>
-        December 8 (Wednesday): Preliminary results mailed to
-        <a href="http://mail.gnome.org/archives/foundation-list/">foundation-list&#64;gnome&#46;org</a>.
+        December 10 (Saturday): Preliminary results are announced.
       </li>
       <li>
-        December 20 (Monday): Last day to challenge preliminary results.
+        December 23 (Friday): Last day to challenge preliminary results.
       </li>
     </ul>
 

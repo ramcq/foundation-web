@@ -1,4 +1,4 @@
-SUBDIRS = 2004-10
+SUBDIRS = 2004-10 2005-10
 
 urlpath = /referenda
 
