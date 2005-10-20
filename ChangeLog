@@ -1,3 +1,14 @@
+2005-10-20  Vincent Untz  <vuntz@gnome.org>
+
+	* foundation.gnome.org/index.wml:
+	* foundation.gnome.org/news/index.wml: add news item for referendum
+
+	* foundation.gnome.org/referenda/2005-10/Makefile.am:
+	* foundation.gnome.org/referenda/2005-10/index.wml:
+	* foundation.gnome.org/referenda/2005-10/timeline.ics: add ical file
+
+	* foundation.gnome.org/referenda/2005-10/voters.wml: updated
+
 2005-10-18  Vincent Untz  <vuntz@gnome.org>
 
 	* configure.in:
