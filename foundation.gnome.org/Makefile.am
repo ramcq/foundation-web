@@ -1,4 +1,4 @@
-SUBDIRS = about contact elections img legal licensing membership news referenda finance
+SUBDIRS = about contact elections img legal licensing membership news referenda finance vote
 
 urlpath = 
 
