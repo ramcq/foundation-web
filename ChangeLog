@@ -1,5 +1,12 @@
 2005-10-24  Vincent Untz  <vuntz@gnome.org>
 
+	* foundation.gnome.org/vote/*: s/option/choice/, also rename the
+	variable for the temporary token to tmp_token
+	* foundation.gnome.org/vote/include/election-sql.php: make it possible
+	to use a local configuration for testing
+
+2005-10-24  Vincent Untz  <vuntz@gnome.org>
+
 	* configure.in:
 	* foundation.gnome.org/Makefile.am:
 	* foundation.gnome.org/vote/*: add anonymous voting scripts
