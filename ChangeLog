@@ -1,3 +1,8 @@
+2005-10-25  Vincent Untz  <vuntz@gnome.org>
+
+	* foundation.gnome.org/vote/include/election-sql.php: use correct name
+	to connect to the db
+
 2005-10-24  Vincent Untz  <vuntz@gnome.org>
 
 	* foundation.gnome.org/vote/*: s/option/choice/, also rename the
