@@ -1,5 +1,10 @@
 2005-10-25  Vincent Untz  <vuntz@gnome.org>
 
+	* foundation.gnome.org/vote/include/election-sql.php: fix code so that
+	it works in MySQL 4.1 (but won't work in MySQL 4.0...)
+
+2005-10-25  Vincent Untz  <vuntz@gnome.org>
+
 	* foundation.gnome.org/referenda/2005-10/rules.wml: updated the
 	timeline
 	* foundation.gnome.org/referenda/2005-10/timeline.ics: ditto
