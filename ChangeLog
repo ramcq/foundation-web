@@ -1,5 +1,13 @@
 2005-10-25  Vincent Untz  <vuntz@gnome.org>
 
+	* foundation.gnome.org/vote/include/election-sql.php: updated for SQL
+	change
+	* foundation.gnome.org/vote/include/step1-login.php: fix grammar
+	* foundation.gnome.org/vote/include/step3-confirm.php: accept votes
+	:-)
+
+2005-10-25  Vincent Untz  <vuntz@gnome.org>
+
 	* foundation.gnome.org/vote/include/election-sql.php: use correct name
 	to connect to the db
 
