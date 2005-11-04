@@ -1,3 +1,14 @@
+2005-11-04  Vincent Untz  <vuntz@gnome.org>
+
+	* foundation.gnome.org/index.wml: add news item about elections
+	* foundation.gnome.org/news/index.wml: ditto
+	* foundation.gnome.org/elections/2005/Makefile.am: add timeline.ics
+	* foundation.gnome.org/elections/2005/timeline.ics: new
+	* foundation.gnome.org/elections/2005/rules.wml: updated some dates
+	and make it clear that the number of slots depends in the result of
+	the referendum
+	* foundation.gnome.org/elections/2005/voters.wml: updated
+
 2005-10-25  Vincent Untz  <vuntz@gnome.org>
 
 	* foundation.gnome.org/vote/include/election-sql.php: fix code so that

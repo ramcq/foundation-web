@@ -7,6 +7,7 @@ page_SCRIPTS = \
 	voters.html \
 	rules.html
 
-page_DATA =
+page_DATA = \
+	timeline.ics
 
 include $(top_srcdir)/rules.common
