@@ -1,5 +1,9 @@
 2005-11-04  Vincent Untz  <vuntz@gnome.org>
 
+	* foundation.gnome.org/elections/2005/timeline.ics: fix iCal file
+
+2005-11-04  Vincent Untz  <vuntz@gnome.org>
+
 	* foundation.gnome.org/index.wml: add news item about elections
 	* foundation.gnome.org/news/index.wml: ditto
 	* foundation.gnome.org/elections/2005/Makefile.am: add timeline.ics
