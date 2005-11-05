@@ -25,7 +25,8 @@
         <a href="voters.html">List of registered voters</a>
       </li>
       <li>
-        <a href="rules.html">Elections Rules and Timeline</a>
+        <a href="rules.html">Elections Rules and Timeline</a> (webcal <a
+        href="webcal://foundation.gnome.org/elections/2005/timeline.ics">timeline</a>)
       </li>
       <li>
         <a href="../overview.html">Overview of the Board of Directors role</a>
