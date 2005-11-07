@@ -1,5 +1,11 @@
 2005-11-07  Vincent Untz  <vuntz@gnome.org>
 
+	* foundation.gnome.org/vote/include/election-sql.php:
+	(elec_get_blank_votes_election): temporary workaround to get the right
+	value
+
+2005-11-07  Vincent Untz  <vuntz@gnome.org>
+
 	* foundation.gnome.org/referenda/2005-10/index.wml: add links to the
 	results
 	* foundation.gnome.org/vote/results.wml: display the number of blank
