@@ -1,6 +1,11 @@
 2005-11-07  Vincent Untz  <vuntz@gnome.org>
 
 	* foundation.gnome.org/vote/include/election-sql.php:
+	(elec_get_blank_votes_election): I think I have the correct query now.
+
+2005-11-07  Vincent Untz  <vuntz@gnome.org>
+
+	* foundation.gnome.org/vote/include/election-sql.php:
 	(elec_get_blank_votes_election): temporary workaround to get the right
 	value
 
