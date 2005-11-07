@@ -1,3 +1,17 @@
+2005-11-07  Vincent Untz  <vuntz@gnome.org>
+
+	* foundation.gnome.org/index.wml: add news item about preliminary
+	results of referendum
+	* foundation.gnome.org/news/index.wml: ditto
+	* foundation.gnome.org/vote/include/election-sql.php:
+	(elec_get_results_election): don't select choice with id = -1 (it's a
+	blank vote for referenda and we don't need to have it there to know it
+	exists)
+	(elec_get_votes_for_anon_token): ditto
+	* foundation.gnome.org/vote/include/step4-commit.php: (step4_do): no
+	need to insert the -1 vote for referenda.
+	Add FIXME
+
 2005-11-05  Vincent Untz  <vuntz@gnome.org>
 
 	* foundation.gnome.org/elections/2005/index.wml: add link to the iCal
