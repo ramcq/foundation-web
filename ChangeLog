@@ -1,5 +1,14 @@
 2005-11-07  Vincent Untz  <vuntz@gnome.org>
 
+	* foundation.gnome.org/referenda/2005-10/index.wml: add links to the
+	results
+	* foundation.gnome.org/vote/results.wml: display the number of blank
+	votes if not null
+	* foundation.gnome.org/vote/include/election-sql.php:
+	(elec_get_blank_votes_election): new
+
+2005-11-07  Vincent Untz  <vuntz@gnome.org>
+
 	* foundation.gnome.org/index.wml: add news item about preliminary
 	results of referendum
 	* foundation.gnome.org/news/index.wml: ditto

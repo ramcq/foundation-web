@@ -32,6 +32,12 @@
     <h2>Reducing Board Size Referendum Materials:</h2>
     <ul>
       <li>
+        <a href="../../vote/votes.php?election_id=1">Archive of all votes</a>
+      </li>
+      <li>
+        <a href="../../vote/results.php?election_id=1">Preliminary results</a>
+      </li>
+      <li>
         <a href="voters.html">List of registered voters</a>
       </li>
       <li>
