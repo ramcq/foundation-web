@@ -1,5 +1,13 @@
 2005-11-09  Murray Cumming <murrayc@murrayc.com>
 
+	* foundation.gnome.org/licensing/guidelines/index.wml: 
+	Replace [insert marks here] with [quote]GNOME logo and 
+	GNOME name[quote], though I am not a lawyer.
+	* foundation.gnome.org/licensing/usergroup/index.wml: 
+	Link to the privacy policy, where needed.
+
+2005-11-09  Murray Cumming <murrayc@murrayc.com>
+
 	* foundation.gnome.org/legal/index.wml: Added a privacy policy, 
 	taken from the GUADEC 2006 (Stuttgart) registration web site.
 
