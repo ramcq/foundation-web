@@ -1,3 +1,8 @@
+2005-11-09  Murray Cumming <murrayc@murrayc.com>
+
+	* foundation.gnome.org/legal/index.wml: Added a privacy policy, 
+	taken from the GUADEC 2006 (Stuttgart) registration web site.
+
 2005-11-07  Vincent Untz  <vuntz@gnome.org>
 
 	* foundation.gnome.org/vote/include/election-sql.php:

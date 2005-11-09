@@ -9,7 +9,7 @@
   <body>
     <h1>GNOME Foundation Legal Information</h1>
 
-    <h2>Board Confidentiality Policy</h2>
+    <h2><a name="confidentiality" />Board Confidentiality Policy</h2>
 
 	<p>Part of the Foundation's purpose is to be a neutral, independent body
 	which organizations can use as an initial touchpoint before becoming
@@ -25,6 +25,19 @@
 	Information that is public knowledge or that individuals came to know
 	through other means is not covered by this provision. Confidential
 	information must be marked confidential.</p>
+
+   <h2><a name="privacy-policy" />Sharing Your Personal Information</h2>
+
+	<p>Unless you assent, GNOME Foundation will never share the personal information you provide to us except as described below. </p>
+	
+	<p>GNOME Foundation may disclose your personal information to third parties under any of the following circumstances:
+        <ul>
+        <li>As may be required to fulfill orders, to conduct billing/credit card processing, to provide service, and for e-mail housing (as a consequence of uses already described in this Privacy Statement).</li>
+        <li>As required by law (such as responding to a valid subpoena, warrant, audit, or agency action, or to prevent fraud). Aggregated information may be distributed for the purposes of characterizing the GNOME community and planning future events. All personal details will be removed from such aggregated information (such aggregated information is used to describe our services to current and prospective partners and other third parties, and is not used to contact the subjects of the report.)</li>
+        </ul>
+        </p>
+
+	<p>If you have any questions about any of these practices or GNOME Foundation's use of your personal information, please feel free to <a href="/contact/">contact</a> us by e-mail or by post.</p>
 
 	<!-- FIXME: need to put fonts/ up here, plus the licensing and copyright
 	info once it's ready -->
