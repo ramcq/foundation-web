@@ -74,8 +74,8 @@ if ($members === FALSE) {
   $antispam = array(".", "@");
 
   foreach ($members as $member) {
-    $email = str_replace($antispam, "", $member["email"]);
-    echo "      <li>".$member["firstname"]." ".$member["lastname"]." <".$email."></li>\n";
+    $email = str_replace($antispam, " ", $member["email"]);
+    echo "      <li>".$member["firstname"]." ".$member["lastname"]." &lt;".$email."&gt;</li>\n";
   }
   echo "    </ul>\n";
 }

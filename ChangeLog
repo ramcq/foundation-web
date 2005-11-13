@@ -1,5 +1,9 @@
 2005-11-13  Vincent Untz  <vuntz@gnome.org>
 
+	* foundation.gnome.org/membership/members.wml: fix for email addresses
+
+2005-11-13  Vincent Untz  <vuntz@gnome.org>
+
 	Make the membership list dynamic.
 
 	* foundation.gnome.org/htaccess: updated for the move of the list
