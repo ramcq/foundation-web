@@ -16,9 +16,70 @@
       href="mailto:membership-committee&#64;gnome&#46;org">membership-committee&#64;gnome&#46;org</a>.
     </p>
 
-    <p>
-      The list is currently being rebuilt. Please retry later.
-    </p>
+<?php
+$error = null;
+
+function get_members_from_sql () {
+  global $error;
+
+  if (is_readable ("/home/admin/secret/anonvoting")) {
+    include ("/home/admin/secret/anonvoting");
+  } else {
+    $error = "Can not get the authentication data.";
+    return FALSE;
+  }
+
+  $members_table = "foundationmembers";
+
+  $handle = mysql_connect ("$mysql_host", "$mysql_user", "$mysql_password");
+  if (!$handle) {
+    $error = "Can not connect to the database.";
+    return FALSE;
+  }
+
+  $select_base = mysql_select_db ($mysql_db, $handle); 
+  if (!$select_base) {
+    mysql_close ($handle);
+    $error = "Can not select the database.";
+    return FALSE;
+  }
+
+  $query = "SELECT firstname, lastname, email FROM ".$members_table;
+  $query .= " WHERE DATE_SUB(CURDATE(), INTERVAL 2 YEAR) <= last_renewed_on";
+  $query .= " ORDER BY lastname, firstname";
+
+  $result = mysql_query ($query, $handle);
+
+  if ($result === FALSE) {
+    $error = mysql_error ($handle);
+    $retval = FALSE;
+  } else {
+    $result_array = array ();
+    while ($buffer = mysql_fetch_assoc ($result)) {
+      $result_array[] = $buffer;
+    }
+    $retval = $result_array;
+  }
+
+  mysql_close ($handle);
+  return $retval;
+}
+
+$members = get_members_from_sql ();
+
+if ($members === FALSE) {
+  echo "<p>Error: ".$error.".</p>\n";
+} else {
+  echo "    <ul>\n";
+  $antispam = array(".", "@");
+
+  foreach ($members as $member) {
+    $email = str_replace($antispam, "", $member["email"]);
+    echo "      <li>".$member["firstname"]." ".$member["lastname"]." <".$email."></li>\n";
+  }
+  echo "    </ul>\n";
+}
+?>
  
   </body>
 </html>

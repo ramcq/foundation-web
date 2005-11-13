@@ -9,7 +9,8 @@ Redirect /bylaws.pdf			http://foundation.gnome.org/about/bylaws.pdf
 
 # Move of the membership stuff
 Redirect /membership.html		http://foundation.gnome.org/membership/
-Redirect /membership-list.html		http://foundation.gnome.org/membership/members.html
+Redirect /membership-list.html		http://foundation.gnome.org/membership/members.php
+Redirect /membership/members.html		http://foundation.gnome.org/membership/members.php
 Redirect /membership-policy.html	http://foundation.gnome.org/membership/
 Redirect /membership-form.html		http://foundation.gnome.org/membership/application.php
 Redirect /membership-form.php		http://foundation.gnome.org/membership/application.php

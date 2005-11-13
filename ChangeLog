@@ -1,3 +1,15 @@
+2005-11-13  Vincent Untz  <vuntz@gnome.org>
+
+	Make the membership list dynamic.
+
+	* foundation.gnome.org/htaccess: updated for the move of the list
+	* foundation.gnome.org/membership/.cvsignore: updated
+	* foundation.gnome.org/membership/Makefile.am: updated
+	* foundation.gnome.org/membership/index.wml: fix link
+	* foundation.gnome.org/membership/members.wml: use some PHP magic
+
+	* foundation.gnome.org/vote/vote.wml: fix some tags for xhtml
+
 2005-11-09  Murray Cumming <murrayc@murrayc.com>
 
 	* foundation.gnome.org/licensing/guidelines/index.wml: 
