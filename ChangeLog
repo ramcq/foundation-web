@@ -1,3 +1,12 @@
+2005-11-14  Vincent Untz  <vuntz@gnome.org>
+
+	* foundation.gnome.org/index.wml:
+	* foundation.gnome.org/news/index.wml: add news about referendum
+	results
+	* foundation.gnome.org/elections/2005/rules.wml: updated for the
+	referendum results
+	* foundation.gnome.org/referenda/2005-10/index.wml: ditto
+
 2005-11-13  Vincent Untz  <vuntz@gnome.org>
 
 	* foundation.gnome.org/membership/members.wml: fix for email addresses
