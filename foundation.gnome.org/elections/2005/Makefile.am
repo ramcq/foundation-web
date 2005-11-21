@@ -5,7 +5,8 @@ urlpath = /elections/2005
 page_SCRIPTS = \
 	index.html \
 	voters.html \
-	rules.html
+	rules.html \ 
+	candidacy.html
 
 page_DATA = \
 	timeline.ics
