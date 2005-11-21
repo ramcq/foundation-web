@@ -5,7 +5,7 @@ urlpath = /elections/2005
 page_SCRIPTS = \
 	index.html \
 	voters.html \
-	rules.html \ 
+	rules.html \
 	candidates.html
 
 page_DATA = \
