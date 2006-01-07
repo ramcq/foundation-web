@@ -1,5 +1,14 @@
 2006-01-07  Vincent Untz  <vuntz@gnome.org>
 
+	* index.wml:
+	* news/index.wml: add news about the new board
+	* elections/2005/index.wml: link to the official results
+	* about/index.wml: update for new board, comment out the executive
+	director part
+	* about/history/index.wml: add the 2004-2005 board
+
+2006-01-07  Vincent Untz  <vuntz@gnome.org>
+
 	* foundation.gnome.org/vote/vote.css:
 	* foundation.gnome.org/vote/votes.wml:
 	* foundation.gnome.org/vote/include/step4-commit.php: display tokens

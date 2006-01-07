@@ -40,6 +40,19 @@
     <h2>News</h2>
     <ul>
       <li>
+        <strong>Results of 2005 elections</strong>
+        <small>(03/01/2006)</small>
+        <blockquote>
+          The GNOME Foundation Membership &amp; Elections Committee is pleased
+	  to announce the official results for the 2005 GNOME Foundation
+	  elections. The Foundation board directors for the 2005/2006 term of
+	  office are:
+          <br /><br />
+          Jonathan Blandford, Federico Mena-Quintero, David Neary,
+	  Anne Østergaard, Vincent Untz, Luis Villa, Jeff Waugh
+        </blockquote>
+      </li>
+      <li>
         <strong>Results of the Reducing Board Size Referendum official</strong>
         <small>(14/11/2005)</small>
         <blockquote>
@@ -58,16 +71,6 @@
 	  You can <a href="vote/votes.php?election_id=1">verify the
 	  results</a> yourself.
           Any challenges to these results must be received by November 13th.
-        </blockquote>
-      </li>
-      <li>
-        <strong>2005 GNOME Foundation Elections</strong>
-        <small>(04/11/2005)</small>
-        <blockquote>
-          The GNOME Foundation <a href="elections/2005/">elections</a> will
-          begin this month. If you want to run for these elections, you have to
-          nominate yourself before November 14th. Take a look at the <a
-          href="elections/2005/rules.html">rules and the timeline</a>.
         </blockquote>
       </li>
     </ul>
