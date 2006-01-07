@@ -1,3 +1,10 @@
+2006-01-07  Vincent Untz  <vuntz@gnome.org>
+
+	* foundation.gnome.org/vote/vote.css:
+	* foundation.gnome.org/vote/votes.wml:
+	* foundation.gnome.org/vote/include/step4-commit.php: display tokens
+	in monospace so that there's no ambiguity
+
 2005-11-14  Vincent Untz  <vuntz@gnome.org>
 
 	* foundation.gnome.org/index.wml:
