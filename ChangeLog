@@ -1,3 +1,8 @@
+2006-01-18  Murray Cumming  <murrayc@murrayc.com>
+
+	* foundation.gnome.org/legal/index.wml: Actually link to the licensing 
+	page. We do not seem to have done this so far.
+
 2006-01-07  Vincent Untz  <vuntz@gnome.org>
 
 	* index.wml:
