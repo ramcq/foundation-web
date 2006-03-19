@@ -1,3 +1,16 @@
+2006-03-19  Vincent Untz  <vuntz@gnome.org>
+
+	* foundation.gnome.org/img/logos/fluendo.png:
+	* foundation.gnome.org/img/logos/imendio.png:
+	* foundation.gnome.org/img/logos/nokia.gif:
+	* foundation.gnome.org/img/logos/openedhand.png:
+	* foundation.gnome.org/img/logos/sflc.gif:
+	* foundation.gnome.org/index.wml:
+	* foundation.gnome.org/about/index.wml: update lists/logos of advisory
+	board members
+	* foundation.gnome.org/elections/2005/.cvsignore: updated
+	* include/evilsedhack: tell the browser the pages are in UTF-8
+
 2006-01-18  Murray Cumming  <murrayc@murrayc.com>
 
 	* foundation.gnome.org/legal/index.wml: Actually link to the licensing 
