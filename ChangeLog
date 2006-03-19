@@ -1,5 +1,10 @@
 2006-03-19  Vincent Untz  <vuntz@gnome.org>
 
+	* foundation.gnome.org/img/logos/Makefile.am: ... and install the new
+	logos
+
+2006-03-19  Vincent Untz  <vuntz@gnome.org>
+
 	* foundation.gnome.org/img/logos/fluendo.png:
 	* foundation.gnome.org/img/logos/imendio.png:
 	* foundation.gnome.org/img/logos/nokia.gif:

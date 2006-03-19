@@ -4,14 +4,16 @@ page_SCRIPTS =
 
 page_DATA = \
 	debian.gif \
+	fluendo.png \
 	fsf.gif \
 	hp.gif \
 	ibm.gif \
-	mandrakesoft.gif \
-	osdn.gif \
-	redflag.gif \
+	imendio.png \
+	nokia.gif \
+	novell.gif \
+	openedhand.png \
 	redhat.gif \
-	sun.gif \
-	novell.gif
+	sflc.gif \
+	sun.gif
 
 include $(top_srcdir)/rules.common
