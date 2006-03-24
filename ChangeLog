@@ -1,3 +1,11 @@
+2006-03-24  Vincent Untz  <vuntz@gnome.org>
+
+	* foundation.gnome.org/index.wml: news about hosting next GUADEC
+	* foundation.gnome.org/news/index.wml: ditto
+	* foundation.gnome.org/index.wml: new fsf logo
+	* foundation.gnome.org/img/logos/fsf.png: ditto
+	* foundation.gnome.org/img/logos/Makefile.am: ditto
+
 2006-03-19  Vincent Untz  <vuntz@gnome.org>
 
 	* foundation.gnome.org/img/logos/Makefile.am: ... and install the new

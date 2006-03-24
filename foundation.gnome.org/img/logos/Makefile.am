@@ -5,7 +5,7 @@ page_SCRIPTS =
 page_DATA = \
 	debian.gif \
 	fluendo.png \
-	fsf.gif \
+	fsf.png \
 	hp.gif \
 	ibm.gif \
 	imendio.png \
