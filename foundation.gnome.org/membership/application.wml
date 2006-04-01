@@ -38,7 +38,7 @@
         $bad_elements[] = "name";
         $errors[] = "Please enter your name.";
       }
-      if (!$email || !ereg("^[a-zA-Z0-9_.-]+@[a-zA-Z0-9_.-]+\.[a-zA-Z]+$", $email)) {
+      if (!$email || !ereg("^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9_.-]+\.[a-zA-Z]+$", $email)) {
         $bad_elements[] = "email";
         $errors[] = "Please enter an email address we can use to contact you.";
       }
