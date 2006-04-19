@@ -24,6 +24,7 @@
   $ircnick = $_POST['ircnick'];
   $cvsuser = $_POST['cvsuser'];
   $previousmember = $_POST['previousmember'];
+  $spam = $_POST['spam'];
 
   if ($submit) {
       /* remove the slashes */
@@ -56,6 +57,11 @@
           $bad_elements[] = "contacts";
           $errors[] = "Please enter a list of individuals who can confirm your contributions or indicate us how the membership committee can verify your contributions.";
         }
+      }
+
+      if ($spam != "not spam") {
+        $bad_elements[] = "spam";
+        $errors[] = "Please fill the \"not spam\" field.";
       }
 
       if (count($bad_elements) == 0) {
@@ -267,6 +273,15 @@
       <p>
       <textarea name="comments" rows="10" cols="50"><?php if ($comments) { echo $comments; } ?></textarea>
       </p>
+
+      <table summary="Antispam form">
+        <tr>
+          <td>Please type "not spam" here:</td>
+          <td>
+            <input type="text" name="spam" size="20" value="" />
+          </td>
+        </tr>
+      </table>
       
       <p>
         <div class="center">
