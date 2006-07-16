@@ -9,6 +9,7 @@ page_DATA = \
 	hp.gif \
 	ibm.gif \
 	imendio.png \
+	intel.png \
 	nokia.gif \
 	novell.gif \
 	openedhand.png \

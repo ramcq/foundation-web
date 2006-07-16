@@ -1,3 +1,14 @@
+2006-07-16  Vincent Untz  <vuntz@gnome.org>
+
+	* foundation.gnome.org/index.wml:
+	* foundation.gnome.org/news/index.wml: add new about intel joining the
+	AB
+	* foundation.gnome.org/index.wml:
+	* foundation.gnome.org/img/logos/intel.png:
+	* foundation.gnome.org/img/logos/Makefile.am: add intel logo
+	* foundation.gnome.org/about/index.wml: add intel to the list of AB
+	members
+
 2006-05-28  Vincent Untz  <vuntz@gnome.org>
 
 	* foundation.gnome.org/membership/application.wml: send the mail to
