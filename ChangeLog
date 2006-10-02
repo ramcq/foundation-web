@@ -1,3 +1,10 @@
+2006-10-02  Vincent Untz  <vuntz@gnome.org>
+
+	* foundation.gnome.org/img/logos/*: add logos for new Advisory
+	Board members
+	* foundation.gnome.org/index.wml: add new members
+	* foundation.gnome.org/about/index.wml: ditto
+
 2006-07-22  Vincent Untz  <vuntz@gnome.org>
 
 	* foundation.gnome.org/about/index.wml: add Quim to the list of
