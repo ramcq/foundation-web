@@ -1,3 +1,9 @@
+2006-10-15  Vincent Untz  <vuntz@gnome.org>
+
+	* foundation.gnome.org/index.wml:
+	* foundation.gnome.org/about/index.wml:
+	* foundation.gnome.org/img/logos/*: s/PalmSource/ACCESS/g
+
 2006-10-02  Vincent Untz  <vuntz@gnome.org>
 
 	* foundation.gnome.org/img/logos/*: add logos for new Advisory

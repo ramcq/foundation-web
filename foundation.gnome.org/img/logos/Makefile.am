@@ -3,6 +3,7 @@ urlpath = /img/logos
 page_SCRIPTS =
 
 page_DATA = \
+	access.gif \
 	canonical.png \
 	debian.gif \
 	fluendo.png \
@@ -14,7 +15,6 @@ page_DATA = \
 	nokia.gif \
 	novell.gif \
 	openedhand.png \
-	palmsource.gif \
 	redhat.gif \
 	sflc.gif \
 	sun.gif
