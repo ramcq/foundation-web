@@ -1,3 +1,11 @@
+2006-11-19  Vincent Untz  <vuntz@gnome.org>
+
+	* foundation.gnome.org/index.wml:
+	* foundation.gnome.org/about/index.wml:
+	* foundation.gnome.org/img/logos/Makefile.am:
+	* foundation.gnome.org/img/logos/olpc.gif: add OLPC as Advisory Board
+	member
+
 2006-10-15  Vincent Untz  <vuntz@gnome.org>
 
 	* foundation.gnome.org/index.wml:

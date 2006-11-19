@@ -14,6 +14,7 @@ page_DATA = \
 	intel.png \
 	nokia.gif \
 	novell.gif \
+	olpc.gif \
 	openedhand.png \
 	redhat.gif \
 	sflc.gif \
