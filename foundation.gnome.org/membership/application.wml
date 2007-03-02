@@ -45,7 +45,6 @@
         $errors[] = "Please enter an email address we can use to contact you.";
       }
       $obfuscated_email = preg_replace("/@/", " AT ", $email);
-
       if (!$previousmember) {
         if (!$summary || $summary == "") {
           $bad_elements[] = "summary";
@@ -54,14 +53,15 @@
           $bad_elements[] = "details";
           $errors[] = "Please enter a more detailed description of your contributions.";
         }
-        if (!$contacts || $contacts == "") {
+        if ((!$contacts || $contacts == "") && $pointers != "") {
           $bad_elements[] = "contacts";
           $errors[] = "Please enter a list of individuals with their e-mails who can confirm your contributions or indicate us how the membership committee can verify your contributions.";
         }
-	if ($contacts && $contacts != "" && strpos ($contacts, '@') === FALSE)) { 
+	if ($contacts && $contacts != "" && strpos ($contacts, '@') === FALSE) { 
 	  $bad_elements[] = "contacts";
 	  $errors[] = "Please provide e-mails of the contacts you've provided.";
       }
+      $obfuscated_contact = pref_replace("/@", " AT ", $email);
 
       if ($spam != "not spam") {
         $bad_elements[] = "spam";
@@ -90,7 +90,9 @@
         $formmail .= "\n";
         $formmail .= "Detailed description:\n" . $details . "\n";
         $formmail .= "\n";
-        $formmail .= "Contacts:\n" . $contacts . "\n";
+        $formmail .= "Contacts:\n" . $obfuscated_contacts . "\n";
+        $formmail .= "\n";
+        $formmail .= "Pointers:\n" . $pointers . "\n";
         $formmail .= "\n";
         $formmail .= "Other comments:\n---------------\n";
         $formmail .= $comments . "\n";
@@ -254,18 +256,21 @@
 
       <p>
         Please list individuals (frequently, but not necessarily, project
-        maintainers) who can help the membership committee determine your
-        eligibility. You should provide their name, e-mail address, and a brief
-        description of their role as a reference. If there is nobody you can
-        think to list, feel free to suggest another way for the committee to
-        verify your contributions, such as a pointer to a project ChangeLog,
-	etc. To continue the earlier example: "Dan Mueth
-	(d-mueth&#64;uchicago&#46;edu) (GDP coordinator); Russell Steinthal
-	(rms39&#64;columbia&#46;edu) (gnome-pim maintainer); packaging logs at
-	http://www.debian.org/packages/gnome/":
+        maintainers and foundation members) who can help the membership 
+	committee determine your eligibility. You should provide their 
+	name, e-mail address, and a brief description of their role as a 
+	reference. If there is nobody you can think to list, feel free to 
+	suggest another way for the committee to verify your contributions 
+	clearly, such as a pointer to a project ChangeLog, etc. into second 
+	field.  Beware that applications without contacts take relatively 
+	longer to process. To continue the earlier example: "Dan Mueth 
+	(d-mueth&#64;uchicago&#46;edu) 	(GDP coordinator); Russell Steinthal 
+	(rms39&#64;columbia&#46;edu) (gnome-pim maintainer); packaging logs 
+	at http://www.debian.org/packages/gnome/":
       </p>
 
       <textarea name="contacts" rows="5" cols="50"><?php if ($contacts) { echo $contacts; } ?></textarea>
+	<textarea name="pointers" rows="5" cols="50"><?php if ($pointers) { echo $pointers; } ?></textarea>OA
 
       <h3>Other Comments</h3>
 
