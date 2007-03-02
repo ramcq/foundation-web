@@ -58,11 +58,11 @@
           $bad_elements[] = "contacts";
           $errors[] = "Please enter a list of individuals with their e-mails who can confirm your contributions or indicate us how the membership committee can verify your contributions.";
         }
-	if ($contacts && $contacts != "" && strpos ($contacts, '@') === FALSE) { 
+	if ($contacts && $contacts != "" && (strpos ($contacts, '@') === FALSE)) { 
 	  $bad_elements[] = "contacts";
 	  $errors[] = "Please provide e-mails of the contacts you've provided.";
       }
-      $obfuscated_contact = preg_replace("/@", " AT ", $pointers);
+      $obfuscated_contact = preg_replace("/@/", " AT ", $pointers);
 
       if ($spam != "not spam") {
         $bad_elements[] = "spam";
