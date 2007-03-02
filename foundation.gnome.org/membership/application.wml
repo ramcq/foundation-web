@@ -1,6 +1,3 @@
-<?php	
-	error_reporting(E_ALL);
-?>
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
@@ -274,7 +271,10 @@
       </p>
 
       <textarea name="contacts" rows="5" cols="50"><?php if ($contacts) { echo $contacts; } ?></textarea>
-	<textarea name="pointers" rows="5" cols="50"><?php if ($pointers) { echo $pointers; } ?></textarea>OA
+      <p>
+      If there's nobody you can think of, please list pointers to your contributions here:
+      </p>
+	<textarea name="pointers" rows="5" cols="50"><?php if ($pointers) { echo $pointers; } ?></textarea>
 
       <h3>Other Comments</h3>
 
