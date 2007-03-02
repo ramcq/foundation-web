@@ -62,7 +62,7 @@
 	  $bad_elements[] = "contacts";
 	  $errors[] = "Please provide e-mails of the contacts you've provided.";
       }
-      $obfuscated_contact = preg_replace("/@/", " AT ", $contacts);
+      $obfuscated_contacts = preg_replace("/@/", " AT ", $contacts);
       }
       if ($spam != "not spam") {
         $bad_elements[] = "spam";
