@@ -21,6 +21,7 @@
   $summary = $_POST['summary'];
   $details = $_POST['details'];
   $contacts = $_POST['contacts'];
+  $pointers = $_POST['pointers'];
   $comments = $_POST['comments'];
   $ircnick = $_POST['ircnick'];
   $cvsuser = $_POST['cvsuser'];
@@ -61,7 +62,7 @@
 	  $bad_elements[] = "contacts";
 	  $errors[] = "Please provide e-mails of the contacts you've provided.";
       }
-      $obfuscated_contact = pref_replace("/@", " AT ", $email);
+      $obfuscated_contact = preg_replace("/@", " AT ", $pointers);
 
       if ($spam != "not spam") {
         $bad_elements[] = "spam";
