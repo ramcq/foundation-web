@@ -56,8 +56,11 @@
         }
         if (!$contacts || $contacts == "") {
           $bad_elements[] = "contacts";
-          $errors[] = "Please enter a list of individuals who can confirm your contributions or indicate us how the membership committee can verify your contributions.";
+          $errors[] = "Please enter a list of individuals with their e-mails who can confirm your contributions or indicate us how the membership committee can verify your contributions.";
         }
+	if ($contacts && $contacts != "" && strpos ($contacts, '@') === FALSE)) { 
+	  $bad_elements[] = "contacts";
+	  $errors[] = "Please provide e-mails of the contacts you've provided.";
       }
 
       if ($spam != "not spam") {
@@ -72,7 +75,7 @@
         $formmail .= "Name: " . $name . "\n";
         $formmail .= "E-mail: " . $obfuscated_email . "\n";
         $formmail .= "irc.gnome.org nickname (if any): " . $ircnick . "\n";
-        $formmail .= "cvs.gnome.org username (if any): " . $cvsuser . "\n";
+        $formmail .= "svn.gnome.org username (if any): " . $cvsuser . "\n";
         $formmail .= "\n";
         $formmail .= "Previous GNOME Foundation member: ";
         if ($previousmember) {
@@ -167,7 +170,7 @@
       Thus, all the information you will submit through this form will be
       publically available: the form will send an e-mail to a mailing list
       whose archives are publically available on the Internet and your
-      application will be accessible through CVS.
+      application will be accessible through mail archives.
     </p>
 
     <form action="<?php echo $PHP_SELF; ?>" method="POST">
@@ -199,7 +202,7 @@
         </tr>
 
         <tr>
-          <td>cvs.gnome.org username (if any):</td>
+          <td>svn.gnome.org username (if any):</td>
           <td>
             <input type="text" name="cvsuser" size="20"
                    value="<?php if ($cvsuser) { echo $cvsuser; } ?>" />
