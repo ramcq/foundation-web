@@ -54,7 +54,7 @@
           $bad_elements[] = "details";
           $errors[] = "Please enter a more detailed description of your contributions.";
         }
-        if ((!$contacts || $contacts == "") && $pointers != "") {
+        if ((!$contacts || $contacts == "") && $pointers == "") {
           $bad_elements[] = "contacts";
           $errors[] = "Please enter a list of individuals with their e-mails who can confirm your contributions or indicate us how the membership committee can verify your contributions.";
         }
