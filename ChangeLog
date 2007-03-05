@@ -1,5 +1,10 @@
 2007-03-05  Vincent Untz  <vuntz@gnome.org>
 
+	* foundation.gnome.org/membership/application.wml: trim and remove
+	slashes for the pointers
+
+2007-03-05  Vincent Untz  <vuntz@gnome.org>
+
 	* foundation.gnome.org/membership/application.wml: updated a bit so
 	that it's clearer
 

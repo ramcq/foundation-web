@@ -35,6 +35,7 @@
       $summary = trim(stripslashes($summary));
       $details = trim(stripslashes($details));
       $contacts = trim(stripslashes($contacts));
+      $pointers = trim(stripslashes($pointers));
       $comments = trim(stripslashes($comments));
 
       if (!$name || $name == "") {
