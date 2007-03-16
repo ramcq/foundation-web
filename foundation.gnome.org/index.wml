@@ -41,6 +41,18 @@
     <h2>News</h2>
     <ul>
       <li>
+        <strong>GNOME Foundation Annual Report 2006 released</strong>
+        <small>(16/03/2007)</small>
+        <blockquote>
+          The first annual report of the GNOME Foundation is available for 
+          <a href="about/gnome_annual_report_2006.pdf">download (935 KB, PDF)</a> now.<br/>
+          The report includes a review of the year, accounts of 
+	  various community initiaves we have supported during the year, the 
+	  events we have been involved with, and the avenues of development 
+	  that we have been exploring for the foundation.
+        </blockquote>
+      </li>
+      <li>
         <strong>Intel joins the GNOME Foundation Advisory Board</strong>
         <small>(16/07/2006)</small>
         <blockquote>
@@ -49,19 +61,6 @@
           free software desktop.<br />
           See more informations in the <a
           href="http://mail.gnome.org/archives/foundation-announce/2006-June/msg00006.html">announce</a>.
-        </blockquote>
-      </li>
-      <li>
-        <strong>Call for invitations to be the host of GUADEC 2007</strong>
-        <small>(19/03/2006)</small>
-        <blockquote>
-          Groups interested in hosting the next GUADEC in 2007 are invited to
-          write a formal invitation to the board of the GNOME Foundation.
-	  <br />
-          The invitation should be send to the board and Anne Østergaard at the
-          latest on April 19th 2006. See all the details in <a
-          href="http://mail.gnome.org/archives/foundation-list/2006-February/msg00016.html">this
-          mail</a>.
         </blockquote>
       </li>
     </ul>

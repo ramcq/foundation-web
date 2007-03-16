@@ -6,6 +6,7 @@ page_SCRIPTS = \
 	index.html
 
 page_DATA = \
-	bylaws.pdf
+	bylaws.pdf \
+	gnome_annual_report_2006.pdf
 
 include $(top_srcdir)/rules.common
