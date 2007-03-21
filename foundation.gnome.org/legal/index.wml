@@ -10,6 +10,8 @@
   <body>
     <h1>GNOME Foundation Legal Information</h1>
 
+	<p>If you have any questions about any of these practices or GNOME Foundation's use of your personal information, please feel free to <a href="/contact/">contact</a> us by e-mail or by post.</p>
+
     <h2><a name="confidentiality" />Board Confidentiality Policy</h2>
 
 	<p>Part of the Foundation's purpose is to be a neutral, independent body
@@ -42,7 +44,9 @@
         </ul>
         </p>
 
-	<p>If you have any questions about any of these practices or GNOME Foundation's use of your personal information, please feel free to <a href="/contact/">contact</a> us by e-mail or by post.</p>
+   <h2><a name="pro-bono-counsel" />Pro Bono Counsel</h2>
+
+	<p>The GNOME Foundation thanks <a href="http://www.wsgr.com/">Wilson Sonsini Goodrich &amp; Rosati</a> and the <a href="http://www.softwarefreedom.org/">Software Freedom Law Center</a> for their ongoing service as pro bono counsels to the Foundation.</p>
 
 	<!-- FIXME: need to put fonts/ up here, plus the licensing and copyright
 	info once it's ready -->

@@ -1,5 +1,11 @@
 2007-03-21  Vincent Untz  <vuntz@gnome.org>
 
+	* foundation.gnome.org/index.wml: small fix
+	* foundation.gnome.org/legal/index.wml: add a part about pro bono
+	counsel
+
+2007-03-21  Vincent Untz  <vuntz@gnome.org>
+
 	* foundation.gnome.org/index.wml: add link to WSGR website, mention
 	SFLC in the pro bono legal services mention. (as suggested by Luis
 	Villa)
