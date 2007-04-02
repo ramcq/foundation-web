@@ -1,3 +1,14 @@
+2007-04-02  Vincent Untz  <vuntz@gnome.org>
+
+	* foundation.gnome.org/membership/application.wml:
+	* foundation.gnome.org/membership/members.wml:
+	* foundation.gnome.org/vote/results.wml:
+	* foundation.gnome.org/vote/index.wml:
+	* foundation.gnome.org/vote/vote.wml:
+	* foundation.gnome.org/vote/votes.wml: removed <?xml version="1.0"
+	encoding="UTF-8"?> line which breaks the php scripts after RHEL
+	migration
+
 2007-03-21  Vincent Untz  <vuntz@gnome.org>
 
 	* foundation.gnome.org/index.wml: small fix
