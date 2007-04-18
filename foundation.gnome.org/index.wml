@@ -41,6 +41,18 @@
     <h2>News</h2>
     <ul>
       <li>
+        <strong>Canonical joins the GNOME Foundation Advisory Board</strong>
+        <small>(17/04/2007)</small>
+        <blockquote>
+          The GNOME Foundation would like to warmly welcome Canonical Ltd. as
+          an Advisory Board member. Canonical Ltd. is the commercial sponsor 
+          of Ubuntu.<br/>
+          See the <a
+          href="http://www.gnome.org/press/releases/">announcement</a>
+          for more information.
+        </blockquote>
+      </li>
+      <li>
         <strong>GNOME Foundation Annual Report 2006 released</strong>
         <small>(16/03/2007)</small>
         <blockquote>
@@ -59,8 +71,9 @@
           The GNOME Foundation is welcoming Intel as an Advisory Board member.
           This is part of Intel's increasing commitment to GNOME and to the
           free software desktop.<br />
-          See more informations in the <a
-          href="http://mail.gnome.org/archives/foundation-announce/2006-June/msg00006.html">announce</a>.
+          See the <a
+          href="http://mail.gnome.org/archives/foundation-announce/2006-June/msg00006.html">announce</a>
+          for more information.
         </blockquote>
       </li>
     </ul>
