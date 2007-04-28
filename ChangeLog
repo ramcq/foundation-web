@@ -1,3 +1,9 @@
+2007-04-28  Vincent Untz  <vuntz@gnome.org>
+
+	* foundation.gnome.org/membership/application.wml: show contacts in
+	the mail even if it's only a renewal; we want to have summary AND
+	details, not summary and optionally details
+
 2007-04-19  Glynn Foster  <glynn.foster@sun.com>
 
 	* foundation.gnome.org/index.wml: Add news item for Canonical joining

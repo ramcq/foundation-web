@@ -46,11 +46,13 @@
         $errors[] = "Please enter an email address we can use to contact you.";
       }
       $obfuscated_email = preg_replace("/@/", " AT ", $email);
+      $obfuscated_contacts = preg_replace("/@/", " AT ", $contacts);
       if (!$previousmember) {
         if (!$summary || $summary == "") {
           $bad_elements[] = "summary";
           $errors[] = "Please enter a list of areas of GNOME to which you have made a non-trivial contribution.";
-        } else if (!$details || $details == "") {
+        }
+        if (!$details || $details == "") {
           $bad_elements[] = "details";
           $errors[] = "Please enter a more detailed description of your contributions.";
         }
@@ -58,11 +60,10 @@
           $bad_elements[] = "contacts";
           $errors[] = "Please enter a list of individuals with their e-mails who can confirm your contributions or indicate us how the membership committee can verify your contributions.";
         }
-	if ($contacts && $contacts != "" && (strpos ($contacts, '@') === FALSE)) { 
-	  $bad_elements[] = "contacts";
-	  $errors[] = "Please provide e-mails of the contacts you've provided.";
-      }
-      $obfuscated_contacts = preg_replace("/@/", " AT ", $contacts);
+        if ($contacts && $contacts != "" && (strpos ($contacts, '@') === FALSE)) { 
+          $bad_elements[] = "contacts";
+          $errors[] = "Please provide e-mails of the contacts you've provided.";
+        }
       }
       if ($spam != "not spam") {
         $bad_elements[] = "spam";
@@ -120,7 +121,7 @@
             Thank you for your submission. It has been forwarded to the
             membership committee, which will inform you when it has been
             processed. The membership committee tries to process applications
-	    within a month after their reception.
+            within a month after their reception.
           </p>
           <p>
             As a confirmation, you should receive your application by mail too.
@@ -261,7 +262,7 @@
 	committee determine your eligibility. You should provide their 
 	name, e-mail address, and a brief description of their role as a 
 	reference. To continue the earlier example: "<i>Dan Mueth 
-	(d-mueth&#64;uchicago&#46;edu) 	(GDP coordinator); Russell Steinthal 
+	(d-mueth&#64;uchicago&#46;edu) (GDP coordinator); Russell Steinthal 
 	(rms39&#64;columbia&#46;edu) (gnome-pim maintainer)</i>".<br />
         <b>Beware that applications without contacts take relatively 
 	longer to process.</b>
