@@ -10,6 +10,7 @@ page_DATA = \
 	fsf.png \
 	hp.gif \
 	ibm.gif \
+	igalia.png \
 	imendio.png \
 	intel.png \
 	nokia.gif \

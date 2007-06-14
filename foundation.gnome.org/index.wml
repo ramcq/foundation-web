@@ -41,6 +41,17 @@
     <h2>News</h2>
     <ul>
       <li>
+        <strong>Igalia joins the GNOME Foundation Advisory Board</strong>
+        <small>(14/06/2007)</small>
+        <blockquote>
+	  Following its increasing involvement in GNOME, Igalia is joining the
+	  GNOME Foundation as an Advisory Board member.<br/>
+          See the <a
+          href="http://www.gnome.org/press/releases/igaliajoins.html">announcement</a>
+          for more information.
+        </blockquote>
+      </li>
+      <li>
         <strong>Canonical joins the GNOME Foundation Advisory Board</strong>
         <small>(17/04/2007)</small>
         <blockquote>
@@ -48,7 +59,7 @@
           an Advisory Board member. Canonical Ltd. is the commercial sponsor 
           of Ubuntu.<br/>
           See the <a
-          href="http://www.gnome.org/press/releases/">announcement</a>
+          href="http://www.gnome.org/press/releases/canonicaljoins.html">announcement</a>
           for more information.
         </blockquote>
       </li>
@@ -64,18 +75,6 @@
 	  that we have been exploring for the foundation.
         </blockquote>
       </li>
-      <li>
-        <strong>Intel joins the GNOME Foundation Advisory Board</strong>
-        <small>(16/07/2006)</small>
-        <blockquote>
-          The GNOME Foundation is welcoming Intel as an Advisory Board member.
-          This is part of Intel's increasing commitment to GNOME and to the
-          free software desktop.<br />
-          See the <a
-          href="http://mail.gnome.org/archives/foundation-announce/2006-June/msg00006.html">announce</a>
-          for more information.
-        </blockquote>
-      </li>
     </ul>
 
     <p>More news is available <a href="news/">here</a>.</p>
@@ -88,6 +87,7 @@
       <a href="http://www.fsf.org/"><img src="img/logos/fsf.png" alt="Free Software Foundation" border="0" hspace="8" vspace="5" align="middle" /></a>
       <a href="http://www.hp.com/"><img src="img/logos/hp.gif" alt="Hewlett Packard" border="0" hspace="8" vspace="5" align="middle" /></a>
       <a href="http://www.ibm.com/"><img src="img/logos/ibm.gif" alt="IBM" border="0" hspace="8" vspace="5" align="middle" /></a>
+      <a href="http://www.igalia.com/"><img src="img/logos/igalia.png" alt="Igalia" border="0" hspace="8" vspace="5" align="middle" /></a>
       <a href="http://www.imendio.com/"><img src="img/logos/imendio.png" alt="Imendio" border="0" hspace="8" vspace="5" align="middle" /></a>
       <a href="http://www.intel.com/"><img src="img/logos/intel.png" alt="Intel" border="0" hspace="8" vspace="5" align="middle" /></a>
       <a href="http://www.nokia.com/"><img src="img/logos/nokia.gif" alt="Nokia"  border="0" hspace="8" vspace="5" align="middle" /></a>

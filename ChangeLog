@@ -1,3 +1,14 @@
+2007-06-14  Vincent Untz  <vuntz@gnome.org>
+
+	* foundation.gnome.org/index.wml:
+	* foundation.gnome.org/news/index.wml: add news about Igalia joining
+	the Advisory Board
+	* foundation.gnome.org/index.wml:
+	* foundation.gnome.org/img/logos/Makefile.am:
+	* foundation.gnome.org/img/logos/igalia.png: add Igalia logo
+	* foundation.gnome.org/about/index.wml: add Igalia to the list of AB
+	members
+
 2007-04-28  Vincent Untz  <vuntz@gnome.org>
 
 	* foundation.gnome.org/membership/application.wml: show contacts in
