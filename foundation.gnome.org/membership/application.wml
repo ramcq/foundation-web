@@ -9,6 +9,7 @@
 
   <body>
     <h1>GNOME Foundation Membership Application</h1>
+    
 
 <?php
   $bad_elements = array();
@@ -150,7 +151,9 @@
       href="index.html">GNOME Foundation membership policy</a>, adopted by the
       Board of Directors.
     </p>
-
+    <p>
+     Please consider reading <a href="http://live.gnome.org/MembershipCommittee/ApplicationTips">Application Tips</a> page so as to get informed about what kind of information is helpful to make your application processed faster. 
+    </p>
     <p>
       If you have any questions regarding the application process, please feel
       free to e-mail the committee at <a
