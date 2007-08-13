@@ -1,3 +1,7 @@
+2007-08-13  Lucas Rocha  <lucasr@gnome.org>
+
+	* foundation.gnome.org/about/index.wml: fixed a typo.
+
 2007-08-10  Vincent Untz  <vuntz@gnome.org>
 
 	* foundation.gnome.org/about/index.wml: s/Dave/Lucas/
@@ -22,7 +26,7 @@
 2007-04-19  Glynn Foster  <glynn.foster@sun.com>
 
 	* foundation.gnome.org/index.wml: Add news item for Canonical joining
-        the Advisory board.
+	the Advisory board.
 
 2007-04-02  Vincent Untz  <vuntz@gnome.org>
 
