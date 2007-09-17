@@ -44,7 +44,7 @@ function get_members_from_sql () {
     return FALSE;
   }
 
-  $query = "SELECT firstname, lastname, email FROM ".$members_table;
+  $query = "SELECT firstname, lastname, email, last_renewed_on FROM ".$members_table;
   $query .= " WHERE DATE_SUB(CURDATE(), INTERVAL 2 YEAR) <= last_renewed_on";
   $query .= " ORDER BY lastname, firstname";
 
@@ -75,7 +75,7 @@ if ($members === FALSE) {
 
   foreach ($members as $member) {
     $email = str_replace($antispam, " ", $member["email"]);
-    echo "      <li>".$member["firstname"]." ".$member["lastname"]." &lt;".$email."&gt;</li>\n";
+    echo "      <li>".$member["firstname"]." ".$member["lastname"]." &lt;".$email."&gt; (Last Renewal: ".$member['last_renewed_on'].")</li>\n";
   }
   echo "    </ul>\n";
 }
