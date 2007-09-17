@@ -75,7 +75,7 @@ if ($members === FALSE) {
 
   foreach ($members as $member) {
     $email = str_replace($antispam, " ", $member["email"]);
-    echo "      <li><abbr title='Last Renewed On: ".$member['last_renewed_on']."'>".$member["firstname"]." ".$member["lastname"]." &lt;".$email."&gt;</abbr></li>\n";
+    echo "      <li><span title='Last Renewed On: ".$member['last_renewed_on']."'>".$member["firstname"]." ".$member["lastname"]." &lt;".$email."&gt;</span></li>\n";
   }
   echo "    </ul>\n";
 }
