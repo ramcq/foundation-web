@@ -1,3 +1,8 @@
+2007-11-15  Behdad Esfahbod  <behdad@gnome.org>
+
+	* foundation.gnome.org/index.wml: Clarify Free Software vs
+	Open Source wording.
+
 2007-08-13  Lucas Rocha  <lucasr@gnome.org>
 
 	* foundation.gnome.org/about/index.wml: fixed a typo.
