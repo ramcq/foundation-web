@@ -1,5 +1,12 @@
 2008-01-03  Vincent Untz  <vuntz@gnome.org>
 
+	* foundation.gnome.org/about/index.wml: fix dates, remove old
+	commented stuff
+	* foundation.gnome.org/contact/index.wml: remove executive director
+	address
+
+2008-01-03  Vincent Untz  <vuntz@gnome.org>
+
 	* foundation.gnome.org/about/index.wml: new board
 	* foundation.gnome.org/about/history/index.wml: add previous board
 	here
