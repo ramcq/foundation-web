@@ -1,5 +1,11 @@
 2008-01-03  Vincent Untz  <vuntz@gnome.org>
 
+	* foundation.gnome.org/about/index.wml: new board
+	* foundation.gnome.org/about/history/index.wml: add previous board
+	here
+
+2008-01-03  Vincent Untz  <vuntz@gnome.org>
+
 	* foundation.gnome.org/contact/index.wml: update snail mail address
 
 2007-11-15  Behdad Esfahbod  <behdad@gnome.org>
