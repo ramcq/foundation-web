@@ -17,7 +17,7 @@ page_DATA = \
 	novell.gif \
 	olpc.gif \
 	openedhand.png \
-	redhat.gif \
+	redhat.png \
 	sflc.gif \
 	sun.gif
 

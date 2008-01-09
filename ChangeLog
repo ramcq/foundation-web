@@ -1,3 +1,9 @@
+2008-01-09  Andreas Nilsson  <nisses.mail@home.se>
+
+	* foundation.gnome.org/img/logos/Makefile.am: changed redhat.gif to
+	redhat.png
+	* foundation.gnome.org/index.wml: fixed redhat.gif to redhat.png
+
 2008-01-08  Andreas Nilsson  <nisses.mail@home.se>
 
 	* foundation.gnome.org/img/logos/imendio.png: fixed logo
