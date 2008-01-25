@@ -9,16 +9,17 @@ page_DATA = \
 	fluendo.png \
 	fsf.png \
 	hp.gif \
-	ibm.gif \
+	ibm.png \
 	igalia.png \
 	imendio.png \
 	intel.png \
+	mozilla-foundation.png \
 	nokia.gif \
 	novell.gif \
 	olpc.gif \
 	openedhand.png \
 	redhat.png \
 	sflc.gif \
-	sun.gif
+	sun.png
 
 include $(top_srcdir)/rules.common

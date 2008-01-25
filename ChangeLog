@@ -1,3 +1,11 @@
+2008-01-25  Vincent Untz  <vuntz@gnome.org>
+
+	* foundation.gnome.org/about/index.wml:
+	* foundation.gnome.org/index.wml: add MoFo as advisory board member
+	* foundation.gnome.org/img/logos/Makefile.am: update
+	* foundation.gnome.org/img/logos/*: remove some old logos, update IBM
+	and Sun ones
+
 2008-01-09  Andreas Nilsson  <nisses.mail@home.se>
 
 	* foundation.gnome.org/img/logos/Makefile.am: changed redhat.gif to
