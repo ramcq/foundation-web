@@ -40,7 +40,19 @@
 
     <h2>News</h2>
     <ul>
-    <li>
+        <li>
+        <strong>GNOME Foundation Announces Program to Sponsor Accessibility Projects</strong>
+        <small>(27/02/2008)</small>
+                <blockquote>
+		The GNOME Foundation is running an accessibility outreach program, offering USD$50,000 to be
+		split among individuals.  This program will promote software accessibility awareness
+		among the GNOME community as well as harden and improve the overall quality
+		of the GNOME accessibility offering.  Read the full <a
+		href="http://www.gnome.org/press/releases/gop-a11y.html">announcement</a>.
+		</blockquote>
+        </li>
+
+        <li>
         <strong>Fall 2007 Board of Directors election official results announced</strong>
         <small>(25/12/2007)</small>
                 <blockquote>
