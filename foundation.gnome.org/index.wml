@@ -40,81 +40,44 @@
 
     <h2>News</h2>
     <ul>
-        <li>
+      <li>
         <strong>GNOME Foundation Announces Program to Sponsor Accessibility Projects</strong>
         <small>(27/02/2008)</small>
-                <blockquote>
-		The GNOME Foundation is running an accessibility outreach program, offering USD$50,000 to be
-		split among individuals.  This program will promote software accessibility awareness
-		among the GNOME community as well as harden and improve the overall quality
-		of the GNOME accessibility offering.  Read the full <a
-		href="http://www.gnome.org/press/releases/gop-a11y.html">announcement</a>.
-		</blockquote>
-        </li>
+        <blockquote>
+          The GNOME Foundation is running an accessibility outreach program,
+          offering USD$50,000 to be split among individuals.  This program will
+          promote software accessibility awareness among the GNOME community as
+          well as harden and improve the overall quality of the GNOME
+          accessibility offering.  Read the full <a
+          href="http://www.gnome.org/press/releases/gop-a11y.html">announcement</a>.
+        </blockquote>
+      </li>
 
-        <li>
+      <li>
         <strong>Fall 2007 Board of Directors election official results announced</strong>
         <small>(25/12/2007)</small>
-                <blockquote>
-                Yearly election for Board of Directors of GNOME Foundation ended. There were no challenges to <a href="http://mail.gnome.org/archives/foundation-announce/2007-December/msg00000.html">preliminary results</a> and <a href="http://mail.gnome.org/archives/foundation-announce/2007-December/msg00002.html">new board members</a> were announced. Elected board will serve for a period of 18 months.</blockquote>
-        </li>
+        <blockquote>
+          Yearly election for Board of Directors of GNOME Foundation ended.
+          There were no challenges to <a
+          href="http://mail.gnome.org/archives/foundation-announce/2007-December/msg00000.html">preliminary
+          results</a> and <a
+          href="http://mail.gnome.org/archives/foundation-announce/2007-December/msg00002.html">new
+          board members</a> were announced. Elected board will serve for a
+          period of 18 months.
+        </blockquote>
+      </li>
 
-	<li>
-	<strong>Fall 2007 Board of Directors election period begins</strong>
+      <li>
+        <strong>Fall 2007 Board of Directors election period begins</strong>
         <small>(03/11/2007)</small>
-		<blockquote>
-		Yearly election for Board of Directors of GNOME Foundation has begun. <a href="http://mail.gnome.org/archives/foundation-announce/2007-November/msg00000.html">Announcement</a> from Elections &amp; Membership Committee was sent to foundation-announce mailing list. Time line and information about the election can be viewed from announcement mail.</blockquote>
-	</li>
-	  <li>
-	    <strong>Notification of membership vote regarding change to bylaws</strong>
-		<small>(07/09/2007)</small>
-		<blockquote>The Board is proposing a change to the GNOME Foundation
-		bylaws to allow the directors to determine the length of the next
-		Board term when elections are called. An <a
-		href="http://mail.gnome.org/archives/foundation-list/2007-August/msg00025.html">earlier
-		proposal</a> was discussed on foundation-list in August, and this <a
-		href="http://mail.gnome.org/archives/foundation-list/2007-September/msg00017.html">modified
-		proposal</a> is a result of legal advice to the Board, suggesting
-		that we change the bylaws to provide flexibility in
-		future.</blockquote>
-
-		<blockquote>The voting period will begin on 2007-09-28 and end on
-		2007-10-12.</blockquote>
-      </li>
-      <li>
-        <strong>Igalia joins the GNOME Foundation Advisory Board</strong>
-        <small>(14/06/2007)</small>
         <blockquote>
-	  Following its increasing involvement in GNOME, Igalia is joining the
-	  GNOME Foundation as an Advisory Board member.<br/>
-          See the <a
-          href="http://www.gnome.org/press/releases/igaliajoins.html">announcement</a>
-          for more information.
-        </blockquote>
-      </li>
-      <li>
-        <strong>Canonical joins the GNOME Foundation Advisory Board</strong>
-        <small>(17/04/2007)</small>
-        <blockquote>
-          The GNOME Foundation would like to warmly welcome Canonical Ltd. as
-          an Advisory Board member. Canonical Ltd. is the commercial sponsor 
-          of Ubuntu.<br/>
-          See the <a
-          href="http://www.gnome.org/press/releases/canonicaljoins.html">announcement</a>
-          for more information.
-        </blockquote>
-      </li>
-      <li>
-        <strong>GNOME Foundation Annual Report 2006 released</strong>
-        <small>(16/03/2007)</small>
-        <blockquote>
-          The first annual report of the GNOME Foundation is available for 
-          <a href="about/gnome_annual_report_2006.pdf">download (935 KB, PDF)</a> now.<br/>
-          The report includes a review of the year, accounts of 
-	  various community initiaves we have supported during the year, the 
-	  events we have been involved with, and the avenues of development 
-	  that we have been exploring for the foundation.
-        </blockquote>
+          Yearly election for Board of Directors of GNOME Foundation has begun.
+          <a
+          href="http://mail.gnome.org/archives/foundation-announce/2007-November/msg00000.html">Announcement</a>
+          from Elections &amp; Membership Committee was sent to
+          foundation-announce mailing list. Time line and information about the
+          election can be viewed from announcement mail.
+         </blockquote>
       </li>
     </ul>
 

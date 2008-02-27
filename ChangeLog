@@ -1,3 +1,8 @@
+2008-02-27  Vincent Untz  <vuntz@gnome.org>
+
+	* foundation.gnome.org/index.wml: fix indentation
+	* foundation.gnome.org/news/index.wml: add the new news
+
 2008-01-25  Vincent Untz  <vuntz@gnome.org>
 
 	* foundation.gnome.org/about/index.wml:
