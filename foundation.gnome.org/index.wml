@@ -41,6 +41,20 @@
     <h2>News</h2>
     <ul>
       <li>
+        <strong>GUADEC 2008 to be held in Istanbul</strong>
+        <small>(28/02/2008)</small>
+        <blockquote>
+	  The ninth GUADEC, the annual GNOME conference, will be held in
+	  Istanbul, Turkey from the 7th to the 12th of July 2008. The
+	  conference will bring together the GNOME development and user
+	  community and key personalities from businesses and governments, to
+	  discuss the future direction of the GNOME project. Read the <a
+	  href="http://www.gnome.org/press/releases/guadec2008.html">press
+	  release</a>.
+        </blockquote>
+      </li> 
+
+      <li>
         <strong>GNOME Foundation Announces Program to Sponsor Accessibility Projects</strong>
         <small>(27/02/2008)</small>
         <blockquote>
@@ -65,19 +79,6 @@
           board members</a> were announced. Elected board will serve for a
           period of 18 months.
         </blockquote>
-      </li>
-
-      <li>
-        <strong>Fall 2007 Board of Directors election period begins</strong>
-        <small>(03/11/2007)</small>
-        <blockquote>
-          Yearly election for Board of Directors of GNOME Foundation has begun.
-          <a
-          href="http://mail.gnome.org/archives/foundation-announce/2007-November/msg00000.html">Announcement</a>
-          from Elections &amp; Membership Committee was sent to
-          foundation-announce mailing list. Time line and information about the
-          election can be viewed from announcement mail.
-         </blockquote>
       </li>
     </ul>
 
