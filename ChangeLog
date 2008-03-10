@@ -1,5 +1,10 @@
 2008-03-10  Lucas Rocha  <lucasr@gnome.org>
 
+	* foundation.gnome.org/about/Makefile.am: install the new PDF file
+	accordingly.
+
+2008-03-10  Lucas Rocha  <lucasr@gnome.org>
+
 	* foundation.gnome.org/index.wml:
 	* foundation.gnome.org/news/index.wml: add Annual Report 2007 news.
 	* foundation.gnome.org/about/gnome_annual_report_2007.pdf: annual
