@@ -1,3 +1,8 @@
+2008-06-28  Olav Vitters  <olav@bkor.dhs.org>
+
+	* foundation.gnome.org/membership/members.wml: Request results as
+	UTF8.
+
 2008-04-28  Behdad Esfahbod  <behdad@gnome.org>
 
 	* foundation.gnome.org/contact/index.wml:

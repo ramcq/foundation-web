@@ -36,6 +36,10 @@ function get_members_from_sql () {
     $error = "Can not connect to the database.";
     return FALSE;
   }
+  $result = mysql_query ("SET NAMES 'utf8'", $handle);
+  if (!$result) {
+    die ("Unable to run query: ".mysql_error ($handle));
+  }
 
   $select_base = mysql_select_db ($mysql_db, $handle); 
   if (!$select_base) {
