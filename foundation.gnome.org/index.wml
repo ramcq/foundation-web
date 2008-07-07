@@ -41,6 +41,18 @@
     <h2>News</h2>
     <ul>
       <li>
+        <strong>GNOME hires Stormy Peters as Executive Director</strong>
+        <small>(2008-07-07)</small>
+        <blockquote>
+          Bringing to an end a long search, the GNOME Foundation has hired
+          Stormy Peters, a well-known industry analyst with a long-standing
+          relationship with GNOME, as their Executive Director. The hire was
+          announced at GUADEC 2008, GNOME's flagship conference, in Istanbul.
+          <a href="http://www.gnome.org/press/releases/2008-07-stormy-executive-director.html">Read
+          more</a>
+        </blockquote>
+      </li>
+      <li>
 	<strong>KDE e.V. and the GNOME Foundation to co-host flagship conferences</strong>
         <small>(2008-04-22)</small>
         <blockquote>
@@ -63,59 +75,7 @@
           more</a>
         </blockquote>
       </li>
-      <li>
-        <strong>GNOME Foundation Annual Report 2007 released</strong>
-        <small>(10/03/2008)</small>
-        <blockquote>
-          The second annual report of the GNOME Foundation is available for 
-          <a href="about/gnome_annual_report_2007.pdf">download (1860 KB, PDF)</a> now.<br/>
-          The report aims to bring a summary of GNOME community activities in 2007.
-          It includes a review of the year, accounts of various community 
-          activities and events around the world, and foundation development
-          actions during the year.
-        </blockquote>
-      </li>
-      <li>
-        <strong>GNOME Foundation and Mozilla Foundation join forces</strong>
-        <small>(04/03/2008)</small>
-        <blockquote>
-          The GNOME Foundation and the Mozilla Foundation will increase their
-          collaboration to improve developer support and user experience. As
-          part of this partnership, the Mozilla Foundation joins the GNOME
-          Foundation advisory board and announces a grant of $10,000 to be
-          spent on the improvement of accessibility.<br/>
-          Read the <a
-          href="http://www.gnome.org/press/releases/2008-03-mofojoins.html">announcement</a>
-          for more information.
-        </blockquote>
-      </li>
 
-      <li>
-        <strong>GUADEC 2008 to be held in Istanbul</strong>
-        <small>(28/02/2008)</small>
-        <blockquote>
-	  The ninth GUADEC, the annual GNOME conference, will be held in
-	  Istanbul, Turkey from the 7th to the 12th of July 2008. The
-	  conference will bring together the GNOME development and user
-	  community and key personalities from businesses and governments, to
-	  discuss the future direction of the GNOME project. Read the <a
-	  href="http://www.gnome.org/press/releases/guadec2008.html">press
-	  release</a>.
-        </blockquote>
-      </li> 
-
-      <li>
-        <strong>GNOME Foundation Announces Program to Sponsor Accessibility Projects</strong>
-        <small>(27/02/2008)</small>
-        <blockquote>
-          The GNOME Foundation is running an accessibility outreach program,
-          offering USD$50,000 to be split among individuals.  This program will
-          promote software accessibility awareness among the GNOME community as
-          well as harden and improve the overall quality of the GNOME
-          accessibility offering.  Read the full <a
-          href="http://www.gnome.org/press/releases/gop-a11y.html">announcement</a>.
-        </blockquote>
-      </li>
     </ul>
 
     <p>More news is available <a href="news/">here</a>.</p>
