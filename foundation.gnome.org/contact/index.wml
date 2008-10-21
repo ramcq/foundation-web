@@ -33,6 +33,9 @@
 
     <h2>Address</h2>
     <p>
+<!-- when updating this address, you probably need to update the one in
+     gnomeweb-wml/www.gnome.org/friends/index.wml and the ones linked from
+     there too -->
 GNOME Foundation<br />
 PO Box 101<br />
 Groton, MA  01450<br />
