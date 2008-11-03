@@ -8,7 +8,7 @@ page_DATA = \
 	debian.gif \
 	fluendo.png \
 	fsf.png \
-	google.gif \
+	google.png \
 	hp.gif \
 	ibm.png \
 	igalia.png \

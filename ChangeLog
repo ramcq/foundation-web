@@ -1,5 +1,10 @@
 2008-11-03  Vincent Untz  <vuntz@gnome.org>
 
+	* foundation.gnome.org/img/logos/Makefile.am:
+	* foundation.gnome.org/index.wml: update logo to png
+
+2008-11-03  Vincent Untz  <vuntz@gnome.org>
+
 	* foundation.gnome.org/about/index.wml:
 	* foundation.gnome.org/index.wml:
 	* foundation.gnome.org/news/index.wml: Google & Motorola join the GNOME
