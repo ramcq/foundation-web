@@ -41,6 +41,17 @@
     <h2>News</h2>
     <ul>
       <li>
+        <strong></strong>
+        <small>(2008-11-03) Google and Motorola join the GNOME Foundation Advisory Board</small>
+        <blockquote>
+          The GNOME Foundation continues to strengthen its industry support,
+          with Google and Motorola joining the GNOME Foundation as Advisory
+          Board members.
+          <a href="http://www.gnome.org/press/releases/2008-10-motorola-google.html">Read
+          more</a>
+        </blockquote>
+      </li>
+      <li>
         <strong>GUADEC and Akademy to be co-located in Gran Canaria in 2009</strong>
         <small>(2008-07-13)</small>
         <blockquote>
@@ -64,17 +75,6 @@
           more</a>
         </blockquote>
       </li>
-      <li>
-	<strong>KDE e.V. and the GNOME Foundation to co-host flagship conferences</strong>
-        <small>(2008-04-22)</small>
-        <blockquote>
-	  The boards of KDE e.V. and the GNOME Foundation have issued a call to co-host
-	  Akademy and GUADEC, the flagship conferences of the KDE and GNOME projects
-	  respectively, during the Summer of 2009.
-	  <a href="http://www.gnome.org/press/releases/2008-04-22-akademy-guadec.html">Read
-	  more</a>
-        </blockquote>
-      </li>
 
     </ul>
 
@@ -87,10 +87,12 @@
       <a href="http://www.debian.org/"><img src="img/logos/debian.gif" alt="Debian" border="0" hspace="8" vspace="5" align="middle" /></a>
       <a href="http://www.fsf.org/"><img src="img/logos/fsf.png" alt="Free Software Foundation" border="0" hspace="8" vspace="5" align="middle" /></a>
       <a href="http://www.hp.com/"><img src="img/logos/hp.gif" alt="Hewlett Packard" border="0" hspace="8" vspace="5" align="middle" /></a>
+      <a href="http://www.google.com/"><img src="img/logos/google.gif" alt="Google" border="0" hspace="8" vspace="5" align="middle" /></a>
       <a href="http://www.ibm.com/"><img src="img/logos/ibm.png" alt="IBM" border="0" hspace="8" vspace="5" align="middle" /></a>
       <a href="http://www.igalia.com/"><img src="img/logos/igalia.png" alt="Igalia" border="0" hspace="8" vspace="5" align="middle" /></a>
       <a href="http://www.imendio.com/"><img src="img/logos/imendio.png" alt="Imendio" border="0" hspace="8" vspace="5" align="middle" /></a>
       <a href="http://www.intel.com/"><img src="img/logos/intel.png" alt="Intel" border="0" hspace="8" vspace="5" align="middle" /></a>
+      <a href="http://www.motorola.com/"><img src="img/logos/motorola.png" alt="Motorola" border="0" hspace="8" vspace="5" align="middle" /></a>
       <a href="http://www.mozilla.org/"><img src="img/logos/mozilla-foundation.png" alt="Mozilla Foundation" border="0" hspace="8" vspace="5" align="middle" /></a>
       <a href="http://www.nokia.com/"><img src="img/logos/nokia.gif" alt="Nokia"  border="0" hspace="8" vspace="5" align="middle" /></a>
       <a href="http://www.novell.com/"><img src="img/logos/novell.gif" alt="Novell Inc."  border="0" hspace="8" vspace="5" align="middle" /></a>

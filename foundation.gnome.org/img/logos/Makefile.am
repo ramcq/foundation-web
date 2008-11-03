@@ -8,11 +8,13 @@ page_DATA = \
 	debian.gif \
 	fluendo.png \
 	fsf.png \
+	google.gif \
 	hp.gif \
 	ibm.png \
 	igalia.png \
 	imendio.png \
 	intel.png \
+	motorola.png \
 	mozilla-foundation.png \
 	nokia.gif \
 	novell.gif \
