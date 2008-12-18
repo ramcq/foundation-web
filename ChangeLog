@@ -1,5 +1,9 @@
 2008-12-18  Vincent Untz  <vuntz@gnome.org>
 
+	* foundation.gnome.org/about/index.wml: fix link...
+
+2008-12-18  Vincent Untz  <vuntz@gnome.org>
+
 	* foundation.gnome.org/about/index.wml: s/Jeff/Diego/
 
 2008-11-25  Behdad Esfahbod  <behdad@gnome.org>
