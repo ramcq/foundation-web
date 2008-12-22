@@ -1,3 +1,11 @@
+2008-12-22  Vincent Untz  <vuntz@gnome.org>
+
+	* foundation.gnome.org/about/index.wml:
+	* foundation.gnome.org/img/logos/Makefile.am:
+	* foundation.gnome.org/img/logos/sugarlabs.png:
+	* foundation.gnome.org/index.wml:
+	* foundation.gnome.org/news/index.wml: Sugar Labs joins the Foundation
+
 2008-12-18  Vincent Untz  <vuntz@gnome.org>
 
 	* foundation.gnome.org/about/index.wml: fix link...

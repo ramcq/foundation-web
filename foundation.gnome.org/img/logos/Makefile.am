@@ -22,6 +22,7 @@ page_DATA = \
 	openedhand.png \
 	redhat.png \
 	sflc.gif \
+	sugarlabs.png \
 	sun.png
 
 include $(top_srcdir)/rules.common

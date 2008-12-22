@@ -41,6 +41,19 @@
     <h2>News</h2>
     <ul>
       <li>
+        <strong>Sugar Labs, the nonprofit behind the OLPC software, is joining the GNOME Foundation</strong>
+        <small>(2008-12-22)</small>
+        <blockquote>
+	  Sugar Labs, a member of the Software Freedom Conservancy, is joining
+	  the GNOME Foundation as part of the GNOME Advisory Board. Sugar Labs
+	  creates software for young children used on platforms like the One
+	  Laptop Per Child's XO. Sugar is based on the GNOME platform and
+	  relies on technologies like GTK+ and Telepathy.
+          <a href="http://www.gnome.org/press/releases/2008-12-sugarlabs.html">Read
+          more</a>
+        </blockquote>
+      </li>
+      <li>
         <strong>Gran Canaria Desktop Summit 2009 to be held July 3-11, 2009</strong>
 	<small>(2008-11-25)</small>
 	<blockquote>
@@ -74,18 +87,6 @@
           more</a>
         </blockquote>
       </li>
-      <li>
-        <strong>GNOME hires Stormy Peters as Executive Director</strong>
-        <small>(2008-07-07)</small>
-        <blockquote>
-          Bringing to an end a long search, the GNOME Foundation has hired
-          Stormy Peters, a well-known industry analyst with a long-standing
-          relationship with GNOME, as their Executive Director. The hire was
-          announced at GUADEC 2008, GNOME's flagship conference, in Istanbul.
-          <a href="http://www.gnome.org/press/releases/2008-07-stormy-executive-director.html">Read
-          more</a>
-        </blockquote>
-      </li>
 
     </ul>
 
@@ -111,6 +112,7 @@
       <a href="http://www.o-hand.com/"><img src="img/logos/openedhand.png" alt="OpenedHand" border="0" hspace="8" vspace="5" align="middle" /></a>
       <a href="http://www.redhat.com/"><img src="img/logos/redhat.png" alt="Red Hat" border="0" hspace="8" vspace="5" align="middle" /></a>
       <a href="http://www.softwarefreedom.org/"><img src="img/logos/sflc.gif" alt="Software Freedom Law Center" border="0" hspace="8" vspace="5" align="middle" /></a>
+      <a href="http://sugarlabs.org/"><img src="img/logos/sugarlabs.png" alt="Sugar Labs" border="0" hspace="8" vspace="5" align="middle" /></a>
       <a href="http://www.sun.com/"><img src="img/logos/sun.png" alt="Sun Microsystems" border="0" hspace="8" vspace="5" align="middle" /></a>
       <p>
         Pro bono legal services provided by <a href="http://www.wsgr.com/">Wilson Sonsini Goodrich &amp; Rosati</a> and the <a href="http://www.softwarefreedom.org/">Software Freedom Law Center</a>.
