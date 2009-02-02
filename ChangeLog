@@ -1,5 +1,9 @@
 2009-02-02  Vincent Untz  <vuntz@gnome.org>
 
+	* foundation.gnome.org/finance/index.wml: use Fiscal Year everywhere
+
+2009-02-02  Vincent Untz  <vuntz@gnome.org>
+
 	* foundation.gnome.org/about/index.wml: add annual report 2007 (was
 	never linked from there)
 	* foundation.gnome.org/finance/index.wml:
