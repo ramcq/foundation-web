@@ -12,14 +12,12 @@ page_DATA = \
 	hp.gif \
 	ibm.png \
 	igalia.png \
-	imendio.png \
 	intel.png \
 	motorola.png \
 	mozilla-foundation.png \
 	nokia.gif \
 	novell.gif \
 	olpc.gif \
-	openedhand.png \
 	redhat.png \
 	sflc.gif \
 	sugarlabs.png \
