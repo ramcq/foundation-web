@@ -4,7 +4,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 PRODID:-//PYVOBJECT//NONSGML Version 1//EN
 BEGIN:VEVENT
-UID:20090511T225159Z-48676@bigbox
+UID:20090516T135729Z-24347@bigbox
 DTSTART;VALUE=DATE:20090515
 DTEND;VALUE=DATE:20090516
 DESCRIPTION:If you are a member of the GNOME Foundation and are interested
@@ -23,7 +23,7 @@ DESCRIPTION:If you are a member of the GNOME Foundation and are interested
 SUMMARY:Announcements and list of candidates open
 END:VEVENT
 BEGIN:VEVENT
-UID:20090511T225159Z-32667@bigbox
+UID:20090516T135729Z-89546@bigbox
 DTSTART;VALUE=DATE:20090522
 DTEND;VALUE=DATE:20090523
 DESCRIPTION:If you're not a member of the GNOME Foundation or if you need 
@@ -32,7 +32,7 @@ DESCRIPTION:If you're not a member of the GNOME Foundation or if you need
 SUMMARY:Applications/Renewals closed
 END:VEVENT
 BEGIN:VEVENT
-UID:20090511T225159Z-68501@bigbox
+UID:20090516T135729Z-81078@bigbox
 DTSTART;VALUE=DATE:20090525
 DTEND;VALUE=DATE:20090526
 DESCRIPTION:If you are a member of the GNOME Foundation and are interested
@@ -51,35 +51,44 @@ DESCRIPTION:If you are a member of the GNOME Foundation and are interested
 SUMMARY:List of candidates closed
 END:VEVENT
 BEGIN:VEVENT
-UID:20090511T225159Z-1545@bigbox
+UID:20090516T135729Z-28178@bigbox
 DTSTART;VALUE=DATE:20090527
 DTEND;VALUE=DATE:20090528
 DESCRIPTION:You may now start to send your questions to the candidates
 SUMMARY:List of candidates announced
 END:VEVENT
 BEGIN:VEVENT
-UID:20090511T225159Z-21522@bigbox
+UID:20090516T135729Z-62270@bigbox
+DTSTART;VALUE=DATE:20090601
+DTEND;VALUE=DATE:20090602
+DESCRIPTION:If you are a GNOME Foundation member and your membership statu
+ s runs out before 2009-06-03\, you must apply for renewal of your membersh
+ ip status before 2009-06-01.
+SUMMARY:Renewals Closed
+END:VEVENT
+BEGIN:VEVENT
+UID:20090516T135729Z-36735@bigbox
 DTSTART;VALUE=DATE:20090603
 DTEND;VALUE=DATE:20090604
 DESCRIPTION:We introduce a new voting mechanism: Preferential Voting
 SUMMARY:Instructions to vote are sent
 END:VEVENT
 BEGIN:VEVENT
-UID:20090511T225159Z-28613@bigbox
+UID:20090516T135729Z-29963@bigbox
 DTSTART;VALUE=DATE:20090617
 DTEND;VALUE=DATE:20090618
 DESCRIPTION:Preliminary results are announced on 2009-06-19
 SUMMARY:Votes must be returned
 END:VEVENT
 BEGIN:VEVENT
-UID:20090511T225159Z-80935@bigbox
+UID:20090516T135729Z-92439@bigbox
 DTSTART;VALUE=DATE:20090619
 DTEND;VALUE=DATE:20090620
 DESCRIPTION:The preliminary results can be challenged until 2009-06-26
 SUMMARY:Preliminary results are announced
 END:VEVENT
 BEGIN:VEVENT
-UID:20090511T225159Z-17100@bigbox
+UID:20090516T135729Z-31931@bigbox
 DTSTART;VALUE=DATE:20090626
 DTEND;VALUE=DATE:20090627
 DESCRIPTION:If there weren't any challenges\, preliminary results are vali
