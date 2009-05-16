@@ -14,6 +14,7 @@ CANDIDATES_OPENED_DATE    = (2009, 5, 15)
 APPLICATIONS_CLOSED_DATE  = (2009, 5, 22)
 CANDIDATES_CLOSED_DATE    = (2009, 5, 25)
 CANDIDATES_ANNOUNCED_DATE = (2009, 5, 27)
+RENEWALS_CLOSED_DATE      = (2009, 6,  1)
 VOTING_OPENED_DATE        = (2009, 6,  3)
 VOTING_CLOSED_DATE        = (2009, 6, 17)
 PRELIMINARY_RESULTS_DATE  = (2009, 6, 19)
@@ -87,6 +88,15 @@ CANDIDATES_ANNOUNCED = (
     'You may now start to send your questions to the candidates'
 )
 
+RENEWALS_CLOSED = (
+    d(*RENEWALS_CLOSED_DATE),
+    'Renewals Closed',
+    c("""If you are a GNOME Foundation member and your membership status
+    runs out before %s, you must apply for renewal of your membership status
+    before %s.""" % (d(*VOTING_OPENED_DATE), d(*RENEWALS_CLOSED_DATE))
+    )
+)
+
 VOTING_OPENED = (
     d(*VOTING_OPENED_DATE),
     'Instructions to vote are sent',
@@ -150,6 +160,7 @@ if __name__ == "__main__":
         APPLICATIONS_CLOSED,
         CANDIDATES_CLOSED,
         CANDIDATES_ANNOUNCED,
+        RENEWALS_CLOSED,
         VOTING_OPENED,
         VOTING_CLOSED,
         PRELIMINARY_RESULTS,
