@@ -8,7 +8,7 @@
   <shortdesc xml:lang="en">Website foundation.gnome.org</shortdesc>
   <homepage rdf:resource="http://foundation.gnome.org" />
   <mailing-list rdf:resource="http://mail.gnome.org/mailman/listinfo/foundation-list" />
-  <category rdf:resource="http://api.gnome.org/doap-extensions#infrastructure"" />
+  <category rdf:resource="http://api.gnome.org/doap-extensions#infrastructure" />
 
   <maintainer>
     <foaf:Person>
