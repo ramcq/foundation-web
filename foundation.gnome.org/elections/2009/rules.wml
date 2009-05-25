@@ -67,13 +67,13 @@
         responsible for counting the votes.
       </li>
       <li>
-	The 7 candidates who receive the most votes will be elected, except
-	that no more than two/four individuals affiliated with any one
-	corporation may be elected. Should more than four of the top eleven
-	vote-getters be affiliated with the same company, only the four with
-	the most votes will be considered elected. For a full definition of
-	corporate affiliation, see the <a href="../../about/charter/">GNOME
-	Foundation charter</a>.
+	The 7 candidates voted for most as counted by a <a href="http://mail.gnome.org/archives/foundation-list/2009-March/msg00012.html">single transferable
+	vote system</a> will be elected, except that no more than two
+	individuals affiliated with any one corporation may be elected. Should
+	more than two of the top seven vote-getters be affiliated with the
+	same company, only the two with the most votes will be considered
+	elected. For a full definition of corporate affiliation, see the
+	<a href="../../about/charter/">GNOME Foundation charter</a>.
       </li>
       <li>
         In the event of a tie for the final slot on the board, the Elections
