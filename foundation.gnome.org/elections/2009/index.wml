@@ -41,12 +41,10 @@
             <a href="http://foundation.gnome.org/membership/members.php?date=2009-06-03">List of registered voters</a>
         </li>
     
-    <!-- I'd rather see the rules updates, because we have changed voting system
         <li>
             <a href="rules.html">Elections Rules and Timeline</a> (webcal <a
             href="webcal://foundation.gnome.org/elections/2009/timeline.ics">timeline</a>)
         </li>
-    -->
     
         <li>
             <a href="../overview.html">Overview of the Board of Directors role</a>
