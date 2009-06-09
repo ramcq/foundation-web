@@ -10,6 +10,9 @@ page_DATA =						\
 	gnome-foundation-fiscal-year-03-and-02.pdf	\
 	gnome-foundation-accountant-03.pdf		\
 	guadec-2004-financial-summary.pdf		\
-	gnome-foundation-fiscal-year-2007.pdf
+	gnome-foundation-fiscal-year-2007.pdf		\
+	GNOME-Donations.ods				\
+	GNOME2009-budget-with-actuals.ods
+
 
 include $(top_srcdir)/rules.common
