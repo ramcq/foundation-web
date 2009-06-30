@@ -30,7 +30,13 @@
             <a href="http://mail.gnome.org/archives/foundation-announce/2009-May/msg00002.html">Election results announcement</a>
         </li>
     -->
-    
+
+        <li>
+            <a href="../../vote/results.php?election_id=13">Detailed election results</a>
+        </li>
+        <li>
+            <a href="../../vote/votes.php?election_id=13">List of all votes</a>
+        </li>
         <li>
             <a href="candidates.html">List of candidates for Board of Directors</a>
         </li>
