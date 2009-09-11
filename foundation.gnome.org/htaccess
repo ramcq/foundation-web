@@ -58,4 +58,4 @@ Redirect /press.html			http://www.gnome.org/press/
 RewriteRule press/pr-(.*).html$		http://www.gnome.org/press/releases/$1.html [R]
 
 # Move the annual reports
-RedirectRule /about/gnome_annual_report_(.*).pdf		http://foundation.gnome.org/reports/gnome-annual-report-$1.pdf [R]
+RewriteRule about/gnome_annual_report_(.*).pdf		http://foundation.gnome.org/reports/gnome-annual-report-$1.pdf [R]
