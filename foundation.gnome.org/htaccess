@@ -56,3 +56,6 @@ RewriteRule elections/200./overview.html	http://foundation.gnome.org/elections/o
 # Move of the press releases
 Redirect /press.html			http://www.gnome.org/press/
 RewriteRule press/pr-(.*).html$		http://www.gnome.org/press/releases/$1.html [R]
+
+# Move the annual reports
+RedirectRule /about/gnome_annual_report_(.*).pdf		http://foundation.gnome.org/reports/gnome-annual-report-$1.pdf [R]
