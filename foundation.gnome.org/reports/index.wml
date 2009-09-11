@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+  <head>
+    <title>Reports from the GNOME Foundation</title>
+    <meta name="cvsdate" content="$Date$" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  </head>
+ 
+  <body>
+    <h1>Reports from the GNOME Foundation</h1>
+
+    <p>
+      The Reports of the GNOME Foundation include reports on foundation
+      activities for the past quarter or year, including community programmes
+      and events, and foundation development initiatives.
+    </p>
+
+    <p>
+      The Reports are published each quarter, and a specific annual report is
+      also published at the end of each year.
+    </p>
+
+    <h2>2009</h2>
+
+    <ul>
+      <li><a href="./gnome-report-2009-Q2.pdf">2009 Q2 Report</a></li>
+    </ul>
+
+    <h2>2008</h2>
+
+    <ul>
+      <li><a href="./gnome-annual-report-2008.pdf">2008 Annual Report</a></li>
+    </ul>
+
+    <h2>2007</h2>
+
+    <ul>
+      <li><a href="./gnome-annual-report-2007.pdf">2007 Annual Report</a> (<a href="http://www.lulu.com/content/2038054">order a hard copy</a>)</li>
+    </ul>
+
+    <h2>2006</h2>
+
+    <ul>
+      <li><a href="./gnome-annual-report-2006.pdf">2006 Annual Report</a></li>
+    </ul>
+
+  </body>
+</html>
