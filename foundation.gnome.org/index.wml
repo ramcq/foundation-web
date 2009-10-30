@@ -41,6 +41,27 @@
     <ul>
 
       <li>
+        <strong>GNOME Quarterly Report Q3 2009 released</strong>
+        <small>(30/10/2009)</small>
+        <blockquote>
+          The GNOME Foundation would like to present the <a
+          href="./reports/gnome-report-2009-Q3.pdf">Q3 2009 Quarterly
+          report</a> (<a href="./reports/gnome-report-2009-Q3.html">HTML
+          version</a>). Q3 is always a big quarter for the GNOME Foundation and
+          this one was bigger and better than usual. During Q3 we had our
+          annual GUADEC, and GNOME 2.28 was released with lots of preparation
+          work for GNOME 3.0. OSiM Mobile was well attended by GNOME Mobile
+          member companies and products that use GNOME Mobile technologies like
+          Moblin 2.0 and the Nokia N900 were released. We've raised $23,415
+          through Friends of GNOME so far this year! Our Advisory Board members
+          have been very generous as well and we have many hackfests planned
+          for Q4! <a href="./reports/gnome-report-2009-Q3.pdf">Read on</a> to
+          hear what GNOME teams have accomplished in Q3 and what they are
+          planning for Q4!
+        </blockquote>
+      </li>
+
+      <li>
         <strong>GNOME Quarterly Report Q2 2009 released</strong>
         <small>(11/09/2009)</small>
         <blockquote>
@@ -80,19 +101,6 @@
           It includes a review of the year, accounts of various community
           activities and events around the world, and foundation development
           actions during the year.
-        </blockquote>
-      </li>
-      <li>
-        <strong>Sugar Labs, the nonprofit behind the OLPC software, is joining the GNOME Foundation</strong>
-        <small>(2008-12-22)</small>
-        <blockquote>
-	  Sugar Labs, a member of the Software Freedom Conservancy, is joining
-	  the GNOME Foundation as part of the GNOME Advisory Board. Sugar Labs
-	  creates software for young children used on platforms like the One
-	  Laptop Per Child's XO. Sugar is based on the GNOME platform and
-	  relies on technologies like GTK+ and Telepathy.
-          <a href="http://www.gnome.org/press/releases/2008-12-sugarlabs.html">Read
-          more</a>
         </blockquote>
       </li>
 
