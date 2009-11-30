@@ -78,7 +78,7 @@
         $formmail .= "Name: " . $name . "\n";
         $formmail .= "E-mail: " . $obfuscated_email . "\n";
         $formmail .= "irc.gnome.org nickname (if any): " . $ircnick . "\n";
-        $formmail .= "svn.gnome.org username (if any): " . $cvsuser . "\n";
+        $formmail .= "git.gnome.org username (if any): " . $cvsuser . "\n";
         $formmail .= "\n";
         $formmail .= "Previous GNOME Foundation member: ";
         if ($previousmember) {
@@ -212,7 +212,7 @@
         </tr>
 
         <tr>
-          <td>svn.gnome.org username (if any):</td>
+          <td>git.gnome.org username (if any):</td>
           <td>
             <input type="text" name="cvsuser" size="20"
                    value="<?php if ($cvsuser) { echo $cvsuser; } ?>" />
