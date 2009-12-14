@@ -1,4 +1,4 @@
-SUBDIRS = history charter
+SUBDIRS = advisoryboard history charter
 
 urlpath = /about
  
