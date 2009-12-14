@@ -88,12 +88,12 @@
     <h2>Advisory Board</h2>
 
     <p>
-      The <a href"=/about/advisoryboard/">Advisory Board</a> is made up of
+      The <a href="/about/advisoryboard/">Advisory Board</a> is made up of
       organizations and companies that support GNOME. The Advisory Board has no
       decision-making authority but provides a vehicle for its members to
       communicate with the Board of Directors and help the Directors guide the
       overall direction of GNOME and the GNOME Foundation. Get more details
-      about the <a href"=/about/advisoryboard/">way the Advisory Board
+      about the <a href="/about/advisoryboard/">way the Advisory Board
       works</a>.
     </p>
 
@@ -122,6 +122,12 @@
       <li>Sugar Labs</li>
       <li>Sun Microsystems</li>
     </ul>
+
+    <p>
+      Each Advisory Board member has up to three representatives. An up-to-date
+      list of representatives is maintained on the <a
+      href="http://live.gnome.org/AdvisoryBoard">Advisory Board wiki page</a>.
+    </p>
 
     <h2>GNOME Foundation Membership</h2>
 
