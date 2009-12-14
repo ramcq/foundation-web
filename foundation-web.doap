@@ -12,9 +12,9 @@
 
   <maintainer>
     <foaf:Person>
-      <foaf:name>Jeff Waugh</foaf:name>
-      <foaf:mbox rdf:resource="mailto:jdub@perkypants.org" />
-      <gnome:userid>jdub</gnome:userid>
+      <foaf:name>Vincent Untz</foaf:name>
+      <foaf:mbox rdf:resource="mailto:vuntz@gnome.org" />
+      <gnome:userid>vuntz</gnome:userid>
     </foaf:Person>
   </maintainer>
 </Project>
