@@ -3,13 +3,11 @@ urlpath = /img/logos
 page_SCRIPTS =
 
 page_DATA = \
-	access.gif \
 	canonical.png \
 	debian.gif \
 	fluendo.png \
 	fsf.png \
 	google.png \
-	hp.gif \
 	ibm.png \
 	igalia.png \
 	intel.png \
