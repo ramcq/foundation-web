@@ -13,7 +13,7 @@ import vobject
 
 
 #### Configure these variables
-CANDIDATES_OPENED_DATE    = (2010, 5,  2)
+CANDIDATES_OPENED_DATE    = (2010, 5,  3)
 APPLICATIONS_CLOSED_DATE  = (2010, 5, 14)
 RENEWALS_CLOSED_DATE      = (2010, 5, 21) # Not used, renewals are incorporated into applications
 CANDIDATES_CLOSED_DATE    = (2010, 5, 23)
