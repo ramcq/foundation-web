@@ -15,7 +15,7 @@ import vobject
 #### Configure these variables
 CANDIDATES_OPENED_DATE    = (2010, 5,  2)
 APPLICATIONS_CLOSED_DATE  = (2010, 5, 14)
-RENEWALS_CLOSED_DATE      = (2010, 5, 21)
+RENEWALS_CLOSED_DATE      = (2010, 5, 21) # Not used, renewals are incorporated into applications
 CANDIDATES_CLOSED_DATE    = (2010, 5, 23)
 CANDIDATES_ANNOUNCED_DATE = (2010, 5, 26)
 VOTING_OPENED_DATE        = (2010, 5, 30)
@@ -265,7 +265,7 @@ if __name__ == "__main__":
         APPLICATIONS_CLOSED,
         CANDIDATES_CLOSED,
         CANDIDATES_ANNOUNCED,
-        RENEWALS_CLOSED,
+        #RENEWALS_CLOSED,
         VOTING_OPENED,
         VOTING_CLOSED,
         PRELIMINARY_RESULTS,

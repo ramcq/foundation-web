@@ -106,14 +106,19 @@
     <p><small>(all deadlines are 23:59 UTC)</small></p> 
     <ul>
       <li>
-        2010-05-14 (Friday): Last day to apply for membership (to be eligible
-        for these elections).
+        2010-05-14 (Friday): Last day to apply for membership, including 
+        renewal (to be eligible for these elections).
         <!-- FIXME: We should get rid of that, because we can not guarantee anybody to become a member in time, let alone become a member at all -->
       </li>
+      
+<!-- We do not do that in 2010, because it adds complexity      
       <li>
         2010-05-21 (Friday): Last day to apply for renewal of your 
         membership (to be eligible for these elections).
       </li>
+-->
+
+      
       <li>
         2010-05-23 (Sunday): Last day to announce candidacies, submit summary
         statements.
