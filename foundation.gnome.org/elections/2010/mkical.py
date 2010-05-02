@@ -4,8 +4,11 @@ This Python script creates a simple iCal file based on hardcoded events
 in this file.
 '''
 
+import calendar
 import datetime
 import logging
+import math
+import os
 import vobject
 
 
@@ -149,10 +152,112 @@ def create_ical(eventlist):
     return stream
 
 
+def wraptext(s, width):
+    '''Wraps a string @s at @width characters.
+    
+    >>> wraptext('fooo', 2)
+    ['fo','oo']
+    '''
+    l = len(s)
+    nr_frames = int(math.ceil(float(l)/width))
+    print nr_frames
+    frames = []
+    for i in xrange(nr_frames):
+        start, end = i*width, (i+1) * width
+        frames.append(s[start:end])
+        # One could (and prolly should) yield that
+    return frames
+
+def ordinal(n):
+    n = int(n)
+    if 10 <= n % 100 < 20:
+        return str(n) + 'th'
+    else:
+       return  str(n) + {1 : 'st', 2 : 'nd', 3 : 'rd'}.get(n % 10, "th")
+                       
+
+def cal_for_month(month, events, width=80, year=datetime.datetime.now().year):
+    '''Generates a textual calendar for the @month in @year.
+    It will return a string with the calendar on the left hand side and the
+    events on the right hand side.
+    @events shall be a list with tuples: timestamp, summary, description.
+    
+    Returns a string with the calendar
+    '''
+    log = logging.getLogger('cal_for_month')
+
+    cal = calendar.TextCalendar()
+    calstrings = cal.formatmonth(year, month, 3).splitlines()
+
+    for (timestamp, summary, description) in events:
+        log.debug('creating %s, %s', timestamp, summary)
+        year, month, day = timestamp.year, timestamp.month, timestamp.day
+        maxwidth = max([len(cs) for cs in calstrings])
+        rightwidth = 80 - maxwidth
+        for i, line in enumerate(calstrings):
+            needles =      (" %d " % day,
+                           " %d\n" % day)
+            replacement = "(%d)" % day
+            # Find the day so that we can highlight it and add a comment
+            day_in_week = False
+            for needle in needles:
+                if needle in line+"\n":
+                    # k, this looks a bit weird but we have that corner 
+                    # case with the day being at the end of the line 
+                    # which in turn will have been split off
+                    day_in_week = True
+                    break # Set the needle to the found one
+            if day_in_week == False: # Nothing found, try next week
+                log.debug('Day (%d) not found in %s', day, line)
+                continue
+            else:
+                log.debug('Day (%d) found in %s', day, line)
+                new_line = (line+"\n").replace(needle, replacement).rstrip()
+                new_line += "   %s (%s)" % (summary, ordinal(day))
+                # Replace in-place for two events in the same week
+                # FIXME: This has bugs :-( 
+                calstrings[i] = new_line
+                    
+    return os.linesep.join(calstrings)
+
+def create_textcal(eventlist):
+    '''Generates a multiline string containing a calendar with the 
+    events written on the side
+    The list shall contain elements with a tuple with a
+    (date, string, string) object, serving as date when the event takes place,
+    summary and description respectively.
+    '''
+    log = logging.getLogger('textcal')
+    log.debug('Generating from %s', eventlist)
+    months = set(map(lambda x: x[0].month, eventlist))
+    year = set(map(lambda x: x[0].year, eventlist)).pop()
+    
+    final_cal = []
+    for month in months:
+        events = filter(lambda x: x[0].month == month, eventlist)
+        log.debug('Events for %d: %s', month, events)
+        month_cal = cal_for_month(month, events, year=year)
+        final_cal.append(month_cal)
+        
+    return os.linesep.join(final_cal)
 
 if __name__ == "__main__":
+    from optparse import OptionParser
+    parser = OptionParser("usage: %prog [options]")
+    parser.add_option("-l", "--loglevel", dest="loglevel", help="Sets the loglevel to one of debug, info, warn, error, critical", 
+                      default=None)
+    parser.add_option("-i", "--ical",
+                      action="store_true", dest="ical", default=False,
+                      help="print iCal file to stdout")
+    parser.add_option("-t", "--textcal",
+                      action="store_true", dest="tcal", default=False,
+                      help="print textual calendar to stdout")
+    (options, args) = parser.parse_args()
 
-    logging.basicConfig( level=logging.CRITICAL )
+    loglevel = {'debug': logging.DEBUG, 'info': logging.INFO,
+                'warn': logging.WARN, 'error': logging.ERROR,
+                'critical': logging.CRITICAL}.get(options.loglevel, "warn")
+    logging.basicConfig( level=loglevel )
     log = logging.getLogger()
     
     eventlist = [
@@ -166,6 +271,13 @@ if __name__ == "__main__":
         PRELIMINARY_RESULTS,
         CHALLENGE_CLOSED,
     ]
-
-    ical = create_ical( eventlist )
-    print ical
+    
+    if not any([options.ical, options.tcal]):
+        parser.error("You want to select either ical or textcal output. See --help for details")
+    if options.ical:
+        ical = create_ical( eventlist )
+        print ical
+    if options.tcal:
+        tcal = create_textcal( eventlist )
+        print tcal
+    
