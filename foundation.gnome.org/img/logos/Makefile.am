@@ -4,6 +4,7 @@ page_SCRIPTS =
 
 page_DATA = \
 	canonical.png \
+	collabora.png \
 	debian.gif \
 	fluendo.png \
 	fsf.png \
