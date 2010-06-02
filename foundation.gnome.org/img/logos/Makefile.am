@@ -3,7 +3,7 @@ urlpath = /img/logos
 page_SCRIPTS =
 
 page_DATA = \
-	canonical.jpg \
+	canonical.png \
 	collabora.png \
 	debian.gif \
 	fluendo.png \
