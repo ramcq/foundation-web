@@ -11,7 +11,6 @@ page_DATA =						\
 	gnome-foundation-accountant-03.pdf		\
 	guadec-2004-financial-summary.pdf		\
 	gnome-foundation-fiscal-year-2007.pdf		\
-	GNOME-Donations.ods				\
 	GNOME2009-budget-with-actuals.ods
 
 
