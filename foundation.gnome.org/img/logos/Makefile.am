@@ -17,9 +17,9 @@ page_DATA = \
 	nokia.gif \
 	novell.gif \
 	olpc.gif \
+	oracle.jpg \
 	redhat.png \
 	sflc.gif \
-	sugarlabs.png \
-	sun.png
+	sugarlabs.png
 
 include $(top_srcdir)/rules.common
