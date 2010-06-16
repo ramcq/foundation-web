@@ -29,8 +29,9 @@
     <ul>
     <!-- Not yet
         <li>
-            <a href="http://mail.gnome.org/archives/foundation-announce/2010-May/msg00002.html">Election results announcement</a>
+            <a href="http://mail.gnome.org/archives/foundation-announce/2010-June/msg00003.html">Election results announcement</a>
         </li>
+    -->
 
         <li>
             <a href="../../vote/results.php?election_id=14">Detailed election results</a>
@@ -38,7 +39,6 @@
         <li>
             <a href="../../vote/votes.php?election_id=14">List of all votes</a>
         </li>
-    -->
         <li>
             <a href="candidates.html">List of candidates for Board of Directors</a>
         </li>
