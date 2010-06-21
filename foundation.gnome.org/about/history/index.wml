@@ -11,116 +11,45 @@
   <body>
     <h1>Previous GNOME Foundation Boards</h1>
 
-    <p>
-      The Board of Directors for Fall 2000 through Fall 2001 was:
-    </p>
-                                                                                                                                                             
     <ul>
-      <li>Bart Decrem</li>
-      <li>Jim Gettys</li>
-      <li>John Heard</li>
-      <li>Miguel de Icaza</li>
-      <li>Raph Levien</li>
-      <li>Dan Mueth</li>
-      <li>Havoc Pennington</li>
-      <li>Federico Mena Quintero</li>
-      <li>Maciej Stachowiak</li>
-      <li>Owen Taylor</li>
-      <li>Daniel Veillard</li>
+     <li><a href="#2008">January 2008 - June 2009</a></li>
+     <li><a href="#2007">Fall 2006 - Fall 2007</a></li>
+     <li><a href="#2006">Fall 2005 - Fall 2006</a></li>
+     <li><a href="#2005">Fall 2004 - Fall 2005</a></li>
+     <li><a href="#2004">Fall 2003 - Fall 2004</a></li>
+     <li><a href="#2003">Fall 2002 - Fall 2003</a></li>
+     <li><a href="#2002">Fall 2001 - Fall 2002</a></li>
+     <li><a href="#2001">Fall 2000 - Fall 2001</a></li>
     </ul>
 
-    <p>
-      The Board of Directors for Fall 2001 through Fall 2002 was:
-    </p>
-                                                                                                                                                             
-    <ul>
-      <li>Jonathan Blandford</li>
-      <li>Miguel de Icaza</li>
-      <li>Nat Friedman</li>
-      <li>Jim Gettys</li>
-      <li>Jody Goldberg</li>
-      <li>Telsa Gwynne</li>
-      <li>James Henstridge</li>
-      <li>George Lebl</li>
-      <li>Federico Mena-Quintero</li>
-      <li>Havoc Pennington</li>
-      <li>Daniel Veillard</li>
-    </ul>
+    <h2 name="2008">January 2008 - June 2009</h2>
 
     <p>
-      The Board of Directors for Fall 2002 through Fall 2003 was:
+      In September/October 2007, it was decided that the next board (and only
+      the next one) will serve for 18 months, in order to align the start of
+      the new board with GUADEC. Read the <a
+      href="http://mail.gnome.org/archives/foundation-announce/2007-October/msg00002.html">announcement</a>.
+    </p>
+
+    <p>
+      The Board of Directors from January 2008 to June 2009 was:
     </p>
 
     <ul>
-      <li>Jonathan Blandford</li>
-      <li>Miguel de Icaza</li>
-      <li>Glynn Foster</li>
-      <li>Nat Friedman</li>
-      <li>Jim Gettys</li>
-      <li>Jody Goldberg</li>
-      <li>Bill Haneman</li>
-      <li>James Henstridge</li>
-      <li>Daniel Veillard</li>
-      <li>Luis Villa</li>
-      <li>Jeff Waugh</li>
-    </ul>
-
-    <p>
-      The Board of Directors for Fall 2003 through Fall 2004 was:
-    </p>
-
-    <ul>
-      <li>Jonathan Blandford</li>
-      <li>Dave Camp</li>
-      <li>Glynn Foster</li>
-      <li>Nat Friedman</li>
-      <li>Jody Goldberg</li>
-      <li>Bill Haneman</li>
-      <li>Leslie Proctors</li>
-      <li>Owen Taylor</li>
-      <li>Malcolm Tredinnick</li>
-      <li>Luis Villa</li>
-      <li>Jeff Waugh</li>
-    </ul>
-
-    <p>
-      The Board of Directors for Fall 2004 through Fall 2005 was:
-    </p>
-
-    <ul>
-      <li>Jonathan Blandford</li>
-      <li>Murray Cumming</li>
-      <li>Jody Goldberg</li>
-      <li>Miguel de Icaza</li>
-      <li>Federico Mena-Quintera</li>
-      <li>David Neary</li>
-      <li>Tim Ney</li>
-      <li>Christian Schaller</li>
-      <li>Owen Taylor (Chairperson)</li>
-      <li>Daniel Veillard</li>
-      <li>Luis Villa</li>
-    </ul>
-
-    <p>
-      The Board of Directors for Fall 2005 through Fall 2006 was:
-    </p>
-
-    <ul>
-      <li>Jonathan Blandford</li>
-      <li>Quim Gil *</li>
-      <li>Federico Mena-Quintera</li>
-      <li>David Neary</li>
-      <li>Anne Østergaard</li>
+      <li>Brian Cameron</li>
+      <li>Diego Escalante Urrelo *</li>
+      <li>Behdad Esfahbod</li>
+      <li>John Palmieri</li>
+      <li>Lucas Rocha</li>
       <li>Vincent Untz</li>
-      <li>Jeff Waugh</li>
+      <li>Luis Villa</li>
     </ul>
 
     <p>
-      <em>* Luis Villa was elected, but resigned in June 2006. Quim Gil has
-      been nominated to replace Luis Villa as director. See the <a
-      href="http://mail.gnome.org/archives/foundation-announce/2006-June/msg00000.html">announce</a>
-      for more informations.</em>
+      <em>* Jeff Waugh was elected, but resigned in December 2008. Diego Escalante Urrelo has been nominated to replace Jeff Waugh as director. See the <a href="http://mail.gnome.org/archives/foundation-list/2008-December/msg00014.html">announce</a> for more information.</em>
     </p>
+
+    <h2 name="2007">Fall 2006 - Fall 2007</h2>
 
     <p>
       The Board of Directors for Fall 2006 through Fall 2007 was:
@@ -143,23 +72,134 @@
       for more information.</em>
     </p>
 
+    <h2 name="2006">Fall 2005 - Fall 2006</h2>
+
     <p>
-      The Board of Directors from January 2008 to June 2009 was:
+      In October/November 2005, a vote was held to reduce the number of board
+      directors from 11 to 7. Read the <a
+      href="http://mail.gnome.org/archives/foundation-announce/2005-November/msg00009.html">announcement</a>.
+    </p>
+
+    <p>
+      The Board of Directors for Fall 2005 through Fall 2006 was:
     </p>
 
     <ul>
-      <li>Brian Cameron</li>
-      <li>Diego Escalante Urrelo *</li>
-      <li>Behdad Esfahbod</li>
-      <li>John Palmieri</li>
-      <li>Lucas Rocha</li>
+      <li>Jonathan Blandford</li>
+      <li>Quim Gil *</li>
+      <li>Federico Mena-Quintera</li>
+      <li>David Neary</li>
+      <li>Anne Østergaard</li>
       <li>Vincent Untz</li>
-      <li>Luis Villa</li>
+      <li>Jeff Waugh</li>
     </ul>
 
     <p>
-      <em>* Jeff Waugh was elected, but resigned in December 2008. Diego Escalante Urrelo has been nominated to replace Jeff Waugh as director. See the <a href="http://mail.gnome.org/archives/foundation-list/2008-December/msg00014.html">announce</a> for more information.</em>
+      <em>* Luis Villa was elected, but resigned in June 2006. Quim Gil has
+      been nominated to replace Luis Villa as director. See the <a
+      href="http://mail.gnome.org/archives/foundation-announce/2006-June/msg00000.html">announce</a>
+      for more informations.</em>
     </p>
+
+    <h2 name="2005">Fall 2004 - Fall 2005</h2>
+
+    <p>
+      The Board of Directors for Fall 2004 through Fall 2005 was:
+    </p>
+
+    <ul>
+      <li>Jonathan Blandford</li>
+      <li>Murray Cumming</li>
+      <li>Jody Goldberg</li>
+      <li>Miguel de Icaza</li>
+      <li>Federico Mena-Quintera</li>
+      <li>David Neary</li>
+      <li>Tim Ney</li>
+      <li>Christian Schaller</li>
+      <li>Owen Taylor (Chairperson)</li>
+      <li>Daniel Veillard</li>
+      <li>Luis Villa</li>
+    </ul>
+
+    <h2 name="2004">Fall 2003 - Fall 2004</h2>
+
+    <p>
+      The Board of Directors for Fall 2003 through Fall 2004 was:
+    </p>
+
+    <ul>
+      <li>Jonathan Blandford</li>
+      <li>Dave Camp</li>
+      <li>Glynn Foster</li>
+      <li>Nat Friedman</li>
+      <li>Jody Goldberg</li>
+      <li>Bill Haneman</li>
+      <li>Leslie Proctors</li>
+      <li>Owen Taylor</li>
+      <li>Malcolm Tredinnick</li>
+      <li>Luis Villa</li>
+      <li>Jeff Waugh</li>
+    </ul>
+
+    <h2 name="2003">Fall 2002 - Fall 2003</h2>
+
+    <p>
+      The Board of Directors for Fall 2002 through Fall 2003 was:
+    </p>
+
+    <ul>
+      <li>Jonathan Blandford</li>
+      <li>Miguel de Icaza</li>
+      <li>Glynn Foster</li>
+      <li>Nat Friedman</li>
+      <li>Jim Gettys</li>
+      <li>Jody Goldberg</li>
+      <li>Bill Haneman</li>
+      <li>James Henstridge</li>
+      <li>Daniel Veillard</li>
+      <li>Luis Villa</li>
+      <li>Jeff Waugh</li>
+    </ul>
+
+    <h2 name="2002">Fall 2001 - Fall 2002</h2>
+
+    <p>
+      The Board of Directors for Fall 2001 through Fall 2002 was:
+    </p>
+
+    <ul>
+      <li>Jonathan Blandford</li>
+      <li>Miguel de Icaza</li>
+      <li>Nat Friedman</li>
+      <li>Jim Gettys</li>
+      <li>Jody Goldberg</li>
+      <li>Telsa Gwynne</li>
+      <li>James Henstridge</li>
+      <li>George Lebl</li>
+      <li>Federico Mena-Quintero</li>
+      <li>Havoc Pennington</li>
+      <li>Daniel Veillard</li>
+    </ul>
+
+    <h2 name="2001">Fall 2000 - Fall 2001</h2>
+
+    <p>
+      The Board of Directors for Fall 2000 through Fall 2001 was:
+    </p>
+
+    <ul>
+      <li>Bart Decrem</li>
+      <li>Jim Gettys</li>
+      <li>John Heard</li>
+      <li>Miguel de Icaza</li>
+      <li>Raph Levien</li>
+      <li>Dan Mueth</li>
+      <li>Havoc Pennington</li>
+      <li>Federico Mena Quintero</li>
+      <li>Maciej Stachowiak</li>
+      <li>Owen Taylor</li>
+      <li>Daniel Veillard</li>
+    </ul>
 
   </body>
 </html>
