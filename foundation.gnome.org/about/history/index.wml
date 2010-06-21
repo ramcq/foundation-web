@@ -22,7 +22,7 @@
      <li><a href="#2001">Fall 2000 - Fall 2001</a></li>
     </ul>
 
-    <h2 name="2008">January 2008 - June 2009</h2>
+    <h2 id="2008">January 2008 - June 2009</h2>
 
     <p>
       In September/October 2007, it was decided that the next board (and only
@@ -49,7 +49,7 @@
       <em>* Jeff Waugh was elected, but resigned in December 2008. Diego Escalante Urrelo has been nominated to replace Jeff Waugh as director. See the <a href="http://mail.gnome.org/archives/foundation-list/2008-December/msg00014.html">announce</a> for more information.</em>
     </p>
 
-    <h2 name="2007">Fall 2006 - Fall 2007</h2>
+    <h2 id="2007">Fall 2006 - Fall 2007</h2>
 
     <p>
       The Board of Directors for Fall 2006 through Fall 2007 was:
@@ -72,7 +72,7 @@
       for more information.</em>
     </p>
 
-    <h2 name="2006">Fall 2005 - Fall 2006</h2>
+    <h2 id="2006">Fall 2005 - Fall 2006</h2>
 
     <p>
       In October/November 2005, a vote was held to reduce the number of board
@@ -101,7 +101,7 @@
       for more informations.</em>
     </p>
 
-    <h2 name="2005">Fall 2004 - Fall 2005</h2>
+    <h2 id="2005">Fall 2004 - Fall 2005</h2>
 
     <p>
       The Board of Directors for Fall 2004 through Fall 2005 was:
@@ -121,7 +121,7 @@
       <li>Luis Villa</li>
     </ul>
 
-    <h2 name="2004">Fall 2003 - Fall 2004</h2>
+    <h2 id="2004">Fall 2003 - Fall 2004</h2>
 
     <p>
       The Board of Directors for Fall 2003 through Fall 2004 was:
@@ -141,7 +141,7 @@
       <li>Jeff Waugh</li>
     </ul>
 
-    <h2 name="2003">Fall 2002 - Fall 2003</h2>
+    <h2 id="2003">Fall 2002 - Fall 2003</h2>
 
     <p>
       The Board of Directors for Fall 2002 through Fall 2003 was:
@@ -161,7 +161,7 @@
       <li>Jeff Waugh</li>
     </ul>
 
-    <h2 name="2002">Fall 2001 - Fall 2002</h2>
+    <h2 id="2002">Fall 2001 - Fall 2002</h2>
 
     <p>
       The Board of Directors for Fall 2001 through Fall 2002 was:
@@ -181,7 +181,7 @@
       <li>Daniel Veillard</li>
     </ul>
 
-    <h2 name="2001">Fall 2000 - Fall 2001</h2>
+    <h2 id="2001">Fall 2000 - Fall 2001</h2>
 
     <p>
       The Board of Directors for Fall 2000 through Fall 2001 was:
