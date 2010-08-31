@@ -12,6 +12,7 @@ page_DATA = \
 	ibm.png \
 	igalia.png \
 	intel.png \
+	limo.png \
 	motorola.png \
 	mozilla-foundation.png \
 	nokia.gif \
