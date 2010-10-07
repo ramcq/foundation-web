@@ -3,14 +3,16 @@
 <html>
  
   <head>
-    <title>GNOME Foundation Elections</title>
+    <title>GNOME Foundation Elections and Referenda</title>
     <meta name="cvsdate" content="$Date$" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   </head>
 
   <body>
 
-    <h1>GNOME Foundation Elections</h1>
+    <h1>GNOME Foundation Elections and Referenda</h1>
+
+    <h2>Election Materials</h2>
 
     <p>
       The GNOME Foundation Membership elects the Board of Directors each
@@ -19,8 +21,6 @@
       Committee, which can be reached at <a
       href="mailto:elections&#64;gnome&#46;org">elections&#64;gnome&#46;org</a>.
     </p>
-
-    <h2>Election Materials</h2>
 
     <ul>
       <li><a href="2010/">Material from the Spring 2010 Elections</a></li>
@@ -35,5 +35,21 @@
       <li><a href="2000/">Material from the Fall 2000 Elections</a></li>
     </ul>
 
+
+    <h2>Referenda Materials</h2>
+
+    <p>
+      Any member of the GNOME Foundation can suggest a referendum. To be
+      accepted, a request for a referendum must be endorsed by 10% of the
+      Membership. The overall referendum process is overseen by the
+      Membership and Elections Committee, which can be reached at <a
+      href="mailto:elections&#64;gnome&#46;org">elections&#64;gnome&#46;org</a>.
+    </p>
+
+    <ul>
+      <li><a href="../vote/2005-10/index.html">Material from the Office Term Referendum</a></li>
+      <li><a href="../vote/results.php?election_id=1">Material from the Reducing Board Size Referendum</a></li><!-- This is ugly, ideally we'd have an information page as with the other elections and referenda -->
+      <li><a href="../vote/2004-10/index.html">Material from the Anonymous Voting Referendum</a></li>
+    </ul>
   </body>
 </html>
