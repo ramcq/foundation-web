@@ -39,6 +39,20 @@
 
     <h2>News</h2>
     <ul>
+    
+      <li>
+        <strong>GNOME Foundation Annual Report 2009 released</strong>
+        <small>(13/12/2010)</small>
+        <blockquote>
+          The GNOME Foundation's fourth annual report is available for
+          <a href="../reports/gnome-annual-report-2009.pdf">download (30 MB, PDF)
+          </a> now.<br/> The annual report is a summary of GNOME community 
+          activities in 2009. It includes a review of the year, accounts of 
+          various community activities and events around the world, an interview
+          with the GNOME Release team, and GNOME Foundation development 
+          actions during the year.
+        </blockquote>
+      </li>
 
       <li>
         <strong>GNOME Project Receives $15,000 for Accessibility Work</strong>
@@ -75,22 +89,6 @@
 	  PiTiVi, Totem and Epiphany. Read the <a
 	  href="http://www.gnome.org/press/releases/2010-05-collabora-joins.html">press
 	  release</a>.
-        </blockquote>
-      </li>
-
-      <li>
-        <strong>GNOME Quarterly Report Q1 2010 released</strong>
-        <small>(23/04/2010)</small>
-        <blockquote>
-	  Big happenings in Q1! The GNOME Foundation raised enough money to
-	  hire a system administrator! We have several new board members. The
-	  accessibility team is looking for a new team lead. GNOME 2.30 - the
-	  last GNOME 2 release - went out. We are planning our first official
-	  GNOME training for GUADEC. There were several amazing hackfests in
-	  areas like usability and accessibility with more being planned. <a
-	  href="../reports/gnome-report-2010-Q1.html">Read about all this and
-	  more!</a> (<a href="../reports/gnome-report-2010-Q1.pdf">PDF
-	  version</a>)
         </blockquote>
       </li>
 
