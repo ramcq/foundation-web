@@ -19,8 +19,11 @@
   $name = $_POST['name'];
   $email = $_POST['email'];
   $summary = $_POST['summary'];
+  $details = $_POST['details'];
   $contacts = $_POST['contacts'];
+  $pointers = $_POST['pointers'];
   $comments = $_POST['comments'];
+  $ircnick = $_POST['ircnick'];
   $cvsuser = $_POST['cvsuser'];
   $previousmember = $_POST['previousmember'];
   $spam = $_POST['spam'];
@@ -30,7 +33,9 @@
       $name = trim(stripslashes($name));
       $email = trim(stripslashes($email));
       $summary = trim(stripslashes($summary));
+      $details = trim(stripslashes($details));
       $contacts = trim(stripslashes($contacts));
+      $pointers = trim(stripslashes($pointers));
       $comments = trim(stripslashes($comments));
 
       if (!$name || $name == "") {
@@ -48,9 +53,13 @@
           $bad_elements[] = "summary";
           $errors[] = "Please enter a list of areas of GNOME to which you have made a non-trivial contribution.";
         }
-        if ((!$contacts || $contacts == "") {
+        if (!$details || $details == "") {
+          $bad_elements[] = "details";
+          $errors[] = "Please enter a more detailed description of your contributions.";
+        }
+        if ((!$contacts || $contacts == "") && $pointers == "") {
           $bad_elements[] = "contacts";
-          $errors[] = "Please enter a list of individuals with their e-mails who can confirm your contributions or indicate us how the Membership Committee can verify your contributions.";
+          $errors[] = "Please enter a list of individuals with their e-mails who can confirm your contributions or indicate us how the membership committee can verify your contributions.";
         }
         if ($contacts && $contacts != "" && (strpos ($contacts, '@') === FALSE)) { 
           $bad_elements[] = "contacts";
@@ -68,6 +77,7 @@
         $formmail = "Contact Information:\n--------------------\n";
         $formmail .= "Name: " . $name . "\n";
         $formmail .= "E-mail: " . $obfuscated_email . "\n";
+        $formmail .= "irc.gnome.org nickname (if any): " . $ircnick . "\n";
         $formmail .= "git.gnome.org username (if any): " . $cvsuser . "\n";
         $formmail .= "\n";
         $formmail .= "Previous GNOME Foundation member: ";
@@ -81,14 +91,18 @@
         $formmail .= "\n";
         $formmail .= "Summary:\n" . $summary . "\n";
         $formmail .= "\n";
+        $formmail .= "Detailed description:\n" . $details . "\n";
+        $formmail .= "\n";
         $formmail .= "Contacts:\n" . $obfuscated_contacts . "\n";
+        $formmail .= "\n";
+        $formmail .= "Pointers:\n" . $pointers . "\n";
         $formmail .= "\n";
         $formmail .= "Other comments:\n---------------\n";
         $formmail .= $comments . "\n";
         $formmail .= "\n";
         $formmail .= "[Application received at " . date("D M j G:i:s Y") . " (Eastern time)]\n";
         $formmail .= "\n";
-        $formmail .= "If you have any questions, you can contact the Membership Committee by\nreplying to this mail. Please note that it usually takes up to a week for an application to be fully processed.";
+        $formmail .= "If you have any questions, you can contact the membership committee by\nreplying to this mail. Please note that the delay for your application\nto be processed can be up to one month.";
 
         $headers = "From: GNOME Foundation Membership Committee Script <membership-committee@gnome.org>\nCc: $email\n";
 
@@ -106,9 +120,9 @@
         print ("
           <p>
             Thank you for your submission. It has been forwarded to the
-            Membership Committee, which will inform you when it has been
-            processed. The Membership Committee tries to process applications
-            within a week or two after their reception.
+            membership committee, which will inform you when it has been
+            processed. The membership committee tries to process applications
+            within a month after their reception.
           </p>
           <p>
             As a confirmation, you should receive your application by mail too.
@@ -145,7 +159,7 @@
       you can see the status of your application at <a 
       href="http://www.gnome.org/rt3-stats/membership.html">the stats page</a>.
       If you have any questions regarding the application process, please feel
-      free to e-mail the Committee at <a
+      free to e-mail the committee at <a
       href="mailto:membership-committee&#64;gnome&#46;org">membership-committee&#64;gnome&#46;org</a>.
     </p>
 
@@ -159,7 +173,6 @@
       ?>
 
     <h3>Note about privacy</h3>
-
     <p>
       The GNOME Foundation tries to be as transparent as possible. This
       includes making it easy to find out who is a member of the Foundation
@@ -171,9 +184,6 @@
     </p>
 
     <form action="<?php echo $PHP_SELF; ?>" method="POST">
-
-      <h2>Application Form</h2>
-      
       <h3>Contact Information</h3>
 
       <table summary="Membership form">
@@ -186,10 +196,18 @@
         </tr>
 
         <tr>
-          <td>Permanent E-mail address:</td>
+          <td>E-mail address:</td>
           <td>
             <input type="text" name="email" size="40"
                    value="<?php if ($email) { echo $email; } ?>" />
+          </td>
+        </tr>
+
+        <tr>
+          <td>irc.gnome.org nickname (if any):</td>
+          <td>
+            <input type="text" name="ircnick" size="20"
+                   value="<?php if ($ircnick) { echo $ircnick; } ?>" />
           </td>
         </tr>
 
@@ -200,17 +218,11 @@
                    value="<?php if ($cvsuser) { echo $cvsuser; } ?>" />
           </td>
         </tr>
-      </table>
 
-      <h3>Renew Option</h3>
+        <tr>
+          <td colspan="2">&nbsp;</td>
+        </tr>
 
-      <p>
-        If you are an existing Foundation member and would like to renew your application,
-        check out the <b>"Previous GNOME Foundation member"</b> flag down here.
-        Please also remember to fill out the full form even if you are renewing your application.
-        (just a few details are usually fine, no need to be verbose)
-      </p>
-     <table>
         <tr>
           <td colspan="2">
           <input type="checkbox" name="previousmember"
@@ -218,48 +230,71 @@
             Previous GNOME Foundation member
           </td>
         </tr>
-     </table>
+      </table>
 
       <h3>GNOME Contributions</h3>
 
       <p>
-        Please provide a detailed description of all your past and present 
-        contributions to help the Membership Committee determine your
-        eligibility to join the Foundation. Remember that any contribution made
-        for the GNOME Foundation is valid, so either if you package GNOME software
-        for a certain distribution (like Debian, Ubuntu or Fedora), translate, develop,
-        write documentation or simply sponsor GNOME through talks and conferences, 
-        you will be definitely welcome to join the GNOME Foundation.
+        Membership in the GNOME Foundation requires that the candidate has
+        contributed to a non-trivial improvement in the GNOME Project. Please
+        use the following sections to explain how you have contributed to the
+        project, providing enough detail to allow the committee to verify your
+        application.
+      </p>
+
+      <p>
+        Please provide a short list of areas of GNOME to which you have made a
+        non-trivial contribution (for entry into the public membership list).
+        For example, "<i>Documentation, gnomecal, Debian packaging.</i>":
       </p>
 
       <textarea name="summary" rows="3" cols="72"><?php if ($summary) { echo $summary; } ?></textarea>
 
-      <h3>Vouchers / Contacts Informations</h3>
+      <p>
+        Please provide a more detailed description of your contributions to
+        help the membership committee determine your eligibility. In general,
+        anything listed above should be explained here, and additional
+        contributions can be included. For example: "<i>Wrote a chapter "How to
+        Use the GNOME Calendaring System" for the GNOME Users Guide. Several
+        patches for gnomecal related to color support. Packaged the 1.4 release
+        for Debian.</i>":
+      </p>
+
+      <textarea name="details" rows="10" cols="72"><?php if ($details) { echo $details; } ?></textarea>
 
       <p>
-        Please list at least <b>two contacts</b> (project maintainers or most of all
-        existing Foundation members) who can confirm your contributions or indicate to
-        the Membership Committee the best way to verify your contributions. You should provide their
-        name, a valid e-mail address to contact them, and a brief description of their role as 
-        a reference. <b>Remember that two contacts are mandatory for an application to be accepted.</b>
+        Please list individuals (frequently, but not necessarily, project
+        maintainers and foundation members) who can help the membership 
+	committee determine your eligibility. You should provide their 
+	name, e-mail address, and a brief description of their role as a 
+	reference. To continue the earlier example: "<i>Dan Mueth 
+	(d-mueth&#64;uchicago&#46;edu) (GDP coordinator); Russell Steinthal 
+	(rms39&#64;columbia&#46;edu) (gnome-pim maintainer)</i>".<br />
+        <b>Beware that applications without contacts take relatively 
+	longer to process.</b>
       </p>
 
       <textarea name="contacts" rows="5" cols="72"><?php if ($contacts) { echo $contacts; } ?></textarea>
-
+      <p>
+      If there's nobody you can think of, please list pointers to your contributions here:
+      If there is nobody you can think of for contacts, feel free to 
+      suggest another way for the membership committee to verify your
+      contributions clearly, such as a pointer to a project ChangeLog, etc.
+      For example: "<i>packaging logs at http://www.debian.org/packages/gnome/</i>"
+      </p>
+	<textarea name="pointers" rows="5" cols="72"><?php if ($pointers) { echo $pointers; } ?></textarea>
 
       <h3>Other Comments</h3>
 
       <p>
         Please feel free to include any additional information which you
-        believe the Membership Committee should consider while reviewing your
+        believe the membership committee should consider while reviewing your
         application:
       </p>
 
       <p>
       <textarea name="comments" rows="10" cols="72"><?php if ($comments) { echo $comments; } ?></textarea>
       </p>
-
-      <h3>Anti-spam Measures</h3>
 
       <table summary="Antispam form">
         <tr>
