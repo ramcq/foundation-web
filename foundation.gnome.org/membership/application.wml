@@ -48,7 +48,7 @@
           $bad_elements[] = "summary";
           $errors[] = "Please enter a list of areas of GNOME to which you have made a non-trivial contribution.";
         }
-        if ((!$contacts || $contacts == "") {
+        if (!$contacts || $contacts == "") {
           $bad_elements[] = "contacts";
           $errors[] = "Please enter a list of individuals with their e-mails who can confirm your contributions or indicate us how the Membership Committee can verify your contributions.";
         }
