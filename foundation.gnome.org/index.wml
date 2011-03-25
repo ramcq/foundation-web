@@ -39,6 +39,20 @@
 
     <h2>News</h2>
     <ul>
+
+      <li>
+        <strong>GNOME Quarterly Report Q4 2010 released</strong>
+        <small>(10/09/2010)</small>
+        <blockquote>
+	  The fourth quarter of 2010 saw the GNOME Foundation launch the Women's
+	  Outreach Program.  Seven women were selected as interns working on a number of 
+	  different GNOME projects.  Work continued towards GNOME 3.0 and the GNOME
+	  Foundation welcomed eleven new members.  <a
+	  href="../reports/gnome-report-2010-Q4.html">Read about all this and
+	  more!</a>
+        </blockquote>
+      </li>
+    
     
       <li>
         <strong>GNOME Quarterly Report Q3 2010 released</strong>
@@ -79,18 +93,6 @@
         </blockquote>
       </li>
 
-      <li>
-        <strong>GNOME Quarterly Report Q2 2010 released</strong>
-        <small>(10/09/2010)</small>
-        <blockquote>
-	  The second quarter of 2010 was a big one for the GNOME Foundation. We
-	  elected our new GNOME Board of Directors, raised enough money to hire
-	  a system administrator and held numerous successful events while
-	  planning for GUADEC, our annual get together! <a
-	  href="../reports/gnome-report-2010-Q2.html">Read about all this and
-	  more!</a>
-        </blockquote>
-      </li>
 
     </ul>
 
