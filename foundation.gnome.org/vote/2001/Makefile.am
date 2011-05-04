@@ -1,11 +1,10 @@
 SUBDIRS =
 
-urlpath = /elections/2002
+urlpath = /vote/2001
  
 page_SCRIPTS = \
 	index.html \
 	candidates.html \
-	preliminary-results.html \
 	verify.html \
 	voters.html \
 	rules.html

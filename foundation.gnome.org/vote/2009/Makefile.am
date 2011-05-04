@@ -1,13 +1,14 @@
 SUBDIRS =
 
-urlpath = /elections/2006
+urlpath = /vote/2009
  
 page_SCRIPTS = \
 	index.html \
-	rules.html \
-	candidates.html
+	candidates.html\
+	rules.html 
 
 page_DATA = \
 	timeline.ics
+	mkical.py
 
 include $(top_srcdir)/rules.common
