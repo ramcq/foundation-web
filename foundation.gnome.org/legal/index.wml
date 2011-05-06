@@ -48,12 +48,12 @@
 
 	<p>The GNOME Foundation thanks <a href="http://www.wsgr.com/">Wilson Sonsini Goodrich &amp; Rosati</a> and the <a href="http://www.softwarefreedom.org/">Software Freedom Law Center</a> for their ongoing service as pro bono counsels to the Foundation.</p>
 
+   <h2><a name="ein" />Employer Identification Number / Federal Tax Identification Number</h2>
+
+	<p>The Employer Identification Number (EIN) of the GNOME Foundation, also known as Federal Tax Identification Number, is 043572618.</p>
+
 	<!-- FIXME: need to put fonts/ up here, plus the licensing and copyright
 	info once it's ready -->
-
-   <h2><a name="ein" />EIN</h2>
-
-	<p>The GNOME Foundation's EIN is 043572618.</p>
 
   </body>
 </html>
