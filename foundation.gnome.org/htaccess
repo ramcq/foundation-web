@@ -55,7 +55,7 @@ Redirect /elections/2002/preliminary_results.html       http://foundation.gnome.
 RewriteRule elections/200./overview.html	http://foundation.gnome.org/vote/overview.html [R]
 
 # Due to a mistake, the URL was announced incorrectly
-Redirect /elections/2011/candidates.html			 http://foundation.gnome.org/vote/2011/candidates.htm
+Redirect /elections/2011/candidates.html			 http://foundation.gnome.org/vote/2011/candidates.html
 
 # Move of the press releases
 Redirect /press.html			http://www.gnome.org/press/
