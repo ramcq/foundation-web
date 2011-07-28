@@ -17,6 +17,7 @@ page_DATA =						\
 	gnome-foundation-budget-2010-summary.pdf \
 	gnome-foundation-budget-2010.ods \
 	gnome-foundation-budget-2011-may.ods \
+	gnome-foundation-budget-2011-june.ods \
 	gnome-foundation-budget-2011-summary.pdf \
 	gnome-foundation-budget-2011.ods \
 	gnome-foundation-fiscal-year-2004-balance-summary-draft.pdf \
