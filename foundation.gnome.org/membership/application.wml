@@ -234,7 +234,7 @@
 
       <textarea name="summary" rows="3" cols="72"><?php if ($summary) { echo $summary; } ?></textarea>
 
-      <h3>Vouchers / Contacts Informations</h3>
+      <h3>Contacts Informations</h3>
 
       <p>
         Please list at least <b>two contacts</b> (project maintainers or most of all
