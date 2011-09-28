@@ -20,6 +20,7 @@ page_DATA = \
 	gnome-annual-report-2009.pdf	\
 	gnome-report-2010-Q3.html \
 	gnome-report-2010-Q4.html \
+	gnome-report-2011-Q1.html \
 	gnome-report-2011-Q1.html
 
 include $(top_srcdir)/rules.common
