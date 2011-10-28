@@ -16,11 +16,11 @@ page_DATA = \
 	motorola.png \
 	mozilla-foundation.png \
 	nokia.gif \
-	novell.gif \
 	olpc.gif \
 	oracle.jpg \
 	redhat.png \
 	sflc.gif \
-	sugarlabs.png
+	sugarlabs.png \
+	suse.png
 
 include $(top_srcdir)/rules.common
