@@ -1,22 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html>
-
-  <head>
-    <title>GNOME Foundation Membership List</title>
-    <meta name="cvsdate" content="$Date$" />
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-  </head>
-
-  <body>
-
-    <h1>GNOME Foundation Membership List</h1>
-
-    <p>
-      Send comments, questions, and updates to <a
-      href="mailto:membership-committee&#64;gnome&#46;org">membership-committee&#64;gnome&#46;org</a>.
-    </p>
-
 <?php
+
 $error = null;
 
 function get_members_from_sql () {
@@ -70,6 +53,45 @@ function get_members_from_sql () {
 }
 
 $members = get_members_from_sql ();
+
+
+if (isset ($_GET['format'])) {
+  $format = $_GET['format'];
+} else {
+  $format = 'html';
+}
+
+
+if ($format == 'json') {
+  if ($members === FALSE) {
+    echo json_encode (array ('error' => $error));
+  } else {
+    echo json_encode ($members);
+    exit;
+  }
+}
+
+
+?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+  <head>
+    <title>GNOME Foundation Membership List</title>
+    <meta name="cvsdate" content="$Date$" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  </head>
+
+  <body>
+
+    <h1>GNOME Foundation Membership List</h1>
+
+    <p>
+      Send comments, questions, and updates to <a
+      href="mailto:membership-committee&#64;gnome&#46;org">membership-committee&#64;gnome&#46;org</a>.
+    </p>
+    
+<?php
 
 if ($members === FALSE) {
   echo "<p>Error: ".$error.".</p>\n";
