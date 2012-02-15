@@ -234,7 +234,7 @@ if __name__ == "__main__":
 
     loglevel = {'debug': logging.DEBUG, 'info': logging.INFO,
                 'warn': logging.WARN, 'error': logging.ERROR,
-                'critical': logging.CRITICAL}.get(options.loglevel, "warn")
+                'critical': logging.CRITICAL}.get(options.loglevel, logging.WARN)
     logging.basicConfig( level=loglevel )
     log = logging.getLogger()
     
