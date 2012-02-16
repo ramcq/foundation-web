@@ -49,9 +49,8 @@ Redirect /elections/2001-vote-archive.diff	http://vote.gnome.org/2001/vote-archi
 Redirect /elections/list-addresses.py	http://vote.gnome.org/2001/list-addresses.py
 Redirect /elections/verify.html		http://vote.gnome.org/2001/verify.html
 Redirect /elections/vote-counter.py	http://vote.gnome.org/2001/vote-counter.py
-Redirect /overview.html			http://vote.gnome.org/overview.html
 Redirect /overview_2000.html		http://vote.gnome.org/overview.html
-Redirect /elections/2002/preliminary_results.html       http://vote.gnome.org2002/preliminary-results.html
+Redirect /elections/2002/preliminary_results.html       http://vote.gnome.org/2002/preliminary-results.html
 RewriteRule elections/200./overview.html	http://vote.gnome.org/overview.html [R]
 
 # Due to a mistake, the URL was announced incorrectly
