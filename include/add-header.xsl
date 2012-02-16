@@ -40,23 +40,6 @@
 	<xsl:copy-of select="@*" />
 	<xsl:apply-templates select="node()" />
       </div>
-      <div id="sidebar">
-	<p class="section">Foundation</p>
-	<ul>
-	  <li><a href="{$root}/about/">About the Foundation</a></li>
-	  <li><a href="http://blogs.gnome.org/foundation/">Blog</a></li>
-	  <li><a href="{$root}/reports/">Reports</a></li>
-	  <li><a href="{$root}/membership/">Membership</a></li>
-	  <li><a href="{$root}/vote/">Elections and Referenda</a></li>
-	  <li><a href="{$root}/legal/">Legal</a></li>
-	  <li><a href="{$root}/finance/">Finance</a></li>
-	  <li><a href="{$root}/contact/">Contact</a></li>
-        </ul>
-        <ul>
-	  <li><a href="http://www.gnome.org/press/">Press</a></li>
-	  <li><a href="http://www.gnome.org/friends/">Donate to GNOME</a></li>
-	</ul>
-      </div>
 
       <div id="hdr">
 	<div id="logo"><a href="{$root}/"><img src="http://www-old.gnome.org/img/spacer" alt="Home" /></a></div>
@@ -71,19 +54,6 @@
 	  <a href="http://foundation.gnome.org/"><b>Foundation</b></a> &middot;
 	  <a href="http://www.gnome.org/contact/">Contact</a>
 	</div>
-      </div>
-
-      <div id="copyright">
-	Copyright &copy; 2005-<xsl:value-of select="date:year()" />,
-	<a href="http://www.gnome.org/">The GNOME Project</a>.<br />
-        <!-- disabling output escaping in order to leave the email
-	     addresses obfuscated -->
-        <xsl:text disable-output-escaping="yes"><![CDATA[
-	Maintained by the GNOME Foundation <a href="mailto:board-list&#64;gnome&#46;org">Board of Directors</a> and <a href="mailto:membership-committee&#64;gnome&#46;org">Membership Committee</a>.
-        ]]></xsl:text><br />
-	<a href="http://validator.w3.org/check/referer">Optimised</a> for
-	<a href="http://www.w3.org/">standards</a>.
-	Hosted by <a href="http://www.redhat.com/">Red Hat</a>.
       </div>
 
       <!-- Piwik -->
