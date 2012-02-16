@@ -27,7 +27,7 @@
   <xsl:template match="head">
     <head xmlns="http://www.w3.org/1999/xhtml">
       <link rel="stylesheet" type="text/css" href="http://www-old.gnome.org/default.css" />
-      <link rel="stylesheet" type="text/css" href="{$root}/foundation.css" />
+      <link rel="stylesheet" type="text/css" href="foundation-old.gnome.org/foundation.css" />
       <link rel="icon" type="image/png" href="http://www-old.gnome.org/img/logo/foot-16.png" />
       <xsl:copy-of select="@*" />
       <xsl:apply-templates select="node()" />
