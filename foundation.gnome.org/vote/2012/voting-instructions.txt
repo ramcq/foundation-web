@@ -4,11 +4,11 @@ The election of the GNOME Foundation Board will soon be open.
 
 Voting will run from 2012-05-27 (Sunday) until 2012-06-10, 23:59 UTC.
 
-To vote, please go to http://foundation.gnome.org/vote/vote.php?id=17
+To vote, please go to http://vote.gnome.org/vote.php?id=17
 and follow the instructions there.
 
 A list of candidates and their reasons for running is available at
-http://foundation.gnome.org/vote/2012/candidates.html
+http://vote.gnome.org/2012/candidates.html
 
 When instructed to do so, enter the following details:
 
