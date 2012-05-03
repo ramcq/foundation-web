@@ -113,7 +113,17 @@ class Member(object):
     def from_csv(cls, csvstring):
         firstname, lastname, email, token_or_last_renewed_on = csvstring.strip().split(';')
         return Member(firstname, lastname, email, token_or_last_renewed_on)
+    
+    def __str__(self):
+        if False: # string.format is too recent Python
+            fmt = "{firstname} {lastname} <{email}> (token_or_last_renewed_on)"
+            return fmt.format(self)
+        fmt = "%(firstname)s %(lastname)s <%(email)s> (%(token_or_last_renewed_on)s)"
+        return fmt % self.__dict__
 
+    def __repr__(self):
+        fmt = "<Member <%(email)s> (%(token_or_last_renewed_on)s)>"
+        return fmt % self.__dict__
 
 
 
