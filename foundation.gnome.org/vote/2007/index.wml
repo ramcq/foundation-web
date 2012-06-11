@@ -26,11 +26,15 @@
 
     <h2>2007 Elections Materials:</h2>
     <ul>
-   <li>
-<a href="http://mail.gnome.org/archives/foundation-announce/2007-December/msg00002.html">Election results announcement</a>
-        </li>
+      <li>
+      <a href="http://vote.gnome.org/results.php?election_id=5">Detailed Elections results</a>
+      </li>
 
-       <li>
+      <li>
+      <a href="http://mail.gnome.org/archives/foundation-announce/2007-December/msg00002.html">Election results announcement</a>
+      </li>
+
+      <li>
        <a href="candidates.html">List of candidates for Board of Directors</a>
       </li>
 
@@ -39,7 +43,7 @@
       </li>
       <li>
         <a href="rules.html">Elections Rules and Timeline</a> (webcal <a
-        href="webcal://foundation.gnome.org/elections/2007/timeline.ics">timeline</a>)
+        href="webcal://vote.gnome.org/2007/timeline.ics">timeline</a>)
       </li>
       <li>
         <a href="../overview.html">Overview of the Board of Directors role</a>

@@ -32,10 +32,10 @@
         href="http://mail.gnome.org/archives/foundation-announce/2006-January/msg00000.html">Elections results announcement</a>
       </li>
       <li>
-        <a href="http://foundation.gnome.org/vote/votes.php?election_id=2">Archive of all votes</a>
+        <a href="http://vote.gnome.org/votes.php?election_id=2">Archive of all votes</a>
       </li>
       <li>
-        <a href="http://foundation.gnome.org/vote/results.php?election_id=2">Preliminary results</a>
+        <a href="http://vote.gnome.org/results.php?election_id=2">Preliminary results</a>
       </li>
       <li>
        <a href="candidates.html">List of candidates for Board of Directors</a>
@@ -45,7 +45,7 @@
       </li>
       <li>
         <a href="rules.html">Elections Rules and Timeline</a> (webcal <a
-        href="webcal://foundation.gnome.org/elections/2005/timeline.ics">timeline</a>)
+        href="webcal://vote.gnome.org/2005/timeline.ics">timeline</a>)
       </li>
       <li>
         <a href="../overview.html">Overview of the Board of Directors role</a>
