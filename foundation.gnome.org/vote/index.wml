@@ -53,8 +53,8 @@
     </p>
 
     <ul>
-      <li><a href="../vote/2005-10/index.html">Material from the Office Term Referendum</a></li>
-      <li><a href="../vote/results.php?election_id=1">Material from the Reducing Board Size Referendum</a></li><!-- This is ugly, ideally we'd have an information page as with the other elections and referenda -->
+      <li><a href="../vote/2007-10/index.html">Material from the Office Term Referendum</a></li>
+      <li><a href="../vote/2005-10/index.html">Material from the Reducing Board Size Referendum</a></li>
       <li><a href="../vote/2004-10/index.html">Material from the Anonymous Voting Referendum</a></li>
     </ul>
 <?php
