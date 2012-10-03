@@ -187,7 +187,7 @@ def get_members_which_need_renewal(mode):
                          %(mysql_to_date)s ,
                          INTERVAL 2 YEAR
                        )
-               ORDER BY last_renewed_on;
+               ORDER BY lastname;
             '''.strip()
     QUERY %= {'mysql_from_date': mysql_from_date,
               'mysql_to_date': mysql_to_date}
