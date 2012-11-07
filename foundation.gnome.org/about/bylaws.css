@@ -1,0 +1,23 @@
+    body {
+        counter-reset: mySectionCounter, mySubSectionCounter;
+    }
+    h1 {
+        counter-increment: mySectionCounter;
+        counter-reset: mySubSectionCounter;
+    }
+    h1:after {
+    }
+    h1:before {
+      content: 'ARTICLE ' counter(mySectionCounter, upper-roman) ' - ';
+    }
+
+    h5:after {
+    }
+
+    h2 {
+        counter-increment: mySubSectionCounter;
+    }
+
+    h2:before {
+      content: 'Section ' counter(mySectionCounter, decimal) '.' counter(mySubSectionCounter, decimal) ': ';
+    }

@@ -1,20 +1,69 @@
+.. comment:
 
+        You can compile this document using Python's docutils like this:
+        
+                rst2latex --documentclass=scrartcl --documentoptions=a4paper,10pt,bigheading   --no-section-numbering bylaws-simple.rst > bylaws.tex
+          
+        Then you'll get a .tex file which you can compile using pdflatex. You probably need to have a couple of packages installed.
+        If it complains about a missing .sty file, you can install it using yum:
+        
+                yum install -y 'tex(pdfcomment.sty)'
+
+
+
+        The HTML version compiles similarly:
+        
+                rst2html --no-section-numbering --stylesheet=bylaws.css bylaws-simple.rst > bylaws.html
+
+
+.. role:: raw-html(raw)
+        :format: html
+
+.. role:: raw-latex(raw)
+        :format: latex
+
+.. role:: comment
+.. role:: huge
+.. role:: uppercase
+.. role:: hugeuppercase (huge)
+
+
+.. To turn off the comment function, uncomment (remove the first two leading dots and the white space) the following
+
+.. :raw-latex:`\renewcommand{\DUrolecomment}[1]{}`
+
+.. this sets the title
+
+        =============================
+        Bylaws of GNOME Foundation
+        =============================
+
+.. contents::
+
+        
+-----------------------
+
+.. for some weird reason, the order of the classes is important. Maybe fix it anyway, by patching \maketitle
 .. class:: centered
         
         :hugeuppercase:`Bylaws of GNOME Foundation`
         :raw-latex:`}\\% There's weird behaviour in docutils, i.e. every paragraph would get centered on its own`
         Initially Adopted on March 16, 2001.
-        As Amended on April 5, 2002.
+	As Amended on April 5, 2002.        
+        As Amended on November 11, 2005.
+        As Amended on October 22, 2007.
+        As Amended on October 31, 2012.
+        
+
 
 
 
 Name 
 ==================================================================
 
-
-The name of the Corporation shall be Gnome Foundation (the "**Corporation**"), a California
+ 
+The name of the Corporation shall be GNOME Foundation (the "**Corporation**"), a California
 Nonprofit Public Benefit Corporation.
-
 
 
 
@@ -26,6 +75,7 @@ Offices
 
 Principal Office 
 -----------------------------------------
+
 
 
 
@@ -45,6 +95,7 @@ Objectives
 ==================================================================
 
  
+
 The objectives of the Corporation shall be as stated in the Articles of Incorporation.
 Specifically, the objectives shall include charitable and educational purposes within the meaning of
 Section 501(c)(3) of the Internal Revenue Code of 1986, as amended (the "**Internal Revenue
@@ -52,9 +103,10 @@ Code**"), or the corresponding provision of any future United States internal re
 
 
 
-
 Nonpartisan Activities 
 ==================================================================
+
+ 
 
 The Corporation has been formed under the California Nonprofit Public Benefit Corporation
 Law (the "**CNPBCL**") for the purposes described above, and it shall be nonprofit and nonpartisan.
@@ -68,8 +120,11 @@ The Corporation shall not, except in an insubstantial degree, engage in any acti
 exercise any powers that are not in furtherance of the purposes described above.
 
 
+
 Dedication of Assets 
 ==================================================================
+
+ 
 
 The properties and assets of the Corporation are irrevocably dedicated to charitable and
 educational purposes meeting the requirements for exemption provided by Section 214 of the
@@ -84,6 +139,7 @@ Internal Revenue Code.
 
 
 
+
 Membership 
 ==================================================================
 
@@ -92,6 +148,7 @@ Membership
 
 Voting Members and Qualification 
 -----------------------------------------
+
 Initially, there shall be one class of voting members of the Corporation. Membership will
 be determined on a case-by-case basis, at the sole discretion of the Board and Membership
 Committee. Any contributor to GNOME shall be eligible for membership. A "contributor" shall be
@@ -107,15 +164,20 @@ a "contributing" corporation.
 Other Classes of Membership 
 -----------------------------------------
 
-. The Board may, from time to time, establish another class or classes of members, with or
+The Board may, from time to time, establish another class or classes of members, with or
 without voting rights. The privileges, rights and duties of such other class or classes of members
 shall be as provided by the Board, subject to the terms of the Bylaws, as amended from time to time.
 The Board may thereby confer some or all of the rights of the members upon any person or persons.
-If such person or persons do not have the right to vote for either: (i) the election of a Director or
-Directors, on a disposition of all or substantially all of the assets of this corporation, on a merger, on
-a dissolution or (ii) the selection of delegates who possess any such voting rights or (iii) changes to
-the corporation's Articles of Incorporation or Bylaws, such person shall not be a member within the
-meaning of Section 5056 of the Nonprofit Corporation Law of the State of California.
+
+If such person or persons do not have the right to vote for either:
+
+1. the election of a Director or Directors, on a disposition of all or substantially all of the assets of this corporation, on a merger, on a dissolution or
+
+2. the selection of delegates who possess any such voting rights or
+
+3. changes to the corporation's Articles of Incorporation or Bylaws,
+
+such person shall not be a member within the meaning of Section 5056 of the Nonprofit Corporation Law of the State of California.
 
 
 
@@ -129,7 +191,6 @@ persons shall serve in an honorary capacity and, except as otherwise determined 
 in such capacity have no right to notice of or to vote at any meeting, shall not be considered for
 purposes of establishing a quorum, and shall have no other rights or responsibilities.
 
-
 Term 
 -----------------------------------------
 
@@ -137,13 +198,11 @@ Term
 The term of membership shall be two (2) years.
 
 
-
 Admission and Removal 
 -----------------------------------------
 
-Admission or removal from membership shall be by the vote of a majority of the number of
+Admission or removal from membership shall be by the vote of a majority of the 
 Directors then in office.
-
 
 
 Fees, Dues and Assessments 
@@ -160,7 +219,6 @@ Termination of Membership
 The membership of any member shall terminate upon the occurrence of any one or more of
 the following:
 
-
 1.      **Resignation**. Any member may resign from the Corporation in writing filed with the
         Secretary of the Corporation. Such resignation shall become effective upon receipt thereof.
 
@@ -171,20 +229,18 @@ the following:
         that the member no longer meets the qualification requirements for membership in the
         Corporation.
 
-
-#.      **Removal or Suspension**.  Membership shall terminate upon the determination of the Board
-        or Membership Committee after a hearing duly held in accordance with this Section 6(c), that
+#.      **Removal or Suspension**. Membership shall terminate upon the determination of the Board
+        or Membership Committee after a hearing duly held in accordance with this Section 6.7.3, that
         the member has failed in a material respect to observe the rules of conduct promulgated from
         time to time by the Board and applicable to members, or otherwise has failed in some
         material respect to merit continued membership privileges in the Corporation. In the event of
         a removal or suspension of a member, the following procedures shall be implemented:
-
-        a)      A notice shall be sent by prepaid, first-class, certified or registered mail to the most recent
-                address of the member as shown on the Corporation's records, setting forth the removal or
-                suspension and the reason therefore. Such notice shall be sent at least fifteen (15) days
+        
+        a)      A notice shall be sent by electronic mail and prepaid, first-class, certified or registered mail to the most recent
+                address of the member, if known to the Corporation, setting forth the removal or
+                suspension and the reason for that removal or suspension. Such notice shall be sent at least fifteen (15) days
                 before the proposed effective date of the removal or suspension.
-
-
+    
         #)      The member being expelled or suspended shall be given an opportunity to be heard, either
                 orally or in writing, at a hearing to be held no fewer than five (5) days before the removal.
                 The hearing shall be held by the Board or Membership Committee. Any such hearing may
@@ -192,18 +248,16 @@ the following:
                 participants in the hearing can hear one another. The notice to the member of his or her
                 proposed removal or suspension shall state that such member is entitled, upon request, to
                 such hearing, shall state that a date, time and place of hearing will be established upon receipt
-                of request therefor, and shall state, that in the absence of such request, the effective date of
+                of such a request, and shall state, that in the absence of such request, the effective date of
                 the proposed suspension or removal.
-
             
         #)      Following the hearing, the Board, or Membership committee, as the case may be, shall
                 decide whether the member should in fact be expelled, suspended, or sanctioned in some
                 other way. The decision of the Board or Membership Committee, as the case may be, shall
-                be final.
-
-
-        #)      Any action challenging a removal or suspension of membership, including any claim
-                alleging defective notice, must be commenced within one year after the date of the removal
+                be final, subject to any challenge brought pursuant to this section.
+            
+        #)      A member may bring an action challenging a removal or suspension of membership, including any claim
+                alleging defective notice, within one year after the date of the removal
                 or suspension.
 
 
@@ -214,13 +268,11 @@ Reinstatement
 
 Suspended or expelled members may be reinstated at the discretion of the Board.
 
-
 Property Rights 
 -----------------------------------------
 
 No member shall have any right or interest in any of the property or assets of this
 Corporation.
-
 
 Nonliability 
 -----------------------------------------
@@ -252,15 +304,12 @@ members entitled to vote thereat, given either before or after the meeting and f
 of the Corporation.
 
 
-
-Annual Meetings and Election of Directors
+Annual Meetings
 -----------------------------------------
 
-The annual meetings of members of the Corporation shall be held on the second Saturday
-in November of each year at 10:00 a.m., or at any other time and place determined by the resolution
-of the Board. Directors shall be elected and other proper business may be transacted at the annual
+The annual meetings of members of the Corporation shall be held at any time and place determined by the resolution
+of the Board. Directors may be elected and other proper business may be transacted at the annual
 meeting of members.
-
 
 
 Special Meetings 
@@ -269,7 +318,9 @@ Special Meetings
 Special meetings of members, for any lawful purpose, may be called at any time by the
 President or by the Board. Furthermore, special meetings of the members for any lawful purpose
 may be called by, upon request in writing by at least ten percent of the membership, or at least five
-percent of the membership in accordancw with Article XVI, stating the business to be transacted at
+percent of the membership in accordance with
+Article XVI,
+stating the business to be transacted at
 the special meeting, mailed to the principal office of the Corporation, or delivered to the chairman of
 the Board, the President, the Vice President or Secretary. It shall be the duty of the President to
 cause notice to be given, within seven (7) days from receipt of such a request, to be held no more
@@ -280,12 +331,9 @@ than twenty (20) days after the receipt of such a request.
 Notice of Meetings 
 -----------------------------------------
 
-A notice of each annual meeting, written ballot for election of Directors or otherwise, if
-any, and special meeting shall be given by the President or, in case of his or her failure or refusal, by
+A notice of each annual meeting, and special meeting shall be given by the President or, in case of his or her failure or refusal, by
 any other officer or any Director; shall specify the place, time, day and hour of the meeting or the
-date on which the ballot shall be returned, if applicable; in the case of an annual meeting at which
-Directors shall be elected, shall specify the names of all those who are candidates for election of
-Directors at the time the notice is given, and in the case of special meetings, the nature of the
+date on which the ballot shall be returned, if applicable; and in the case of special meetings, the nature of the
 business to be transacted thereat. Such notice shall be given in writing to every member of the
 Corporation who, on the record date for notice of the meeting, is entitled to vote thereat. Such notice
 shall be given either personally or by sending a copy thereof by first-class mail or by telephone
@@ -296,6 +344,13 @@ expected to communicate such notice promptly to the member at least thirty (30) 
 date fixed for such meeting in the case of an annual meeting and at least ten (10) days in the case of
 all other meetings.
 
+
+Election of Directors
+-----------------------------------------
+
+Directors may be elected at the annual meeting as described herein or otherwise by eletronic mail and electronic voting. Notice of such electronic mail or electronic voting shall be given by the President or
+by anyone duly appointed with the authority to do so by the Directors in accordance with Section 8.3.
+Such notice shall be sent promptly to the membership at least thirty (30) days prior to the last day on which votes may be submitted.
 
 
 Adjourned Meetings 
@@ -341,6 +396,14 @@ meeting at which the total number of votes cast was the same as the number of vo
 
 
 
+
+
+Quorum for Referenda  
+-----------------------------------------
+
+Any member of the Corporation may propose a referendum. Such request for a referendum must be endorsed by 10\% of the Membership. The overall referendum process shall be conducted by the Membership and Elections Committee, as authorized by the Directors pursuant to Article IX.
+
+
 Record Date 
 -----------------------------------------
 
@@ -353,7 +416,6 @@ reports, receive allotment of rights, or exercise the rights, as the case may be
 transfer of memberships on the books of the corporation after the record date, except as otherwise
 provided in the Articles of Incorporation or these Bylaws. The Board shall fix, in advance, record
 dates as follows:
-
 
 1.      **Notice**. The record date for determination of the members entitled to notice of any meeting
         of members shall not be more than ninety (90) nor less than ten (10) days before the date of
@@ -389,6 +451,8 @@ or her absence, by the Chairman of the Corporation, or in his or her absence, by
 by a majority of the members present. The Secretary of the Corporation shall act as the secretary of
 all meetings of members, provided that in his or her absence the presiding officer shall appoint
 another member to act as Acting Secretary of the meeting.
+
+
 
 
 
@@ -438,7 +502,7 @@ Number and Qualification of Directors
 
 2.      A Director shall be a Member.
 
-3.      The initial number of Directors shall be eleven (11).
+3.      The number of Directors on October 31, 2012 is seven (7).
 
 4.      No organization, corporation or similar entity, or any affiliate thereof, shall hold, directly or
         indirectly, more than 40\% of the Board seats, regardless of election results. In the event that
@@ -458,7 +522,7 @@ Number and Qualification of Directors
 Election and Term of Office of Directors 
 -----------------------------------------
 
-1.      Each of the directors shall hold office for one (1) year.
+1.      Each of the directors shall hold office for one (1) year, or a period of up to two (2) years as determined by the Board and announced prior to an election being called.
 
 2.      Directors shall be elected by the membership in accordance with the rules set forth on
         http://foundation.gnome.org/electionrules.html.
@@ -495,23 +559,21 @@ Vacancy
 3.      **Removals**. A Director may be removed for cause. In the event such removal, the following
         procedures shall be implemented:
 
-        a)      A notice shall be sent by mail by prepaid, first-class, certified or registered mail to the
-                most recent address of the member as shown on the Corporation's records, setting forth the
-                removal and the reason therefore. Such notice shall be sent at least seven (7) days before the
+        a)      A notice shall be sent by electronic mail and by prepaid, first-class, certified or registered mail to the
+                most recent address of the member, if known by the Corporation, setting forth the
+                removal and the reason for that removal. Such notice shall be sent at least seven (7) days before the
                 proposed effective date of the removal.
 
         #)      The Director being removed shall be given an opportunity to be heard, either orally or in
                 writing, at a hearing to be held no fewer than five (5) days before the removal. The hearing
                 shall be held by the Board. The notice to the Director of his or her proposed removal shall
                 state that such member is entitled, upon request, to such hearing, shall state that a date, time
-                and place of hearing will be established upon receipt of request therefor, and shall state, that
+                and place of hearing will be established upon receipt of such a request, and shall state, that
                 in the absence of such request, the effective date of the proposed removal.
-
 
         #)      Following the hearing, the Board shall decide whether the Director should in fact be
                 expelled, suspended, or sanctioned in some other way. The decision of the Board shall be
                 final.
-
 
 
 4.      **Filling vacancies**. Vacancies on the Board may be filled by a majority of the Directors then
@@ -547,12 +609,13 @@ the meeting. In the absence of such designation, regular meetings shall be held 
 executive office of the Corporation. Special meetings of the Board shall be held at any place within
 or outside the State of California that has been designated in the notice of the meeting or, if not
 stated in the notice, or if there is no notice, at the principal executive office of the Corporation.
-Notwithstanding the above provisions of this Section 5, a regular or special meeting of the Board
+Notwithstanding the above provisions of this Section  8.5, a regular or special meeting of the Board
 may be held at any place consented to in writing by all the Board members, either before or after the
 meeting. If consents are given, they shall be filed with the minutes of the meeting. Any meeting,
 regular or special, may be held by conference telephone or similar communication equipment, so
-long as all Directors participating in the meeting can hear one another, and all such Directors shall be
+long as all Directors participating in the meeting can communicate with one another, and all such Directors shall be
 deemed to be present in person at such meeting.
+
 
 
 Annual Meeting 
@@ -578,7 +641,7 @@ Special Meetings
         a)      **Manner of giving**. Notice of the time and place of special meetings shall be given to each
                 Director by one of the following methods:
                 
-                i. by personal delivery or written notice;
+                i. by personal delivery;
                 #. by first-class mail, postage prepaid;
                 #. by telephone communication, including a voice
                    messaging system or other system or technology designed to record and communicate
@@ -623,6 +686,10 @@ initially present may continue to transact business, notwithstanding the withdra
 any action taken is approved by at least a majority of the required quorum for that meeting.
 
 
+.. _Section Adjournment: `Adjournment`_
+.. _Article Directors: `Directors`_
+
+
 Waiver of Notice 
 -----------------------------------------
 
@@ -635,13 +702,11 @@ wherever held, shall be as valid as though taken at a meeting duly held after re
         signs a written waiver of notice, a consent to holding the meeting or an approval of the minutes.
 
 
-
 The
 waiver of notice or consent need not specify the purpose of the meeting. All waivers, consents and
 approvals shall be filed with the corporate records or made a part of the minutes of the meeting.
 Notice of a meeting shall also be deemed given to any Director who attends the meeting
 without protesting before or at its commencement about the lack of adequate notice.
-
 
 
 
@@ -682,7 +747,7 @@ Fees and Compensation
 Directors as such shall not receive any compensation for their services, but by resolution of
 the Board, expenses of attendance, if any, may be allowed for attendance at regular or special
 meetings of the Board; but nothing herein contained shall be construed to preclude any Director
-from serving the Corporation in any other capacity and receiving compensation therefor.
+from serving the Corporation in any other capacity and receiving compensation for this.
 
 
 
@@ -697,7 +762,7 @@ Committees of the Board
 -----------------------------------------
 
 The Board, by resolution adopted by a majority of the Directors then in office, provided a
-quorum is present, may create one or more committees, to serve at the pleasure of the Board.
+quorum is present, may create or remove one or more committees, to serve at the pleasure of the Board.
 Appointments to committees of the Board shall be by majority vote of the Directors then in office.
 The Board may appoint one or more alternate members of any such committee, who may replace
 any absent member at any meeting of the committee.
@@ -777,6 +842,10 @@ No committee may:
 
 
 
+.. The following incoming anchor needs to be defined because reST doesn't like the section and the subsection being named Officers
+
+.. _sec\:officers:
+
 Officers 
 ==================================================================
 
@@ -793,26 +862,32 @@ the same person, except that neither the Secretary nor the Treasurer may serve c
 President or Chairman of the Board.
 
 
+
 Election and Term of Office 
 -----------------------------------------
 
-The officers of the Corporation, except such officers as may be appointed in accordance with
-the provisions of Section 3 or Section 5 of this Article X, shall be chosen annually by the Board, and
-each shall hold his or her office until he or she shall resign or shall be removed or otherwise
+
+The officers of the Corporation, except such officers as may be appointed in accordance
+with the provisions of Section 10.3 or Section 10.5 of this Article X, shall be chosen
+annually by the Board, and each shall hold his or her office until he or she shall resign
+or shall be removed or otherwise
 disqualified to serve, or his or her successor shall be elected and qualified, subject to the rights, if
 any, of an officer under any contract of employment. New offices may be created and filled at any
 meeting of the Board. Each officer shall hold office until that officer's successor shall have been
 duly elected and shall have qualified.
 
+.. _Section Subordinate Officers: `Subordinate Officers`_
+.. _Section Vacancies: `sec\:vacancies`_
+.. _Article Officers: `sec\:officers`_
+
 
 Subordinate Officers 
 -----------------------------------------
-
+ 
 The Board may appoint such other officers, including one or more assistant secretaries and
 one or more assistant treasurers, as it shall deem desirable, each such officer to have the authority
 and perform the duties prescribed from time to time by the Board and to hold office until he or she
 shall resign or shall be removed or otherwise disqualified to serve.
-
 
 
 Removal and Resignation 
@@ -821,22 +896,21 @@ Removal and Resignation
 1.      **Removal**. Any officer, other than the President, may be removed with or without cause. In
         the event such removal, the following procedures shall be implemented:
         
-        a)      A notice shall be sent by mail by prepaid, first-class, certified or registered mail to the
-                most recent address of the officer as shown on the Corporation's records, setting forth the
-                removal and the reason therefore. Such notice shall be sent at least seven (7) days before the
+        a)      A notice shall be sent by electronic mail and by prepaid, first-class, certified or registered mail to the
+                most recent address of the officer if known by the Corporation, setting forth the
+                removal and the reason for that removal. Such notice shall be sent at least seven (7) days before the
                 proposed effective date of the removal.
-
+                
         #)      The officer being removed shall be given an opportunity to be heard, either orally or in
                 writing, at a hearing to be held no fewer than five (5) days before the removal. The hearing
                 shall be held by the Board. The notice to the Officer of his or her proposed removal shall
                 state that such member is entitled, upon request, to such hearing, shall state that a date, time
-                and place of hearing will be established upon receipt of request therefor, and shall state, that
+                and place of hearing will be established upon receipt of such a request, and shall state, that
                 in the absence of such request, the effective date of the proposed removal.
 
-        #)      Following the hearing, the Board shall decide whether the Officer should in fact be
-                expelled, suspended, or sanctioned in some other way. The decision of the Board shall be
-                final.
-
+        #)     Following the hearing, the Board shall decide whether the Officer should in fact be
+               expelled, suspended, or sanctioned in some other way. The decision of the Board shall be
+               final.
 
 2.      **Resignation**. Any officer may resign at any time by giving written notice to the Board or to
         the president or to the secretary of the Corporation. Any such resignation shall take effect at
@@ -845,7 +919,9 @@ Removal and Resignation
         it effective. Any resignation shall be without prejudice to the rights, if any, of the
         Corporation under any contract to which the officer is a party.
 
+.. Again, this reference needs to be explicitely given because there is another "Vacancies" section.
 
+.. _sec\:vacancies:
 
 Vacancies 
 -----------------------------------------
@@ -864,8 +940,12 @@ Board of Directors and perform such other duties as the Directors may assign.
 President 
 -----------------------------------------
 
-The President shall be the chief executive officer of the Corporation and shall in general
-supervise and control all of the business and affairs of the Corporation. The President may sign,
+The President shall act as the chief executive officer of the Corporation
+if no chief executive officer or executive director has been appointed by
+the Board and shall in general supervise and control all of the business
+and affairs of the Corporation. The President shall also act as the
+Chairman if none has been appointed.
+The President may sign,
 with the secretary or any other proper officer of the Corporation authorized by the Board, any deeds,
 mortgages, bonds, contracts or other instruments that the Board of Directors has authorized to be
 executed, except in cases where the signing and execution thereof shall be specially designated by
@@ -943,23 +1023,25 @@ Indemnification of Directors, Officers, Employees and Other Agents
 Definitions 
 -----------------------------------------
 
-For the purpose of this Article I:
+
+For the purpose of this Article XI:
 
 1.      "agent" means any person who is or was a Director, officer, employee, committee member
-        or other agent of the Corporation; or is or was serving at the request of the Corporation as a
-        Director, officer, employee or other agent of another foreign or domestic Corporation,
-        partnership, joint venture, trust or other enterprise; or was a Director, officer, employee or
-        other agent of a foreign or domestic Corporation that was a predecessor Corporation of the
-        Corporation or of another enterprise at the request of the predecessor Corporation.
+	or other agent of the Corporation; or is or was serving at the request of the Corporation as a
+	Director, officer, employee or other agent of another foreign or domestic Corporation,
+	partnership, joint venture, trust or other enterprise; or was a Director, officer, employee or
+	other agent of a foreign or domestic Corporation that was a predecessor Corporation of the
+	Corporation or of another enterprise at the request of the predecessor Corporation.
 
 
-2.      "proceeding"  means any threatened, pending or completed action or proceeding, whether
-        civil, criminal, administrative or investigative; and
+2.	"proceeding" means any threatened, pending or completed action or proceeding, whether
+	civil, criminal, administrative or investigative; and
 
-3.      "expenses" includes, without limitation, all attorneys' fees, costs and any other expenses
-        incurred in the defense of any claims or proceedings against an agent by reason of his or her
-        position or relationship as agent and all attorneys' fees, costs and other expenses incurred in
-        establishing a right to indemnification under this Article XI.
+3. 	"expenses" includes, without limitation, all attorneys' fees, costs and any other expenses
+	incurred in the defense of any claims or proceedings against an agent by reason of his or her
+	position or relationship as agent and all attorneys' fees, costs and other expenses incurred in
+	establishing a right to indemnification under this Article XI.
+
 
 
 Successful Defense by Agent 
@@ -974,10 +1056,11 @@ judgment rendered against him or her, then the provisions of Sections 3 through 
 determine whether the agent is entitled to indemnification.
 
 
+
 Actions Brought by Persons Other than the Corporation 
 ---------------------------------------------------------
 
-Subject to the required findings to be made pursuant to Section 5 below, the Corporation
+Subject to the required findings to be made pursuant to Section 11.5 below, the Corporation
 shall indemnify any person who was or is a party, or is threatened to be made a party, to any
 proceeding, other than an action brought by, or on behalf of, the Corporation, or by an officer,
 Director or person granted related status by the Attorney General, or by the Attorney General on the
@@ -987,6 +1070,7 @@ status by the Attorney General for any breach of duty relating to assets held in
 reason of the fact that such person is or was an agent of the Corporation, for all expenses, judgments,
 fines, settlements and other amounts actually and reasonably incurred in connection with the
 proceeding.
+
 
 
 Actions Brought by or on Behalf of the Corporation 
@@ -1041,6 +1125,8 @@ following:
 
         b)      the court in which the proceeding is or was pending.
 
+
+
         Such determination may be made on
         application brought by the Corporation or the agent or the attorney or other person rendering
         a defense to the agent, whether or not the application by the agent, attorney or other person is
@@ -1051,8 +1137,9 @@ following:
 Limitations 
 -----------------------------------------
 
-No indemnification or advance shall be made under this Article XI, except as provided in
-Section 2 or 5(b) above, in. any circumstance when it appears:
+
+No indemnification or advance shall be made under this Article XI,
+except as provided in Section 11.2 or 11.5.2 above, in any circumstance when it appears:
 
 1.      That the indemnification or advance would be inconsistent with a provision of the Articles
         of Incorporation, a resolution of the Board or an agreement in effect at the time of the accrual
@@ -1078,10 +1165,10 @@ indemnified as authorized in this Article XI.
 Contractual Rights of Non-Directors and Non-Officers 
 -------------------------------------------------------
 
+
 Nothing contained in this Article XI shall affect any right to indemnification to which
 persons other than Directors and officers of the Corporation, or any subsidiary hereof, may be
 entitled by contract or otherwise.
-
 
 
 Insurance 
@@ -1099,9 +1186,10 @@ Corporations Code.
 Fiduciaries of Corporate Employee Benefit Plan 
 -------------------------------------------------
 
-This Article XI does not apply to any proceeding against any trustee, investment manager or
+This Article XI
+does not apply to any proceeding against any trustee, investment manager or
 other fiduciary of an employee benefit plan in that person's capacity as such, even though that person
-may also be an agent of the Corporation as defined in Section la of this Article XI. Nothing
+may also be an agent of the Corporation as defined in Section 11.1.1 of this Article XI. Nothing
 contained in this Article XI shall limit any right to indemnification to which such a trustee,
 investment manager or other fiduciary may be entitled by contract or otherwise, which shall be
 enforceable to the extent permitted by applicable law.
@@ -1111,7 +1199,7 @@ enforceable to the extent permitted by applicable law.
 Records and Reports 
 ==================================================================
 
- 
+
 
 Maintenance and Inspection of Articles and Bylaws 
 -------------------------------------------------
@@ -1142,7 +1230,7 @@ subsidiary Corporations. This inspection by a Director may be made in person or 
 attorney, and the right of inspection includes the right to copy and make extracts of documents.
 
 
-Annual Report
+Annual Report 
 -----------------------------------------
 
 An annual report shall be sent to the Directors within one hundred twenty (120) days of the
@@ -1208,6 +1296,9 @@ The fiscal year of the Corporation shall begin on the first day of October and e
 day of September in each year.
 
 
+
+
+
 Construction and Definition 
 ==================================================================
 
@@ -1224,20 +1315,20 @@ Corporation and a natural person.
 Amendments 
 ==================================================================
 
-Bylaws may be adopted, amended or repealed by the membership. In the event of such
-adoption, amendment or repeal, the following procedures shall be implemented:
 
-1.      Any proposal relating to the adoption, amendment or repeal of the Bylaws shall be posted
-        on http://foundation.gnome.org by the Board for a period of twenty one (21) days;
+Any member can propose the adoption, amendment or repealing of the Bylaws.
+In the event of such a proposal, the following procedures shall be implemented:
 
-2.      The members shall be provided with the reasonable means to comment upon and/or object
-        to any such proposal;
+1.      The members shall be provided with the reasonable means to comment upon and/or object
+        to any such proposal for twenty one (21) days
 
-3.      In the event that five percent or more of the members objects to the proposal, a special
+#.	The proposal shall be sent to the membership and shall be posted on http://foundation.gnome.org by the Board
+
+#.      In the event that five percent or more of the members object to the proposal, a special
         meeting of the members shall be convened in accordance with the provisions of Article VII,
-        and the proposal shall be voted upon;
+        and the proposal shall be voted upon
 
-4.      In the event that five percent or more of the members do not object to the proposal, then
+#.      In the event that five percent or more of the members do not object to the proposal, then
         the proposal shall be adopted by the Board to the extent permitted by CNPBCL Section
         5150(a).
 
@@ -1264,4 +1355,9 @@ Inspection of Bylaws
 
 These bylaws, as amended or otherwise altered to date, certified by the secretary shall be
 open to inspection by the Directors at all reasonable times during office hours.
+
+
+
+
+
 
