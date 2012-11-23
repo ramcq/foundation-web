@@ -60,18 +60,22 @@ def main(options=None):
 
 
     members = get_members_which_need_renewal('month')
-    emailtext = format_members_for_mail(members)
+    if not members:
+        log.warn('No one needs renewals! :-)')
     
-    today = datetime.date.today()
-    subject = "Memberships needing renewal (%s)" % today.strftime("%02Y-%02m")
-    
-    if sendmail:
-        log.warn('Sending mail to %s: %s', to, subject)
-        send_email(to, subject, emailtext)
-    else:
-        log.info('Not sending mail to %s', to)
-        log.info('%s', subject)
-        log.info('%s', emailtext)
+    else: # We do have members
+        emailtext = format_members_for_mail(members)
+        
+        today = datetime.date.today()
+        subject = "Memberships needing renewal (%s)" % today.strftime("%02Y-%02m")
+        
+        if sendmail:
+            log.warn('Sending mail to %s: %s', to, subject)
+            send_email(to, subject, emailtext)
+        else:
+            log.info('Not sending mail to %s', to)
+            log.info('%s', subject)
+            log.info('%s', emailtext)
     
     return 0
     
