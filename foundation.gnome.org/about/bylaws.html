@@ -8,28 +8,29 @@
 <style type="text/css">
 
     body {
-        counter-reset: mySectionCounter, mySubSectionCounter;
+        counter-reset: mySectionCounter;
     }
-    h1 {
-        counter-increment: mySectionCounter;
-        counter-reset: mySubSectionCounter;
-    }
-    h1:after {
-    }
+
     h1:before {
+      counter-increment: mySectionCounter;
       content: 'ARTICLE ' counter(mySectionCounter, upper-roman) ' - ';
     }
 
-    h5:after {
+    h1 {
+        counter-reset: mySubSectionCounter;
     }
 
-    h2 {
-        counter-increment: mySubSectionCounter;
+    h1:after {
     }
 
     h2:before {
+      counter-increment: mySubSectionCounter;
       content: 'Section ' counter(mySectionCounter, decimal) '.' counter(mySubSectionCounter, decimal) ': ';
     }
+
+    h2 {
+    }
+
 
 </style>
 </head>
