@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20130402T013514Z-24544@ideabox
+DTSTART;VALUE=DATE:20130506
+DTEND;VALUE=DATE:20130507
+DESCRIPTION:If you are a member of the GNOME Foundation and are interested
+  in running for election\, you may nominate yourself by sending an e-mail 
+ to foundation-announce@gnome.org with your name\, e-mail address\, corpora
+ te affiliation (if any)\, and a description of why you'd like to serve\, b
+ efore 2013-05-19 (23:59 UTC).\n     You should also send a summary of your
+  candidacy announcement (75 words or less) to elections@gnome.org. If you 
+ are not yet a GNOME Foundation member and would like to stand for election
+ \, you must first apply for membership and be accepted to be eligible to r
+ un. (You may\, however\, announce your candidacy prior to formal acceptanc
+ e of your application\; should your application not be accepted\, you will
+  not be included in the list of candidates.)\n    
+SUMMARY:Announcements and list of candidates opens
+END:VEVENT
+BEGIN:VEVENT
+UID:20130402T013514Z-38448@ideabox
+DTSTART;VALUE=DATE:20130519
+DTEND;VALUE=DATE:20130520
+DESCRIPTION:If you are a member of the GNOME Foundation and are interested
+  in running for election\, you may nominate yourself by sending an e-mail 
+ to foundation-announce@gnome.org with your name\, e-mail address\, corpora
+ te affiliation (if any)\, and a description of why you'd like to serve\, b
+ efore 2013-05-19 (23:59 UTC).\n     You should also send a summary of your
+  candidacy announcement (75 words or less) to elections@gnome.org. If you 
+ are not yet a GNOME Foundation member and would like to stand for election
+ \, you must first apply for membership and be accepted to be eligible to r
+ un. (You may\, however\, announce your candidacy prior to formal acceptanc
+ e of your application\; should your application not be accepted\, you will
+  not be included in the list of candidates.)\n    
+SUMMARY:List of candidates closed
+END:VEVENT
+BEGIN:VEVENT
+UID:20130402T013514Z-69020@ideabox
+DTSTART;VALUE=DATE:20130522
+DTEND;VALUE=DATE:20130523
+DESCRIPTION:You may now start to send your questions to the candidates
+SUMMARY:List of candidates announced
+END:VEVENT
+BEGIN:VEVENT
+UID:20130402T013514Z-43791@ideabox
+DTSTART;VALUE=DATE:20130526
+DTEND;VALUE=DATE:20130527
+DESCRIPTION:Please read your email and follow these instructions and submi
+ t your vote by 2013-06-09
+SUMMARY:Instructions to vote are sent
+END:VEVENT
+BEGIN:VEVENT
+UID:20130402T013514Z-29541@ideabox
+DTSTART;VALUE=DATE:20130609
+DTEND;VALUE=DATE:20130610
+DESCRIPTION:Preliminary results are announced on 2013-06-11
+SUMMARY:Votes must be returned
+END:VEVENT
+BEGIN:VEVENT
+UID:20130402T013514Z-46711@ideabox
+DTSTART;VALUE=DATE:20130611
+DTEND;VALUE=DATE:20130612
+DESCRIPTION:The preliminary results can be challenged until 2013-06-18
+SUMMARY:Preliminary results are announced
+END:VEVENT
+BEGIN:VEVENT
+UID:20130402T013514Z-20809@ideabox
+DTSTART;VALUE=DATE:20130618
+DTEND;VALUE=DATE:20130619
+DESCRIPTION:If there weren't any challenges\, preliminary results are vali
+ d
+SUMMARY:Challenges to the results closed
+END:VEVENT
+X-WR-TIMEZONE:UTC
+END:VCALENDAR
+
