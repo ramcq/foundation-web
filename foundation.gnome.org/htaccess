@@ -33,7 +33,7 @@ Redirect /election-2001.html		http://vote.gnome.org/2001/
 Redirect /electionresults.html		http://vote.gnome.org/2000/results.html
 Redirect /electionrules-2000.html	http://vote.gnome.org/2000/rules.html
 Redirect /electionrules-2001.html	http://vote.gnome.org/2001/rules.html
-Redirect /electionrules.html		http://vote.gnome.org/2012/rules.html
+Redirect /electionrules.html		http://vote.gnome.org/2013/rules.html
 
 Redirect /elections.html		http://vote.gnome.org
 Redirect /final-vote-archive.diff	http://vote.gnome.org/2000/vote-archives.diff
