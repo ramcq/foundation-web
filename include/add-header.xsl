@@ -26,9 +26,9 @@
 
   <xsl:template match="head">
     <head xmlns="http://www.w3.org/1999/xhtml">
-      <link rel="stylesheet" type="text/css" href="http://www-old.gnome.org/default.css" />
-      <link rel="stylesheet" type="text/css" href="http://foundation-old.gnome.org/foundation.css" />
-      <link rel="icon" type="image/png" href="http://www-old.gnome.org/img/logo/foot-16.png" />
+      <link rel="stylesheet" type="text/css" href="https://www-old.gnome.org/default.css" />
+      <link rel="stylesheet" type="text/css" href="https://foundation-old.gnome.org/foundation.css" />
+      <link rel="icon" type="image/png" href="https://www-old.gnome.org/img/logo/foot-16.png" />
       <xsl:copy-of select="@*" />
       <xsl:apply-templates select="node()" />
     </head>
@@ -42,17 +42,17 @@
       </div>
 
       <div id="hdr">
-	<div id="logo"><a href="{$root}/"><img src="http://www-old.gnome.org/img/spacer" alt="Home" /></a></div>
-        <div id="banner"><img src="http://www-old.gnome.org/img/spacer" alt="" /></div>
+	<div id="logo"><a href="{$root}/"><img src="https://www-old.gnome.org/img/spacer" alt="Home" /></a></div>
+        <div id="banner"><img src="https://www-old.gnome.org/img/spacer" alt="" /></div>
 	<p class="none"></p>
         <div id="hdrNav">
-	  <a href="http://www.gnome.org/about/">About GNOME</a> &middot;
-	  <a href="http://www.gnome.org/start/stable/">Download</a> &middot;
+	  <a href="https://www.gnome.org/about/">About GNOME</a> &middot;
+	  <a href="https://www.gnome.org/start/stable/">Download</a> &middot;
 	  <!--<a href="http://www.gnome.org/contribute/"><i>Get Involved!</i></a> &middot;-->
-	  <a href="http://www.gnome.org/">Users</a> &middot;
-	  <a href="http://developer.gnome.org/">Developers</a> &middot;
-	  <a href="http://foundation.gnome.org/"><b>Foundation</b></a> &middot;
-	  <a href="http://www.gnome.org/contact/">Contact</a>
+	  <a href="https://www.gnome.org/">Users</a> &middot;
+	  <a href="https://developer.gnome.org/">Developers</a> &middot;
+	  <a href="https://foundation.gnome.org/"><b>Foundation</b></a> &middot;
+	  <a href="https://www.gnome.org/contact/">Contact</a>
 	</div>
       </div>
 
@@ -66,7 +66,7 @@
       piwikTracker.trackPageView();
       piwikTracker.enableLinkTracking();
       } catch( err ) {}
-      </script><noscript><p><img src="http://webstats.gnome.org/piwik.php?idsite=5" style="border:0" alt=""/></p></noscript>
+      </script><noscript><p><img src="https://webstats.gnome.org/piwik.php?idsite=5" style="border:0" alt=""/></p></noscript>
       <!-- End Piwik Tag -->
 
     </body>
