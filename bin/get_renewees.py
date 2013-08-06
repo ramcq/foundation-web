@@ -53,13 +53,12 @@ __email__ = "tobiasmue@gnome.org"
 TEMPLATE = '''
 Dear %(firstname)s,
 
-the last time, your GNOME Foundation Membership was renewed, was on
-%(last_renewed_on)s.
+your GNOME Foundation Membership started on %(last_renewed_on)s.
 The term of a membership is two years.
-If you want to continue being a member, you have to renew your 
-membership.
+If you want to continue being a member, you have to apply again for
+a membership.
 
-Please see http://foundation.gnome.org/membership/ for details.
+Please see https://foundation.gnome.org/membership/apply for details.
 
 Thanks,
   The GNOME Membership and Elections Committee
