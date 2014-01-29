@@ -45,7 +45,7 @@ TEMPLATE = dedent('''
 ''')
 
 def format_members_for_mail(members, template=TEMPLATE):
-    fmt = " * %(firstname)s, %(lastname)s (%(token_or_last_renewed_on)s)"
+    fmt = " * %(firstname)s %(lastname)s (%(token_or_last_renewed_on)s)"
     member_lines = [fmt % member.__dict__ for member in members]
 
     members_formatted = '\n'.join(member_lines)
