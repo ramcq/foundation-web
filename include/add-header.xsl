@@ -26,8 +26,8 @@
 
   <xsl:template match="head">
     <head xmlns="http://www.w3.org/1999/xhtml">
-      <link rel="stylesheet" type="text/css" href="https://www-old.gnome.org/default.css" />
-      <link rel="stylesheet" type="text/css" href="https://foundation-old.gnome.org/foundation.css" />
+      <link rel="stylesheet" type="text/css" href="https://static.gnome.org/css/vote/default.css" />
+      <link rel="stylesheet" type="text/css" href="https://static.gnome.org/css/vote/foundation.css" />
       <link rel="icon" type="image/png" href="https://www-old.gnome.org/img/logo/foot-16.png" />
       <xsl:copy-of select="@*" />
       <xsl:apply-templates select="node()" />
@@ -42,8 +42,8 @@
       </div>
 
       <div id="hdr">
-	<div id="logo"><a href="{$root}/"><img src="https://www-old.gnome.org/img/spacer" alt="Home" /></a></div>
-        <div id="banner"><img src="https://www-old.gnome.org/img/spacer" alt="" /></div>
+	<div id="logo"><a href="{$root}/"><img src="https://static.gnome.org/img/spacer" alt="Home" /></a></div>
+        <div id="banner"><img src="https://static.gnome.org/img/spacer" alt="" /></div>
 	<p class="none"></p>
         <div id="hdrNav">
 	  <a href="https://www.gnome.org/about/">About GNOME</a> &middot;
@@ -55,19 +55,6 @@
 	  <a href="https://www.gnome.org/contact/">Contact</a>
 	</div>
       </div>
-
-      <!-- Piwik -->
-      <script type="text/javascript">
-      var pkBaseURL = (("https:" == document.location.protocol) ? "https://webstats.gnome.org/" : "http://webstats.gnome.org/");
-      document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-      </script><script type="text/javascript">
-      try {
-      var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 5);
-      piwikTracker.trackPageView();
-      piwikTracker.enableLinkTracking();
-      } catch( err ) {}
-      </script><noscript><p><img src="https://webstats.gnome.org/piwik.php?idsite=5" style="border:0" alt=""/></p></noscript>
-      <!-- End Piwik Tag -->
 
     </body>
   </xsl:template>
