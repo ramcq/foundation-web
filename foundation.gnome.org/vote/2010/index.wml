@@ -31,16 +31,16 @@
             <a href="http://mail.gnome.org/archives/foundation-announce/2010-June/msg00004.html">Election results announcement</a>
         </li>
         <li>
-            <a href="../../vote/results.php?election_id=14">Detailed election results</a>
+            <a href="../../results.php?election_id=14">Detailed election results</a>
         </li>
         <li>
-            <a href="../../vote/votes.php?election_id=14">List of all votes</a>
+            <a href="../../votes.php?election_id=14">List of all votes</a>
         </li>
         <li>
             <a href="candidates.html">List of candidates for Board of Directors</a>
         </li>
         <li>
-            <a href="http://foundation-old.gnome.org/membership/members.php?date=2010-05-30">List of registered voters</a>
+            <a href="http://www.gnome.org/foundation/membership/members.php?date=2010-05-30">List of registered voters</a>
         </li>
     
         <li>

@@ -32,17 +32,17 @@
     -->
 
         <li>
-            <a href="../../vote/results.php?election_id=13">Detailed election results</a>
+            <a href="../../results.php?election_id=13">Detailed election results</a>
         </li>
         <li>
-            <a href="../../vote/votes.php?election_id=13">List of all votes</a>
+            <a href="../../votes.php?election_id=13">List of all votes</a>
         </li>
         <li>
             <a href="candidates.html">List of candidates for Board of Directors</a>
         </li>
     
         <li>
-            <a href="http://foundation-old.gnome.org/membership/members.php?date=2009-06-03">List of registered voters</a>
+            <a href="http://www.gnome.org/foundation/membership/members.php?date=2009-06-03">List of registered voters</a>
         </li>
     
         <li>
