@@ -40,20 +40,127 @@
 	<xsl:apply-templates select="node()" />
       </div>
 
-      <div id="hdr">
-	<div id="logo"><a href="{$root}/"><img src="https://static.gnome.org/img/spacer.png" alt="Home" /></a></div>
-        <div id="banner"><img src="https://static.gnome.org/img/spacer.png" alt="" /></div>
-	<p class="none"></p>
-        <div id="hdrNav">
-	  <a href="https://www.gnome.org/about/">About GNOME</a> &middot;
-	  <a href="https://www.gnome.org/start/stable/">Download</a> &middot;
-	  <!--<a href="http://www.gnome.org/contribute/"><i>Get Involved!</i></a> &middot;-->
-	  <a href="https://www.gnome.org/">Users</a> &middot;
-	  <a href="https://developer.gnome.org/">Developers</a> &middot;
-	  <a href="https://foundation.gnome.org/"><b>Foundation</b></a> &middot;
-	  <a href="https://www.gnome.org/contact/">Contact</a>
-	</div>
+    <div id="footer_community"></div>
+
+    <div id="footer_grass"></div>
+
+    <div id="footer">
+      <div class="container_12" id="container_12">
+        <div class="links grid_9">
+          <div class="menu-footer-container">
+            <ul id="menu-footer" class="menu">
+              <li id="menu-item-1048" class=
+              "menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-1048">
+              <a href="http://www.gnome.org">The GNOME Project</a>
+
+                <ul class="sub-menu">
+                  <li id="menu-item-1049" class=
+                  "menu-item menu-item-type-post_type menu-item-object-page menu-item-1049">
+                  <a href="https://www.gnome.org/about/">About Us</a></li>
+
+                  <li id="menu-item-1050" class=
+                  "menu-item menu-item-type-post_type menu-item-object-page menu-item-1050">
+                  <a href="https://www.gnome.org/get-involved/">Get Involved</a></li>
+
+                  <li id="menu-item-1051" class=
+                  "menu-item menu-item-type-post_type menu-item-object-page menu-item-1051">
+                  <a href="https://www.gnome.org/teams/">Teams</a></li>
+
+                  <li id="menu-item-1053" class=
+                  "menu-item menu-item-type-post_type menu-item-object-page menu-item-1053">
+                  <a href="https://www.gnome.org/support-gnome/">Support GNOME</a></li>
+
+                  <li id="menu-item-1054" class=
+                  "menu-item menu-item-type-post_type menu-item-object-page menu-item-1054">
+                  <a href="https://www.gnome.org/contact/">Contact Us</a></li>
+
+                  <li id="menu-item-2246" class=
+                  "menu-item menu-item-type-post_type menu-item-object-page menu-item-2246">
+                  <a href="https://www.gnome.org/foundation/">The GNOME Foundation</a></li>
+                </ul>
+              </li>
+
+              <li id="menu-item-1047" class=
+              "menu-item menu-item-type-custom menu-item-object-custom menu-item-1047">
+                <a href="#">Resources</a>
+
+                <ul class="sub-menu">
+                  <li id="menu-item-1055" class=
+                  "menu-item menu-item-type-custom menu-item-object-custom menu-item-1055">
+                  <a href="https://developer.gnome.org">Developer Center</a></li>
+
+                  <li id="menu-item-1056" class=
+                  "menu-item menu-item-type-custom menu-item-object-custom menu-item-1056">
+                  <a href="https://help.gnome.org">Documentation</a></li>
+
+                  <li id="menu-item-1057" class=
+                  "menu-item menu-item-type-custom menu-item-object-custom menu-item-1057">
+                  <a href="https://wiki.gnome.org">Wiki</a></li>
+
+                  <li id="menu-item-1058" class=
+                  "menu-item menu-item-type-custom menu-item-object-custom menu-item-1058">
+                  <a href="https://mail.gnome.org/mailman/listinfo">Mailing Lists</a></li>
+
+                  <li id="menu-item-1059" class=
+                  "menu-item menu-item-type-custom menu-item-object-custom menu-item-1059">
+                  <a href="https://wiki.gnome.org/GnomeIrcChannels">IRC Channels</a></li>
+
+                  <li id="menu-item-1060" class=
+                  "menu-item menu-item-type-custom menu-item-object-custom menu-item-1060">
+                  <a href="https://bugzilla.gnome.org/">Bug Tracker</a></li>
+
+                  <li id="menu-item-1061" class=
+                  "menu-item menu-item-type-custom menu-item-object-custom menu-item-1061">
+                  <a href="https://git.gnome.org/browse/">Development Code</a></li>
+
+                  <li id="menu-item-1062" class=
+                  "menu-item menu-item-type-custom menu-item-object-custom menu-item-1062">
+                  <a href="https://wiki.gnome.org/Jhbuild">Build Tool</a></li>
+                </ul>
+              </li>
+
+              <li id="menu-item-1046" class=
+              "menu-item menu-item-type-custom menu-item-object-custom menu-item-1046">
+                <a href="https://www.gnome.org/news">News</a>
+
+                <ul class="sub-menu">
+                  <li id="menu-item-1063" class=
+                  "menu-item menu-item-type-post_type menu-item-object-page menu-item-1063">
+                  <a href="https://www.gnome.org/press/">Press Releases</a></li>
+
+                  <li id="menu-item-1064" class=
+                  "menu-item menu-item-type-custom menu-item-object-custom menu-item-1064">
+                  <a href="https://www.gnome.org/start/stable">Latest Release</a></li>
+
+                  <li id="menu-item-1065" class=
+                  "menu-item menu-item-type-custom menu-item-object-custom menu-item-1065">
+                  <a href="https://planet.gnome.org">Planet GNOME</a></li>
+
+                  <li id="menu-item-1067" class=
+                  "menu-item menu-item-type-custom menu-item-object-custom menu-item-1067">
+                  <a href="https://news.gnome.org">Development News</a></li>
+
+                  <li id="menu-item-1068" class=
+                  "menu-item menu-item-type-custom menu-item-object-custom menu-item-1068">
+                  <a href="https://identi.ca/gnome">Identi.ca</a></li>
+
+                  <li id="menu-item-1069" class=
+                  "menu-item menu-item-type-custom menu-item-object-custom menu-item-1069">
+                  <a href="https://twitter.com/gnome">Twitter</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div id="footnotes" class="grid_9">
+         <p> Copyright &copy; 2005 - 2014 <a href="https://www.gnome.org/"><strong>The GNOME Project</strong></a>.<br />
+         <small><a href="http://validator.w3.org/check/referer">Optimised</a> for <a href=
+          "http://www.w3.org/">standards</a>. Hosted by <a href=
+          "http://www.redhat.com/">Red Hat</a>.
+        </div>
       </div>
+    </div>
 
     </body>
   </xsl:template>
