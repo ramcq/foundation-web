@@ -26,8 +26,7 @@
 
   <xsl:template match="head">
     <head xmlns="http://www.w3.org/1999/xhtml">
-      <link rel="stylesheet" type="text/css" href="https://static.gnome.org/css/vote/default.css" />
-      <link rel="stylesheet" type="text/css" href="https://static.gnome.org/css/vote/foundation.css" />
+      <link rel="stylesheet" type="text/css" href="https://static.gnome.org/css/vote/vote.css" />
       <link rel="icon" type="image/png" href="https://static.gnome.org/img/logo/foot-16.png" />
       <xsl:copy-of select="@*" />
       <xsl:apply-templates select="node()" />
