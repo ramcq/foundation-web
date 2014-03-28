@@ -8,7 +8,7 @@
   </head>
 
   <body>
-
+    <div id="content">
     <h1>GNOME Directors determine the length of the term of the next board Referendum</h1>
 
     <p>
@@ -26,10 +26,10 @@
         <a href="https://mail.gnome.org/archives/foundation-announce/2007-October/msg00001.html">Referendum results announcement</a>
       </li>
       <li>
-        <a href="../../vote/votes.php?election_id=4">Archive of all votes</a>
+        <a href="../../votes.php?election_id=4">Archive of all votes</a>
       </li>
       <li>
-        <a href="../../vote/results.php?election_id=4">Preliminary results</a>
+        <a href="../../results.php?election_id=4">Preliminary results</a>
       </li>
       <!--
         <li>

@@ -9,7 +9,7 @@
   </head>
 
   <body>
-
+    <div id="content">
     <h1>GNOME Foundation Reducing Board Size Referendum</h1>
 
     <p>
@@ -53,10 +53,10 @@
         <a href="http://mail.gnome.org/archives/foundation-announce/2005-November/msg00009.html">Referendum results announcement</a>
       </li>
       <li>
-        <a href="../../vote/votes.php?election_id=1">Archive of all votes</a>
+        <a href="../../votes.php?election_id=1">Archive of all votes</a>
       </li>
       <li>
-        <a href="../../vote/results.php?election_id=1">Preliminary results</a>
+        <a href="../../results.php?election_id=1">Preliminary results</a>
       </li>
       <li>
         <a href="voters.html">List of registered voters</a>
