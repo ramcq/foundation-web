@@ -208,6 +208,7 @@ function submitPreferences() {
 ?>
   </head>
   <body>
+  <div id="content">
 <?php
  }
 ?>
