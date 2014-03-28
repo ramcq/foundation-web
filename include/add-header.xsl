@@ -45,7 +45,7 @@
     <div id="footer_grass"></div>
 
     <div id="footer">
-      <div class="container_12" id="container_12">
+    <div class="container_12" id="container_12">
         <div class="links grid_9">
           <div class="menu-footer-container">
             <ul id="menu-footer" class="menu">
@@ -154,10 +154,11 @@
         </div>
 
         <div id="footnotes" class="grid_9">
-         <p> Copyright &copy; 2005 - 2014 <a href="https://www.gnome.org/"><strong>The GNOME Project</strong></a>.<br />
+         <p> Copyright &copy; 2005 - 2013 <a href="https://www.gnome.org/"><strong>The GNOME Project</strong></a>.<br />
          <small><a href="http://validator.w3.org/check/referer">Optimised</a> for <a href=
           "http://www.w3.org/">standards</a>. Hosted by <a href=
           "http://www.redhat.com/">Red Hat</a>.
+          Powered by <a href="http://www.list.org/">MailMan</a>, <a href="http://www.python.org/">Python</a> and <a href="http://www.gnu.org/">GNU</a>.</small></p>
         </div>
       </div>
     </div>
