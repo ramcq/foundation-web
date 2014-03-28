@@ -1,4 +1,4 @@
-SUBDIRS = about contact img legal licensing membership news finance vote reports
+SUBDIRS = vote
 
 urlpath = 
 
