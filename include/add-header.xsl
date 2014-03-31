@@ -157,7 +157,7 @@
          <p> Copyright &copy; 2005 - 2013 <a href="https://www.gnome.org/"><strong>The GNOME Project</strong></a>.<br />
          <small><a href="http://validator.w3.org/check/referer">Optimised</a> for <a href=
           "http://www.w3.org/">standards</a>. Hosted by <a href=
-          "http://www.redhat.com/">Red Hat</a>.</p>
+          "http://www.redhat.com/">Red Hat</a>.</small></p>
         </div>
       </div>
     </div>
