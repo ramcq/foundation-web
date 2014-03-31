@@ -158,7 +158,6 @@
          <small><a href="http://validator.w3.org/check/referer">Optimised</a> for <a href=
           "http://www.w3.org/">standards</a>. Hosted by <a href=
           "http://www.redhat.com/">Red Hat</a>.
-          Powered by <a href="http://www.list.org/">MailMan</a>, <a href="http://www.python.org/">Python</a> and <a href="http://www.gnu.org/">GNU</a>.</small></p>
         </div>
       </div>
     </div>
