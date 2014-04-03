@@ -8,7 +8,7 @@ function get_members_from_sql () {
   if (is_readable ("/home/admin/secret/anonvoting")) {
     include ("/home/admin/secret/anonvoting");
   } else {
-    $error = "Can not get the authentication data.";
+    $error = "Cannot get the authentication data.";
     return FALSE;
   }
 
@@ -16,7 +16,7 @@ function get_members_from_sql () {
 
   $handle = mysql_connect ("$mysql_host", "$mysql_user", "$mysql_password");
   if (!$handle) {
-    $error = "Can not connect to the database.";
+    $error = "Cannot connect to the database.";
     return FALSE;
   }
   $result = mysql_query ("SET NAMES 'utf8'", $handle);
@@ -27,7 +27,7 @@ function get_members_from_sql () {
   $select_base = mysql_select_db ($mysql_db, $handle); 
   if (!$select_base) {
     mysql_close ($handle);
-    $error = "Can not select the database.";
+    $error = "Cannot select the database.";
     return FALSE;
   }
 
