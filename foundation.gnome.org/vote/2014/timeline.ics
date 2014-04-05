@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20140405T183050Z-31727@sapx230
+DTSTART;VALUE=DATE:20140505
+DTEND;VALUE=DATE:20140506
+DESCRIPTION:If you are a member of the GNOME Foundation and are interested
+  in running for election\, you may nominate yourself by sending an e-mail 
+ to foundation-announce@gnome.org with your name\, e-mail address\, corpora
+ te affiliation (if any)\, and a description of why you'd like to serve\, b
+ efore 2014-05-18 (23:59 UTC).\n     You should also send a summary of your
+  candidacy announcement (75 words or less) to elections@gnome.org. If you 
+ are not yet a GNOME Foundation member and would like to stand for election
+ \, you must first apply for membership and be accepted to be eligible to r
+ un. (You may\, however\, announce your candidacy prior to formal acceptanc
+ e of your application\; should your application not be accepted\, you will
+  not be included in the list of candidates.)\n    
+SUMMARY:Announcements and list of candidates opens
+END:VEVENT
+BEGIN:VEVENT
+UID:20140405T183050Z-74910@sapx230
+DTSTART;VALUE=DATE:20140518
+DTEND;VALUE=DATE:20140519
+DESCRIPTION:If you are a member of the GNOME Foundation and are interested
+  in running for election\, you may nominate yourself by sending an e-mail 
+ to foundation-announce@gnome.org with your name\, e-mail address\, corpora
+ te affiliation (if any)\, and a description of why you'd like to serve\, b
+ efore 2014-05-18 (23:59 UTC).\n     You should also send a summary of your
+  candidacy announcement (75 words or less) to elections@gnome.org. If you 
+ are not yet a GNOME Foundation member and would like to stand for election
+ \, you must first apply for membership and be accepted to be eligible to r
+ un. (You may\, however\, announce your candidacy prior to formal acceptanc
+ e of your application\; should your application not be accepted\, you will
+  not be included in the list of candidates.)\n    
+SUMMARY:List of candidates closed
+END:VEVENT
+BEGIN:VEVENT
+UID:20140405T183050Z-75065@sapx230
+DTSTART;VALUE=DATE:20140521
+DTEND;VALUE=DATE:20140522
+DESCRIPTION:You may now start to send your questions to the candidates
+SUMMARY:List of candidates announced
+END:VEVENT
+BEGIN:VEVENT
+UID:20140405T183050Z-68474@sapx230
+DTSTART;VALUE=DATE:20140525
+DTEND;VALUE=DATE:20140526
+DESCRIPTION:Please read your email and follow these instructions and submi
+ t your vote by 2014-06-08
+SUMMARY:Instructions to vote are sent
+END:VEVENT
+BEGIN:VEVENT
+UID:20140405T183050Z-27813@sapx230
+DTSTART;VALUE=DATE:20140608
+DTEND;VALUE=DATE:20140609
+DESCRIPTION:Preliminary results are announced on 2014-06-10
+SUMMARY:Votes must be returned
+END:VEVENT
+BEGIN:VEVENT
+UID:20140405T183050Z-13457@sapx230
+DTSTART;VALUE=DATE:20140610
+DTEND;VALUE=DATE:20140611
+DESCRIPTION:The preliminary results can be challenged until 2014-06-17
+SUMMARY:Preliminary results are announced
+END:VEVENT
+BEGIN:VEVENT
+UID:20140405T183050Z-3298@sapx230
+DTSTART;VALUE=DATE:20140617
+DTEND;VALUE=DATE:20140618
+DESCRIPTION:If there weren't any challenges\, preliminary results are vali
+ d
+SUMMARY:Challenges to the results closed
+END:VEVENT
+X-WR-TIMEZONE:UTC
+END:VCALENDAR
+
