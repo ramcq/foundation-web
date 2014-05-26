@@ -6,7 +6,7 @@ function step2_do () {
   global $vote;
   global $votes_array;
 
-  $result = "<div id='content'>"
+  $result = "<div id=\"content\">\n";
 
   $result .= "<h2>Step 2/4 - Choose your vote</h2>\n";
 
