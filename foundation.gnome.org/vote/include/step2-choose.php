@@ -6,9 +6,7 @@ function step2_do () {
   global $vote;
   global $votes_array;
 
-  $result = "<div id=\"content\">\n";
-
-  $result .= "<h2>Step 2/4 - Choose your vote</h2>\n";
+  $result = "<h2>Step 2/4 - Choose your vote</h2>\n";
 
   $result .= "<p>Choose your candidates in the order of your preference by ";
   $result .= "clicking on them. Don't worry, if you click on someone by mistake ";
@@ -35,8 +33,6 @@ function step2_do () {
   $result .= "<h3>Preferences</h3>\n";
   $result .= "<ol id=\"preferences\">\n";
   $result .= "</ol>\n";
-
-  $result .= "</div>\n";
 
   return $result;
 }
