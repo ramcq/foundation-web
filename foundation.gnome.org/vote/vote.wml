@@ -207,7 +207,6 @@ function submitPreferences() {
 ?>
   </head>
   <body>
-  <div id="content">
 <?php
  }
 ?>
@@ -217,6 +216,7 @@ function submitPreferences() {
 
 
 if (isset ($election) && $election !== FALSE) {
+  echo "<div id=\"content\">";
   echo "<h1>".htmlspecialchars($election["name"])."</h1>\n";
 }
 
