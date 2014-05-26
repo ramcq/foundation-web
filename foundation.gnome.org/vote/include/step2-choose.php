@@ -33,6 +33,7 @@ function step2_do () {
   $result .= "<h3>Preferences</h3>\n";
   $result .= "<ol id=\"preferences\">\n";
   $result .= "</ol>\n";
+  $result .= "</div>\n";
 
   return $result;
 }
