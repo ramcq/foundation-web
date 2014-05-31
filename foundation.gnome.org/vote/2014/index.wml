@@ -39,10 +39,10 @@
         <li>
             <a href="../../votes.php?election_id=21">List of all votes</a>
         </li>
+-->
         <li>
             <a href="../../vote.php?election_id=21">Interface to vote</a>
         </li>
--->
 
         <li>
             <a href="candidates.html">List of candidates for Board of Directors</a>
