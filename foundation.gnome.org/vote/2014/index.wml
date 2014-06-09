@@ -33,13 +33,13 @@
         <li>
             <a href="https://mail.gnome.org/archives/foundation-list/2014-June/msg00015.html">Election results announcement</a>
         </li>
+--->
         <li>
             <a href="../../results.php?election_id=22">Detailed election results</a>
         </li>
         <li>
             <a href="../../votes.php?election_id=22">List of all votes</a>
         </li>
--->
         <li>
             <a href="../../vote.php?election_id=22">Interface to vote</a>
         </li>
