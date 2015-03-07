@@ -6,9 +6,12 @@
 
   <name xml:lang="en">Website foundation.gnome.org</name>
   <shortdesc xml:lang="en">Website foundation.gnome.org</shortdesc>
+  <description>Website foundation.gnome.org</description>
   <homepage rdf:resource="http://foundation.gnome.org" />
   <mailing-list rdf:resource="http://mail.gnome.org/mailman/listinfo/foundation-list" />
   <category rdf:resource="http://api.gnome.org/doap-extensions#infrastructure" />
+  <programming-language>HTML</programming-language>
+  <programming-language>Python</programming-language>
 
   <maintainer>
     <foaf:Person>
