@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20150503T231816Z-97342@spaceshuttle
+DTSTART;VALUE=DATE:20150506
+DTEND;VALUE=DATE:20150507
+DESCRIPTION:If you are a member of the GNOME Foundation and are interested
+  in running for election\, you may nominate yourself by sending an e-mail 
+ to foundation-announce@gnome.org with your name\, e-mail address\, corpora
+ te affiliation (if any)\, and a description of why you'd like to serve\, b
+ efore 2015-05-18 (23:59 UTC).\n     You should also send a summary of your
+  candidacy announcement (75 words or less) to elections@gnome.org. If you 
+ are not yet a GNOME Foundation member and would like to stand for election
+ \, you must first apply for membership and be accepted to be eligible to r
+ un. (You may\, however\, announce your candidacy prior to formal acceptanc
+ e of your application\; should your application not be accepted\, you will
+  not be included in the list of candidates.)\n    
+SUMMARY:Announcements and list of candidates opens
+END:VEVENT
+BEGIN:VEVENT
+UID:20150503T231816Z-41384@spaceshuttle
+DTSTART;VALUE=DATE:20150518
+DTEND;VALUE=DATE:20150519
+DESCRIPTION:If you are a member of the GNOME Foundation and are interested
+  in running for election\, you may nominate yourself by sending an e-mail 
+ to foundation-announce@gnome.org with your name\, e-mail address\, corpora
+ te affiliation (if any)\, and a description of why you'd like to serve\, b
+ efore 2015-05-18 (23:59 UTC).\n     You should also send a summary of your
+  candidacy announcement (75 words or less) to elections@gnome.org. If you 
+ are not yet a GNOME Foundation member and would like to stand for election
+ \, you must first apply for membership and be accepted to be eligible to r
+ un. (You may\, however\, announce your candidacy prior to formal acceptanc
+ e of your application\; should your application not be accepted\, you will
+  not be included in the list of candidates.)\n    
+SUMMARY:List of candidates closed
+END:VEVENT
+BEGIN:VEVENT
+UID:20150503T231816Z-38077@spaceshuttle
+DTSTART;VALUE=DATE:20150521
+DTEND;VALUE=DATE:20150522
+DESCRIPTION:You may now start to send your questions to the candidates
+SUMMARY:List of candidates announced
+END:VEVENT
+BEGIN:VEVENT
+UID:20150503T231816Z-48890@spaceshuttle
+DTSTART;VALUE=DATE:20150525
+DTEND;VALUE=DATE:20150526
+DESCRIPTION:Please read your email and follow these instructions and submi
+ t your vote by 2015-06-08
+SUMMARY:Instructions to vote are sent
+END:VEVENT
+BEGIN:VEVENT
+UID:20150503T231816Z-43948@spaceshuttle
+DTSTART;VALUE=DATE:20150608
+DTEND;VALUE=DATE:20150609
+DESCRIPTION:Preliminary results are announced on 2015-06-10
+SUMMARY:Votes must be returned
+END:VEVENT
+BEGIN:VEVENT
+UID:20150503T231816Z-60213@spaceshuttle
+DTSTART;VALUE=DATE:20150610
+DTEND;VALUE=DATE:20150611
+DESCRIPTION:The preliminary results can be challenged until 2015-06-17
+SUMMARY:Preliminary results are announced
+END:VEVENT
+BEGIN:VEVENT
+UID:20150503T231816Z-57635@spaceshuttle
+DTSTART;VALUE=DATE:20150617
+DTEND;VALUE=DATE:20150618
+DESCRIPTION:If there weren't any challenges\, preliminary results are vali
+ d
+SUMMARY:Challenges to the results closed
+END:VEVENT
+X-WR-TIMEZONE:UTC
+END:VCALENDAR
+
