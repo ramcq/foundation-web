@@ -41,12 +41,12 @@
         </li>
         <li>
             <a href="../../vote.php?election_id=22">Interface to vote</a>
-        </li>
+        </li> -->
 
         <li>
             <a href="candidates.html">List of candidates for Board of Directors</a>
         </li>
-        <li>
+<!--        <li>
             <a href="http://www.gnome.org/foundation/membership/?date=2015-05-30">List of registered voters</a>
         </li> 
 -->
