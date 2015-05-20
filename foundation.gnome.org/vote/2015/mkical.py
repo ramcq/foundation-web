@@ -55,11 +55,9 @@ CANDIDATES_OPENED = (
     you'd like to serve, before
     %s (23:59 UTC).""" % d(*CANDIDATES_CLOSED_DATE)) + '''
     ''' + c("""    
-    You should also send a summary of your candidacy announcement 
-    (75 words or less) to elections@gnome.org. If you are not yet a 
-    GNOME Foundation member and would like to stand for election, 
-    you must first apply for membership and be accepted to be eligible 
-    to run. (You may, however, announce your candidacy prior to formal 
+    If you are not yet a GNOME Foundation member and would like to stand
+    for election, you must first apply for membership and be accepted to be
+    eligible to run. (You may, however, announce your candidacy prior to formal 
     acceptance of your application;
     should your application not be accepted, you will not be included in 
     the list of candidates.)""") + '''
