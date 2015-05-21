@@ -46,10 +46,9 @@
         <li>
             <a href="candidates.html">List of candidates for Board of Directors</a>
         </li>
-<!--        <li>
+        <li>
             <a href="electorate.txt">List of registered voters</a>
         </li> 
--->
     
         <li>
             <a href="rules.html">Elections Rules and Timeline</a> (webcal <a
