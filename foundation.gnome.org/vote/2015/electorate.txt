@@ -1,3 +1,5 @@
+List of Foundation members as of 21-05-2015
+
 Philip Langdale
 Arun Raghavan
 Philippe Normand
