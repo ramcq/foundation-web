@@ -5,11 +5,10 @@ urlpath = /vote/2015
 page_SCRIPTS = \
 	index.html \
 	candidates.html\
-	rules.html 
+	rules.html
 
 page_DATA = \
-	timeline.ics
-	mkical.py
+	timeline.ics \
 	electorate.txt
 
 include $(top_srcdir)/rules.common
