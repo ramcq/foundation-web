@@ -10,5 +10,6 @@ page_SCRIPTS = \
 page_DATA = \
 	timeline.ics
 	mkical.py
+	electorate.txt
 
 include $(top_srcdir)/rules.common
