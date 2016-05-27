@@ -1,250 +1,254 @@
 List of Foundation members as of 21-05-2016
 
-Philip Langdale langdalepl@gmail.com
-Arun Raghavan arun@accosted.net
-Philippe Normand phil@base-art.net
-Petr Kovář pknbe@volny.cz
-Javier Hernández jhernandez@emergya.es
-Jose Angel skymix.es@gmail.com
-Martin Robinson mrobinson@igalia.com
-Jared L jaredljennings@gmail.com
-Sahil Sareen sahil.sareen@hotmail.com
-Igor Gnatenko i.gnatenko.brain@gmail.com
-Jehan Pagès jehan@girinstud.io
-Frederic Muller fredm@beijinglug.org
-Shaun McCance shaunm@fastmail.net
-Vivien Malerba vmalerba@gmail.com
-Ikey Doherty ikey@evolve-os.com
-Jonathan Kang jonathan121537@gmail.com
-Alessandro Bono abono@openmailbox.org
-Florian Müllner florian.muellner@gmail.com
-Greg Kroah-Hartman gregkh@linuxfoundation.org
-Ignacio Casal nacho.resa@gmail.com
-Shivani Poddar shivani.poddar92@gmail.com
-Hubert Figuière hub@figuiere.net
-Vladimír Beneš benesv@email.cz
-Emmanuele Bassi ebassi@gmail.com
-Debarshi Ray rishi.is@lostca.se
-Will Thompson will@willthompson.co.uk
-Magdalen Berns m.berns@thismagpie.com
-Thibault Saunier saunierthibault@gmail.com
-Juan Pablo juanpablougarte@gmail.com
-Pranav Kant pranav913@gmail.com
-Xan Lopez xan.lopez@gmail.com
-Aleksander Morgado aleksander@gnu.org
-Anish Patil anish.developer@gmail.com
-Efstathios Iosifidis iefstathios@gmail.com
-Christian Persch christian@hpersch.de
-Matthew Barnes mbarnes@redhat.com
-Josh Triplett josh@joshtriplett.org
-Olivier Crête olivier.crete@ocrete.ca
-Tim Lunn tim@feathertop.org
-Jonas Ådahl jadahl@gmail.com
-Tim Janik timj@gtk.org
-Karen Sandler gnome@punkrocklawyer.com
-Rob Bradford rob@robster.org.uk
-Juan Jose juanjomarin96@yahoo.es
-Julita Inca jinca@pucp.pe
-Robert Roth robert.roth.off@gmail.com
-Trần Ngọc vnwildman@gmail.com
-Misha Shnurapet shnurapet@fedoraproject.org
-Cheng-Chia Tseng pswo10680@gmail.com
-Alexandre Franke alexandre.franke@gmail.com
-Rui Matos tiagomatos@gmail.com
-Dave Neary nearyd@gmail.com
-Murray Cumming murrayc@murrayc.com
-Felipe Erias felipeerias@gmail.com
-Edward Hervey bilboed@bilboed.com
-Bootingman Wen, wen@bootingman.org
-Hau Heng haggenso@gmail.com
-Tong Hui tonghuix@gmail.com
-Miao Yu willyu86@gmail.com
-Sri Ramkrishna sri@ramkrishna.me
-Pamela Chestek pamela@chesteklegal.com
-Kalev Lember kalevlember@gmail.com
-Danielle Madeley danielle@madeley.id.au
-Ines Chen soyines1211@gmail.com
-Felipe Borges felipe10borges@gmail.com
-Tobias Mueller muelli@cryptobitch.de
-Antoine Jacoutot ajacoutot@openbsd.org
-Max Huang sakanamax@gmail.com
-Piotr Drąg piotrdrag@gmail.com
-Rūdolfs Mazurs rudolfs.mazurs@gmail.com
-Isaque Galdino igaldino@gmail.com
-Carlos Garnacho mrgarnacho@gmail.com
-Michael Hill mdhillca@gmail.com
-Mattias Bengtsson mattias.jc.bengtsson@gmail.com
-Federico Mena federico.mena@gmail.com
-Robert Ancell robert.ancell@gmail.com
-Matthew Garrett mjg59@srcf.ucam.org
-Ray Strode halfline@gmail.com
-Cosimo Cecchi cosimo.cecchi@gmail.com
-Nirbheek Chauhan nirbheek.chauhan@gmail.com
-Bastian Ilsø hougaard.junior@gmail.com
-Gustavo Noronha gnome@kov.eti.br
-Frederic Peters fpeters@0d.be
-Jens Georg mail@jensge.org
-Nilamdyuti Goswami nilamdyuti@gmail.com
-Sebastien Granjoux seb.sfo@free.fr
-Chao-Hsiung Liao j_h_liau@yahoo.com.tw
-Fabiana Pedreira fabianapsimoes@gmail.com
-Patrick Griffis tingping@tingping.se
-Victor Toso me@victortoso.com
-Michael Catanzaro mike.catanzaro@gmail.com
-Adam Dingle adam@yorba.org
-Tristan Van tristan@upstairslabs.com
-Sébastien Wilmet sebastien.wilmet@gmail.com
-Nikhar Agrawal nikharagrawal2006@gmail.com
-Luis de luis@debethencourt.com
-Vincent Untz gnome@vuntz.net
-Sagar Ghuge ghugesss@gmail.com
-Milo Casagrande milo.casagrande@gmail.com
-Jim Hall jhall@freedos.org
-Marcin Kolny marcin.kolny@gmail.com
-Rodrigo Moya rodrigo@gnome-db.org
-Pascal Terjan pascal.terjan@free.fr
-Felix Riemann felix@hsgheli.de
-Stefano Facchini stefano.facchini@gmail.com
-Ross Burton ross@burtonini.com
-Damien Sandras dsandras@seconix.com
-Jakub Steiner jimmac@gmail.com
-Marcos Chavarría chavarria1991@gmail.com
-Jan Schmidt thaytan@mad.scientist.com
-Srinivasa Ragavan sragavan@gmail.com
-Fabio Tomat f.t.public@gmail.com
-Allan Day allanpday@gmail.com
-Daiki Ueno ueno@unixuser.org
-Simon Budig simon@budig.de
-Marco Barisione barisione@gmail.com
-Aron Xu happyaron.xu@gmail.com
-Olav Vitters olav@vitters.nl
-Michael Meeks michael@ximian.com
-Andres Gomez tanty0@gmail.com
-Estu Fardani andro.medh4@gmail.com
-Alexander Larsson alexl@redhat.com
-Benjamin Otte otte.benjamin@googlemail.com
-Gil Forcada gil.gnome@gmail.com
-Jordi Mallach jordi@sindominio.net
-Rafael Villar pachi@rvburke.com
-Yu Liansu yuliansu@gmail.com
-David King amigadave@amigadave.com
-Morten Welinder mwelinder@gmail.com
-Bastien Nocera hadess@hadess.net
-Adelia Rahim adeliarahim@gmail.com
-Jana Svarova jsvarova@redhat.com
-Joaquim Manuel joaquimrocha1@gmail.com
-Michael Natterer mitch@gimp.org
-Germán Poo-Caamaño gpoo@calcifer.org
-Carlos Soriano csoriano@redhat.com
-Seong-ho Cho darkcircle.0426@gmail.com
-Lubomir Rintel lkundrak@v3.sk
-Pierre-Yves Luyten py@luyten.fr
-Jean-François Fortin nekohayo@gmail.com
-Marcus Lundblad ml@update.uu.se
-Emmanuel Pacaud emmanuel.pacaud@lapp.in2p3.fr
-Sebastian Dröge slomo@coaxion.net
-Simon McVittie simon.mcvittie@collabora.co.uk
-Marina Zhurakhinskaya marinazik@gmail.com
-Ismael Olea ismael@olea.org
-Sreerenj Balachandran bsreerenj@gmail.com
-Thomas Haller thaller@redhat.com
-Lasse Schuirmann lasse.schuirmann@gmail.com
-Baurzhan Muftakhidinov baurthefirst@gmail.com
-Allison Ryan desrt@desrt.ca
-Daniel Espinosa esodan@gmail.com
-Alejandro Piñeiro apinheiro@igalia.com
-Maciej Marcin uzytkownik2@gmail.com
-Frédéric Crozat fred+gnome@crozat.net
-Claude Paroz claude@2xlibre.net
-Paolo Borelli paolo.borelli@gmail.com
-Patrick Uiterwijk puiterwijk@redhat.com
-Laurent Bigonville bigon@bigon.be
-Ali Jawad amjjawad@gmail.com
-Kjartan Maraas kjartan.maraas@gmail.com
-Tiffany Antopolski tiffany@antopolski.com
-Bertrand Lorentz bertrand.lorentz@gmail.com
-Rashi Aswani aswanirashi19@gmail.com
-Garrett Regier garrettregier@gmail.com
-Jiri Eischmann jiri@eischmann.cz
-Cassandra Sanchez cassandra.s.18@gmail.com
-Lars Uebernickel lars@uebernic.de
-Tim-Philipp Müller tim@centricular.net
-Will LaShell will@lashell.net
-Christian Hergert christian@hergert.me
-Bin Li libin.charles@gmail.com
-Siska Restu seattle.bray@gmail.com
-Ahmad Haris ahmadharis1982@gmail.com
-Kunal Jain kunaalus@gmail.com
-Krzesimir Nowak qdlacz@gmail.com
-Andre Klapper ak-47@gmx.net
-Andreas Nilsson andreas@andreasn.se
-Rafael Fontenelle rffontenelle@gmail.com
-Juan A. jasuarez@igalia.com
-Johannes Schmid jhs@jsschmid.de
-Yosef Or yoseforb@gmail.com
-Andika Triwidada andika@gmail.com
-Guillaume Desmottes guillaume@desmottes.be
-Lapo Calamandrei calamandrei@gmail.com
-Luis Menina liberforce@freeside.fr
-Sébastien Lafargue slaf66@gmail.com
-Andrés Aragoneses knocte@gmail.com
-Fabio Duran fabio@gnome.cl
-Zeeshan Ali zeenix@gmail.com
-Jonas Danielsson jonas@threetimestwo.org
-Leonardo Ferreira leonardof@fastmail.fm
-Emilio Pozuelo pochu27@gmail.com
-Christophe Fergeau christophe@fergeau.eu
-Ekaterina Gerasimova kittykat3756@gmail.com
-Dodji Seketeli dodji@seketeli.org
-Owen Taylor otaylor@redhat.com
-Simon Feltman s.feltman@gmail.com
-Kay Sievers kay@vrfy.org
-Seif Lotfy seif@lotfy.com
-Adel Gadllah adel.gadllah@gmail.com
-Balasankar C balasankarc@autistici.org
-Mathieu Bridon bochecha@daitauha.fr
-Mirco M. meebey@gmail.com
-Reynaldo H. rverdejo@gmail.com
-Sammy Fung sammy@opensource.hk
-Martyn James martyn@lanedo.com
-Sebastian Keller sebastian-keller@gmx.de
-Adam Janos reviczky@gmail.com
-ChangSeok Oh shivamidow@gmail.com
-Benjamin Berg benjamin@sipsolutions.net
-Mario Wenzel maweki@gmail.com
-Joanmarie Diggs jdiggs@igalia.com
-Emanuele Aina emanuele.aina@gmail.com
-Jonathan Blandford jblandford@gmail.com
-Adrien Plazas kekun.plazas@laposte.net
-Sam Thursfield sam@afuera.me.uk
-Carlos Garcia elkalmail@yahoo.es
-Andrea Veri andrea.veri@gmail.com
-Francisco Diéguez fran.dieguez@mabishu.com
-Rosanna Yuen rosannayuen@gmail.com
-Flavia Weisghizzi flavia.weisghizzi@gmail.com
-Fabiano Fidêncio fabiano@fidencio.org
-Wouter Bolsterlee wbolster@gnome.org
-Georges Basile georges.stavracas@gmail.com
-Stefan Kost ensonic@hora-obscura.de
-Richard Hughes richard@hughsie.com
-Erick Pérez erick.red@gmail.com
-Javier Jardón javierjc1982@gmail.com
-Philip Withnall philip@tecnocode.co.uk
-Emily Gonyer emilyyrose@gmail.com
-Jose Aliste jose.aliste@gmail.com
-Meg Ford meg387@gmail.com
-Shobha Tyagi tyagishobha@gmail.com
-Thomas Wood thos@thos.me.uk
-Jonny Lamb jonnylamb@jonnylamb.com
-Ole Aamot oka@oka.no
-Daniel Mustieles daniel.mustieles@gmail.com
-Jiro Matsuzawa matsuzawa.jr@gmail.com
-David Zeuthen zeuthen@gmail.com
-Arx Henrique arxcruz@gmail.com
-Fábio Ricardo deb.user.ba@gmail.com
-Scott Reeves sreeves@novell.com
-Alberto Ruiz arclnx@gmail.com
-Tom Tryfonidis tomtryf@gmail.com
-Thomas Bechtold thomasbechtold@jpberlin.de
-Matthias Clasen mclasen@redhat.com
-
+Adam Dingle
+Adam Janos
+Adel Gadllah
+Adelia Rahim
+Adrien Plazas
+Ahmad Haris
+Alberto Garcia
+Alberto Ruiz
+Alejandro Piñeiro
+Aleksander Morgado
+Alessandro Bono
+Alexander Larsson
+Alexandre Franke
+Ali Jawad
+Allan Day
+Allison Ryan
+Andika Triwidada
+Andre Klapper
+Andrea Veri
+Andreas Nilsson
+Andres Gomez
+Andrés Aragoneses
+Anish Patil
+Antoine Jacoutot
+Aron Xu
+Arun Raghavan
+Arx Henrique
+Balasankar C
+Bastian Ilsø
+Bastien Nocera
+Baurzhan Muftakhidinov
+Benjamin Berg
+Benjamin Otte
+Bertrand Lorentz
+Bin Li
+Bootingman Wen,
+Carlos Garcia
+Carlos Garnacho
+Carlos Soriano
+Cassandra Sanchez
+ChangSeok Oh
+Chao-Hsiung Liao
+Cheng-Chia Tseng
+Christian Hergert
+Christian Persch
+Christophe Fergeau
+Claude Paroz
+Cosimo Cecchi
+Daiki Ueno
+Damien Sandras
+Daniel Espinosa
+Daniel Mustieles
+Danielle Madeley
+Dave Neary
+David King
+David Zeuthen
+Debarshi Ray
+Dodji Seketeli
+Edward Hervey
+Efstathios Iosifidis
+Ekaterina Gerasimova
+Emanuele Aina
+Emilio Pozuelo
+Emily Chen
+Emily Gonyer
+Emmanuel Pacaud
+Emmanuele Bassi
+Erick Pérez
+Estu Fardani
+Fabiana Pedreira
+Fabiano Fidêncio
+Fabio Duran
+Fabio Tomat
+Federico Mena
+Felipe Borges
+Felipe Erias
+Felix Riemann
+Flavia Weisghizzi
+Florian Müllner
+Francisco Diéguez
+Frederic Muller
+Frederic Peters
+Frédéric Crozat
+Fábio Ricardo
+Garrett Regier
+Georges Basile
+Germán Poo-Caamaño
+Gil Forcada
+Greg Kroah-Hartman
+Guillaume Desmottes
+Gustavo Noronha
+Hau Heng
+Hubert Figuière
+Ignacio Casal
+Igor Gnatenko
+Ikey Doherty
+Ines Chen
+Isaque Galdino
+Ismael Olea
+Jakub Steiner
+Jan Schmidt
+Jana Svarova
+Jared L
+Javier Hernández
+Javier Jardón
+Jean-François Fortin
+Jehan Pagès
+Jens Georg
+Jim Hall
+Jiri Eischmann
+Jiro Matsuzawa
+Joanmarie Diggs
+Joaquim Manuel
+Johannes Schmid
+Jonas Danielsson
+Jonas Ådahl
+Jonathan Blandford
+Jonathan Kang
+Jonny Lamb
+Jordi Mallach
+Jose Aliste
+Jose Angel
+Josh Triplett
+Juan A.
+Juan Jose
+Juan Pablo
+Julita Inca
+Kalev Lember
+Karen Sandler
+Kay Sievers
+Kjartan Maraas
+Krzesimir Nowak
+Kunal Jain
+Lapo Calamandrei
+Lars Uebernickel
+Lasse Schuirmann
+Laurent Bigonville
+Leonardo Ferreira
+Lubomir Rintel
+Luis Menina
+Luis de
+Maciej Marcin
+Magdalen Berns
+Marcin Kolny
+Marco Barisione
+Marcos Chavarría
+Marcus Lundblad
+Marina Zhurakhinskaya
+Mario Sanchez
+Mario Wenzel
+Martin Robinson
+Martyn James
+Mathieu Bridon
+Matthew Barnes
+Matthew Garrett
+Matthias Clasen
+Mattias Bengtsson
+Max Huang
+Meg Ford
+Miao Yu
+Michael Catanzaro
+Michael Hill
+Michael Meeks
+Michael Natterer
+Milo Casagrande
+Mirco M.
+Misha Shnurapet
+Morten Welinder
+Murray Cumming
+Nikhar Agrawal
+Nilamdyuti Goswami
+Nirbheek Chauhan
+Nuritzi Sanchez
+Olav Vitters
+Ole Aamot
+Olivier Crête
+Owen Taylor
+Pamela Chestek
+Paolo Borelli
+Pascal Terjan
+Patrick Griffis
+Patrick Uiterwijk
+Petr Kovář
+Philip Langdale
+Philip Withnall
+Philippe Normand
+Phillip Wood
+Pierre-Yves Luyten
+Piotr Drąg
+Pranav Kant
+Rafael Fontenelle
+Rafael Villar
+Rashi Aswani
+Ray Strode
+Reynaldo H.
+Richard Hughes
+Rob Bradford
+Robert Ancell
+Robert Roth
+Rodrigo Moya
+Rosanna Yuen
+Ross Burton
+Rui Matos
+Rūdolfs Mazurs
+Sagar Ghuge
+Sahil Sareen
+Sam Thursfield
+Sammy Fung
+Scott Reeves
+Sebastian Dröge
+Sebastian Keller
+Sebastien Granjoux
+Seif Lotfy
+Seong-ho Cho
+Shaun McCance
+Shivani Poddar
+Shobha Tyagi
+Simon Budig
+Simon Feltman
+Simon McVittie
+Siska Restu
+Sreerenj Balachandran
+Sri Ramkrishna
+Srinivasa Ragavan
+Stefan Kost
+Stefano Facchini
+Sébastien Lafargue
+Sébastien Wilmet
+Thibault Saunier
+Thomas Bechtold
+Thomas Haller
+Thomas Wood
+Tiffany Antopolski
+Tim Janik
+Tim Lunn
+Tim-Philipp Müller
+Tobias Mueller
+Tom Tryfonidis
+Tong Hui
+Tristan Van
+Trần Ngọc
+Victor Toso
+Vincent Untz
+Vivien Malerba
+Vladimír Beneš
+Will LaShell
+Will Thompson
+Wouter Bolsterlee
+Xan Lopez
+Yosef Or
+Yu Liansu
+Zeeshan Ali
