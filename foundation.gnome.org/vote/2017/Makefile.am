@@ -1,6 +1,6 @@
 SUBDIRS =
 
-urlpath = /vote/2016
+urlpath = /vote/2017
  
 page_SCRIPTS = \
 	index.html \
