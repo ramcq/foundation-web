@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20170512T071647Z - 26111@honneamise
+DTSTART;VALUE=DATE:20170512
+DTEND;VALUE=DATE:20170513
+DESCRIPTION:If you are a member of the GNOME Foundation and are interested 
+ in running for election\, you may nominate yourself by sending an e-mail t
+ o foundation-announce@gnome.org with your name\, e-mail address\, corporat
+ e affiliation (if any)\, and a description of why you'd like to serve\, be
+ fore 2017-05-24 (23:59 UTC).\n     If you are not yet a GNOME Foundation m
+ ember and would like to stand for election\, you must first apply for memb
+ ership and be accepted to be eligible to run. (You may\, however\, announc
+ e your candidacy prior to formal acceptance of your application\; should y
+ our application not be accepted\, you will not be included in the list of 
+ candidates.)\n    
+SUMMARY:Announcements and list of candidates opens
+END:VEVENT
+BEGIN:VEVENT
+UID:20170512T071647Z - 83700@honneamise
+DTSTART;VALUE=DATE:20170524
+DTEND;VALUE=DATE:20170525
+DESCRIPTION:If you are a member of the GNOME Foundation and are interested 
+ in running for election\, you may nominate yourself by sending an e-mail t
+ o foundation-announce@gnome.org with your name\, e-mail address\, corporat
+ e affiliation (if any)\, and a description of why you'd like to serve\, be
+ fore 2017-05-24 (23:59 UTC).\n     If you are not yet a GNOME Foundation m
+ ember and would like to stand for election\, you must first apply for memb
+ ership and be accepted to be eligible to run. (You may\, however\, announc
+ e your candidacy prior to formal acceptance of your application\; should y
+ our application not be accepted\, you will not be included in the list of 
+ candidates.)\n    
+SUMMARY:List of candidates closed
+END:VEVENT
+BEGIN:VEVENT
+UID:20170512T071647Z - 87900@honneamise
+DTSTART;VALUE=DATE:20170525
+DTEND;VALUE=DATE:20170526
+DESCRIPTION:You may now start to send your questions to the candidates
+SUMMARY:List of candidates announced
+END:VEVENT
+BEGIN:VEVENT
+UID:20170512T071647Z - 80638@honneamise
+DTSTART;VALUE=DATE:20170526
+DTEND;VALUE=DATE:20170527
+DESCRIPTION:Please read your email and follow these instructions and submit
+  your vote by 2017-06-09
+SUMMARY:Instructions to vote are sent
+END:VEVENT
+BEGIN:VEVENT
+UID:20170512T071647Z - 5475@honneamise
+DTSTART;VALUE=DATE:20170609
+DTEND;VALUE=DATE:20170610
+DESCRIPTION:Preliminary results are announced on 2017-06-12
+SUMMARY:Votes must be returned
+END:VEVENT
+BEGIN:VEVENT
+UID:20170512T071647Z - 92835@honneamise
+DTSTART;VALUE=DATE:20170612
+DTEND;VALUE=DATE:20170613
+DESCRIPTION:The preliminary results can be challenged until 2017-06-19
+SUMMARY:Preliminary results are announced
+END:VEVENT
+BEGIN:VEVENT
+UID:20170512T071647Z - 87294@honneamise
+DTSTART;VALUE=DATE:20170619
+DTEND;VALUE=DATE:20170620
+DESCRIPTION:If there weren't any challenges\, preliminary results are valid
+SUMMARY:Challenges to the results closed
+END:VEVENT
+X-WR-TIMEZONE:UTC
+END:VCALENDAR
+
