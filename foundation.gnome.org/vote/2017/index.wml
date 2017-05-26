@@ -42,13 +42,13 @@
         <li>
             <a href="../../vote.php?election_id=24">Interface to vote</a>
         </li>
+-->
        <li>
             <a href="electorate.txt">List of registered voters</a>
         </li> 
         <li>
             <a href="candidates.html">List of candidates for Board of Directors</a>
         </li>
--->
         <li>
             <a href="rules.html">Elections Rules and Timeline</a> (webcal <a
             href="webcal://vote.gnome.org/2017/timeline.ics">timeline</a>)

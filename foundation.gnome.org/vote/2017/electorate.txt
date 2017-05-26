@@ -1,0 +1,224 @@
+Victor Manuel Jaquez Leal
+Greg Kroah-Hartman
+Andres Gomez
+Sammy Fung
+Philip Withnall
+Carlos Soriano
+Laurent Bigonville
+Lubomir Rintel
+Debarshi Ray
+Walter Vargas
+Zeeshan Ali
+Muhammet Kara
+Owen Taylor
+Frédéric Crozat
+Simon Budig
+Christian Kirbach
+Jehan Pagès
+Timm Bäder
+Andrés Aragoneses
+Ray Strode
+W. Michael Petullo
+Yuri Konotopov
+Zhenning Li
+Mathieu Bridon
+Francisco Diéguez Souto
+Christian Persch
+Christian Hergert
+Andreas Nilsson
+Luis de Bethencourt
+Mattias Bengtsson
+Efstathios Iosifidis
+Baurzhan Muftakhidinov
+Jonny Lamb
+Tong Hui
+Will Thompson
+Ignacio Casal Quinteiro
+Emmanuele Bassi
+Marina Zhurakhinskaya
+Ines Chen
+Adam Janos Reviczky
+Javier Hernández Antúnez
+Aron Xu
+Adam Dingle
+Jens Georg
+Sébastien Wilmet
+Claude Paroz
+Patrick Griffis
+Phillip Wood
+Bin Li
+Ole Aamot
+Cosimo Cecchi
+Matthias Clasen
+Jonas Ådahl
+Trần Ngọc Quân
+Allan Day
+Flavia Weisghizzi
+Nirbheek Chauhan
+Sébastien Lafargue
+Erick Pérez Castellanos
+Sebastien Granjoux
+Adelia Rahim
+Daniel Espinosa Ortiz
+Hau Heng Haggen So
+Lars Uebernickel
+Pascal Terjan
+Arun Raghavan
+Thomas Bechtold
+Alexandru Băluț
+Michael Natterer
+Alexandru-Ionut Pandelea
+Bertrand Lorentz
+Damien Sandras
+Aryeom Han
+Garrett Regier
+Sagar Ghuge
+Meng Zhuo
+Gomez Guillaume
+Max Huang
+Jakub Steiner
+Javier Jardón Cabezas
+Fabio Duran Verdugo
+Petr Štětka
+Ismael Olea
+Georges Basile Stavracas Neto
+Daniel Mustieles García
+Scott Reeves
+Alessandro Bono
+Ankit
+Stefan Sauer
+Oliver Propst
+Andre Klapper
+Juraj Fiala
+Rafael Villar Burke
+Cheng-Chia Tseng
+Rodrigo Moya
+Piotr Drąg
+Maciej Marcin Piechotka
+ChangSeok Oh
+Bootingman Wen, Qixiang
+Adrien Plazas
+Petr Kovář
+Sri Ramkrishna
+Michael Catanzaro
+Yosef Or Boczko
+Sam Thursfield
+Rūdolfs Mazurs
+Igor Gnatenko
+Mario Wenzel
+Sahil Sareen
+Shobha Tyagi
+Isaque Galdino de Araujo
+Kjartan Maraas
+Pravin Satpute
+Nikhar Agrawal
+Felix Riemann
+DaeHyun Sung
+Fabiano Fidêncio
+Jonathan Blandford
+Vladimír Beneš
+Carlos Garnacho
+Sreerenj Balachandran
+Germán Poo-Caamaño
+Ernestas Kulik
+Karen Sandler
+Ahmad Haris
+Balasankar C
+Robert Roth
+Jeremy Bicha
+Robert Ancell
+Carlos Garcia Campos
+Rui Matos
+Ali Jawad
+Emily Chen
+Victor Toso de Carvalho
+Rafael Fontenelle
+Joanmarie Diggs
+Jan Schmidt
+Margaret Ford
+Lapo Calamandrei
+Juan A. Suárez Romero
+Christophe Fergeau
+Jordi Mallach
+Peter Hutterer
+Jussi Pakkanen
+Patrick Uiterwijk
+Arx Henrique Pereira da Cruz
+Olivier Crête
+Alexander Larsson
+Alberto Ruiz
+Adel Gadllah
+Răzvan-Mihai Chițu
+David King
+Marco Barisione
+Ross Burton
+Jean-François Fortin Tam
+Umang Jain
+Olav Vitters
+Reynaldo Humberto Verdejo Pinochet
+Alexandre Franke
+Alberto Garcia
+Fábio Ricardo Nogueira dos Santos
+Martyn James Russell
+Philip Chimento
+Shaun McCance
+Xabier Rodriguez Calvar
+Julita Inca
+Sebastian Keller
+Bernd Homuth
+Fabio Tomat
+Mario Sanchez Prada
+Simon McVittie
+Estu Fardani
+Tobias Mueller
+Pat David
+Yu Liansu
+Andrea Veri
+Marcin Kolny
+Kunal Jain
+Juan Pablo Ugarte
+Cassandra Sanchez
+Bastian Ilsø Hougaard
+Jiri Eischmann
+Daiki Ueno
+Jim Hall
+Thibault Saunier
+Rosanna Yuen
+Rashid Khan
+Frederic Muller
+Iulian Radu
+Tristan Van Berkom
+Benjamin Otte
+Marcus Lundblad
+Siska Restu Anggraeny Iskandar
+Seong-ho Cho
+Thomas Haller
+Juan Jose Marin Martinez
+Jonathan Kang
+Richard Hughes
+Morten Welinder
+Danielle Madeley
+Florian Müllner
+Bradley M. Kuhn
+Tom Tryfonidis
+Aleksander Morgado
+Ekaterina Gerasimova
+Nuritzi Sanchez
+Matthias Klumpp
+Michael Hill
+Felipe Borges
+Antoine Jacoutot
+Paolo Borelli
+Rashi Aswani
+Philippe Normand
+Stefano Facchini
+Dominique Leuenberger
+Tim-Philipp Müller
+Dodji Seketeli
+Neil McGovern
+Milo Casagrande
+Tim Janik
+Benjamin Berg
+Srinivasa Ragavan
+Marinus Schraal
+Tim Lunn
