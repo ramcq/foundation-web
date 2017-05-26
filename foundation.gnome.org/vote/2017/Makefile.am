@@ -8,7 +8,7 @@ page_SCRIPTS = \
 	rules.html
 
 page_DATA = \
-	timeline.ics
-        electorate.txt
+	timeline.ics \
+	electorate.txt
 
 include $(top_srcdir)/rules.common
