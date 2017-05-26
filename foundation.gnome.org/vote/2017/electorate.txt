@@ -1,224 +1,224 @@
-Victor Manuel Jaquez Leal
-Greg Kroah-Hartman
+Adam Dingle
+Adam Janos Reviczky
+Adel Gadllah
+Adelia Rahim
+Adrien Plazas
+Ahmad Haris
+Alberto Garcia
+Alberto Ruiz
+Aleksander Morgado
+Alessandro Bono
+Alexander Larsson
+Alexandre Franke
+Alexandru Băluț
+Alexandru-Ionut Pandelea
+Ali Jawad
+Allan Day
+Andreas Nilsson
+Andrea Veri
+Andre Klapper
+Andrés Aragoneses
 Andres Gomez
-Sammy Fung
-Philip Withnall
+Ankit
+Antoine Jacoutot
+Aron Xu
+Arun Raghavan
+Arx Henrique Pereira da Cruz
+Aryeom Han
+Balasankar C
+Bastian Ilsø Hougaard
+Baurzhan Muftakhidinov
+Benjamin Berg
+Benjamin Otte
+Bernd Homuth
+Bertrand Lorentz
+Bin Li
+Bootingman Wen, Qixiang
+Bradley M. Kuhn
+Carlos Garcia Campos
+Carlos Garnacho
 Carlos Soriano
+Cassandra Sanchez
+ChangSeok Oh
+Cheng-Chia Tseng
+Christian Hergert
+Christian Kirbach
+Christian Persch
+Christophe Fergeau
+Claude Paroz
+Cosimo Cecchi
+DaeHyun Sung
+Daiki Ueno
+Damien Sandras
+Daniel Espinosa Ortiz
+Danielle Madeley
+Daniel Mustieles García
+David King
+Debarshi Ray
+Dodji Seketeli
+Dominique Leuenberger
+Efstathios Iosifidis
+Ekaterina Gerasimova
+Emily Chen
+Emmanuele Bassi
+Erick Pérez Castellanos
+Ernestas Kulik
+Estu Fardani
+Fabiano Fidêncio
+Fabio Duran Verdugo
+Fábio Ricardo Nogueira dos Santos
+Fabio Tomat
+Felipe Borges
+Felix Riemann
+Flavia Weisghizzi
+Florian Müllner
+Francisco Diéguez Souto
+Frédéric Crozat
+Frederic Muller
+Garrett Regier
+Georges Basile Stavracas Neto
+Germán Poo-Caamaño
+Gomez Guillaume
+Greg Kroah-Hartman
+Hau Heng Haggen So
+Ignacio Casal Quinteiro
+Igor Gnatenko
+Ines Chen
+Isaque Galdino de Araujo
+Ismael Olea
+Iulian Radu
+Jakub Steiner
+Jan Schmidt
+Javier Hernández Antúnez
+Javier Jardón Cabezas
+Jean-François Fortin Tam
+Jehan Pagès
+Jens Georg
+Jeremy Bicha
+Jim Hall
+Jiri Eischmann
+Joanmarie Diggs
+Jonas Ådahl
+Jonathan Blandford
+Jonathan Kang
+Jonny Lamb
+Jordi Mallach
+Juan A. Suárez Romero
+Juan Jose Marin Martinez
+Juan Pablo Ugarte
+Julita Inca
+Juraj Fiala
+Jussi Pakkanen
+Karen Sandler
+Kjartan Maraas
+Kunal Jain
+Lapo Calamandrei
+Lars Uebernickel
 Laurent Bigonville
 Lubomir Rintel
-Debarshi Ray
-Walter Vargas
-Zeeshan Ali
-Muhammet Kara
-Owen Taylor
-Frédéric Crozat
-Simon Budig
-Christian Kirbach
-Jehan Pagès
-Timm Bäder
-Andrés Aragoneses
-Ray Strode
-W. Michael Petullo
-Yuri Konotopov
-Zhenning Li
-Mathieu Bridon
-Francisco Diéguez Souto
-Christian Persch
-Christian Hergert
-Andreas Nilsson
 Luis de Bethencourt
-Mattias Bengtsson
-Efstathios Iosifidis
-Baurzhan Muftakhidinov
-Jonny Lamb
-Tong Hui
-Will Thompson
-Ignacio Casal Quinteiro
-Emmanuele Bassi
-Marina Zhurakhinskaya
-Ines Chen
-Adam Janos Reviczky
-Javier Hernández Antúnez
-Aron Xu
-Adam Dingle
-Jens Georg
-Sébastien Wilmet
-Claude Paroz
-Patrick Griffis
-Phillip Wood
-Bin Li
-Ole Aamot
-Cosimo Cecchi
-Matthias Clasen
-Jonas Ådahl
-Trần Ngọc Quân
-Allan Day
-Flavia Weisghizzi
-Nirbheek Chauhan
-Sébastien Lafargue
-Erick Pérez Castellanos
-Sebastien Granjoux
-Adelia Rahim
-Daniel Espinosa Ortiz
-Hau Heng Haggen So
-Lars Uebernickel
-Pascal Terjan
-Arun Raghavan
-Thomas Bechtold
-Alexandru Băluț
-Michael Natterer
-Alexandru-Ionut Pandelea
-Bertrand Lorentz
-Damien Sandras
-Aryeom Han
-Garrett Regier
-Sagar Ghuge
-Meng Zhuo
-Gomez Guillaume
-Max Huang
-Jakub Steiner
-Javier Jardón Cabezas
-Fabio Duran Verdugo
-Petr Štětka
-Ismael Olea
-Georges Basile Stavracas Neto
-Daniel Mustieles García
-Scott Reeves
-Alessandro Bono
-Ankit
-Stefan Sauer
-Oliver Propst
-Andre Klapper
-Juraj Fiala
-Rafael Villar Burke
-Cheng-Chia Tseng
-Rodrigo Moya
-Piotr Drąg
 Maciej Marcin Piechotka
-ChangSeok Oh
-Bootingman Wen, Qixiang
-Adrien Plazas
-Petr Kovář
-Sri Ramkrishna
-Michael Catanzaro
-Yosef Or Boczko
-Sam Thursfield
-Rūdolfs Mazurs
-Igor Gnatenko
-Mario Wenzel
-Sahil Sareen
-Shobha Tyagi
-Isaque Galdino de Araujo
-Kjartan Maraas
-Pravin Satpute
-Nikhar Agrawal
-Felix Riemann
-DaeHyun Sung
-Fabiano Fidêncio
-Jonathan Blandford
-Vladimír Beneš
-Carlos Garnacho
-Sreerenj Balachandran
-Germán Poo-Caamaño
-Ernestas Kulik
-Karen Sandler
-Ahmad Haris
-Balasankar C
-Robert Roth
-Jeremy Bicha
-Robert Ancell
-Carlos Garcia Campos
-Rui Matos
-Ali Jawad
-Emily Chen
-Victor Toso de Carvalho
-Rafael Fontenelle
-Joanmarie Diggs
-Jan Schmidt
-Margaret Ford
-Lapo Calamandrei
-Juan A. Suárez Romero
-Christophe Fergeau
-Jordi Mallach
-Peter Hutterer
-Jussi Pakkanen
-Patrick Uiterwijk
-Arx Henrique Pereira da Cruz
-Olivier Crête
-Alexander Larsson
-Alberto Ruiz
-Adel Gadllah
-Răzvan-Mihai Chițu
-David King
-Marco Barisione
-Ross Burton
-Jean-François Fortin Tam
-Umang Jain
-Olav Vitters
-Reynaldo Humberto Verdejo Pinochet
-Alexandre Franke
-Alberto Garcia
-Fábio Ricardo Nogueira dos Santos
-Martyn James Russell
-Philip Chimento
-Shaun McCance
-Xabier Rodriguez Calvar
-Julita Inca
-Sebastian Keller
-Bernd Homuth
-Fabio Tomat
-Mario Sanchez Prada
-Simon McVittie
-Estu Fardani
-Tobias Mueller
-Pat David
-Yu Liansu
-Andrea Veri
 Marcin Kolny
-Kunal Jain
-Juan Pablo Ugarte
-Cassandra Sanchez
-Bastian Ilsø Hougaard
-Jiri Eischmann
-Daiki Ueno
-Jim Hall
-Thibault Saunier
-Rosanna Yuen
-Rashid Khan
-Frederic Muller
-Iulian Radu
-Tristan Van Berkom
-Benjamin Otte
+Marco Barisione
 Marcus Lundblad
-Siska Restu Anggraeny Iskandar
-Seong-ho Cho
-Thomas Haller
-Juan Jose Marin Martinez
-Jonathan Kang
-Richard Hughes
-Morten Welinder
-Danielle Madeley
-Florian Müllner
-Bradley M. Kuhn
-Tom Tryfonidis
-Aleksander Morgado
-Ekaterina Gerasimova
-Nuritzi Sanchez
-Matthias Klumpp
-Michael Hill
-Felipe Borges
-Antoine Jacoutot
-Paolo Borelli
-Rashi Aswani
-Philippe Normand
-Stefano Facchini
-Dominique Leuenberger
-Tim-Philipp Müller
-Dodji Seketeli
-Neil McGovern
-Milo Casagrande
-Tim Janik
-Benjamin Berg
-Srinivasa Ragavan
+Margaret Ford
+Marina Zhurakhinskaya
 Marinus Schraal
+Mario Sanchez Prada
+Mario Wenzel
+Martyn James Russell
+Mathieu Bridon
+Matthias Clasen
+Matthias Klumpp
+Mattias Bengtsson
+Max Huang
+Meng Zhuo
+Michael Catanzaro
+Michael Hill
+Michael Natterer
+Milo Casagrande
+Morten Welinder
+Muhammet Kara
+Neil McGovern
+Nikhar Agrawal
+Nirbheek Chauhan
+Nuritzi Sanchez
+Olav Vitters
+Ole Aamot
+Oliver Propst
+Olivier Crête
+Owen Taylor
+Paolo Borelli
+Pascal Terjan
+Pat David
+Patrick Griffis
+Patrick Uiterwijk
+Peter Hutterer
+Petr Kovář
+Petr Štětka
+Philip Chimento
+Philippe Normand
+Philip Withnall
+Phillip Wood
+Piotr Drąg
+Pravin Satpute
+Rafael Fontenelle
+Rafael Villar Burke
+Rashi Aswani
+Rashid Khan
+Ray Strode
+Răzvan-Mihai Chițu
+Reynaldo Humberto Verdejo Pinochet
+Richard Hughes
+Robert Ancell
+Robert Roth
+Rodrigo Moya
+Rosanna Yuen
+Ross Burton
+Rūdolfs Mazurs
+Rui Matos
+Sagar Ghuge
+Sahil Sareen
+Sammy Fung
+Sam Thursfield
+Scott Reeves
+Sebastian Keller
+Sebastien Granjoux
+Sébastien Lafargue
+Sébastien Wilmet
+Seong-ho Cho
+Shaun McCance
+Shobha Tyagi
+Simon Budig
+Simon McVittie
+Siska Restu Anggraeny Iskandar
+Sreerenj Balachandran
+Srinivasa Ragavan
+Sri Ramkrishna
+Stefano Facchini
+Stefan Sauer
+Thibault Saunier
+Thomas Bechtold
+Thomas Haller
+Tim Janik
 Tim Lunn
+Timm Bäder
+Tim-Philipp Müller
+Tobias Mueller
+Tom Tryfonidis
+Tong Hui
+Trần Ngọc Quân
+Tristan Van Berkom
+Umang Jain
+Victor Manuel Jaquez Leal
+Victor Toso de Carvalho
+Vladimír Beneš
+Walter Vargas
+Will Thompson
+W. Michael Petullo
+Xabier Rodriguez Calvar
+Yosef Or Boczko
+Yu Liansu
+Yuri Konotopov
+Zeeshan Ali
+Zhenning Li
