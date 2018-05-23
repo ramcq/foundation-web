@@ -4,14 +4,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 PRODID:-//PYVOBJECT//NONSGML Version 1//EN
 BEGIN:VEVENT
-UID:20180503T130112Z - 55775@honneamise
+UID:20180523T104608Z - 9883@honneamise
 DTSTART;VALUE=DATE:20180512
 DTEND;VALUE=DATE:20180513
 DESCRIPTION:If you are a member of the GNOME Foundation and are interested 
  in running for election\, you may nominate yourself by sending an e-mail t
  o foundation-announce@gnome.org with your name\, e-mail address\, corporat
  e affiliation (if any)\, and a description of why you'd like to serve\, be
- fore 2018-05-24 (23:59 UTC).\n     If you are not yet a GNOME Foundation m
+ fore 2018-05-31 (23:59 UTC).\n     If you are not yet a GNOME Foundation m
  ember and would like to stand for election\, you must first apply for memb
  ership and be accepted to be eligible to run. (You may\, however\, announc
  e your candidacy prior to formal acceptance of your application\; should y
@@ -20,14 +20,14 @@ DESCRIPTION:If you are a member of the GNOME Foundation and are interested
 SUMMARY:Announcements and list of candidates opens
 END:VEVENT
 BEGIN:VEVENT
-UID:20180503T130112Z - 47675@honneamise
-DTSTART;VALUE=DATE:20180524
-DTEND;VALUE=DATE:20180525
+UID:20180523T104608Z - 87862@honneamise
+DTSTART;VALUE=DATE:20180531
+DTEND;VALUE=DATE:20180601
 DESCRIPTION:If you are a member of the GNOME Foundation and are interested 
  in running for election\, you may nominate yourself by sending an e-mail t
  o foundation-announce@gnome.org with your name\, e-mail address\, corporat
  e affiliation (if any)\, and a description of why you'd like to serve\, be
- fore 2018-05-24 (23:59 UTC).\n     If you are not yet a GNOME Foundation m
+ fore 2018-05-31 (23:59 UTC).\n     If you are not yet a GNOME Foundation m
  ember and would like to stand for election\, you must first apply for memb
  ership and be accepted to be eligible to run. (You may\, however\, announc
  e your candidacy prior to formal acceptance of your application\; should y
@@ -36,38 +36,38 @@ DESCRIPTION:If you are a member of the GNOME Foundation and are interested
 SUMMARY:List of candidates closed
 END:VEVENT
 BEGIN:VEVENT
-UID:20180503T130112Z - 75481@honneamise
-DTSTART;VALUE=DATE:20180525
-DTEND;VALUE=DATE:20180526
+UID:20180523T104608Z - 97992@honneamise
+DTSTART;VALUE=DATE:20180601
+DTEND;VALUE=DATE:20180602
 DESCRIPTION:You may now start to send your questions to the candidates
 SUMMARY:List of candidates announced
 END:VEVENT
 BEGIN:VEVENT
-UID:20180503T130112Z - 40802@honneamise
-DTSTART;VALUE=DATE:20180526
-DTEND;VALUE=DATE:20180527
+UID:20180523T104608Z - 69970@honneamise
+DTSTART;VALUE=DATE:20180602
+DTEND;VALUE=DATE:20180603
 DESCRIPTION:Please read your email and follow these instructions and submit
-  your vote by 2018-06-09
+  your vote by 2018-06-16
 SUMMARY:Instructions to vote are sent
 END:VEVENT
 BEGIN:VEVENT
-UID:20180503T130112Z - 20856@honneamise
-DTSTART;VALUE=DATE:20180609
-DTEND;VALUE=DATE:20180610
-DESCRIPTION:Preliminary results are announced on 2018-06-12
+UID:20180523T104608Z - 49431@honneamise
+DTSTART;VALUE=DATE:20180616
+DTEND;VALUE=DATE:20180617
+DESCRIPTION:Preliminary results are announced on 2018-06-19
 SUMMARY:Votes must be returned
 END:VEVENT
 BEGIN:VEVENT
-UID:20180503T130112Z - 98277@honneamise
-DTSTART;VALUE=DATE:20180612
-DTEND;VALUE=DATE:20180613
-DESCRIPTION:The preliminary results can be challenged until 2018-06-19
+UID:20180523T104608Z - 63183@honneamise
+DTSTART;VALUE=DATE:20180619
+DTEND;VALUE=DATE:20180620
+DESCRIPTION:The preliminary results can be challenged until 2018-06-26
 SUMMARY:Preliminary results are announced
 END:VEVENT
 BEGIN:VEVENT
-UID:20180503T130112Z - 97055@honneamise
-DTSTART;VALUE=DATE:20180619
-DTEND;VALUE=DATE:20180620
+UID:20180523T104608Z - 29691@honneamise
+DTSTART;VALUE=DATE:20180626
+DTEND;VALUE=DATE:20180627
 DESCRIPTION:If there weren't any challenges\, preliminary results are valid
 SUMMARY:Challenges to the results closed
 END:VEVENT

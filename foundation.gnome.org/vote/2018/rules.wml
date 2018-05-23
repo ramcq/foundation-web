@@ -24,7 +24,7 @@
       </li>
       <li>
         Members of the GNOME Foundation as of
-        <!-- CANDIDATES_ANNOUNCED_DATE -->2018-05-25
+        <!-- CANDIDATES_ANNOUNCED_DATE -->2018-06-01
         
         are eligible to vote in the elections. Members without voting rights
         such as <a href="https://mail.gnome.org/archives/foundation-announce/2012-May/msg00015.html">Emeritus members</a>
@@ -40,7 +40,7 @@
         with your full name, e-mail, corporate affiliation (if any), and a
         description of your reasons for wanting to serve as a director.
         Candidacies must be announced prior to
-        <!-- CANDIDATES_CLOSED_DATE -->2018-05-24, 23:59 UTC.
+        <!-- CANDIDATES_CLOSED_DATE -->2018-05-31, 23:59 UTC.
         
       </li>
       <li>
@@ -52,10 +52,10 @@
       <li>
       	Instructions explaining how to vote will be sent via e-mail to all
       	eligible voters on
-      	<!-- VOTING_OPENED_DATE -->2018-05-26,
+      	<!-- VOTING_OPENED_DATE -->2018-06-02,
       	
       	and votes must be returned by
-      	<!-- VOTING_CLOSED_DATE -->2018-06-09, 23:59 UTC.
+      	<!-- VOTING_CLOSED_DATE -->2018-06-16, 23:59 UTC.
       </li>
       <li>
         Votes will be held confidential during the elections, but an 
@@ -92,7 +92,7 @@
         <a
         href="mailto:membership-committee@gnome.org">membership-committee@gnome.org</a>
         prior to
-        <!-- PRELIMINARY_RESULTS_DATE -->2018-06-12.
+        <!-- PRELIMINARY_RESULTS_DATE -->2018-06-19.
         
         The decision of the Elections Committee as
         to any challenge shall be final. Once any challenges have been
@@ -114,22 +114,22 @@
         <!-- CANDIDATES_OPENED_DATE -->2018-05-12: Announcements and list of candidates opens.
       </li>
       <li>
-        <!-- CANDIDATES_CLOSED_DATE -->2018-05-24: Last day to announce candidacies, submit summary statements.
+        <!-- CANDIDATES_CLOSED_DATE -->2018-05-31: Last day to announce candidacies, submit summary statements.
       </li>
       <li>
-        <!-- CANDIDATES_ANNOUNCED_DATE -->2018-05-25: Final list of candidates.
+        <!-- CANDIDATES_ANNOUNCED_DATE -->2018-06-01: Final list of candidates.
       </li>
       <li>
-        <!-- VOTING_OPENED_DATE -->2018-05-26: Instructions mailed to eligible voters, voting begins.
+        <!-- VOTING_OPENED_DATE -->2018-06-02: Instructions mailed to eligible voters, voting begins.
       </li>
       <li>
-        <!-- VOTING_CLOSED_DATE -->2018-06-09: Voting closes.
+        <!-- VOTING_CLOSED_DATE -->2018-06-16: Voting closes.
       </li>
       <li>
-        <!-- PRELIMINARY_RESULTS_DATE -->2018-06-12: Preliminary results are announced.
+        <!-- PRELIMINARY_RESULTS_DATE -->2018-06-19: Preliminary results are announced.
       </li>
       <li>
-        <!-- CHALLENGE_CLOSED_DATE -->2018-06-19: Last day to challenge preliminary results.
+        <!-- CHALLENGE_CLOSED_DATE -->2018-06-26: Last day to challenge preliminary results.
       </li>
     </ul>
 
