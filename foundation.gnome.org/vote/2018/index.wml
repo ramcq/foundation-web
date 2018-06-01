@@ -34,18 +34,18 @@
             <a href="https://mail.gnome.org/archives/foundation-announce/2018-June/msg00003.html">Election results announcement</a>
         </li>
         <li>
-            <a href="../../results.php?election_id=25">Detailed election results</a>
+            <a href="../../results.php?election_id=26">Detailed election results</a>
         </li>
         <li>
-            <a href="../../votes.php?election_id=25">List of all votes</a>
+            <a href="../../votes.php?election_id=26">List of all votes</a>
         </li>
+-->
         <li>
-            <a href="../../vote.php?election_id=25">Interface to vote</a>
+            <a href="../../vote.php?election_id=26">Interface to vote</a>
         </li>
        <li>
             <a href="electorate.txt">List of registered voters</a>
         </li> 
--->
         <li>
             <a href="candidates.html">List of candidates for Board of Directors</a>
         </li>
