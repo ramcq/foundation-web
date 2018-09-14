@@ -107,11 +107,11 @@
 
                   <li id="menu-item-1060" class=
                   "menu-item menu-item-type-custom menu-item-object-custom menu-item-1060">
-                  <a href="https://bugzilla.gnome.org/">Bug Tracker</a></li>
+                  <a href="https://gitlab.gnome.org/">Bug Tracker</a></li>
 
                   <li id="menu-item-1061" class=
                   "menu-item menu-item-type-custom menu-item-object-custom menu-item-1061">
-                  <a href="https://git.gnome.org/browse/">Development Code</a></li>
+                  <a href="https://gitlab.gnome.org/">Development Code</a></li>
 
                   <li id="menu-item-1062" class=
                   "menu-item menu-item-type-custom menu-item-object-custom menu-item-1062">
