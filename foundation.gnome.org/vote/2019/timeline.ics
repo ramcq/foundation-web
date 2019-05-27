@@ -5,78 +5,78 @@ METHOD:PUBLISH
 PRODID:-//PYVOBJECT//NONSGML Version 1//EN
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-UID:20190426T125223Z - 19271@honneamise
+UID:20190527T103534Z - 97167@honneamise
 DTSTART;VALUE=DATE:20190512
 DTEND;VALUE=DATE:20190513
 DESCRIPTION:If you are a member of the GNOME Foundation and are interested 
  in running for election\, you may nominate yourself by sending an e-mail t
  o foundation-announce@gnome.org with your name\, e-mail address\, corporat
  e affiliation (if any)\, and a description of why you'd like to serve\, be
- fore 2019-05-26 (23:59 UTC).\n     If you are not yet a GNOME Foundation m
+ fore 2019-06-02 (23:59 UTC).\n     If you are not yet a GNOME Foundation m
  ember and would like to stand for election\, you must first apply for memb
  ership and be accepted to be eligible to run. (You may\, however\, announc
  e your candidacy prior to formal acceptance of your application\; should y
  our application not be accepted\, you will not be included in the list of 
  candidates.)\n    
-DTSTAMP:20190426T125223Z
+DTSTAMP:20190527T103534Z
 SUMMARY:Announcements and list of candidates opens
 END:VEVENT
 BEGIN:VEVENT
-UID:20190426T125223Z - 4281@honneamise
-DTSTART;VALUE=DATE:20190526
-DTEND;VALUE=DATE:20190527
+UID:20190527T103534Z - 19514@honneamise
+DTSTART;VALUE=DATE:20190602
+DTEND;VALUE=DATE:20190603
 DESCRIPTION:If you are a member of the GNOME Foundation and are interested 
  in running for election\, you may nominate yourself by sending an e-mail t
  o foundation-announce@gnome.org with your name\, e-mail address\, corporat
  e affiliation (if any)\, and a description of why you'd like to serve\, be
- fore 2019-05-26 (23:59 UTC).\n     If you are not yet a GNOME Foundation m
+ fore 2019-06-02 (23:59 UTC).\n     If you are not yet a GNOME Foundation m
  ember and would like to stand for election\, you must first apply for memb
  ership and be accepted to be eligible to run. (You may\, however\, announc
  e your candidacy prior to formal acceptance of your application\; should y
  our application not be accepted\, you will not be included in the list of 
  candidates.)\n    
-DTSTAMP:20190426T125223Z
+DTSTAMP:20190527T103534Z
 SUMMARY:List of candidates closed
 END:VEVENT
 BEGIN:VEVENT
-UID:20190426T125223Z - 76727@honneamise
-DTSTART;VALUE=DATE:20190527
-DTEND;VALUE=DATE:20190528
+UID:20190527T103534Z - 6159@honneamise
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
 DESCRIPTION:You may now start to send your questions to the candidates
-DTSTAMP:20190426T125223Z
+DTSTAMP:20190527T103534Z
 SUMMARY:List of candidates announced
 END:VEVENT
 BEGIN:VEVENT
-UID:20190426T125223Z - 33505@honneamise
-DTSTART;VALUE=DATE:20190528
-DTEND;VALUE=DATE:20190529
+UID:20190527T103534Z - 58335@honneamise
+DTSTART;VALUE=DATE:20190604
+DTEND;VALUE=DATE:20190605
 DESCRIPTION:Please read your email and follow these instructions and submit
-  your vote by 2019-06-11
-DTSTAMP:20190426T125223Z
+  your vote by 2019-06-18
+DTSTAMP:20190527T103534Z
 SUMMARY:Instructions to vote are sent
 END:VEVENT
 BEGIN:VEVENT
-UID:20190426T125223Z - 13973@honneamise
-DTSTART;VALUE=DATE:20190611
-DTEND;VALUE=DATE:20190612
-DESCRIPTION:Preliminary results are announced on 2019-06-12
-DTSTAMP:20190426T125223Z
+UID:20190527T103534Z - 19445@honneamise
+DTSTART;VALUE=DATE:20190618
+DTEND;VALUE=DATE:20190619
+DESCRIPTION:Preliminary results are announced on 2019-06-19
+DTSTAMP:20190527T103534Z
 SUMMARY:Votes must be returned
 END:VEVENT
 BEGIN:VEVENT
-UID:20190426T125223Z - 83191@honneamise
-DTSTART;VALUE=DATE:20190612
-DTEND;VALUE=DATE:20190613
-DESCRIPTION:The preliminary results can be challenged until 2019-06-19
-DTSTAMP:20190426T125223Z
+UID:20190527T103534Z - 46368@honneamise
+DTSTART;VALUE=DATE:20190619
+DTEND;VALUE=DATE:20190620
+DESCRIPTION:The preliminary results can be challenged until 2019-06-26
+DTSTAMP:20190527T103534Z
 SUMMARY:Preliminary results are announced
 END:VEVENT
 BEGIN:VEVENT
-UID:20190426T125223Z - 70984@honneamise
-DTSTART;VALUE=DATE:20190619
-DTEND;VALUE=DATE:20190620
+UID:20190527T103534Z - 69657@honneamise
+DTSTART;VALUE=DATE:20190626
+DTEND;VALUE=DATE:20190627
 DESCRIPTION:If there weren't any challenges\, preliminary results are valid
-DTSTAMP:20190426T125223Z
+DTSTAMP:20190527T103534Z
 SUMMARY:Challenges to the results closed
 END:VEVENT
 END:VCALENDAR
