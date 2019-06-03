@@ -30,6 +30,18 @@
     <h2>2019 Elections Materials:</h2>
     <ul>
         <li>
+            <a href="../../vote.php?election_id=27">Interface to vote</a>
+        </li>
+        <li>
+            <a href="../../results.php?election_id=27">Detailed election results</a>
+        </li>
+        <li>
+            <a href="../../votes.php?election_id=27">List of all votes</a>
+        </li>
+        <li>
+            <a href="electorate.txt">List of registered voters</a>
+        </li> 
+        <li>
             <a href="rules.html">Elections Rules and Timeline</a> (webcal <a
             href="webcal://vote.gnome.org/2019/timeline.ics">timeline</a>)
         </li>
@@ -39,18 +51,6 @@
         </li>
         <li>
             <a href="candidates.html">List of candidates for Board of Directors</a>
-        </li>
-       <li>
-            <a href="electorate.txt">List of registered voters</a>
-        </li> 
-        <li>
-            <a href="../../vote.php?election_id=27">Interface to vote</a>
-        </li>
-        <li>
-            <a href="../../results.php?election_id=27">Detailed election results</a>
-        </li>
-        <li>
-            <a href="../../votes.php?election_id=27">List of all votes</a>
         </li>
     </ul>
 
