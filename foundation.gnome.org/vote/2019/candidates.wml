@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+  <head>
+    <title>GNOME Foundation 2019 Elections Candidates</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  </head>
+
+  <body>
+    <div id="content">
+    <h1>Candidates for the GNOME Foundation 2019 Elections</h1>
+
+    <p>
+      Below you find the list of candidates running for the
+      GNOME Foundation Board of Directors in 2019. We encourage everyone
+      to check the candidates' full candidacy statements, and follow related 
+      discussions on <a href="https://mail.gnome.org/archives/foundation-list/">foundation-list&#64;gnome&#46;org</a>.
+    </p>
+
+    <p>
+      When deciding who to vote for, please consider
+      the various tasks under the responsibility of the Board of Directors. This
+      <a href="../overview.html">overview</a> might be helpful. The board makes 
+      a number of important decisions and performs many tasks which require time,
+       effort and the ability to work and communicate with others. The Board of 
+       Directors will represent GNOME to companies and the world. It is a good idea
+        to strive for a well-balanced Board consisting of people with various backgrounds,
+      skills, and perspectives.
+    </p>
+
+    <p>
+      Additional elections details can be found on the
+      <a href="https://foundation.gnome.org">GNOME Foundation Web Site</a>.
+    </p>
+
+    <p>
+      If you have any questions, just let us know by emailing
+      <a href="https://mail.gnome.org/archives/foundation-list/">foundation-list&#64;gnome&#46;org</a>
+      or <a
+      href="mailto:membership-committee@gnome.org">membership-committee@gnome.org</a>.
+    </p>
+
+    <h2>Candidates for the GNOME Foundation Board of Directors</h2>
+
+    <ol>
+        <p>
+            <li><strong>Carlos Soriano</strong><br />
+                Affiliation: <em>Red Hat</em><br />
+                Full statement at <a href="https://mail.gnome.org/archives/foundation-announce/2019-May/msg00004.html">https://mail.gnome.org/archives/foundation-announce/2019-May/msg00004.html</a>
+                <blockquote>
+I've been contributing to GNOME since 2014 as GSoC student for two years in GNOME Shell. Then joined Red Hat as upstream and downstream maintainer of Nautilus, until recently that I moved to a planning & release manager position in the kernel graphics team.
+
+In the last board term I focused on supporting the foundation grow in a healthy way, and with the transition from a more executive to a more strategic board. As part of that, I have been working on the newly created compensation committee, doing the research on legal, tax forms and general charity guidance in order to make a proper process for setting the ED compensation.
+
+Another initiative I've been working on since last year is the creation of a better definition of GNOME software and its components, and together with that the creation of an inclusive process for GNOME related apps and libraries to empower a wider community of contributors.
+
+Lastly, I kept being one of the points of contact with GitLab, Matrix and KDE. I represented GNOME at the panel discussion at DrupalCon with GitLab and Drupal, keeping in touch with their representatives for future collaborations. Also, I discussed with KDE directors several initiatives such as GitLab and Matrix.
+                </blockquote>
+            </li>
+        </p>
+
+        <p>
+            <li><strong>Philip Chimento</strong><br />
+            Affiliation: <em>Endless</em><br />
+            Full statement at <a href="https://mail.gnome.org/archives/foundation-announce/2019-May/msg00003.html">https://mail.gnome.org/archives/foundation-announce/2019-May/msg00003.html</a>
+                <blockquote>
+I've been a GNOME user since 2002. Since 2006 I have used some GNOME-related technologies to develop software, but I did not really join the community of GNOME contributors until I started working more directly on GNOME at Endless. This led into becoming a GNOME Foundation member and the maintainer of a core GNOME module (GJS) in 2016. I was first elected to the board of directors in 2018 and have served one term.
+
+First of all in this past board term I got more familiar with the role of a director being primarily one of oversight, rather than implementation, and some of the policy themes I described last year in my candidacy <a href="https://mail.gnome.org/archives/foundation-announce/2018-May/msg00003.html">statement</a> in hindsight seem like they belong more to the community than in the board's domain. I have helped push the board even farther in this direction over the past year.
+
+Of the themes I intended to work on last year, "Welcoming environment" was the one that I primarily worked on during this term. I realized last year around the time I was elected, that our travel sponsorship application process can be intimidating and frustrating, and improving it could make a real difference in making contributors feel like they belong to the <a href="https://gitlab.gnome.org/Teams/Board/issues/90">community</a>. I have advocated for changes in the travel sponsorship guidelines and together with Nuritzi I drafted a new application process. I would like to continue improving that process with the travel committee this coming year.
+                </blockquote>
+            </li>
+        </p>
+
+        <p>
+            <li><strong>Robert McQueen</strong><br />
+            Affiliation: <em>Endless</em><br />
+            Full statement at <a href="https://mail.gnome.org/archives/foundation-announce/2019-May/msg00005.html">https://mail.gnome.org/archives/foundation-announce/2019-May/msg00005.html</a>
+                <blockquote>
+I would like to announce my intention to stand for re-election for a second term as a director of the GNOME Foundation, not least because I believe the Foundation will benefit from the stability of longer-serving Board members and longer Board terms, and that my participation over the past year has been a net positive. :)
+
+I am currently the Chief of Engineering at Endless, and we are building new channels and markets to bring our GNOME-based desktop OS in front of more users, and provide accesss to technology to empower people. I have been using and contributing to GNOME in a personal and professional capacity for almost 15 years, most recently contributing to Flatpak and helping to found and build the Flathub app store and address technical barriers to attracting app developers to the free desktop.
+
+Professionally, I have served as a founder, company director or executive for that entire period, building products based around GNOME and the free desktop technology stack, and I am pleased have the opportunity to bring this commercial experience, and familiarity with the industry, legal and financial issues, into helping the GNOME Foundation grow as a more effective and impactful organisation. In the process of deciding to stand again I sought informal feedback from fellow board members, and the general opinion was that my advice and experience in the board meetings has been appreciated, although I encourage you to ask them for their thoughts yourselves.
+
+In my previous term on the Board I have served as the line manager for the Executive Director, including setting the priorities for Neil and his team to drive for the strategy that the Board outlined at the start of the year. As with other board members I am trying to craft the Board into a more regular advisory (and, barring optional additional participation, less time-consuming!) role and have the Foundation use its current resources and staff effectively to raise more funds and launch more ambitious programs.
+                </blockquote>
+            </li>
+        </p>
+
+        <p>
+            <li><strong>Allan Day</strong><br />
+            Affiliation: <em>Red Hat</em><br />
+            Full statement at <a href="https://mail.gnome.org/archives/foundation-announce/2019-May/msg00006.html">https://mail.gnome.org/archives/foundation-announce/2019-May/msg00006.html</a>
+                <blockquote>
+I am announcing my intention to run for the GNOME Foundation Board of Directors.
+
+I have been contributing to GNOME for around 10 years, primarily in my capacity as a designer, although I have previously contributed to engagement and bug triage.
+
+I am currently employed by Red Hat, where I work as a designer on the Desktop Team.
+
+I have been a member of the Board of Directors since 2015. During that time, I've served as vice-president for a number of years, and have had a short spell as secretary. I've had an impact in various areas, including leading on trademarks, logistics for hiring Neil, leading on the events code of conduct and most recently pushing forward with efforts to better define our software.
+
+I feel that I have the experience to help guide the foundation forward. The foundation is going through a process of expansion, and we have been working to become a more professional organisation, with clear roles and responsibilities, and a more formal oversight role for the board. I am keen for us to continue this process, and it is something that I would work to support if I am re-elected. Another priority would be to complete the software definition initiative that I've been working on for a while.
+                </blockquote>
+            </li>
+        </p>
+        
+        <p>
+        <li><strong>Britt Yazel</strong><br />
+            Affiliation: <em>None</em><br />
+            Full statement at <a href="https://mail.gnome.org/archives/foundation-announce/2019-May/msg00007.html">https://mail.gnome.org/archives/foundation-announce/2019-May/msg00007.html</a>
+                <blockquote>
+I would like to add my name to the list of candidates for the GNOME Foundation board of directors for this election cycle. If I were to be elected, this would be my first term on the board since joining the Foundation in 2018.
+
+Though I am still fairly new to the GNOME Foundation, I have been a user and proponent of the GNOME Project since 2008, contributing in small ways to FOSS/FLOSS projects to the best of my abilities while attending University. In 2018, midway through my Doctoral degree, I was invited to attend GUADEC by Nuritzi Sanchez, and since that time I have been an active member of the Engagement team, acting primarily as the social media manager for Facebook, Twitter, and the GNOME Subreddit. In addition, I was an organizer for the 2018 Libre Application Summit, and I have been helping contribute to the planning of this year's GUADEC.
+
+While my roles so far have been non-technical in nature, I have greatly valued the opportunity and trust the Foundation has given me to speak on its behalf on social media. Over the past year, my #1 priority has been to improve the avenues of communication between the community and our members, and to try to bring a positive voice to the project as a whole while building trust and good will within our user base.
+
+If I were to be elected, my goals would be to continue improving the image of the GNOME Project publicly and on social media, building and strengthening the relationships between the Foundation and our downstream partners, and helping to grow the size, scope, and sustainability of the Foundation as a professional organization. Further, having lived and worked using primarily FOSS technologies in academia and in my Doctoral research over the past decade, I would like to help advocate for the unique software needs and use cases of academic, STEM disciplines, and I would like to help strengthen the ties and bring down barriers between academic institutions and free software projects.
+                </blockquote>
+            </li>
+        </p>
+        
+        <p>
+        <li><strong>Niels De Graef</strong><br />
+            Affiliation: <em>Barco</em><br />
+            Full statement at <a href="https://mail.gnome.org/archives/foundation-announce/2019-May/msg00009.html">https://mail.gnome.org/archives/foundation-announce/2019-May/msg00009.html</a>
+                <blockquote>
+I would like to announce my candidacy for a first term as a director in the GNOME Foundation.
+
+I made my first contributions to GNOME since 2016 while I was still a computer science student. Ever since, I've become increasingly interested in GNOME, its underlying design philosophy and the accompanying technologies. This all resulted in nearly daily contributions and maintainership of several (core) GNOME modules.
+
+My current employer is Barco, a multimedia company based in Belgium (where I also live). In my day job, I work on several modules that use GStreamer and other GNOME-based libraries. Most of my contributions either happen during my daily commute or when I can make some free time at home.
+
+Given that this would be my first term, I cannot say I have a lot of experience with the board's internal workings (apart from always reading the minutes). I don't see this as a big obstacle, as I'm willing to read up on the processes and to put effort in filling that gap where needed. The only hurdle for now is that I can't attend (the
+full period of) GUADEC, due to other personal obligations in the weekend of August 24-25. I don't see this as a big problem though, as I can still be available the other days and telecommunication provides multiple possibilities these days.
+                </blockquote>
+            </li>
+        </p>
+        
+        <p>
+        <li><strong>Federico Mena Quintero</strong><br />
+            Affiliation: <em>Suse</em><br />
+            Full statement at <a href="https://mail.gnome.org/archives/foundation-announce/2019-June/msg00004.html">https://mail.gnome.org/archives/foundation-announce/2019-June/msg00004.html</a>
+                <blockquote>
+I'm announcing my candidacy for a second term in the Board of Directors in the GNOME Foudation.
+
+This year my position in the Board was of co-secretary, and I also worked as the liaison for the Board in the Code of Conduct Committee.
+
+We have an Events Code of Conduct in place now, which will be used for GUADEC this year.  In the committee we are in the process of updating the Foundation's code of conduct at large, GNOME project's whole online presence.  I would like to continue to take on this role.
+
+I would also like to help GNOME reach out to underrepresented people and communities.  Having a strong Code of Conduct will certainly help with this.  In Mexico at least, nowadays there is enough online activism in place around indigenous languages, that GNOME can reach out effectively to speakers of those languages and let them take free software in their own direction.
+                </blockquote>
+            </li>
+        </p>
+
+        <p>
+        <li><strong>Christopher Davis</strong><br />
+            Affiliation: <em>None</em><br />
+            Full statement at <a href="https://mail.gnome.org/archives/foundation-announce/2019-June/msg00003.html">https://mail.gnome.org/archives/foundation-announce/2019-June/msg00003.html</a>
+                <blockquote>
+I am announcing my candidacy for the GNOME Foundation board of directors election. I have been working on GNOME for about 2 years, starting
+with my contributions to Fractal. I currently maintain Weather and Documents, and co-maintain Sound Recorder.
+
+While contributing I have largely worked with 3rd-party app developers, helping bring in new people who want to target GNOME. I want to continue that outreach, and also help improve our relationship with the wider community.
+
+As well as making GNOME inclusive for 3rd-party developers, I also want to ensure that we are a diverse and accepting community for under-represented groups. If people of all kinds can see that they are safe and welcome in our spaces, our contributor bas e will g row in quantity and quality.
+                </blockquote>
+            </li>
+        </p>
+
+        <p>
+        <li><strong>Benjamin Berg</strong><br />
+            Affiliation: <em>Red Hat</em><br />
+            Full statement at <a href="https://mail.gnome.org/archives/foundation-announce/2019-June/msg00002.html">https://mail.gnome.org/archives/foundation-announce/2019-June/msg00002.html</a>
+                <blockquote>
+I would like to run for the Board of Directors of the GNOME Foundation.
+
+I have been contributing to GNOME since 2006. In addition to development work I have regularly helped with events and also organised GUADEC 2016 in Karlsruhe.
+
+The Foundation is still undergoing deeper changes with the hiring of multiple employees. This is an interesting challenge as the role of the Board continues to change and it may have a large impact on the Foundation and the GNOME community. I expect that shaping this future will be an important part of the Boards work and I would like to be part of this. Both by reflecting on whether we are moving in the right direction and constructively working with everyone to get there.
+
+Apart from that I keep wondering about how to enable more collaboration between the Board and the membership. An example on how I think the situation can be improved is to move some tasks like the ongoing work to develop 5 and 10-year goals into focused working groups. Doing so is associated with an overhead but it guarantees that the work happens in a transparent manner and that everyone can join the conversation.
+                </blockquote>
+            </li>
+        </p>
+
+        <p>
+        <li><strong>Tristan Van Berkom</strong><br />
+            Affiliation: <em>Codethink</em><br />
+            Full statement at <a href="https://mail.gnome.org/archives/foundation-announce/2019-June/msg00001.html">https://mail.gnome.org/archives/foundation-announce/2019-June/msg00001.html</a>
+                <blockquote>
+I would like to announce my candidacy for the GNOME Foundation board of directors in this election.
+
+I have been a GNOME contributor for well over 15 years now in the capacity of a developer, and have been a maintainer and core developer on various projects including Glade, GTK, Evolution and now BuildStream.
+
+I have spent the larger part of my career in startup companies and have some entrepreneurial experience, as such I hope that my spirit of ambition and experience starting initiatives from the ground up can be a useful addition to the board. I do not have the experience of serving on a board for any non profit organization, so if I am elected, I expect to lean on current and previous board members for assistance in getting familiar with the tasks and duties expected of me.
+
+I'd like to thank our previous boards for putting their efforts into ironing out the necessary policies and ensuring that we are a strong and healthy organization. Their efforts have allowed us to thrive as a community, and to focus on the fun part of making software that works very well and is a pleasure to use. While I have been happy with others filling this role, after many years working within and around GNOME I cannot help but be emotionally invested in the overall success of the project, and would like to do my part in every way I can to help GNOME continue as a successful project.
+                </blockquote>
+            </li>
+        </p>
+
+        <p>
+        <li><strong>Christel Dahlskjaer</strong><br />
+            Affiliation: <em>Private Internet Access</em><br />
+            Full statement at <a href="https://mail.gnome.org/archives/foundation-announce/2019-June/msg00000.html">https://mail.gnome.org/archives/foundation-announce/2019-June/msg00000.html</a>
+                <blockquote>
+I would like to throw my name in the hat for the imminent GNOME BoT elections. I am a long-term GNOME user and a current Gnome Foundation member, part of the Engagement Team and also the Code of Conduct Committee. Additionally I currently also serve as the GNOME Advisory Board representative of Private Internet Access.
+
+I am a long-term advocate and contributor to FOSS projects and have previously been part of the developer relations, user relations, release engineering and various other teams within the Gentoo Linux project. I am also the current freenode Project Leader, a role I have been fulfilling for the last 13 years. I am extremely passionate about community; inclusion and diversity both being important to me. I also currently serve as one of two co-chairs of the Internet Society's OMAC, and I am a member of the advisory council to the Open Source Technology Improvement Fund (OSTIF). 
+
+I am an avid privacy advocate and my day job keeps me at the intersection of tech and human rights. 
+
+If elected I would seek to work with the broader multi-stakeholder group to ensure that everyone feels that they have the opportunity to use their voice and contribute to the project. I would seek to provide support to the GNOME foundation employees, foundation members, board of directors, advisory board members, contributors and end users alike in cementing GNOME's position in the desktop ecosystem. I am excited to be a small part of GNOME, and I would love to help the project continue its flourishing journey of growth.
+                </blockquote>
+            </li>
+        </p>
+
+        <p>
+    </ol>
+
+    <h2>Additional Elections-related Information</h2>
+
+    <p>
+      Note, that according to the
+      <a href="https://www.gnome.org/wp-content/uploads/2011/11/bylaws.pdf">Bylaws</a> Article VIII Section 2d the Board cannot have more than two members affiliated with one same company. If more than 2 people from one
+      company are elected, only the top 2 candidates will join the Board.
+      You will be able to vote for up to 7 candidates of your choice, with no
+      restrictions in terms of affiliation. You cannot vote more than once for the same candidate.
+    </p>
+
+    <p>
+      If you have any futher question, please consult the
+      <a href="rules.html">Rules for this election</a> or write to
+      <a href="mailto:membership-committee@gnome.org">membership-committee@gnome.org</a>.
+    </p>
+
+  </body>
+</html>
