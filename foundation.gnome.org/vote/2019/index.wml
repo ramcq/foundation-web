@@ -46,6 +46,12 @@
         <li>
             <a href="../../vote.php?election_id=27">Interface to vote</a>
         </li>
+        <li>
+            <a href="../../results.php?election_id=26">Detailed election results</a>
+        </li>
+        <li>
+            <a href="../../votes.php?election_id=26">List of all votes</a>
+        </li>
     </ul>
 
   </body>
