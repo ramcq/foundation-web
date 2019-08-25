@@ -245,7 +245,7 @@ the following:
                 orally or in writing, at a hearing to be held no fewer than five (5) days before the removal.
                 The hearing shall be held by the Board or Membership Committee. Any such hearing may
                 be held by conference telephone or similar communications equipment, so long as all
-                participants in the hearing can hear one another. The notice to the member of his or her
+                participants in the hearing can hear one another. The notice to the member of their
                 proposed removal or suspension shall state that such member is entitled, upon request, to
                 such hearing, shall state that a date, time and place of hearing will be established upon receipt
                 of such a request, and shall state, that in the absence of such request, the effective date of
@@ -321,7 +321,7 @@ may be called by, upon request in writing by at least ten percent of the members
 percent of the membership in accordance with
 Article XVI,
 stating the business to be transacted at
-the special meeting, mailed to the principal office of the Corporation, or delivered to the chairman of
+the special meeting, mailed to the principal office of the Corporation, or delivered to the Chair of
 the Board, the President, the Vice President or Secretary. It shall be the duty of the President to
 cause notice to be given, within seven (7) days from receipt of such a request, to be held no more
 than twenty (20) days after the receipt of such a request.
@@ -331,7 +331,7 @@ than twenty (20) days after the receipt of such a request.
 Notice of Meetings 
 -----------------------------------------
 
-A notice of each annual meeting, and special meeting shall be given by the President or, in case of his or her failure or refusal, by
+A notice of each annual meeting, and special meeting shall be given by the President or, in case of their failure or refusal, by
 any other officer or any Director; shall specify the place, time, day and hour of the meeting or the
 date on which the ballot shall be returned, if applicable; and in the case of special meetings, the nature of the
 business to be transacted thereat. Such notice shall be given in writing to every member of the
@@ -377,7 +377,7 @@ Voting
 -----------------------------------------
 
 Each voting member in good standing is entitled to one vote on each matter submitted to a
-vote of the members. Voting shall be by voice vote, unless the chairman of the meeting at which
+vote of the members. Voting shall be by voice vote, unless the Chair of the meeting at which
 such vote takes place directs such voting to be by ballot. No single vote shall be split into fractional
 votes.
 
@@ -446,10 +446,10 @@ dates as follows:
 Conduct of Meetings 
 -----------------------------------------
 
-Meetings of members shall be presided over by the President of the Corporation, or in his
-or her absence, by the Chairman of the Corporation, or in his or her absence, by a chairman chosen
+Meetings of members shall be presided over by the President of the Corporation, or in their 
+absence, by the Chair of the Corporation, or in their absence, by a Chair chosen
 by a majority of the members present. The Secretary of the Corporation shall act as the secretary of
-all meetings of members, provided that in his or her absence the presiding officer shall appoint
+all meetings of members, provided that in their absence the presiding officer shall appoint
 another member to act as Acting Secretary of the meeting.
 
 
@@ -527,7 +527,7 @@ Election and Term of Office of Directors
 2.      Directors shall be elected by the membership in accordance with the rules set forth on
         http://foundation.gnome.org/electionrules.html.
 
-3.      Each Director shall serve until his successor is duly elected and qualified or until his earlier
+3.      Each Director shall serve until their successor is duly elected and qualified or until their earlier
         death, resignation or removal. No reduction of the authorized number of Directors shall have
         the effect of removing any Director before that Director's term of office expires.
 
@@ -548,7 +548,7 @@ Vacancy
 
 
 2.      **Resignations**. Except as provided in this paragraph, any Director may resign, which
-        resignation shall be effective on giving written notice to the chairman of the Board, the
+        resignation shall be effective on giving written notice to the Chair of the Board, the
         president, the secretary or the Board of Directors, unless the notice specifies a later time for
         the resignation to become effective. If the resignation of a Director is effective at a future
         time, the Board of Directors may elect a successor to take office when the resignation
@@ -566,7 +566,7 @@ Vacancy
 
         #)      The Director being removed shall be given an opportunity to be heard, either orally or in
                 writing, at a hearing to be held no fewer than five (5) days before the removal. The hearing
-                shall be held by the Board. The notice to the Director of his or her proposed removal shall
+                shall be held by the Board. The notice to the Director of their proposed removal shall
                 state that such member is entitled, upon request, to such hearing, shall state that a date, time
                 and place of hearing will be established upon receipt of such a request, and shall state, that
                 in the absence of such request, the effective date of the proposed removal.
@@ -634,7 +634,7 @@ Special Meetings
 -----------------------------------------
 
 1.      **Authority to call**. Special meetings of the Board for any purpose may be called at any time
-        by the chairman of the Board or any two (2) Directors.
+        by the Chair of the Board or any two (2) Directors.
 
 2.      **Notice**.
 
@@ -785,7 +785,7 @@ Term of Office
 -----------------------------------------
 
 Each member of a committee shall continue as such until the next annual meeting of the
-Board of the Corporation and until his successor is appointed, unless the committee shall be sooner
+Board of the Corporation and until their successor is appointed, unless the committee shall be sooner
 terminated, or unless such member be removed from such committee, or unless such member shall
 cease to qualify as a member thereof.
 
@@ -854,12 +854,12 @@ Officers
 Officers 
 -----------------------------------------
 
-The officers of the Corporation shall be a Chairman of the Board (if appointed by the Board),
+The officers of the Corporation shall be a Chair of the Board (if appointed by the Board),
 a President, one or more Vice Presidents (the number thereof to be determined by the Board), a
 Secretary, a Treasurer and such other officers as may be elected in accordance with the provisions of
 this Article X. Except insofar as their duties may conflict, any two or more offices may be held by
 the same person, except that neither the Secretary nor the Treasurer may serve concurrently as the
-President or Chairman of the Board.
+President or Chair of the Board.
 
 
 
@@ -869,9 +869,9 @@ Election and Term of Office
 
 The officers of the Corporation, except such officers as may be appointed in accordance
 with the provisions of Section 10.3 or Section 10.5 of this Article X, shall be chosen
-annually by the Board, and each shall hold his or her office until he or she shall resign
+annually by the Board, and each shall hold their office until they shall resign
 or shall be removed or otherwise
-disqualified to serve, or his or her successor shall be elected and qualified, subject to the rights, if
+disqualified to serve, or their successor shall be elected and qualified, subject to the rights, if
 any, of an officer under any contract of employment. New offices may be created and filled at any
 meeting of the Board. Each officer shall hold office until that officer's successor shall have been
 duly elected and shall have qualified.
@@ -886,7 +886,7 @@ Subordinate Officers
  
 The Board may appoint such other officers, including one or more assistant secretaries and
 one or more assistant treasurers, as it shall deem desirable, each such officer to have the authority
-and perform the duties prescribed from time to time by the Board and to hold office until he or she
+and perform the duties prescribed from time to time by the Board and to hold office until they
 shall resign or shall be removed or otherwise disqualified to serve.
 
 
@@ -903,7 +903,7 @@ Removal and Resignation
                 
         #)      The officer being removed shall be given an opportunity to be heard, either orally or in
                 writing, at a hearing to be held no fewer than five (5) days before the removal. The hearing
-                shall be held by the Board. The notice to the Officer of his or her proposed removal shall
+                shall be held by the Board. The notice to the Officer of their proposed removal shall
                 state that such member is entitled, upon request, to such hearing, shall state that a date, time
                 and place of hearing will be established upon receipt of such a request, and shall state, that
                 in the absence of such request, the effective date of the proposed removal.
@@ -930,10 +930,10 @@ A vacancy in any office, because of death, resignation, removal, disqualificatio
 otherwise, may be filled by the Board for the unexpired portion of the term.
 
 
-Chairman of the Board 
+Chair of the Board 
 -----------------------------------------
 
-The Chairman of the Board, if there be such an officer, shall preside at all meetings of the
+The Chair of the Board, if there be such an officer, shall preside at all meetings of the
 Board of Directors and perform such other duties as the Directors may assign.
 
 
@@ -944,13 +944,13 @@ The President shall act as the chief executive officer of the Corporation
 if no chief executive officer or executive director has been appointed by
 the Board and shall in general supervise and control all of the business
 and affairs of the Corporation. The President shall also act as the
-Chairman if none has been appointed.
+Chair if none has been appointed.
 The President may sign,
 with the secretary or any other proper officer of the Corporation authorized by the Board, any deeds,
 mortgages, bonds, contracts or other instruments that the Board of Directors has authorized to be
 executed, except in cases where the signing and execution thereof shall be specially designated by
 the Board or by these bylaws or by statute to some other officer or agent of the Corporation; and in
-general he or she shall perform all duties incident to the office of president and such other duties as
+general they shall perform all duties incident to the office of president and such other duties as
 may be prescribed from time to time by the Board.
 
 
@@ -958,7 +958,7 @@ may be prescribed from time to time by the Board.
 Vice President 
 -----------------------------------------
 
-In the absence of the president, or in the event of his or her inability or refusal to act, the vice
+In the absence of the president, or in the event of their inability or refusal to act, the vice
 president (or, if there be more than one vice president, the first vice president) shall perform the
 duties of the president, and when so acting shall have all the powers and be subject to all the
 restrictions upon the president. The vice president shall have such other powers and perform such
@@ -976,7 +976,7 @@ any Director at all reasonable times.
 
 The Treasurer shall deposit, or cause to be deposited, all money and other valuables in the
 name and to the credit of the Corporation with such depositories as the Board may designate, shall
-disburse the Corporation's funds as the Board may order, shall render to the president, chairman of
+disburse the Corporation's funds as the Board may order, shall render to the president, Chair of
 the Board and the Board, when requested, an account of all transactions as Treasurer and of the
 financial condition of the Corporation and shall have such other powers and perform such other
 duties as the Board or these bylaws may prescribe.
@@ -984,7 +984,7 @@ duties as the Board or these bylaws may prescribe.
 If required by the Board, the Treasurer shall give the Corporation a bond, in the amount and
 with the surety or sureties specified by the Board, for faithful performance of the duties of the office
 and for restoration to the Corporation of all of its books, papers, vouchers, money and other property
-of every kind in the possession or under the control of the Treasurer on his or her death, resignation,
+of every kind in the possession or under the control of the Treasurer on their death, resignation,
 retirement or removal from office.
 
 
@@ -1038,7 +1038,7 @@ For the purpose of this Article XI:
 	civil, criminal, administrative or investigative; and
 
 3. 	"expenses" includes, without limitation, all attorneys' fees, costs and any other expenses
-	incurred in the defense of any claims or proceedings against an agent by reason of his or her
+	incurred in the defense of any claims or proceedings against an agent by reason of their
 	position or relationship as agent and all attorneys' fees, costs and other expenses incurred in
 	establishing a right to indemnification under this Article XI.
 
@@ -1052,7 +1052,7 @@ defense of any proceeding referred to in this Article XI,
 or in the defense of any claim, issue or
 matter therein, the agent shall be indemnified against expenses actually and reasonably incurred by
 the agent in connection with the claim. If an agent either settles any such claim or sustains a
-judgment rendered against him or her, then the provisions of Sections 3 through 5 below shall
+judgment rendered against them, then the provisions of Sections 3 through 5 below shall
 determine whether the agent is entitled to indemnification.
 
 
@@ -1107,15 +1107,15 @@ The indemnification granted to an agent in Sections 11.3 and 11.4 above is condi
 following:
 
 1.      **Required standard of conduct**. The agent seeking reimbursement must be found, in the
-        manner provided below, to have acted in good faith, in a manner he or she believed to be in
+        manner provided below, to have acted in good faith, in a manner they believed to be in
         the best interest of the Corporation, and with such care, including reasonable inquiry, as an
         ordinarily prudent person in a like position would use in similar circumstances. The
         termination of any proceeding by judgment, order, settlement, conviction, or on a plea of
         *nolo contendere* or its equivalent, shall not, in itself, create a presumption that the person did
-        not act in good faith or in a manner which he or she reasonably believed to be in the best
-        interest of the Corporation or that he or she had reasonable cause to believe that his or her
+        not act in good faith or in a manner which they reasonably believed to be in the best
+        interest of the Corporation or that they had reasonable cause to believe that their
         conduct was unlawful. In the case of a criminal proceeding, the person must have had no
-        reasonable cause to believe that his or her conduct was unlawful.
+        reasonable cause to believe that their conduct was unlawful.
 
 2.      **Manner of determination of good faith conduct**. The determination that the agent did act in
         a manner complying with paragraph a above shall be made by:
