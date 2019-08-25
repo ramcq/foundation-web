@@ -522,7 +522,24 @@ Number and Qualification of Directors
 Election and Term of Office of Directors 
 -----------------------------------------
 
-1.      Each of the directors shall hold office for one (1) year, or a period of up to two (2) years as determined by the Board and announced prior to an election being called.
+1.      For the purpose of staggering the Directors’ terms of office with one-half (1/2) of
+        the Board of Directors eligible for election or replacement every two (2) years,
+        the Board of Directors shall divide the Directors serving at the time of the
+        adoption of these bylaws, and any additional Directors appointed at such time,
+        into two (2) classes as nearly equal in number as possible, as follows:
+
+        a)     For the initial terms after the adoption of these Amended and Restated
+               Bylaws, each such class shall be appointed to a term of one (1) or two (2) years
+        #)     At the conclusion of such initial terms set forth in Section
+               8.3.1(a) of these bylaws, each Director’s subsequent term (and for each
+               subsequent term thereafter) shall be for a period of two (2) years and
+               until the election and qualification of a successor, or until such
+               Director’s death, resignation, or removal.
+        #)     In the event of an increase or decrease in the number of
+               Directors, additional Directors may be elected to terms of one (1) or
+               two (2) years as may be necessary to maintain equality in numbers among
+               classes of Directors.
+
 
 2.      Directors shall be elected by the membership in accordance with the rules set forth on
         http://foundation.gnome.org/electionrules.html.
@@ -578,6 +595,9 @@ Vacancy
 
 4.      **Filling vacancies**. Vacancies on the Board may be filled by a majority of the Directors then
         in office, whether or not less than a quorum, or by a sole remaining Director.
+        Each director so elected shall serve until end of the term of the class
+        of Directors to which the Director has been so elected and until such
+        Director’s successor is elected and qualified.
 
 5.      **No vacancy on reduction of number of Directors**. No reduction of the authorized number
         of Directors shall have the effect of removing any Director before that Director's term of
