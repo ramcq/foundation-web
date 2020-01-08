@@ -8,7 +8,7 @@ ENV SITE_ROOT=/opt/app-root/src \
 COPY app_data ${SITE_ROOT}
 RUN mkdir ${SITE_ROOT}/html ${SITE_ROOT}/src && \
     yum install git automake -y && \
-    yum install rh-php71-php rh-php71-php-cli rh-php71-php-common rh-php71-php-mysqlnd && \
+    yum install rh-php71-php rh-php71-php-cli rh-php71-php-common rh-php71-php-mysqlnd -y && \
     git clone ${REPO} ${SITE_ROOT}/src && \
     cd ${SITE_ROOT}/src && \
     ./autogen.sh --prefix=${SITE_ROOT}/html && make && make install && \
