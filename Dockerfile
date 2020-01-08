@@ -8,7 +8,7 @@ ENV SITE_ROOT=/opt/app-root/src \
 COPY app_data ${SITE_ROOT}
 RUN mkdir ${SITE_ROOT}/html ${SITE_ROOT}/src && \
     yum install git automake -y && \
-    yum install php55 php55-php-cli php55-php-common php55-php-mysqlnd -y && \ 
+    yum install php55 php55-php php55-php-cli php55-php-common php55-php-mysqlnd -y && \ 
     git clone ${REPO} ${SITE_ROOT}/src && \
     cd ${SITE_ROOT}/src && \
     ./autogen.sh --prefix=${SITE_ROOT}/html && make && make install && \
