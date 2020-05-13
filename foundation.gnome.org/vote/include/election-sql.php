@@ -1,5 +1,7 @@
 <?php
 
+include_once('mysql_compat.inc.php');
+
 $has_config = FALSE;
 
 $mysql_host = "";
