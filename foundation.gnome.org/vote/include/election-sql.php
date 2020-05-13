@@ -1,6 +1,6 @@
 <?php
 
-include_once('mysql_compat.inc.php');
+include_once('include/mysql_compat.inc.php');
 
 $has_config = FALSE;
 
