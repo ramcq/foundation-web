@@ -30,10 +30,10 @@
     <h2>2020 Elections Materials:</h2>
     <ul>
         <li>
-            <a href="../../results.php?election_id=27">Detailed election results</a>
+            <a href="../../results.php?election_id=28">Detailed election results</a>
         </li>
         <li>
-            <a href="../../votes.php?election_id=27">List of all votes</a>
+            <a href="../../votes.php?election_id=28">List of all votes</a>
         </li>
         <li>
             <a href="../../vote.php?election_id=28">Interface to vote</a>
