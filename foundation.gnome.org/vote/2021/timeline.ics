@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:20210511T091219Z - 93501@async
+DTSTART;VALUE=DATE:20210517
+DTEND;VALUE=DATE:20210518
+DESCRIPTION:If you are a member of the GNOME Foundation and are interested 
+ in running for election\, you may nominate yourself by sending an e-mail t
+ o foundation-announce@gnome.org with your name\, e-mail address\, corporat
+ e affiliation (if any)\, and a description of why you'd like to serve\, be
+ fore 2021-05-31 (23:59 UTC).\n     If you are not yet a GNOME Foundation m
+ ember and would like to stand for election\, you must first apply for memb
+ ership and be accepted to be eligible to run. (You may\, however\, announc
+ e your candidacy prior to formal acceptance of your application\; should y
+ our application not be accepted\, you will not be included in the list of 
+ candidates.)\n    
+DTSTAMP:20210511T091219Z
+SUMMARY:Announcements and list of candidates opens
+END:VEVENT
+BEGIN:VEVENT
+UID:20210511T091219Z - 50847@async
+DTSTART;VALUE=DATE:20210531
+DTEND;VALUE=DATE:20210601
+DESCRIPTION:If you are a member of the GNOME Foundation and are interested 
+ in running for election\, you may nominate yourself by sending an e-mail t
+ o foundation-announce@gnome.org with your name\, e-mail address\, corporat
+ e affiliation (if any)\, and a description of why you'd like to serve\, be
+ fore 2021-05-31 (23:59 UTC).\n     If you are not yet a GNOME Foundation m
+ ember and would like to stand for election\, you must first apply for memb
+ ership and be accepted to be eligible to run. (You may\, however\, announc
+ e your candidacy prior to formal acceptance of your application\; should y
+ our application not be accepted\, you will not be included in the list of 
+ candidates.)\n    
+DTSTAMP:20210511T091219Z
+SUMMARY:List of candidates closed
+END:VEVENT
+BEGIN:VEVENT
+UID:20210511T091219Z - 83040@async
+DTSTART;VALUE=DATE:20210601
+DTEND;VALUE=DATE:20210602
+DESCRIPTION:You may now start to send your questions to the candidates
+DTSTAMP:20210511T091219Z
+SUMMARY:List of candidates announced
+END:VEVENT
+BEGIN:VEVENT
+UID:20210511T091219Z - 1043@async
+DTSTART;VALUE=DATE:20210602
+DTEND;VALUE=DATE:20210603
+DESCRIPTION:Please read your email and follow these instructions and submit
+  your vote by 2021-06-16
+DTSTAMP:20210511T091219Z
+SUMMARY:Instructions to vote are sent
+END:VEVENT
+BEGIN:VEVENT
+UID:20210511T091219Z - 52275@async
+DTSTART;VALUE=DATE:20210616
+DTEND;VALUE=DATE:20210617
+DESCRIPTION:Preliminary results are announced on 2021-06-17
+DTSTAMP:20210511T091219Z
+SUMMARY:Votes must be returned
+END:VEVENT
+BEGIN:VEVENT
+UID:20210511T091219Z - 44260@async
+DTSTART;VALUE=DATE:20210617
+DTEND;VALUE=DATE:20210618
+DESCRIPTION:The preliminary results can be challenged until 2021-06-24
+DTSTAMP:20210511T091219Z
+SUMMARY:Preliminary results are announced
+END:VEVENT
+BEGIN:VEVENT
+UID:20210511T091219Z - 45243@async
+DTSTART;VALUE=DATE:20210624
+DTEND;VALUE=DATE:20210625
+DESCRIPTION:If there weren't any challenges\, preliminary results are valid
+DTSTAMP:20210511T091219Z
+SUMMARY:Challenges to the results closed
+END:VEVENT
+END:VCALENDAR
+
