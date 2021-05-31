@@ -4,9 +4,11 @@ urlpath = /vote/2021
  
 page_SCRIPTS = \
 	index.html \
-	rules.html
+	rules.html \
+    candidates.html
 
 page_DATA = \
-	timeline.ics 
+	timeline.ics \
+    electorate.txt
 
 include $(top_srcdir)/rules.common

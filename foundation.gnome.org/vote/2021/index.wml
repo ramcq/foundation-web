@@ -36,6 +36,15 @@
         <li>
             <a href="../overview.html">Overview of the Board of Directors role</a>
         </li>
+        <li>
+            <a href="../../vote.php?election_id=32">Interface to vote</a>
+        </li>
+        <li>
+            <a href="electorate.txt">List of registered voters</a>
+        </li> 
+        <li>
+            <a href="candidates.html">List of candidates for Board of Directors</a>
+        </li>
     </ul>
   </body>
 </html>

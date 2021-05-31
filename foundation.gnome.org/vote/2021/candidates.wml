@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+  <head>
+    <title>GNOME Foundation 2021 Elections Candidates</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  </head>
+
+  <body>
+    <div id="content">
+    <h1>Candidates for the GNOME Foundation 2021 Elections</h1>
+
+    <p>
+      Below you find the list of candidates running for the
+      GNOME Foundation Board of Directors in 2021. We encourage everyone
+      to check the candidates' full candidacy statements, and follow related 
+      discussions on <a href="https://discourse.gnome.org/c/community/elections-and-referendums/336">Discourse</a>.
+    </p>
+
+    <p>
+      When deciding who to vote for, please consider
+      the various tasks under the responsibility of the Board of Directors. This
+      <a href="../overview.html">overview</a> might be helpful. The board makes 
+      a number of important decisions and performs many tasks which require time,
+      effort and the ability to work and communicate with others. The Board of 
+      Directors will represent GNOME to companies and the world. It is a good idea
+      to strive for a well-balanced Board consisting of people with various backgrounds,
+      skills, and perspectives.
+    </p>
+
+    <p>
+      Additional elections details can be found on the
+      <a href="https://foundation.gnome.org">GNOME Foundation Web Site</a>.
+    </p>
+
+    <h2>Candidates for the GNOME Foundation Board of Directors</h2>
+
+    <ol>
+        <p>
+            <li><strong>Thibault Martin</strong><br />
+                Affiliation: <em>Doctolib</em><br />
+                <blockquote>
+I am announcing my candidacy for the GNOME Foundation Board of Directors. You will find below the key points of who am I in the GNOME Community and what I would like to help with. For the full length wall of text, please have a look at the blog post announcing my candidacy.
+
+Like many, I started my involvement in the GNOME community as an end-user. I eventually started helping with translations. For this activity I have regularily been chasing maintainers for string freezes, or to ask for explanations when strings didn’t make sense for me.
+This helped me to blend in, meet the more general community, and finally take interest in higher level issues such as our infamous chat platforms split, or co-organising the GSoC 2021. I have a very strong interest in people, groups of them, ethics, how software impacts them all and how proper governance can help to achieve goals.
+
+As a member of the board, I would focus on our internal and external communication, where we have a lot of room for improvement. Attracting new contributors is essential: our public face and the messages we send must resonate with their values. Once they are here, the bottleneck for their contributions must be removed: what they can do and where to do it must be clear, how to do it as well. While getting new recruits is extremely important for a project to stay in good shape, sustainability cannot be achieved without taking care of long time contributors.
+
+I am strongly biased towards think for a bit but start doing quickly, ask around how it impacted others, and adapt rather than overthinking. I believe KPIs are necessarily biased and get circumvented all the time. Human interactions is how you measure success.
+
+As the head of digital identity of a large organisation, I am experienced in projects aiming to lower the friction for customer onboarding. Quite counter-intuitively, many parallels can be drawn between corporate customers and non-profit contributors.
+
+Open-source software communities used to despise designers and thought they knew better. Now we welcome them and see the positive impact they have. A second mentality change needs happen: we must allow the persons who are good at hyping others to help.
+                </blockquote>
+            </li>
+        </p>
+
+        <p>
+            <li><strong>Sammy Fung</strong><br />
+            Affiliation: <em>None</em><br />
+                <blockquote>
+I'm announcing my candidacy for the GNOME Foundation board of directors election.
+
+Currently, I am the lead of the GNOME Asia committee [1]. If I am elected to be a board member, it enables me to share my opinions and experiences in & from the Asia community with the board directly.
+
+I am a Hongkonger who contributes to the open source and GNOME community for 20+ and 10 years. I grew up between the western and eastern cultures in the British colony. I embrace democracy and freedom which are the important values in the western. It is thankful that the open source community provides many different software tools, and I am always happy to contribute back to the community and the society with my experience, mindset, and knowledge in technology.
+
+For the GNOME community, I organised the GNOME Asia Summit 2012 in Hong Kong with our local team. After the summit, I join the GNOME Asia committee in 2012 to help the committee to call for hosts every year, and gives advice and supports to the local teams.
+
+For the open source community, I established Hong Kong Linux User Group (HKLUG) and Open Source Hong Kong (OSHK) in 1997 and 2006. Thanks to the success of the GNOME Asia Summit in Hong Kong, I established the Hong Kong Open Source Conference and PyCon Hong Kong in 2013 and 2015. Since 2011, I also travel to overseas open source conferences every year and meet with open source communities in the various cities in Asia, and travel to Bay Area, I built some connections with some Asia communities and global open source project communities.
+
+Currently, I am the President of OSHK and the conference chair of PyCon HK. I am also a Mozilla Rep and a contributing member of the Python Software Foundation. I was a founder and director of HK Creative Open Technology Association which provides organisational support to our open source community works locally.
+
+In my career, I own my IT service company in the 00s for 6 years and then become a freelancer for 10+ years. I learned and gained business operation experience.
+
+I think communication is important to the GNOME community, and I hope my business operation experience and almost 20 conference organising experiences can help GNOME,  a new role can enable me to help. You may also read my interview on the GNOME blog to know more about me and my thoughts on GNOME.
+                </blockquote>
+            </li>
+        </p>
+
+        <p>
+            <li><strong>Jeff Fortin Tam</strong><br />
+            Affiliation: <em>None</em><br />
+                <blockquote>
+I am offering my candidacy to serve on the Foundation Board again.
+
+I was a director/president for some years before, while we had no ED, and what I bring to the table today is my marketing, strategy & finance perspective. I am excited about the direction the GNOME Foundation is taking and would be happy to participate in its governance. I understand this is a new context compared to previous year and this comes with its own set of challenges.
+
+I'm keeping this pitch short & simple, if you would like to learn more about me, please have a look at the <a href="https://wiki.gnome.org/JeffFortin">following link</a>.
+                </blockquote>
+            </li>
+        </p>
+    </ol>
+
+    <h2>Additional Elections-related Information</h2>
+
+    <p>
+      Note, that according to the
+      <a href="https://www.gnome.org/wp-content/uploads/2011/11/bylaws.pdf">Bylaws</a> Article VIII Section 2d
+      the Board cannot have more than two members affiliated with one same company. If more than 2 people from one
+      company are elected, only the top 2 candidates will join the Board.
+      You will be able to vote for up to 4 candidates of your choice, with no
+      restrictions in terms of affiliation. You cannot vote more than once for the same candidate.
+    </p>
+
+    <p>
+      If you have any futher question, please consult the
+      <a href="rules.html">Rules for this election</a> or write to
+      <a href="mailto:membership-committee@gnome.org">membership-committee@gnome.org</a>.
+    </p>
+
+  </body>
+</html>
