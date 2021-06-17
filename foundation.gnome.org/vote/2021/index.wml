@@ -37,6 +37,9 @@
             <a href="../overview.html">Overview of the Board of Directors role</a>
         </li>
         <li>
+            <a href="../../results.php?election_id=32">Detailed election results</a>
+        </li>
+        <li>
             <a href="../../votes.php?election_id=32">List of all votes</a>
         </li>
         <li>
