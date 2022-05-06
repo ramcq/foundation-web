@@ -516,6 +516,11 @@ Number and Qualification of Directors
         relationship with an entity; or who own at least 1\% of the equity or debt, or derivatives
         thereof, of an entity.
 
+4.      Directors who are not Members at the time of their election or appointment may not hold more
+        than 30\% of the Board seats, regardless of election results. In the event that any election
+        of directors results in greater than 30\% of the Board being such non-Member directors, the
+        non-Member director receiving the least number of votes shall be replaced by the Member
+        nominee receiving the greatest number of votes who was not elected to the Board.
 
 
 Nomination, Election and Term of Office of Directors
