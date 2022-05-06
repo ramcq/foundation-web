@@ -546,8 +546,10 @@ Nomination, Election and Term of Office of Directors
 
 2.      A person intending to stand for election as a Director must nominate themselves in writing,
         and their nomination must be seconded in writing by at least one voting Member in good
-        standing in order for their candidacy to be valid. Candidates for election may not second
-        anyone else's nomination to stand in the same election.
+        standing in order for their candidacy to be valid. Candidates who are not Members at the
+        time of nomination must be seconded by 5\% of, up to a maximum of five (5), voting Members
+        in good standing. Candidates for election may not second anyone else's nomination to
+        stand in the same election.
 
 3.      Directors shall be elected by the membership in accordance with the rules set forth by the
         Membership and Elections Committee.
