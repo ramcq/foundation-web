@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+  <head>
+    <title>GNOME Foundation to allow non Foundation members Board election candidacies</title>
+    <meta name="cvsdate" content="$Date$" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  </head>
+
+  <body>
+    <div id="content">
+
+    <h1>GNOME Foundation to allow non Foundation members Board election candidacies</h1>
+
+    <h2>Rules</h2>
+
+    <ol>
+      <li>
+        See the <a href="https://wiki.gnome.org/Foundation/Charter">GNOME Foundation charter</a> for
+        general rules.
+      </li>
+      <li>
+        Members of the GNOME Foundation as of May 10, 2022 are eligible to
+        vote. Anyone who has made a contribution to GNOME can
+        apply for membership by completing the <a
+        href="https://www.gnome.org/foundation/membership/apply">application</a>.
+      </li>
+      <li>
+        All discussion related to the Section 7.8 vote should be held on
+        <a href="https://discourse.gnome.org/c/community/elections-and-referendums/336">Discourse</a>.
+      </li>
+      <li>
+	Instructions explaining how to vote will be sent via e-mail to all
+	eligible voters on May 10, 2022, and votes must be returned by
+	May 24, 2022, 23:59 UTC.
+      </li>
+      <li>
+	Votes will be held confidential during the voting period, but an
+	anonymized archive of all submitted votes will be made publicly
+	accessible at its conclusion.
+      </li>
+      <li>
+        The Elections Committee is responsible for counting the votes.
+      </li>
+      <li>
+        The Elections Committee will announce preliminary results as soon as
+        possible after the voting session closes, along with instructions on how to
+        access the votes archive and how to independently verify the vote
+        count.
+      </li>
+      <li>
+        Any eligible voter may challenge the preliminary results by opening an issue at
+        <a
+        href="https://gitlab.gnome.org/Teams/MembershipCommittee/-/issues">GitLab</a>
+        prior to May 31, 2022. The decision of the Elections Committee as
+        to any challenge shall be final. Once any challenges have been
+        resolved, the Elections Committee shall announce the final results.
+      </li>
+      <li>
+        Any questions regarding these procedures should be directed to the
+        Elections Committee by opening an issue on GitLab at <a
+        href="https://gitlab.gnome.org/Teams/MembershipCommittee/-/issues">GitLab</a>
+        The committee shall have the power to make any necessary changes or
+        clarifications to these rules at any point during the voting session.
+      </li>
+    </ol>
+
+    <h2>Timeline</h2>
+    <p><small>(all deadlines are 23:59 UTC)</small></p>
+    <ul>
+      <li>
+        May 10: Last day to apply for membership (to be eligible
+        for this Section 7.8 voting session).
+      </li>
+      <li>
+        May 10: Instructions mailed to eligible voters, voting begins.
+      </li>
+      <li>
+        May 24: Voting closes.
+      </li>
+      <li>
+        May 24: Preliminary results are announced.
+      </li>
+      <li>
+        May 31: Last day to challenge preliminary results.
+      </li>
+    </ul>
+
+  </body>
+</html>
