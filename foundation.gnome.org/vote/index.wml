@@ -30,8 +30,8 @@
       The GNOME Foundation Membership elects the Board of Directors each
       June before GUADEC. Any member can nominate themself to run in the election.
       The overall election process is overseen by the Membership and Elections
-      Committee, which can be reached at <a
-      href="mailto:membership-committee&#64;gnome&#46;org">membership-committee&#64;gnome&#46;org</a>.
+      Committee, which can be reached at via <a
+      href="https://gitlab.gnome.org/Teams/MembershipCommittee/-/issues">GitLab</a>.
     </p>
 
     <ul>
@@ -66,8 +66,8 @@
       Any member of the GNOME Foundation can suggest a referendum. To be
       accepted, a request for a referendum must be endorsed by 10% of the
       Membership. The overall referendum process is overseen by the
-      Membership and Elections Committee, which can be reached at <a
-      href="mailto:membership-committee&#64;gnome&#46;org">membership-committee&#64;gnome&#46;org</a>.
+      Membership and Elections Committee, which can be reached via <a
+      href="https://gitlab.gnome.org/Teams/MembershipCommittee/-/issues">GitLab</a>.
     </p>
 
     <ul>
@@ -95,7 +95,7 @@
 
 <?php
 
-/* ATTENTION: All the code is eleminated. The reason for it being here is that 
+/* ATTENTION: All the code is eleminated. The reason for it being here is that
               it might become useful again.
 */
 
