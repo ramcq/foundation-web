@@ -3,14 +3,14 @@
 <html>
 
   <head>
-    <title>GNOME Foundation to allow non Foundation members Board election candidacies</title>
+    <title>Proposed amendment to bylaws to allow non-member directors</title>
     <meta name="cvsdate" content="$Date$" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   </head>
 
   <body>
     <div id="content">
-    <title>GNOME Foundation to allow non Foundation members Board election candidacies</title>
+    <h1>Proposed amendment to bylaws to allow non-member directors</h1>
 
     <p>
       This particular vote is regulated by Section 7.8 of the GNOME Foundation bylaws.
@@ -18,27 +18,34 @@
 
     <p>
     The Board has proposed the following change to the GNOME Foundation bylaws:
-        https://gitlab.gnome.org/Infrastructure/foundation-web/-/merge_requests/3/diffs
 
-    The proposal is to widen the pool from which the Foundation can attract candidates to stand for election as directors, by allowing individuals who are not currently Foundation members to submit their candidacy for election.
-
-    This change is intended to bring new skills and experience into the governance of the Foundation. At present, Foundation membership is granted principally based on contributions to the GNOME project which means the process selects for skills already present in our community, such as software development, design, translation, documentation or engagement. Whilst we do have some members who also bring experience at fundraising, nonprofit governance and establishing partnerships with external organizations, they are in the minority. The Board would like to establish additional pathways to try and attract individuals with these skills into the Foundation.
-
-    The board has published some notes about the planned strategy for the upcoming year:
-      https://discourse.gnome.org/t/evolving-a-strategy-for-2022-and-beyond/9759
-    And more details about the changes and how they support the strategy here:
-      https://discourse.gnome.org/t/updated-bylaw-amendment-allow-non-members-to-stand-for-election/9761
-
-    Specifically:
-        * The requirement that directors are Foundation members is removed.
-        * The election process is changed such that no more than 30% of the board roles can be filled by directors who are not members at the time of the election. Should this happen the runner-up member candidate will be considered instead, similar to the existing affiliation limit. At present with a board of 7, this is a maximum of two seats.
-        * Nominations are changed such that member nominees must be seconded by one existing member, and non-member nominees must be seconded by 5% of members, up to a maximum of 5.
-        * Members who are standing for election cannot second other nominations.
-
-    In lieu of a Special General Meeting, this proposal has been put to a Written Ballot of the members.
+        <a href="https://gitlab.gnome.org/Infrastructure/foundation-web/-/merge_requests/3/diffs">https://gitlab.gnome.org/Infrastructure/foundation-web/-/merge_requests/3/diffs</a>
     </p>
 
-    <h2>GNOME Foundation to allow non Foundation members Board election candidacies material:</h2>
+    <p>
+    The proposal is to widen the pool from which the Foundation can attract candidates to stand for election as directors, by allowing individuals who are not currently Foundation members to submit their candidacy for election. This change is intended to bring new skills and experience into the governance of the Foundation. At present, Foundation membership is granted principally based on contributions to the GNOME project which means the process selects for skills already present in our community, such as software development, design, translation, documentation or engagement. Whilst we do have some members who also bring experience at fundraising, nonprofit governance and establishing partnerships with external organizations, they are in the minority. The Board would like to establish additional pathways to try and attract individuals with these skills into the Foundation.
+    </p>
+
+    <p>
+    The board has published some notes about the planned strategy for the upcoming year:
+
+        <a href="https://discourse.gnome.org/t/evolving-a-strategy-for-2022-and-beyond/9759">https://discourse.gnome.org/t/evolving-a-strategy-for-2022-and-beyond/9759</a>
+ 
+    And more details about the changes and how they support the strategy here:
+
+        <a href="https://discourse.gnome.org/t/updated-bylaw-amendment-allow-non-members-to-stand-for-election/9761">https://discourse.gnome.org/t/updated-bylaw-amendment-allow-non-members-to-stand-for-election/9761</a>
+    </p>
+
+    <p>
+    Specifically:
+      <ul>
+        <li>The requirement that directors are Foundation members is removed</li>
+        <li>The election process is changed such that no more than 30% of the board roles can be filled by directors who are not members at the time of the election. Should this happen the runner-up member candidate will be considered instead, similar to the existing affiliation limit. At present with a board of 7, this is a maximum of two seats<li>
+        <li>Nominations are changed such that member nominees must be seconded by one existing member, and non-member nominees must be seconded by 5% of members, up to a maximum of 5</li>
+        <li>Members who are standing for election cannot second other nominations</li>
+    </p>
+
+    <h2>Proposed amendment to bylaws to allow non-member directors material:</h2>
     <ul>
       <li>
         <a href="voters.html">List of registered voters</a>
