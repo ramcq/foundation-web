@@ -61,6 +61,12 @@
       <li>
         <a href="../../vote.php?election_id=33">Interface to vote</a>
       </li>
+      <li>
+        <a href="../../votes.php?election_id=33">Archive of all votes</a>
+      </li>
+      <li>
+        <a href="../../results.php?election_id=33">Preliminary results</a>
+      </li>
     </ul>
 
   </body>
