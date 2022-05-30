@@ -33,14 +33,20 @@
         <a href="https://foundation.gnome.org/membership/apply/">application</a>.
       </li>
       <li>
-        Any eligible voter is eligible to be elected to the Board of Directors.
+        Any person is eligible to be elected to the Board of Directors if they
+        have the support of the required number of voting Members. Members
+        nominations must be seconded by one (1) other member, and non-Members
+        must be seconded by 5% (up to a maximum of 5) members.
         To announce your candidacy, send a message to
         <a href="https://mail.gnome.org/archives/foundation-announce/">foundation-announce&#64;gnome&#46;org</a>
         with your full name, e-mail, corporate affiliation (if any), and a
         description of your reasons for wanting to serve as a director.
-        Candidacies must be announced prior to
+        To second a nomination, send a reply to the above candidacy message to
+        <a href="https://mail.gnome.org/archives/foundation-list/">foundation-list&#64;gnome&#46;org</a>
+        with your full name and e-mail used for your Foundation membership. Members
+        standing in an election are not eligible to second other candidates.
+        Candidacies must be announced with the requisite seconds received prior to
         <!-- CANDIDATES_CLOSED_DATE -->2022-06-06, 23:59 UTC.
-        
       </li>
       <li>
         All discussion related to the elections should be held on
@@ -74,12 +80,21 @@
         holds true even in the case a subset of seats is up for renewal: as an example if X is
         affiliated with the Example Inc. and his/her seat is not up for renewal, the amount
         of possible candidates affiliated with Example Inc. that may be elected would be 1 (one). On 
-        top of that and as taken from the Foundation's Bylaws: "8.2.4: In the event that any election
+        top of that and as taken from the Foundation's Bylaws: "8.2.3: In the event that any election
         of directors results in a single entity representing greater than 40% of the Board, than the nominee
         representing that entity receiving the least number of votes, shall be replaced by the nominee receiving
         the greatest number of votes who was not elected to the Board." 
 
-        For a full definition of corporate affiliation, see the <a href="https://wiki.gnome.org/Foundation/Charter">GNOME Foundation charter</a>.
+        For a full definition of corporate affiliation, see the <a href="https://wiki.gnome.org/Foundation/Bylaws">GNOME Foundation Bylaws</a>.
+      </li>
+      <li>
+        Similarly, no more than two individuals may sit on the Board of Directors who were
+        not Members at the time of their election or appointment. Should this occur in the
+        election results, the next candidate will be appointed instead, as stated in the
+        Foundation's Bylaws: "8.2.4: In the event that any election
+        of directors results in greater than 30% of the Board being such non-Member directors, the
+        non-Member director receiving the least number of votes shall be replaced by the Member
+        nominee receiving the greatest number of votes who was not elected to the Board."
       </li>
       <li>
         In the event of a tie for the final slot on the board, the Elections
