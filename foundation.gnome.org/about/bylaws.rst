@@ -54,7 +54,7 @@
         As Amended on October 22, 2007.
         As Amended on October 31, 2012.
         As Amended on August 24, 2019.
-        As Amended on May XX, 2022.
+        As Amended on May 31, 2022.
 
 
 
