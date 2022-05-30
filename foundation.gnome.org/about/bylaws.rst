@@ -2,19 +2,20 @@
 
         You can compile this document using Python's docutils like this:
         
-                rst2latex --documentclass=scrartcl --documentoptions=a4paper,10pt,bigheading   --no-section-numbering bylaws-simple.rst > bylaws.tex
+                rst2latex --documentclass=scrartcl --documentoptions=a4paper,10pt,bigheading --no-section-numbering bylaws.rst > bylaws.tex
           
-        Then you'll get a .tex file which you can compile using pdflatex. You probably need to have a couple of packages installed.
-        If it complains about a missing .sty file, you can install it using yum:
-        
-                yum install -y 'tex(pdfcomment.sty)'
+        Then you'll get a .tex file which you can compile using pdflatex. You need to have a bunch of packages installed.
 
+        On Fedora 36, these packages were necessary:
+                python3-docutils texlive-latex texlive-metafont texlive-ec texlive-datetime2 texlive-lastpage texlive-soulutf8
 
+        If it complains about a missing .sty file, you can install it using dnf:
+
+                dnf install -y 'tex(pdfcomment.sty)'
 
         The HTML version compiles similarly:
-        
-                rst2html --no-section-numbering --stylesheet=bylaws.css bylaws-simple.rst > bylaws.html
 
+                rst2html --no-section-numbering --stylesheet=bylaws.css bylaws.rst > bylaws.html
 
 .. role:: raw-html(raw)
         :format: html
@@ -38,9 +39,6 @@
         Bylaws of GNOME Foundation
         =============================
 
-.. contents::
-
-        
 -----------------------
 
 .. for some weird reason, the order of the classes is important. Maybe fix it anyway, by patching \maketitle
