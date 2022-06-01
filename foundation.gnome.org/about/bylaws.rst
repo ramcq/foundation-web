@@ -2,19 +2,20 @@
 
         You can compile this document using Python's docutils like this:
         
-                rst2latex --documentclass=scrartcl --documentoptions=a4paper,10pt,bigheading   --no-section-numbering bylaws-simple.rst > bylaws.tex
+                rst2latex --documentclass=scrartcl --documentoptions=a4paper,10pt,bigheading --no-section-numbering bylaws.rst > bylaws.tex
           
-        Then you'll get a .tex file which you can compile using pdflatex. You probably need to have a couple of packages installed.
-        If it complains about a missing .sty file, you can install it using yum:
-        
-                yum install -y 'tex(pdfcomment.sty)'
+        Then you'll get a .tex file which you can compile using pdflatex. You need to have a bunch of packages installed.
 
+        On Fedora 36, these packages were necessary:
+                python3-docutils texlive-latex texlive-metafont texlive-ec texlive-datetime2 texlive-lastpage texlive-soulutf8
 
+        If it complains about a missing .sty file, you can install it using dnf:
+
+                dnf install -y 'tex(pdfcomment.sty)'
 
         The HTML version compiles similarly:
-        
-                rst2html --no-section-numbering --stylesheet=bylaws.css bylaws-simple.rst > bylaws.html
 
+                rst2html --no-section-numbering --stylesheet=bylaws.css bylaws.rst > bylaws.html
 
 .. role:: raw-html(raw)
         :format: html
@@ -38,9 +39,6 @@
         Bylaws of GNOME Foundation
         =============================
 
-.. contents::
-
-        
 -----------------------
 
 .. for some weird reason, the order of the classes is important. Maybe fix it anyway, by patching \maketitle
@@ -54,7 +52,7 @@
         As Amended on October 22, 2007.
         As Amended on October 31, 2012.
         As Amended on August 24, 2019.
-        
+        As Amended on May 31, 2022.
 
 
 
@@ -501,11 +499,9 @@ Number and Qualification of Directors
         only to eliminate vacancies existing by reason of the death, resignation, removal or
         disqualification of one or more Directors.
 
-2.      A Director shall be a Member.
+2.      The number of Directors on October 31, 2012 is seven (7).
 
-3.      The number of Directors on October 31, 2012 is seven (7).
-
-4.      No organization, corporation or similar entity, or any affiliate thereof, shall hold, directly or
+3.      No organization, corporation or similar entity, or any affiliate thereof, shall hold, directly or
         indirectly, more than 40\% of the Board seats, regardless of election results. In the event that
         any election of directors results in a single entity representing greater than 40\% of the Board,
         than the nominee representing that entity receiving the least number of votes, shall be
@@ -518,10 +514,15 @@ Number and Qualification of Directors
         relationship with an entity; or who own at least 1\% of the equity or debt, or derivatives
         thereof, of an entity.
 
+4.      Directors who are not Members at the time of their election or appointment may not hold more
+        than 30\% of the Board seats, regardless of election results. In the event that any election
+        of directors results in greater than 30\% of the Board being such non-Member directors, the
+        non-Member director receiving the least number of votes shall be replaced by the Member
+        nominee receiving the greatest number of votes who was not elected to the Board.
 
 
-Election and Term of Office of Directors 
------------------------------------------
+Nomination, Election and Term of Office of Directors
+----------------------------------------------------
 
 1.      For the purpose of staggering the Directors’ terms of office with one-half (1/2) of
         the Board of Directors eligible for election or replacement every two (2) years,
@@ -541,11 +542,17 @@ Election and Term of Office of Directors
                two (2) years as may be necessary to maintain equality in numbers among
                classes of Directors.
 
+2.      A person intending to stand for election as a Director must nominate themselves in writing,
+        and their nomination must be seconded in writing by at least one voting Member in good
+        standing in order for their candidacy to be valid. Candidates who are not Members at the
+        time of nomination must be seconded by 5\% of, up to a maximum of five (5), voting Members
+        in good standing. Candidates for election may not second anyone else's nomination to
+        stand in the same election.
 
-2.      Directors shall be elected by the membership in accordance with the rules set forth on
-        http://foundation.gnome.org/electionrules.html.
+3.      Directors shall be elected by the membership in accordance with the rules set forth by the
+        Membership and Elections Committee.
 
-3.      Each Director shall serve until their successor is duly elected and qualified or until their earlier
+4.      Each Director shall serve until their successor is duly elected and qualified or until their earlier
         death, resignation or removal. No reduction of the authorized number of Directors shall have
         the effect of removing any Director before that Director's term of office expires.
 
