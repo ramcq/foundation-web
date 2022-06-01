@@ -5,6 +5,7 @@
                 rst2latex --documentclass=scrartcl --documentoptions=a4paper,10pt,bigheading --no-section-numbering bylaws.rst > bylaws.tex
           
         Then you'll get a .tex file which you can compile using pdflatex. You need to have a bunch of packages installed.
+        Remember that you have to run it twice in order to get a non-empty Contents section.
 
         On Fedora 36, these packages were necessary:
                 python3-docutils texlive-latex texlive-metafont texlive-ec texlive-datetime2 texlive-lastpage texlive-soulutf8
@@ -38,6 +39,9 @@
         =============================
         Bylaws of GNOME Foundation
         =============================
+
+.. contents::
+
 
 -----------------------
 
