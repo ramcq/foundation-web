@@ -40,6 +40,9 @@
             <a href="../../results.php?election_id=34">Detailed election results</a>
         </li>
         <li>
+            <a href="../../votes.php?election_id=34">List of all votes</a>
+        </li>
+        <li>
             <a href="electorate.txt">List of registered voters</a>
         </li>
         <li>
